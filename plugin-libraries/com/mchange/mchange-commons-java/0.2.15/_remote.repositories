@@ -1,0 +1,4 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Sun Jul 24 18:42:17 CST 2022
+mchange-commons-java-0.2.15.jar>=
+mchange-commons-java-0.2.15.pom>=

@@ -1,0 +1,2099 @@
+[0m2022-07-25 10:49:05 V/Net 2785766889: Loading server list from cache.[0m
+[92m2022-07-25 10:49:05 I/Net 2785766889: Server list: 111.31.205.243:14000, 111.30.182.254:80, 120.232.196.151:443, 111.31.200.210:80, 120.232.69.203:8080, 36.155.213.231:14000, 36.155.213.212:80, 111.30.187.200:80, 36.155.201.96:8080, msfwifi.3g.qq.com:8080.[0m
+[92m2022-07-25 10:49:06 I/Net 2785766889: ECDH key is valid.[0m
+[0m2022-07-25 10:49:06 V/Net 2785766889: Send: wtlogin.exchange_emp[0m
+[0m2022-07-25 10:49:06 V/Net 2785766889: Recv: wtlogin.exchange_emp[0m
+[0m2022-07-25 10:49:06 V/Net 2785766889: Send: StatSvc.register(online)[0m
+[92m2022-07-25 10:49:08 I/Net 2785766889: Server time updated, serverTime: 1658717354, diff: 6ms=0.006s[0m
+[0m2022-07-25 10:49:08 V/Net 2785766889: Recv: StatSvc.register[0m
+[92m2022-07-25 10:49:08 I/Net 2785766889: Syncing friend message history...[0m
+[0m2022-07-25 10:49:08 V/Net 2785766889: Loading BdhSession from cache file[0m
+[92m2022-07-25 10:49:08 I/Net 2785766889: Start loading stranger list...[0m
+[0m2022-07-25 10:49:08 V/Net 2785766889: Send: StatSvc.GetDevLoginInfo(StatSvc.GetDevLoginInfo)[0m
+[92m2022-07-25 10:49:08 I/Net 2785766889: Start loading friend list...[0m
+[0m2022-07-25 10:49:08 V/Net 2785766889: Send: OidbSvc.0x496(OidbSvc.0x496)[0m
+[0m2022-07-25 10:49:08 V/Net 2785766889: Send: OidbSvc.0x5d2_0(OidbSvc.0x5d2_0)[0m
+[0m2022-07-25 10:49:08 V/Net 2785766889: Send: friendlist.getFriendGroupList(friendlist.getFriendGroupList)[0m
+[0m2022-07-25 10:49:08 V/Net 2785766889: Recv: OidbSvc.0x5d2_0[0m
+[92m2022-07-25 10:49:08 I/Net 2785766889: Successfully loaded stranger list: 0 in total[0m
+[0m2022-07-25 10:49:08 V/Net 2785766889: Recv: StatSvc.GetDevLoginInfo[0m
+[92m2022-07-25 10:49:08 I/Net 2785766889: No OtherClient online.[0m
+[92m2022-07-25 10:49:08 I/Net 2785766889: Start loading group list...[0m
+[0m2022-07-25 10:49:08 V/Net 2785766889: Recv: OidbSvc.0x496[0m
+[0m2022-07-25 10:49:08 V/Net 2785766889: Send: friendlist.GetTroopListReqV2(friendlist.GetTroopListReqV2)[0m
+[0m2022-07-25 10:49:08 V/Net 2785766889: Recv: friendlist.getFriendGroupList[0m
+[0m2022-07-25 10:49:08 V/Net 2785766889: Loading friend list: 5/5[0m
+[92m2022-07-25 10:49:08 I/Net 2785766889: Successfully loaded friend list: 5 in total[0m
+[0m2022-07-25 10:49:08 V/Net 2785766889: Recv: friendlist.GetTroopListReqV2[0m
+[0m2022-07-25 10:49:08 V/Net 2785766889: Send: friendlist.GetTroopMemberListReq(friendlist.GetTroopMemberListReq)[0m
+[0m2022-07-25 10:49:08 V/Net 2785766889: Send: friendlist.GetTroopMemberListReq(friendlist.GetTroopMemberListReq)[0m
+[0m2022-07-25 10:49:08 V/Net 2785766889: Send: friendlist.GetTroopMemberListReq(friendlist.GetTroopMemberListReq)[0m
+[0m2022-07-25 10:49:08 V/Net 2785766889: Send: friendlist.GetTroopMemberListReq(friendlist.GetTroopMemberListReq)[0m
+[0m2022-07-25 10:49:08 V/Net 2785766889: Send: friendlist.GetTroopMemberListReq(friendlist.GetTroopMemberListReq)[0m
+[0m2022-07-25 10:49:08 V/Net 2785766889: Send: friendlist.GetTroopMemberListReq(friendlist.GetTroopMemberListReq)[0m
+[92m2022-07-25 10:49:08 I/Net 2785766889: Syncing friend message history: Success.[0m
+[0m2022-07-25 10:49:08 V/Net 2785766889: Recv: friendlist.GetTroopMemberListReq[0m
+[0m2022-07-25 10:49:08 V/Net 2785766889: Recv: friendlist.GetTroopMemberListReq[0m
+[0m2022-07-25 10:49:08 V/Net 2785766889: Recv: friendlist.GetTroopMemberListReq[0m
+[0m2022-07-25 10:49:08 V/Net 2785766889: Recv: friendlist.GetTroopMemberListReq[0m
+[0m2022-07-25 10:49:08 V/Net 2785766889: Recv: friendlist.GetTroopMemberListReq[0m
+[0m2022-07-25 10:49:08 V/Net 2785766889: Recv: friendlist.GetTroopMemberListReq[0m
+[92m2022-07-25 10:49:08 I/Net 2785766889: Successfully loaded group list: 6 in total.[0m
+[92m2022-07-25 10:49:08 I/Net 2785766889: Scheduled key refresh in 23h 55min 0.0s.[0m
+[92m2022-07-25 10:49:08 I/Net 2785766889: Scheduled refresh login session in 19d 23h 55min 0.0s.[0m
+[92m2022-07-25 10:49:09 I/Net 2785766889: Server list: msfwifi.3g.qq.com:8080, 36.155.227.171:80, 36.155.213.212:14000, 111.31.205.231:14000, 111.31.205.218:80, 111.30.187.227:80, 36.155.207.201:14000, 111.30.169.125:80, 120.232.69.226:8080, 120.232.67.218:443.[0m
+[0m2022-07-25 10:49:09 V/Net 2785766889: Saving bdh session to cache[0m
+[0m2022-07-25 10:49:09 V/Net 2785766889: Saving server list to cache[0m
+[0m2022-07-25 10:49:09 V/Net 2785766889: Send: ConfigPushSvc.PushResp(ConfigPushSvc.PushResp)[0m
+[0m2022-07-25 10:49:09 V/Net 2785766889: Recv: ConfigPushSvc.PushReq[0m
+[0m2022-07-25 10:49:10 V/Net 2785766889: Saving bdh session to cache[0m
+[0m2022-07-25 10:49:10 V/Net 2785766889: Send: ConfigPushSvc.PushResp(ConfigPushSvc.PushResp)[0m
+[0m2022-07-25 10:49:10 V/Net 2785766889: Recv: ConfigPushSvc.PushReq[0m
+[0m2022-07-25 10:49:19 V/Net 2785766889: Send: StatSvc.GetDevLoginInfo(StatSvc.GetDevLoginInfo)[0m
+[0m2022-07-25 10:49:19 V/Net 2785766889: Recv: StatSvc.GetDevLoginInfo[0m
+[0m2022-07-25 10:49:19 V/Net 2785766889: Recv: MessageSvc.RequestPushStatus[0m
+[0m2022-07-25 10:49:19 V/Net 2785766889: Recv: MessageSvc.RequestPushStatus[0m
+[0m2022-07-25 10:49:19 V/Net 2785766889: Recv: MessageSvc.RequestPushStatus[0m
+[0m2022-07-25 10:52:06 V/Net 2785766889: Send: MessageSvc.PbSendMsg(MessageSvc.PbSendMsg)[0m
+[0m2022-07-25 10:52:06 V/Net 2785766889: Recv: MessageSvc.PbSendMsg[0m
+[0m2022-07-25 10:52:07 V/Net 2785766889: Send: OidbSvc.0xed3(OidbSvc.0xed3)[0m
+[0m2022-07-25 10:52:07 V/Net 2785766889: Recv: OidbSvc.0xed3[0m
+[0m2022-07-25 10:52:08 V/Net 2785766889: Send: MessageSvc.PbSendMsg(MessageSvc.PbSendMsg)[0m
+[0m2022-07-25 10:52:08 V/Net 2785766889: Recv: MessageSvc.PbSendMsg[0m
+[0m2022-07-25 10:52:09 V/Net 2785766889: Send: ImgStore.GroupPicUp(ImgStore.GroupPicUp)[0m
+[0m2022-07-25 10:52:10 V/Net 2785766889: Recv: ImgStore.GroupPicUp[0m
+[0m2022-07-25 10:52:10 V/Net 2785766889: Send: MessageSvc.PbSendMsg(MessageSvc.PbSendMsg)[0m
+[0m2022-07-25 10:52:10 V/Net 2785766889: Recv: MessageSvc.PbSendMsg[0m
+[0m2022-07-25 10:52:16 V/Net 2785766889: Send: ImgStore.GroupPicUp(ImgStore.GroupPicUp)[0m
+[0m2022-07-25 10:52:16 V/Net 2785766889: Recv: ImgStore.GroupPicUp[0m
+[0m2022-07-25 10:52:16 V/Net 2785766889: Send: MessageSvc.PbSendMsg(MessageSvc.PbSendMsg)[0m
+[0m2022-07-25 10:52:17 V/Net 2785766889: Recv: MessageSvc.PbSendMsg[0m
+[0m2022-07-25 10:53:27 V/Net 2785766889: Send: MessageSvc.PbSendMsg(MessageSvc.PbSendMsg)[0m
+[0m2022-07-25 10:53:28 V/Net 2785766889: Recv: MessageSvc.PbSendMsg[0m
+[0m2022-07-25 10:53:30 V/Net 2785766889: Send: ImgStore.GroupPicUp(ImgStore.GroupPicUp)[0m
+[0m2022-07-25 10:53:31 V/Net 2785766889: [Highway] Uploading group image to 36.155.208.117:443, size=34.4 KiB[0m
+[0m2022-07-25 10:53:31 V/Net 2785766889: Recv: ImgStore.GroupPicUp[0m
+[0m2022-07-25 10:53:31 V/Net 2785766889: [Highway] Uploading group image: succeed at 151 KiB/s[0m
+[0m2022-07-25 10:53:31 V/Net 2785766889: Send: MessageSvc.PbSendMsg(MessageSvc.PbSendMsg)[0m
+[0m2022-07-25 10:53:31 V/Net 2785766889: Recv: MessageSvc.PbSendMsg[0m
+[0m2022-07-25 10:54:02 V/Net 2785766889: Send: ImgStore.GroupPicUp(ImgStore.GroupPicUp)[0m
+[0m2022-07-25 10:54:02 V/Net 2785766889: Recv: ImgStore.GroupPicUp[0m
+[0m2022-07-25 10:54:02 V/Net 2785766889: Send: MessageSvc.PbSendMsg(MessageSvc.PbSendMsg)[0m
+[0m2022-07-25 10:54:03 V/Net 2785766889: Recv: MessageSvc.PbSendMsg[0m
+[0m2022-07-25 10:54:17 V/Net 2785766889: Send: MessageSvc.PbSendMsg(MessageSvc.PbSendMsg)[0m
+[0m2022-07-25 10:54:17 V/Net 2785766889: Recv: MessageSvc.PbSendMsg[0m
+[0m2022-07-25 10:54:19 V/Net 2785766889: Send: ImgStore.GroupPicUp(ImgStore.GroupPicUp)[0m
+[0m2022-07-25 10:54:20 V/Net 2785766889: Recv: ImgStore.GroupPicUp[0m
+[0m2022-07-25 10:54:20 V/Net 2785766889: Send: MessageSvc.PbSendMsg(MessageSvc.PbSendMsg)[0m
+[0m2022-07-25 10:54:20 V/Net 2785766889: Recv: MessageSvc.PbSendMsg[0m
+[0m2022-07-25 10:55:20 V/Net 2785766889: Send: MessageSvc.PbSendMsg(MessageSvc.PbSendMsg)[0m
+[0m2022-07-25 10:55:21 V/Net 2785766889: Recv: MessageSvc.PbSendMsg[0m
+[0m2022-07-25 10:55:21 V/Net 2785766889: Send: ImgStore.GroupPicUp(ImgStore.GroupPicUp)[0m
+[0m2022-07-25 10:55:22 V/Net 2785766889: Recv: ImgStore.GroupPicUp[0m
+[0m2022-07-25 10:55:22 V/Net 2785766889: Send: MessageSvc.PbSendMsg(MessageSvc.PbSendMsg)[0m
+[0m2022-07-25 10:55:22 V/Net 2785766889: Recv: MessageSvc.PbSendMsg[0m
+[0m2022-07-25 10:55:25 V/Net 2785766889: Send: MessageSvc.PbSendMsg(MessageSvc.PbSendMsg)[0m
+[0m2022-07-25 10:55:25 V/Net 2785766889: Recv: MessageSvc.PbSendMsg[0m
+[0m2022-07-25 10:55:27 V/Net 2785766889: Send: ImgStore.GroupPicUp(ImgStore.GroupPicUp)[0m
+[0m2022-07-25 10:55:27 V/Net 2785766889: Recv: ImgStore.GroupPicUp[0m
+[0m2022-07-25 10:55:27 V/Net 2785766889: Send: MessageSvc.PbSendMsg(MessageSvc.PbSendMsg)[0m
+[0m2022-07-25 10:55:28 V/Net 2785766889: Recv: MessageSvc.PbSendMsg[0m
+[0m2022-07-25 10:55:38 V/Net 2785766889: Send: MessageSvc.PbSendMsg(MessageSvc.PbSendMsg)[0m
+[0m2022-07-25 10:55:38 V/Net 2785766889: Recv: MessageSvc.PbSendMsg[0m
+[0m2022-07-25 10:55:40 V/Net 2785766889: Send: ImgStore.GroupPicUp(ImgStore.GroupPicUp)[0m
+[0m2022-07-25 10:55:40 V/Net 2785766889: Recv: ImgStore.GroupPicUp[0m
+[0m2022-07-25 10:55:40 V/Net 2785766889: Send: MessageSvc.PbSendMsg(MessageSvc.PbSendMsg)[0m
+[0m2022-07-25 10:55:41 V/Net 2785766889: Recv: MessageSvc.PbSendMsg[0m
+[0m2022-07-25 10:55:55 V/Net 2785766889: Send: MessageSvc.PbSendMsg(MessageSvc.PbSendMsg)[0m
+[0m2022-07-25 10:55:56 V/Net 2785766889: Recv: MessageSvc.PbSendMsg[0m
+[0m2022-07-25 10:55:58 V/Net 2785766889: Send: ImgStore.GroupPicUp(ImgStore.GroupPicUp)[0m
+[0m2022-07-25 10:55:58 V/Net 2785766889: Recv: ImgStore.GroupPicUp[0m
+[0m2022-07-25 10:55:58 V/Net 2785766889: Send: MessageSvc.PbSendMsg(MessageSvc.PbSendMsg)[0m
+[0m2022-07-25 10:55:59 V/Net 2785766889: Recv: MessageSvc.PbSendMsg[0m
+[0m2022-07-25 10:56:19 V/Net 2785766889: Send: MessageSvc.PbSendMsg(MessageSvc.PbSendMsg)[0m
+[0m2022-07-25 10:56:20 V/Net 2785766889: Recv: MessageSvc.PbSendMsg[0m
+[0m2022-07-25 10:56:22 V/Net 2785766889: Send: ImgStore.GroupPicUp(ImgStore.GroupPicUp)[0m
+[0m2022-07-25 10:56:22 V/Net 2785766889: Recv: ImgStore.GroupPicUp[0m
+[0m2022-07-25 10:56:22 V/Net 2785766889: Send: MessageSvc.PbSendMsg(MessageSvc.PbSendMsg)[0m
+[0m2022-07-25 10:56:23 V/Net 2785766889: Recv: MessageSvc.PbSendMsg[0m
+[0m2022-07-25 10:56:33 V/Net 2785766889: Send: MessageSvc.PbSendMsg(MessageSvc.PbSendMsg)[0m
+[0m2022-07-25 10:56:33 V/Net 2785766889: Recv: MessageSvc.PbSendMsg[0m
+[0m2022-07-25 10:56:35 V/Net 2785766889: Send: ImgStore.GroupPicUp(ImgStore.GroupPicUp)[0m
+[0m2022-07-25 10:56:35 V/Net 2785766889: Recv: ImgStore.GroupPicUp[0m
+[0m2022-07-25 10:56:35 V/Net 2785766889: Send: MessageSvc.PbSendMsg(MessageSvc.PbSendMsg)[0m
+[0m2022-07-25 10:56:35 V/Net 2785766889: Recv: MessageSvc.PbSendMsg[0m
+[0m2022-07-25 11:06:26 V/Net 2785766889: Send: MessageSvc.PbSendMsg(MessageSvc.PbSendMsg)[0m
+[0m2022-07-25 11:06:26 V/Net 2785766889: Recv: MessageSvc.PbSendMsg[0m
+[0m2022-07-25 11:06:27 V/Net 2785766889: Send: OidbSvc.0xed3(OidbSvc.0xed3)[0m
+[0m2022-07-25 11:06:27 V/Net 2785766889: Recv: OidbSvc.0xed3[0m
+[0m2022-07-25 11:06:28 V/Net 2785766889: Send: MessageSvc.PbSendMsg(MessageSvc.PbSendMsg)[0m
+[0m2022-07-25 11:06:29 V/Net 2785766889: Recv: MessageSvc.PbSendMsg[0m
+[0m2022-07-25 11:06:31 V/Net 2785766889: Send: ImgStore.GroupPicUp(ImgStore.GroupPicUp)[0m
+[0m2022-07-25 11:06:31 V/Net 2785766889: Recv: ImgStore.GroupPicUp[0m
+[0m2022-07-25 11:06:31 V/Net 2785766889: Send: MessageSvc.PbSendMsg(MessageSvc.PbSendMsg)[0m
+[0m2022-07-25 11:06:32 V/Net 2785766889: Recv: MessageSvc.PbSendMsg[0m
+[0m2022-07-25 11:18:23 V/Net 2785766889: Send: MessageSvc.PbSendMsg(MessageSvc.PbSendMsg)[0m
+[0m2022-07-25 11:18:23 V/Net 2785766889: Recv: MessageSvc.PbSendMsg[0m
+[0m2022-07-25 11:18:25 V/Net 2785766889: Send: ImgStore.GroupPicUp(ImgStore.GroupPicUp)[0m
+[0m2022-07-25 11:18:25 V/Net 2785766889: Recv: ImgStore.GroupPicUp[0m
+[0m2022-07-25 11:18:25 V/Net 2785766889: Send: MessageSvc.PbSendMsg(MessageSvc.PbSendMsg)[0m
+[0m2022-07-25 11:18:26 V/Net 2785766889: Recv: MessageSvc.PbSendMsg[0m
+[0m2022-07-25 11:18:49 V/Net 2785766889: Send: ImgStore.GroupPicUp(ImgStore.GroupPicUp)[0m
+[0m2022-07-25 11:18:49 V/Net 2785766889: Recv: ImgStore.GroupPicUp[0m
+[0m2022-07-25 11:18:49 V/Net 2785766889: Send: MessageSvc.PbSendMsg(MessageSvc.PbSendMsg)[0m
+[0m2022-07-25 11:18:50 V/Net 2785766889: Recv: MessageSvc.PbSendMsg[0m
+[0m2022-07-25 11:34:26 V/Net 2785766889: Send: OidbSvc.0xb77_9(OidbSvc.0xb77_9)[0m
+[0m2022-07-25 11:34:26 V/Net 2785766889: Recv: OidbSvc.0xb77_9[0m
+[0m2022-07-25 11:35:15 V/Net 2785766889: Send: OidbSvc.0xb77_9(OidbSvc.0xb77_9)[0m
+[0m2022-07-25 11:35:15 V/Net 2785766889: Recv: OidbSvc.0xb77_9[0m
+[0m2022-07-25 11:35:43 V/Net 2785766889: Send: OidbSvc.0xb77_9(OidbSvc.0xb77_9)[0m
+[0m2022-07-25 11:35:43 V/Net 2785766889: Recv: OidbSvc.0xb77_9[0m
+[0m2022-07-25 11:36:16 V/Net 2785766889: Send: OidbSvc.0xb77_9(OidbSvc.0xb77_9)[0m
+[0m2022-07-25 11:36:17 V/Net 2785766889: Recv: OidbSvc.0xb77_9[0m
+[0m2022-07-25 11:36:30 V/Net 2785766889: Send: MessageSvc.PbSendMsg(MessageSvc.PbSendMsg)[0m
+[0m2022-07-25 11:36:30 V/Net 2785766889: Recv: MessageSvc.PbSendMsg[0m
+[0m2022-07-25 11:36:30 V/Net 2785766889: Send: OidbSvc.0xb77_9(OidbSvc.0xb77_9)[0m
+[0m2022-07-25 11:36:30 V/Net 2785766889: Recv: OidbSvc.0xb77_9[0m
+[0m2022-07-25 11:38:10 V/Net 2785766889: Send: OidbSvc.0xb77_9(OidbSvc.0xb77_9)[0m
+[0m2022-07-25 11:38:10 V/Net 2785766889: Recv: OidbSvc.0xb77_9[0m
+[0m2022-07-25 11:55:27 V/Net 2785766889: Send: MessageSvc.PbSendMsg(MessageSvc.PbSendMsg)[0m
+[0m2022-07-25 11:55:27 V/Net 2785766889: Recv: MessageSvc.PbSendMsg[0m
+[0m2022-07-25 11:55:28 V/Net 2785766889: Send: OidbSvc.0xed3(OidbSvc.0xed3)[0m
+[0m2022-07-25 11:55:28 V/Net 2785766889: Recv: OidbSvc.0xed3[0m
+[0m2022-07-25 11:55:29 V/Net 2785766889: Send: MessageSvc.PbSendMsg(MessageSvc.PbSendMsg)[0m
+[0m2022-07-25 11:55:29 V/Net 2785766889: Recv: MessageSvc.PbSendMsg[0m
+[0m2022-07-25 11:55:30 V/Net 2785766889: Send: ImgStore.GroupPicUp(ImgStore.GroupPicUp)[0m
+[0m2022-07-25 11:55:31 V/Net 2785766889: Recv: ImgStore.GroupPicUp[0m
+[0m2022-07-25 11:55:31 V/Net 2785766889: Send: MessageSvc.PbSendMsg(MessageSvc.PbSendMsg)[0m
+[0m2022-07-25 11:55:31 V/Net 2785766889: Recv: MessageSvc.PbSendMsg[0m
+[0m2022-07-25 11:55:39 V/Net 2785766889: Send: OidbSvc.0xed3(OidbSvc.0xed3)[0m
+[0m2022-07-25 11:55:39 V/Net 2785766889: Recv: OidbSvc.0xed3[0m
+[0m2022-07-25 11:55:39 V/Net 2785766889: Send: OidbSvc.0xed3(OidbSvc.0xed3)[0m
+[0m2022-07-25 11:55:40 V/Net 2785766889: Recv: OidbSvc.0xed3[0m
+[0m2022-07-25 11:55:40 V/Net 2785766889: Send: OidbSvc.0xed3(OidbSvc.0xed3)[0m
+[0m2022-07-25 11:55:40 V/Net 2785766889: Recv: OidbSvc.0xed3[0m
+[0m2022-07-25 11:55:40 V/Net 2785766889: Send: OidbSvc.0xed3(OidbSvc.0xed3)[0m
+[0m2022-07-25 11:55:40 V/Net 2785766889: Recv: OidbSvc.0xed3[0m
+[0m2022-07-25 11:55:40 V/Net 2785766889: Send: OidbSvc.0xed3(OidbSvc.0xed3)[0m
+[0m2022-07-25 11:55:40 V/Net 2785766889: Recv: OidbSvc.0xed3[0m
+[0m2022-07-25 11:55:40 V/Net 2785766889: Send: OidbSvc.0xed3(OidbSvc.0xed3)[0m
+[0m2022-07-25 11:55:41 V/Net 2785766889: Recv: OidbSvc.0xed3[0m
+[0m2022-07-25 11:55:41 V/Net 2785766889: Send: OidbSvc.0xed3(OidbSvc.0xed3)[0m
+[0m2022-07-25 11:55:41 V/Net 2785766889: Recv: OidbSvc.0xed3[0m
+[0m2022-07-25 11:55:41 V/Net 2785766889: Send: OidbSvc.0xed3(OidbSvc.0xed3)[0m
+[0m2022-07-25 11:55:42 V/Net 2785766889: Recv: OidbSvc.0xed3[0m
+[0m2022-07-25 11:55:42 V/Net 2785766889: Send: OidbSvc.0xed3(OidbSvc.0xed3)[0m
+[0m2022-07-25 11:55:42 V/Net 2785766889: Recv: OidbSvc.0xed3[0m
+[0m2022-07-25 11:55:42 V/Net 2785766889: Send: OidbSvc.0xed3(OidbSvc.0xed3)[0m
+[0m2022-07-25 11:55:42 V/Net 2785766889: Recv: OidbSvc.0xed3[0m
+[0m2022-07-25 11:55:43 V/Net 2785766889: Send: MessageSvc.PbSendMsg(MessageSvc.PbSendMsg)[0m
+[0m2022-07-25 11:55:44 V/Net 2785766889: Recv: MessageSvc.PbSendMsg[0m
+[0m2022-07-25 11:55:44 V/Net 2785766889: Send: ImgStore.GroupPicUp(ImgStore.GroupPicUp)[0m
+[0m2022-07-25 11:55:45 V/Net 2785766889: Recv: ImgStore.GroupPicUp[0m
+[0m2022-07-25 11:55:45 V/Net 2785766889: Send: MessageSvc.PbSendMsg(MessageSvc.PbSendMsg)[0m
+[0m2022-07-25 11:55:45 V/Net 2785766889: Recv: MessageSvc.PbSendMsg[0m
+[0m2022-07-25 11:55:54 V/Net 2785766889: Send: MessageSvc.PbSendMsg(MessageSvc.PbSendMsg)[0m
+[0m2022-07-25 11:55:54 V/Net 2785766889: Recv: MessageSvc.PbSendMsg[0m
+[0m2022-07-25 11:55:55 V/Net 2785766889: Send: ImgStore.GroupPicUp(ImgStore.GroupPicUp)[0m
+[0m2022-07-25 11:55:55 V/Net 2785766889: Recv: ImgStore.GroupPicUp[0m
+[0m2022-07-25 11:55:55 V/Net 2785766889: Send: MessageSvc.PbSendMsg(MessageSvc.PbSendMsg)[0m
+[0m2022-07-25 11:55:56 V/Net 2785766889: Recv: MessageSvc.PbSendMsg[0m
+[0m2022-07-25 11:56:07 V/Net 2785766889: Send: MessageSvc.PbSendMsg(MessageSvc.PbSendMsg)[0m
+[0m2022-07-25 11:56:07 V/Net 2785766889: Recv: MessageSvc.PbSendMsg[0m
+[0m2022-07-25 11:56:08 V/Net 2785766889: Send: ImgStore.GroupPicUp(ImgStore.GroupPicUp)[0m
+[0m2022-07-25 11:56:08 V/Net 2785766889: Recv: ImgStore.GroupPicUp[0m
+[0m2022-07-25 11:56:08 V/Net 2785766889: Send: MessageSvc.PbSendMsg(MessageSvc.PbSendMsg)[0m
+[0m2022-07-25 11:56:09 V/Net 2785766889: Recv: MessageSvc.PbSendMsg[0m
+[0m2022-07-25 11:56:18 V/Net 2785766889: Send: MessageSvc.PbSendMsg(MessageSvc.PbSendMsg)[0m
+[0m2022-07-25 11:56:18 V/Net 2785766889: Recv: MessageSvc.PbSendMsg[0m
+[0m2022-07-25 11:56:19 V/Net 2785766889: Send: OidbSvc.0xed3(OidbSvc.0xed3)[0m
+[0m2022-07-25 11:56:19 V/Net 2785766889: Recv: OidbSvc.0xed3[0m
+[0m2022-07-25 11:56:20 V/Net 2785766889: Send: MessageSvc.PbSendMsg(MessageSvc.PbSendMsg)[0m
+[0m2022-07-25 11:56:21 V/Net 2785766889: Recv: MessageSvc.PbSendMsg[0m
+[0m2022-07-25 11:56:23 V/Net 2785766889: Send: ImgStore.GroupPicUp(ImgStore.GroupPicUp)[0m
+[0m2022-07-25 11:56:23 V/Net 2785766889: [Highway] Uploading group image to 36.155.208.117:443, size=919.02 KiB[0m
+[0m2022-07-25 11:56:23 V/Net 2785766889: Recv: ImgStore.GroupPicUp[0m
+[0m2022-07-25 11:56:23 V/Net 2785766889: [Highway] Uploading group image to 36.155.208.117:443, size=919.02 KiB failed: java.lang.IllegalStateException: highway transfer failed, error 83[0m
+[0m2022-07-25 11:56:23 V/Net 2785766889: [Highway] Uploading group image to 111.30.187.175:8080, size=919.02 KiB[0m
+[0m2022-07-25 11:56:24 V/Net 2785766889: [Highway] Uploading group image to 111.30.187.175:8080, size=919.02 KiB failed: java.lang.IllegalStateException: highway transfer failed, error 83[0m
+[0m2022-07-25 11:56:24 V/Net 2785766889: [Highway] Uploading group image to 36.155.208.90:80, size=919.02 KiB[0m
+[0m2022-07-25 11:56:24 V/Net 2785766889: [Highway] Uploading group image to 36.155.208.90:80, size=919.02 KiB failed: java.lang.IllegalStateException: highway transfer failed, error 83[0m
+[0m2022-07-25 11:56:24 V/Net 2785766889: [Highway] Uploading group image to 120.232.130.90:443, size=919.02 KiB[0m
+[0m2022-07-25 11:56:24 V/Net 2785766889: [Highway] Uploading group image: succeed at 2881 KiB/s[0m
+[0m2022-07-25 11:56:24 V/Net 2785766889: Send: MessageSvc.PbSendMsg(MessageSvc.PbSendMsg)[0m
+[0m2022-07-25 11:56:25 V/Net 2785766889: Recv: MessageSvc.PbSendMsg[0m
+[0m2022-07-25 11:56:26 V/Net 2785766889: Send: MessageSvc.PbSendMsg(MessageSvc.PbSendMsg)[0m
+[0m2022-07-25 11:56:26 V/Net 2785766889: Recv: MessageSvc.PbSendMsg[0m
+[0m2022-07-25 11:56:28 V/Net 2785766889: Send: ImgStore.GroupPicUp(ImgStore.GroupPicUp)[0m
+[0m2022-07-25 11:56:28 V/Net 2785766889: Recv: ImgStore.GroupPicUp[0m
+[0m2022-07-25 11:56:29 V/Net 2785766889: Send: MessageSvc.PbSendMsg(MessageSvc.PbSendMsg)[0m
+[0m2022-07-25 11:56:29 V/Net 2785766889: Recv: MessageSvc.PbSendMsg[0m
+[0m2022-07-25 11:56:50 V/Net 2785766889: Send: MessageSvc.PbSendMsg(MessageSvc.PbSendMsg)[0m
+[0m2022-07-25 11:56:51 V/Net 2785766889: Recv: MessageSvc.PbSendMsg[0m
+[0m2022-07-25 11:56:56 V/Net 2785766889: Send: MessageSvc.PbSendMsg(MessageSvc.PbSendMsg)[0m
+[0m2022-07-25 11:56:57 V/Net 2785766889: Recv: MessageSvc.PbSendMsg[0m
+[0m2022-07-25 11:57:12 V/Net 2785766889: Send: MessageSvc.PbSendMsg(MessageSvc.PbSendMsg)[0m
+[0m2022-07-25 11:57:12 V/Net 2785766889: Send: MessageSvc.PbSendMsg(MessageSvc.PbSendMsg)[0m
+[0m2022-07-25 11:57:12 V/Net 2785766889: Recv: MessageSvc.PbSendMsg[0m
+[0m2022-07-25 11:57:12 V/Net 2785766889: Recv: MessageSvc.PbSendMsg[0m
+[0m2022-07-25 11:57:17 V/Net 2785766889: Send: MessageSvc.PbSendMsg(MessageSvc.PbSendMsg)[0m
+[0m2022-07-25 11:57:17 V/Net 2785766889: Recv: MessageSvc.PbSendMsg[0m
+[0m2022-07-25 11:57:26 V/Net 2785766889: Send: MessageSvc.PbSendMsg(MessageSvc.PbSendMsg)[0m
+[0m2022-07-25 11:57:27 V/Net 2785766889: Recv: MessageSvc.PbSendMsg[0m
+[0m2022-07-25 11:57:31 V/Net 2785766889: Send: MessageSvc.PbSendMsg(MessageSvc.PbSendMsg)[0m
+[0m2022-07-25 11:57:31 V/Net 2785766889: Recv: MessageSvc.PbSendMsg[0m
+[0m2022-07-25 11:57:32 V/Net 2785766889: Send: MessageSvc.PbSendMsg(MessageSvc.PbSendMsg)[0m
+[0m2022-07-25 11:57:32 V/Net 2785766889: Recv: MessageSvc.PbSendMsg[0m
+[0m2022-07-25 11:57:44 V/Net 2785766889: Send: MessageSvc.PbSendMsg(MessageSvc.PbSendMsg)[0m
+[0m2022-07-25 11:57:44 V/Net 2785766889: Recv: MessageSvc.PbSendMsg[0m
+[0m2022-07-25 11:58:03 V/Net 2785766889: Send: MessageSvc.PbSendMsg(MessageSvc.PbSendMsg)[0m
+[0m2022-07-25 11:58:03 V/Net 2785766889: Recv: MessageSvc.PbSendMsg[0m
+[0m2022-07-25 11:58:15 V/Net 2785766889: Send: MessageSvc.PbSendMsg(MessageSvc.PbSendMsg)[0m
+[0m2022-07-25 11:58:15 V/Net 2785766889: Recv: MessageSvc.PbSendMsg[0m
+[0m2022-07-25 11:58:26 V/Net 2785766889: Send: MessageSvc.PbSendMsg(MessageSvc.PbSendMsg)[0m
+[0m2022-07-25 11:58:26 V/Net 2785766889: Recv: MessageSvc.PbSendMsg[0m
+[0m2022-07-25 11:58:40 V/Net 2785766889: Send: MessageSvc.PbSendMsg(MessageSvc.PbSendMsg)[0m
+[0m2022-07-25 11:58:40 V/Net 2785766889: Recv: MessageSvc.PbSendMsg[0m
+[0m2022-07-25 11:58:48 V/Net 2785766889: Send: MessageSvc.PbSendMsg(MessageSvc.PbSendMsg)[0m
+[0m2022-07-25 11:58:49 V/Net 2785766889: Recv: MessageSvc.PbSendMsg[0m
+[0m2022-07-25 11:58:54 V/Net 2785766889: Send: MessageSvc.PbSendMsg(MessageSvc.PbSendMsg)[0m
+[0m2022-07-25 11:58:54 V/Net 2785766889: Recv: MessageSvc.PbSendMsg[0m
+[0m2022-07-25 11:59:37 V/Net 2785766889: Send: MessageSvc.PbSendMsg(MessageSvc.PbSendMsg)[0m
+[0m2022-07-25 11:59:37 V/Net 2785766889: Recv: MessageSvc.PbSendMsg[0m
+[0m2022-07-25 12:00:01 V/Net 2785766889: Loading server list from cache.[0m
+[92m2022-07-25 12:00:01 I/Net 2785766889: Server list: msfwifi.3g.qq.com:8080, 36.155.227.171:80, 36.155.213.212:14000, 111.31.205.231:14000, 111.31.205.218:80, 111.30.187.227:80, 36.155.207.201:14000, 111.30.169.125:80, 120.232.69.226:8080, 120.232.67.218:443.[0m
+[92m2022-07-25 12:00:01 I/Net 2785766889: ECDH key is valid.[0m
+[0m2022-07-25 12:00:01 V/Net 2785766889: Send: wtlogin.exchange_emp[0m
+[0m2022-07-25 12:00:01 V/Net 2785766889: Recv: wtlogin.exchange_emp[0m
+[0m2022-07-25 12:00:01 V/Net 2785766889: Send: StatSvc.register(online)[0m
+[92m2022-07-25 12:00:01 I/Net 2785766889: Server time updated, serverTime: 1658721608, diff: 7ms=0.007s[0m
+[0m2022-07-25 12:00:01 V/Net 2785766889: Recv: StatSvc.register[0m
+[92m2022-07-25 12:00:01 I/Net 2785766889: Syncing friend message history...[0m
+[0m2022-07-25 12:00:01 V/Net 2785766889: Loading BdhSession from cache file[0m
+[92m2022-07-25 12:00:01 I/Net 2785766889: Start loading friend list...[0m
+[0m2022-07-25 12:00:01 V/Net 2785766889: Send: StatSvc.GetDevLoginInfo(StatSvc.GetDevLoginInfo)[0m
+[92m2022-07-25 12:00:01 I/Net 2785766889: Start loading stranger list...[0m
+[0m2022-07-25 12:00:01 V/Net 2785766889: Send: OidbSvc.0x496(OidbSvc.0x496)[0m
+[0m2022-07-25 12:00:01 V/Net 2785766889: Send: OidbSvc.0x5d2_0(OidbSvc.0x5d2_0)[0m
+[0m2022-07-25 12:00:01 V/Net 2785766889: Send: friendlist.getFriendGroupList(friendlist.getFriendGroupList)[0m
+[92m2022-07-25 12:00:01 I/Net 2785766889: Successfully loaded stranger list: 0 in total[0m
+[0m2022-07-25 12:00:01 V/Net 2785766889: Recv: OidbSvc.0x5d2_0[0m
+[0m2022-07-25 12:00:01 V/Net 2785766889: Recv: StatSvc.GetDevLoginInfo[0m
+[92m2022-07-25 12:00:01 I/Net 2785766889: Online OtherClients: HEA1OR(WINDOWS)[0m
+[0m2022-07-25 12:00:01 V/Net 2785766889: Recv: OidbSvc.0x496[0m
+[92m2022-07-25 12:00:01 I/Net 2785766889: Start loading group list...[0m
+[0m2022-07-25 12:00:01 V/Net 2785766889: Send: friendlist.GetTroopListReqV2(friendlist.GetTroopListReqV2)[0m
+[0m2022-07-25 12:00:01 V/Net 2785766889: Recv: friendlist.getFriendGroupList[0m
+[0m2022-07-25 12:00:01 V/Net 2785766889: Loading friend list: 5/5[0m
+[92m2022-07-25 12:00:01 I/Net 2785766889: Successfully loaded friend list: 5 in total[0m
+[0m2022-07-25 12:00:01 V/Net 2785766889: Recv: friendlist.GetTroopListReqV2[0m
+[0m2022-07-25 12:00:01 V/Net 2785766889: Send: friendlist.GetTroopMemberListReq(friendlist.GetTroopMemberListReq)[0m
+[0m2022-07-25 12:00:01 V/Net 2785766889: Send: friendlist.GetTroopMemberListReq(friendlist.GetTroopMemberListReq)[0m
+[0m2022-07-25 12:00:01 V/Net 2785766889: Send: friendlist.GetTroopMemberListReq(friendlist.GetTroopMemberListReq)[0m
+[0m2022-07-25 12:00:01 V/Net 2785766889: Send: friendlist.GetTroopMemberListReq(friendlist.GetTroopMemberListReq)[0m
+[0m2022-07-25 12:00:01 V/Net 2785766889: Send: friendlist.GetTroopMemberListReq(friendlist.GetTroopMemberListReq)[0m
+[0m2022-07-25 12:00:01 V/Net 2785766889: Send: friendlist.GetTroopMemberListReq(friendlist.GetTroopMemberListReq)[0m
+[0m2022-07-25 12:00:02 V/Net 2785766889: Recv: friendlist.GetTroopMemberListReq[0m
+[0m2022-07-25 12:00:02 V/Net 2785766889: Recv: friendlist.GetTroopMemberListReq[0m
+[0m2022-07-25 12:00:02 V/Net 2785766889: Recv: friendlist.GetTroopMemberListReq[0m
+[92m2022-07-25 12:00:02 I/Net 2785766889: Syncing friend message history: Success.[0m
+[0m2022-07-25 12:00:02 V/Net 2785766889: Recv: friendlist.GetTroopMemberListReq[0m
+[0m2022-07-25 12:00:02 V/Net 2785766889: Recv: friendlist.GetTroopMemberListReq[0m
+[0m2022-07-25 12:00:02 V/Net 2785766889: Recv: friendlist.GetTroopMemberListReq[0m
+[92m2022-07-25 12:00:02 I/Net 2785766889: Successfully loaded group list: 6 in total.[0m
+[92m2022-07-25 12:00:02 I/Net 2785766889: Scheduled key refresh in 23h 55min 0.0s.[0m
+[92m2022-07-25 12:00:02 I/Net 2785766889: Scheduled refresh login session in 19d 23h 55min 0.0s.[0m
+[92m2022-07-25 12:00:04 I/Net 2785766889: Server list: 120.232.69.190:8080, 111.30.170.211:80, 111.31.205.202:80, 36.155.213.231:14000, 111.30.182.254:14000, 120.232.67.160:443, 36.155.201.197:80, 36.155.201.31:14000, msfwifi.3g.qq.com:8080, 111.31.205.243:80.[0m
+[0m2022-07-25 12:00:04 V/Net 2785766889: Saving bdh session to cache[0m
+[0m2022-07-25 12:00:04 V/Net 2785766889: Saving server list to cache[0m
+[0m2022-07-25 12:00:04 V/Net 2785766889: Send: ConfigPushSvc.PushResp(ConfigPushSvc.PushResp)[0m
+[0m2022-07-25 12:00:04 V/Net 2785766889: Recv: ConfigPushSvc.PushReq[0m
+[0m2022-07-25 12:00:04 V/Net 2785766889: Saving bdh session to cache[0m
+[0m2022-07-25 12:00:04 V/Net 2785766889: Send: ConfigPushSvc.PushResp(ConfigPushSvc.PushResp)[0m
+[0m2022-07-25 12:00:04 V/Net 2785766889: Recv: ConfigPushSvc.PushReq[0m
+[0m2022-07-25 12:00:14 V/Net 2785766889: Send: MessageSvc.PbSendMsg(MessageSvc.PbSendMsg)[0m
+[0m2022-07-25 12:00:14 V/Net 2785766889: Recv: MessageSvc.PbSendMsg[0m
+[0m2022-07-25 12:00:20 V/Net 2785766889: Send: MessageSvc.PbSendMsg(MessageSvc.PbSendMsg)[0m
+[0m2022-07-25 12:00:20 V/Net 2785766889: Recv: MessageSvc.PbSendMsg[0m
+[0m2022-07-25 12:00:25 V/Net 2785766889: Send: MessageSvc.PbSendMsg(MessageSvc.PbSendMsg)[0m
+[0m2022-07-25 12:00:26 V/Net 2785766889: Recv: MessageSvc.PbSendMsg[0m
+[0m2022-07-25 12:00:40 V/Net 2785766889: Send: MessageSvc.PbSendMsg(MessageSvc.PbSendMsg)[0m
+[0m2022-07-25 12:00:40 V/Net 2785766889: Recv: MessageSvc.PbSendMsg[0m
+[0m2022-07-25 12:00:46 V/Net 2785766889: Send: MessageSvc.PbSendMsg(MessageSvc.PbSendMsg)[0m
+[0m2022-07-25 12:00:46 V/Net 2785766889: Recv: MessageSvc.PbSendMsg[0m
+[0m2022-07-25 12:00:59 V/Net 2785766889: Recv: MessageSvc.RequestPushStatus[0m
+[0m2022-07-25 12:00:59 V/Net 2785766889: Recv: MessageSvc.RequestPushStatus[0m
+[0m2022-07-25 12:00:59 V/Net 2785766889: Recv: MessageSvc.RequestPushStatus[0m
+[91m2022-07-25 14:29:20 W/Net 2785766889: NettyChannelException(message=null, cause=java.net.SocketException: Connection reset)
+NettyChannelException(message=null, cause=java.net.SocketException: Connection reset)
+	at net.mamoe.mirai.internal.network.impl.netty.NettyNetworkHandler$handlePipelineException$1.invoke(NettyNetworkHandler.kt:81)
+	at net.mamoe.mirai.internal.network.impl.netty.NettyNetworkHandler$handlePipelineException$1.invoke(NettyNetworkHandler.kt:81)
+	at net.mamoe.mirai.internal.network.handler.NetworkHandlerSupport.setStateImpl$mirai_core(NetworkHandlerSupport.kt:288)
+	at net.mamoe.mirai.internal.network.impl.netty.NettyNetworkHandler.handlePipelineException(NettyNetworkHandler.kt:419)
+	at net.mamoe.mirai.internal.network.impl.netty.NettyNetworkHandler$setupChannelPipeline$1.exceptionCaught(NettyNetworkHandler.kt:122)
+	at io.netty.channel.AbstractChannelHandlerContext.invokeExceptionCaught(AbstractChannelHandlerContext.java:302)
+	at io.netty.channel.AbstractChannelHandlerContext.invokeExceptionCaught(AbstractChannelHandlerContext.java:281)
+	at io.netty.channel.AbstractChannelHandlerContext.fireExceptionCaught(AbstractChannelHandlerContext.java:273)
+	at io.netty.channel.DefaultChannelPipeline$HeadContext.exceptionCaught(DefaultChannelPipeline.java:1377)
+	at io.netty.channel.AbstractChannelHandlerContext.invokeExceptionCaught(AbstractChannelHandlerContext.java:302)
+	at io.netty.channel.AbstractChannelHandlerContext.invokeExceptionCaught(AbstractChannelHandlerContext.java:281)
+	at io.netty.channel.DefaultChannelPipeline.fireExceptionCaught(DefaultChannelPipeline.java:907)
+	at io.netty.channel.nio.AbstractNioByteChannel$NioByteUnsafe.handleReadException(AbstractNioByteChannel.java:125)
+	at io.netty.channel.nio.AbstractNioByteChannel$NioByteUnsafe.read(AbstractNioByteChannel.java:177)
+	at io.netty.channel.nio.NioEventLoop.processSelectedKey(NioEventLoop.java:719)
+	at io.netty.channel.nio.NioEventLoop.processSelectedKeysOptimized(NioEventLoop.java:655)
+	at io.netty.channel.nio.NioEventLoop.processSelectedKeys(NioEventLoop.java:581)
+	at io.netty.channel.nio.NioEventLoop.run(NioEventLoop.java:493)
+	at io.netty.util.concurrent.SingleThreadEventExecutor$4.run(SingleThreadEventExecutor.java:989)
+	at io.netty.util.internal.ThreadExecutorMap$2.run(ThreadExecutorMap.java:74)
+	at io.netty.util.concurrent.FastThreadLocalRunnable.run(FastThreadLocalRunnable.java:30)
+	at java.base/java.lang.Thread.run(Thread.java:833)
+Caused by: java.net.SocketException: Connection reset
+	at java.base/sun.nio.ch.SocketChannelImpl.throwConnectionReset(SocketChannelImpl.java:394)
+	at java.base/sun.nio.ch.SocketChannelImpl.read(SocketChannelImpl.java:426)
+	at io.netty.buffer.PooledByteBuf.setBytes(PooledByteBuf.java:253)
+	at io.netty.buffer.AbstractByteBuf.writeBytes(AbstractByteBuf.java:1132)
+	at io.netty.channel.socket.nio.NioSocketChannel.doReadBytes(NioSocketChannel.java:350)
+	at io.netty.channel.nio.AbstractNioByteChannel$NioByteUnsafe.read(AbstractNioByteChannel.java:151)
+	... 8 more
+[0m
+[91m2022-07-25 14:29:20 W/Net 2785766889: io.netty.channel.AbstractChannel$AnnotatedNoRouteToHostException: No route to host: no further information: /120.232.69.190:8080
+io.netty.channel.AbstractChannel$AnnotatedNoRouteToHostException: No route to host: no further information: /120.232.69.190:8080
+	Suppressed: kotlinx.coroutines.JobCancellationException: Parent job is Cancelling; job=JobImpl{Cancelled}@2b515b74
+	Caused by: [CIRCULAR REFERENCE: io.netty.channel.AbstractChannel$AnnotatedNoRouteToHostException: No route to host: no further information: /120.232.69.190:8080]
+	Suppressed: [CIRCULAR REFERENCE: kotlinx.coroutines.JobCancellationException: Parent job is Cancelling; job=JobImpl{Cancelled}@2b515b74]
+Caused by: java.net.NoRouteToHostException: No route to host: no further information
+	at java.base/sun.nio.ch.Net.pollConnect(Native Method)
+	at java.base/sun.nio.ch.Net.pollConnectNow(Net.java:672)
+	at java.base/sun.nio.ch.SocketChannelImpl.finishConnect(SocketChannelImpl.java:946)
+	at io.netty.channel.socket.nio.NioSocketChannel.doFinishConnect(NioSocketChannel.java:330)
+	at io.netty.channel.nio.AbstractNioChannel$AbstractNioUnsafe.finishConnect(AbstractNioChannel.java:334)
+	at io.netty.channel.nio.NioEventLoop.processSelectedKey(NioEventLoop.java:707)
+	at io.netty.channel.nio.NioEventLoop.processSelectedKeysOptimized(NioEventLoop.java:655)
+	at io.netty.channel.nio.NioEventLoop.processSelectedKeys(NioEventLoop.java:581)
+	at io.netty.channel.nio.NioEventLoop.run(NioEventLoop.java:493)
+	at io.netty.util.concurrent.SingleThreadEventExecutor$4.run(SingleThreadEventExecutor.java:989)
+	at io.netty.util.internal.ThreadExecutorMap$2.run(ThreadExecutorMap.java:74)
+	at io.netty.util.concurrent.FastThreadLocalRunnable.run(FastThreadLocalRunnable.java:30)
+	at java.base/java.lang.Thread.run(Thread.java:833)
+[0m
+[0m2022-07-25 14:29:23 V/Net 2785766889: Loading server list from cache.[0m
+[92m2022-07-25 14:29:23 I/Net 2785766889: Server list: 120.232.69.190:8080, 111.30.170.211:80, 111.31.205.202:80, 36.155.213.231:14000, 111.30.182.254:14000, 120.232.67.160:443, 36.155.201.197:80, 36.155.201.31:14000, msfwifi.3g.qq.com:8080, 111.31.205.243:80.[0m
+[92m2022-07-25 14:29:23 I/Net 2785766889: ECDH key is valid.[0m
+[0m2022-07-25 14:29:23 V/Net 2785766889: Send: wtlogin.exchange_emp[0m
+[0m2022-07-25 14:29:23 V/Net 2785766889: Recv: wtlogin.exchange_emp[0m
+[0m2022-07-25 14:29:23 V/Net 2785766889: Send: StatSvc.register(online)[0m
+[92m2022-07-25 14:29:23 I/Net 2785766889: Server time updated, serverTime: 1658730570, diff: 7ms=0.007s[0m
+[0m2022-07-25 14:29:23 V/Net 2785766889: Recv: StatSvc.register[0m
+[92m2022-07-25 14:29:23 I/Net 2785766889: Scheduled refresh login session in 19d 23h 55min 0.0s.[0m
+[92m2022-07-25 14:29:23 I/Net 2785766889: Scheduled key refresh in 23h 55min 0.0s.[0m
+[0m2022-07-25 14:29:25 V/Net 2785766889: Send: StatSvc.GetDevLoginInfo(StatSvc.GetDevLoginInfo)[0m
+[0m2022-07-25 14:29:25 V/Net 2785766889: Recv: StatSvc.GetDevLoginInfo[0m
+[0m2022-07-25 14:29:25 V/Net 2785766889: Recv: MessageSvc.RequestPushStatus[0m
+[0m2022-07-25 14:29:25 V/Net 2785766889: Recv: MessageSvc.RequestPushStatus[0m
+[92m2022-07-25 14:29:26 I/Net 2785766889: Server list: 111.30.170.211:14000, 111.31.205.184:80, 36.155.248.76:14000, 36.155.207.223:14000, 120.232.69.173:443, 111.31.205.168:80, 120.241.150.95:8080, 36.155.213.212:80, 111.31.200.230:80, msfwifi.3g.qq.com:8080.[0m
+[0m2022-07-25 14:29:26 V/Net 2785766889: Saving bdh session to cache[0m
+[0m2022-07-25 14:29:26 V/Net 2785766889: Saving server list to cache[0m
+[0m2022-07-25 14:29:26 V/Net 2785766889: Send: ConfigPushSvc.PushResp(ConfigPushSvc.PushResp)[0m
+[0m2022-07-25 14:29:26 V/Net 2785766889: Recv: ConfigPushSvc.PushReq[0m
+[0m2022-07-25 14:29:26 V/Net 2785766889: Saving bdh session to cache[0m
+[0m2022-07-25 14:29:26 V/Net 2785766889: Send: ConfigPushSvc.PushResp(ConfigPushSvc.PushResp)[0m
+[0m2022-07-25 14:29:26 V/Net 2785766889: Recv: ConfigPushSvc.PushReq[0m
+[0m2022-07-25 15:26:12 V/Net 2785766889: Loading server list from cache.[0m
+[92m2022-07-25 15:26:12 I/Net 2785766889: Server list: 111.30.170.211:14000, 111.31.205.184:80, 36.155.248.76:14000, 36.155.207.223:14000, 120.232.69.173:443, 111.31.205.168:80, 120.241.150.95:8080, 36.155.213.212:80, 111.31.200.230:80, msfwifi.3g.qq.com:8080.[0m
+[92m2022-07-25 15:26:13 I/Net 2785766889: ECDH key is valid.[0m
+[0m2022-07-25 15:26:13 V/Net 2785766889: Send: wtlogin.exchange_emp[0m
+[0m2022-07-25 15:26:13 V/Net 2785766889: Recv: wtlogin.exchange_emp[0m
+[0m2022-07-25 15:26:13 V/Net 2785766889: Send: StatSvc.register(online)[0m
+[92m2022-07-25 15:26:13 I/Net 2785766889: Server time updated, serverTime: 1658733980, diff: 7ms=0.007s[0m
+[0m2022-07-25 15:26:13 V/Net 2785766889: Recv: StatSvc.register[0m
+[0m2022-07-25 15:26:13 V/Net 2785766889: Loading BdhSession from cache file[0m
+[92m2022-07-25 15:26:13 I/Net 2785766889: Syncing friend message history...[0m
+[92m2022-07-25 15:26:13 I/Net 2785766889: Start loading friend list...[0m
+[0m2022-07-25 15:26:13 V/Net 2785766889: Send: StatSvc.GetDevLoginInfo(StatSvc.GetDevLoginInfo)[0m
+[92m2022-07-25 15:26:13 I/Net 2785766889: Start loading stranger list...[0m
+[0m2022-07-25 15:26:13 V/Net 2785766889: Send: OidbSvc.0x496(OidbSvc.0x496)[0m
+[0m2022-07-25 15:26:13 V/Net 2785766889: Send: OidbSvc.0x5d2_0(OidbSvc.0x5d2_0)[0m
+[0m2022-07-25 15:26:13 V/Net 2785766889: Send: friendlist.getFriendGroupList(friendlist.getFriendGroupList)[0m
+[0m2022-07-25 15:26:13 V/Net 2785766889: Recv: OidbSvc.0x5d2_0[0m
+[92m2022-07-25 15:26:13 I/Net 2785766889: Successfully loaded stranger list: 0 in total[0m
+[0m2022-07-25 15:26:13 V/Net 2785766889: Recv: StatSvc.GetDevLoginInfo[0m
+[92m2022-07-25 15:26:13 I/Net 2785766889: Online OtherClients: HEA1OR(WINDOWS)[0m
+[92m2022-07-25 15:26:13 I/Net 2785766889: Start loading group list...[0m
+[0m2022-07-25 15:26:13 V/Net 2785766889: Recv: OidbSvc.0x496[0m
+[0m2022-07-25 15:26:13 V/Net 2785766889: Send: friendlist.GetTroopListReqV2(friendlist.GetTroopListReqV2)[0m
+[0m2022-07-25 15:26:13 V/Net 2785766889: Recv: friendlist.getFriendGroupList[0m
+[0m2022-07-25 15:26:13 V/Net 2785766889: Loading friend list: 5/5[0m
+[92m2022-07-25 15:26:13 I/Net 2785766889: Successfully loaded friend list: 5 in total[0m
+[0m2022-07-25 15:26:13 V/Net 2785766889: Recv: friendlist.GetTroopListReqV2[0m
+[0m2022-07-25 15:26:13 V/Net 2785766889: Send: friendlist.GetTroopMemberListReq(friendlist.GetTroopMemberListReq)[0m
+[0m2022-07-25 15:26:13 V/Net 2785766889: Send: friendlist.GetTroopMemberListReq(friendlist.GetTroopMemberListReq)[0m
+[0m2022-07-25 15:26:13 V/Net 2785766889: Send: friendlist.GetTroopMemberListReq(friendlist.GetTroopMemberListReq)[0m
+[0m2022-07-25 15:26:13 V/Net 2785766889: Send: friendlist.GetTroopMemberListReq(friendlist.GetTroopMemberListReq)[0m
+[0m2022-07-25 15:26:13 V/Net 2785766889: Send: friendlist.GetTroopMemberListReq(friendlist.GetTroopMemberListReq)[0m
+[0m2022-07-25 15:26:13 V/Net 2785766889: Send: friendlist.GetTroopMemberListReq(friendlist.GetTroopMemberListReq)[0m
+[0m2022-07-25 15:26:14 V/Net 2785766889: Recv: friendlist.GetTroopMemberListReq[0m
+[0m2022-07-25 15:26:14 V/Net 2785766889: Recv: friendlist.GetTroopMemberListReq[0m
+[92m2022-07-25 15:26:14 I/Net 2785766889: Syncing friend message history: Success.[0m
+[0m2022-07-25 15:26:14 V/Net 2785766889: Recv: friendlist.GetTroopMemberListReq[0m
+[0m2022-07-25 15:26:14 V/Net 2785766889: Recv: friendlist.GetTroopMemberListReq[0m
+[0m2022-07-25 15:26:14 V/Net 2785766889: Recv: friendlist.GetTroopMemberListReq[0m
+[0m2022-07-25 15:26:14 V/Net 2785766889: Recv: friendlist.GetTroopMemberListReq[0m
+[92m2022-07-25 15:26:14 I/Net 2785766889: Successfully loaded group list: 6 in total.[0m
+[92m2022-07-25 15:26:14 I/Net 2785766889: Scheduled refresh login session in 19d 23h 55min 0.0s.[0m
+[92m2022-07-25 15:26:14 I/Net 2785766889: Scheduled key refresh in 23h 55min 0.0s.[0m
+[92m2022-07-25 15:26:16 I/Net 2785766889: Server list: 36.155.207.149:14000, 111.33.189.81:80, 120.232.67.218:8080, 36.155.248.76:80, 120.232.31.239:443, 36.155.210.174:14000, 111.31.200.210:80, msfwifi.3g.qq.com:8080, 111.30.169.58:14000, 111.30.187.227:80.[0m
+[0m2022-07-25 15:26:16 V/Net 2785766889: Saving bdh session to cache[0m
+[0m2022-07-25 15:26:16 V/Net 2785766889: Saving server list to cache[0m
+[0m2022-07-25 15:26:16 V/Net 2785766889: Send: ConfigPushSvc.PushResp(ConfigPushSvc.PushResp)[0m
+[0m2022-07-25 15:26:16 V/Net 2785766889: Recv: ConfigPushSvc.PushReq[0m
+[0m2022-07-25 15:26:16 V/Net 2785766889: Saving bdh session to cache[0m
+[0m2022-07-25 15:26:16 V/Net 2785766889: Send: ConfigPushSvc.PushResp(ConfigPushSvc.PushResp)[0m
+[0m2022-07-25 15:26:16 V/Net 2785766889: Recv: ConfigPushSvc.PushReq[0m
+[0m2022-07-25 15:48:20 V/Net 2785766889: Loading server list from cache.[0m
+[92m2022-07-25 15:48:20 I/Net 2785766889: Server list: 36.155.207.149:14000, 111.33.189.81:80, 120.232.67.218:8080, 36.155.248.76:80, 120.232.31.239:443, 36.155.210.174:14000, 111.31.200.210:80, msfwifi.3g.qq.com:8080, 111.30.169.58:14000, 111.30.187.227:80.[0m
+[92m2022-07-25 15:48:21 I/Net 2785766889: ECDH key is valid.[0m
+[0m2022-07-25 15:48:21 V/Net 2785766889: Send: wtlogin.exchange_emp[0m
+[0m2022-07-25 15:48:21 V/Net 2785766889: Recv: wtlogin.exchange_emp[0m
+[0m2022-07-25 15:48:21 V/Net 2785766889: Send: StatSvc.register(online)[0m
+[92m2022-07-25 15:48:21 I/Net 2785766889: Server time updated, serverTime: 1658735308, diff: 7ms=0.007s[0m
+[0m2022-07-25 15:48:21 V/Net 2785766889: Recv: StatSvc.register[0m
+[0m2022-07-25 15:48:21 V/Net 2785766889: Loading BdhSession from cache file[0m
+[92m2022-07-25 15:48:21 I/Net 2785766889: Syncing friend message history...[0m
+[92m2022-07-25 15:48:21 I/Net 2785766889: Start loading friend list...[0m
+[92m2022-07-25 15:48:21 I/Net 2785766889: Start loading stranger list...[0m
+[0m2022-07-25 15:48:21 V/Net 2785766889: Send: StatSvc.GetDevLoginInfo(StatSvc.GetDevLoginInfo)[0m
+[0m2022-07-25 15:48:21 V/Net 2785766889: Send: OidbSvc.0x496(OidbSvc.0x496)[0m
+[0m2022-07-25 15:48:21 V/Net 2785766889: Send: OidbSvc.0x5d2_0(OidbSvc.0x5d2_0)[0m
+[0m2022-07-25 15:48:21 V/Net 2785766889: Send: friendlist.getFriendGroupList(friendlist.getFriendGroupList)[0m
+[92m2022-07-25 15:48:21 I/Net 2785766889: Successfully loaded stranger list: 0 in total[0m
+[0m2022-07-25 15:48:21 V/Net 2785766889: Recv: OidbSvc.0x5d2_0[0m
+[0m2022-07-25 15:48:21 V/Net 2785766889: Recv: StatSvc.GetDevLoginInfo[0m
+[92m2022-07-25 15:48:21 I/Net 2785766889: Online OtherClients: HEA1OR(WINDOWS)[0m
+[0m2022-07-25 15:48:21 V/Net 2785766889: Recv: OidbSvc.0x496[0m
+[92m2022-07-25 15:48:21 I/Net 2785766889: Start loading group list...[0m
+[0m2022-07-25 15:48:21 V/Net 2785766889: Send: friendlist.GetTroopListReqV2(friendlist.GetTroopListReqV2)[0m
+[0m2022-07-25 15:48:21 V/Net 2785766889: Recv: friendlist.getFriendGroupList[0m
+[0m2022-07-25 15:48:21 V/Net 2785766889: Loading friend list: 5/5[0m
+[92m2022-07-25 15:48:21 I/Net 2785766889: Successfully loaded friend list: 5 in total[0m
+[0m2022-07-25 15:48:21 V/Net 2785766889: Recv: friendlist.GetTroopListReqV2[0m
+[0m2022-07-25 15:48:21 V/Net 2785766889: Send: friendlist.GetTroopMemberListReq(friendlist.GetTroopMemberListReq)[0m
+[0m2022-07-25 15:48:21 V/Net 2785766889: Send: friendlist.GetTroopMemberListReq(friendlist.GetTroopMemberListReq)[0m
+[0m2022-07-25 15:48:21 V/Net 2785766889: Send: friendlist.GetTroopMemberListReq(friendlist.GetTroopMemberListReq)[0m
+[0m2022-07-25 15:48:21 V/Net 2785766889: Send: friendlist.GetTroopMemberListReq(friendlist.GetTroopMemberListReq)[0m
+[0m2022-07-25 15:48:21 V/Net 2785766889: Send: friendlist.GetTroopMemberListReq(friendlist.GetTroopMemberListReq)[0m
+[0m2022-07-25 15:48:21 V/Net 2785766889: Send: friendlist.GetTroopMemberListReq(friendlist.GetTroopMemberListReq)[0m
+[0m2022-07-25 15:48:22 V/Net 2785766889: Recv: friendlist.GetTroopMemberListReq[0m
+[0m2022-07-25 15:48:22 V/Net 2785766889: Recv: friendlist.GetTroopMemberListReq[0m
+[92m2022-07-25 15:48:22 I/Net 2785766889: Syncing friend message history: Success.[0m
+[0m2022-07-25 15:48:22 V/Net 2785766889: Recv: friendlist.GetTroopMemberListReq[0m
+[0m2022-07-25 15:48:22 V/Net 2785766889: Recv: friendlist.GetTroopMemberListReq[0m
+[0m2022-07-25 15:48:22 V/Net 2785766889: Recv: friendlist.GetTroopMemberListReq[0m
+[0m2022-07-25 15:48:22 V/Net 2785766889: Recv: friendlist.GetTroopMemberListReq[0m
+[92m2022-07-25 15:48:22 I/Net 2785766889: Successfully loaded group list: 6 in total.[0m
+[92m2022-07-25 15:48:22 I/Net 2785766889: Scheduled key refresh in 23h 55min 0.0s.[0m
+[92m2022-07-25 15:48:22 I/Net 2785766889: Scheduled refresh login session in 19d 23h 55min 0.0s.[0m
+[92m2022-07-25 15:48:24 I/Net 2785766889: Server list: 120.232.65.165:443, 111.31.200.229:14000, 120.232.31.164:8080, 36.155.229.123:14000, 111.31.200.183:80, 111.31.200.230:80, 111.30.169.58:80, 36.155.213.147:14000, msfwifi.3g.qq.com:8080, 36.155.248.73:80.[0m
+[0m2022-07-25 15:48:24 V/Net 2785766889: Saving bdh session to cache[0m
+[0m2022-07-25 15:48:24 V/Net 2785766889: Saving server list to cache[0m
+[0m2022-07-25 15:48:24 V/Net 2785766889: Send: ConfigPushSvc.PushResp(ConfigPushSvc.PushResp)[0m
+[0m2022-07-25 15:48:24 V/Net 2785766889: Recv: ConfigPushSvc.PushReq[0m
+[0m2022-07-25 15:48:24 V/Net 2785766889: Saving bdh session to cache[0m
+[0m2022-07-25 15:48:24 V/Net 2785766889: Send: ConfigPushSvc.PushResp(ConfigPushSvc.PushResp)[0m
+[0m2022-07-25 15:48:24 V/Net 2785766889: Recv: ConfigPushSvc.PushReq[0m
+[0m2022-07-25 16:10:19 V/Net 2785766889: Loading server list from cache.[0m
+[92m2022-07-25 16:10:19 I/Net 2785766889: Server list: 120.232.65.165:443, 111.31.200.229:14000, 120.232.31.164:8080, 36.155.229.123:14000, 111.31.200.183:80, 111.31.200.230:80, 111.30.169.58:80, 36.155.213.147:14000, msfwifi.3g.qq.com:8080, 36.155.248.73:80.[0m
+[92m2022-07-25 16:10:19 I/Net 2785766889: ECDH key is valid.[0m
+[0m2022-07-25 16:10:19 V/Net 2785766889: Send: wtlogin.exchange_emp[0m
+[0m2022-07-25 16:10:19 V/Net 2785766889: Recv: wtlogin.exchange_emp[0m
+[0m2022-07-25 16:10:19 V/Net 2785766889: Send: StatSvc.register(online)[0m
+[92m2022-07-25 16:10:19 I/Net 2785766889: Server time updated, serverTime: 1658736627, diff: 8ms=0.008s[0m
+[0m2022-07-25 16:10:19 V/Net 2785766889: Recv: StatSvc.register[0m
+[0m2022-07-25 16:10:19 V/Net 2785766889: Loading BdhSession from cache file[0m
+[92m2022-07-25 16:10:19 I/Net 2785766889: Syncing friend message history...[0m
+[92m2022-07-25 16:10:19 I/Net 2785766889: Start loading stranger list...[0m
+[92m2022-07-25 16:10:19 I/Net 2785766889: Start loading friend list...[0m
+[0m2022-07-25 16:10:19 V/Net 2785766889: Send: StatSvc.GetDevLoginInfo(StatSvc.GetDevLoginInfo)[0m
+[0m2022-07-25 16:10:19 V/Net 2785766889: Send: OidbSvc.0x496(OidbSvc.0x496)[0m
+[0m2022-07-25 16:10:19 V/Net 2785766889: Send: OidbSvc.0x5d2_0(OidbSvc.0x5d2_0)[0m
+[0m2022-07-25 16:10:19 V/Net 2785766889: Send: friendlist.getFriendGroupList(friendlist.getFriendGroupList)[0m
+[0m2022-07-25 16:10:19 V/Net 2785766889: Recv: OidbSvc.0x5d2_0[0m
+[92m2022-07-25 16:10:19 I/Net 2785766889: Successfully loaded stranger list: 0 in total[0m
+[0m2022-07-25 16:10:19 V/Net 2785766889: Recv: StatSvc.GetDevLoginInfo[0m
+[92m2022-07-25 16:10:19 I/Net 2785766889: Online OtherClients: HEA1OR(WINDOWS)[0m
+[92m2022-07-25 16:10:19 I/Net 2785766889: Start loading group list...[0m
+[0m2022-07-25 16:10:19 V/Net 2785766889: Recv: OidbSvc.0x496[0m
+[0m2022-07-25 16:10:19 V/Net 2785766889: Send: friendlist.GetTroopListReqV2(friendlist.GetTroopListReqV2)[0m
+[0m2022-07-25 16:10:20 V/Net 2785766889: Recv: friendlist.getFriendGroupList[0m
+[0m2022-07-25 16:10:20 V/Net 2785766889: Loading friend list: 5/5[0m
+[92m2022-07-25 16:10:20 I/Net 2785766889: Successfully loaded friend list: 5 in total[0m
+[0m2022-07-25 16:10:20 V/Net 2785766889: Recv: friendlist.GetTroopListReqV2[0m
+[0m2022-07-25 16:10:20 V/Net 2785766889: Send: friendlist.GetTroopMemberListReq(friendlist.GetTroopMemberListReq)[0m
+[0m2022-07-25 16:10:20 V/Net 2785766889: Send: friendlist.GetTroopMemberListReq(friendlist.GetTroopMemberListReq)[0m
+[0m2022-07-25 16:10:20 V/Net 2785766889: Send: friendlist.GetTroopMemberListReq(friendlist.GetTroopMemberListReq)[0m
+[0m2022-07-25 16:10:20 V/Net 2785766889: Send: friendlist.GetTroopMemberListReq(friendlist.GetTroopMemberListReq)[0m
+[0m2022-07-25 16:10:20 V/Net 2785766889: Send: friendlist.GetTroopMemberListReq(friendlist.GetTroopMemberListReq)[0m
+[0m2022-07-25 16:10:20 V/Net 2785766889: Send: friendlist.GetTroopMemberListReq(friendlist.GetTroopMemberListReq)[0m
+[0m2022-07-25 16:10:20 V/Net 2785766889: Recv: friendlist.GetTroopMemberListReq[0m
+[0m2022-07-25 16:10:20 V/Net 2785766889: Recv: friendlist.GetTroopMemberListReq[0m
+[0m2022-07-25 16:10:20 V/Net 2785766889: Recv: friendlist.GetTroopMemberListReq[0m
+[0m2022-07-25 16:10:20 V/Net 2785766889: Recv: friendlist.GetTroopMemberListReq[0m
+[0m2022-07-25 16:10:20 V/Net 2785766889: Recv: friendlist.GetTroopMemberListReq[0m
+[0m2022-07-25 16:10:20 V/Net 2785766889: Recv: friendlist.GetTroopMemberListReq[0m
+[92m2022-07-25 16:10:20 I/Net 2785766889: Successfully loaded group list: 6 in total.[0m
+[92m2022-07-25 16:10:20 I/Net 2785766889: Scheduled refresh login session in 19d 23h 55min 0.0s.[0m
+[92m2022-07-25 16:10:20 I/Net 2785766889: Scheduled key refresh in 23h 55min 0.0s.[0m
+[92m2022-07-25 16:10:20 I/Net 2785766889: Syncing friend message history: Success.[0m
+[92m2022-07-25 16:10:22 I/Net 2785766889: Server list: 111.30.169.83:14000, msfwifi.3g.qq.com:8080, 36.155.248.44:14000, 36.155.213.147:14000, 111.31.205.231:80, 120.232.69.214:8080, 111.30.170.211:80, 120.232.130.74:443, 36.155.245.243:80, 111.31.205.184:80.[0m
+[0m2022-07-25 16:10:22 V/Net 2785766889: Saving bdh session to cache[0m
+[0m2022-07-25 16:10:22 V/Net 2785766889: Saving server list to cache[0m
+[0m2022-07-25 16:10:22 V/Net 2785766889: Send: ConfigPushSvc.PushResp(ConfigPushSvc.PushResp)[0m
+[0m2022-07-25 16:10:22 V/Net 2785766889: Recv: ConfigPushSvc.PushReq[0m
+[0m2022-07-25 16:10:22 V/Net 2785766889: Saving bdh session to cache[0m
+[0m2022-07-25 16:10:22 V/Net 2785766889: Send: ConfigPushSvc.PushResp(ConfigPushSvc.PushResp)[0m
+[0m2022-07-25 16:10:22 V/Net 2785766889: Recv: ConfigPushSvc.PushReq[0m
+[0m2022-07-25 16:14:50 V/Net 2785766889: Send: MessageSvc.PbSendMsg(MessageSvc.PbSendMsg)[0m
+[0m2022-07-25 16:14:50 V/Net 2785766889: Recv: MessageSvc.PbSendMsg[0m
+[0m2022-07-25 16:36:21 V/Net 2785766889: Loading server list from cache.[0m
+[92m2022-07-25 16:36:21 I/Net 2785766889: Server list: 111.30.169.83:14000, msfwifi.3g.qq.com:8080, 36.155.248.44:14000, 36.155.213.147:14000, 111.31.205.231:80, 120.232.69.214:8080, 111.30.170.211:80, 120.232.130.74:443, 36.155.245.243:80, 111.31.205.184:80.[0m
+[92m2022-07-25 16:36:21 I/Net 2785766889: ECDH key is valid.[0m
+[0m2022-07-25 16:36:21 V/Net 2785766889: Send: wtlogin.exchange_emp[0m
+[0m2022-07-25 16:36:22 V/Net 2785766889: Recv: wtlogin.exchange_emp[0m
+[0m2022-07-25 16:36:22 V/Net 2785766889: Send: StatSvc.register(online)[0m
+[92m2022-07-25 16:36:22 I/Net 2785766889: Server time updated, serverTime: 1658738189, diff: 7ms=0.007s[0m
+[0m2022-07-25 16:36:22 V/Net 2785766889: Recv: StatSvc.register[0m
+[0m2022-07-25 16:36:22 V/Net 2785766889: Loading BdhSession from cache file[0m
+[92m2022-07-25 16:36:22 I/Net 2785766889: Syncing friend message history...[0m
+[0m2022-07-25 16:36:22 V/Net 2785766889: Send: StatSvc.GetDevLoginInfo(StatSvc.GetDevLoginInfo)[0m
+[92m2022-07-25 16:36:22 I/Net 2785766889: Start loading friend list...[0m
+[92m2022-07-25 16:36:22 I/Net 2785766889: Start loading stranger list...[0m
+[0m2022-07-25 16:36:22 V/Net 2785766889: Send: OidbSvc.0x496(OidbSvc.0x496)[0m
+[0m2022-07-25 16:36:22 V/Net 2785766889: Send: OidbSvc.0x5d2_0(OidbSvc.0x5d2_0)[0m
+[0m2022-07-25 16:36:22 V/Net 2785766889: Send: friendlist.getFriendGroupList(friendlist.getFriendGroupList)[0m
+[92m2022-07-25 16:36:22 I/Net 2785766889: Successfully loaded stranger list: 0 in total[0m
+[0m2022-07-25 16:36:22 V/Net 2785766889: Recv: OidbSvc.0x5d2_0[0m
+[0m2022-07-25 16:36:22 V/Net 2785766889: Recv: StatSvc.GetDevLoginInfo[0m
+[92m2022-07-25 16:36:22 I/Net 2785766889: No OtherClient online.[0m
+[0m2022-07-25 16:36:22 V/Net 2785766889: Recv: OidbSvc.0x496[0m
+[92m2022-07-25 16:36:22 I/Net 2785766889: Start loading group list...[0m
+[0m2022-07-25 16:36:22 V/Net 2785766889: Send: friendlist.GetTroopListReqV2(friendlist.GetTroopListReqV2)[0m
+[0m2022-07-25 16:36:22 V/Net 2785766889: Recv: friendlist.getFriendGroupList[0m
+[0m2022-07-25 16:36:22 V/Net 2785766889: Loading friend list: 5/5[0m
+[92m2022-07-25 16:36:22 I/Net 2785766889: Successfully loaded friend list: 5 in total[0m
+[0m2022-07-25 16:36:23 V/Net 2785766889: Recv: friendlist.GetTroopListReqV2[0m
+[0m2022-07-25 16:36:23 V/Net 2785766889: Send: friendlist.GetTroopMemberListReq(friendlist.GetTroopMemberListReq)[0m
+[0m2022-07-25 16:36:23 V/Net 2785766889: Send: friendlist.GetTroopMemberListReq(friendlist.GetTroopMemberListReq)[0m
+[0m2022-07-25 16:36:23 V/Net 2785766889: Send: friendlist.GetTroopMemberListReq(friendlist.GetTroopMemberListReq)[0m
+[0m2022-07-25 16:36:23 V/Net 2785766889: Send: friendlist.GetTroopMemberListReq(friendlist.GetTroopMemberListReq)[0m
+[0m2022-07-25 16:36:23 V/Net 2785766889: Send: friendlist.GetTroopMemberListReq(friendlist.GetTroopMemberListReq)[0m
+[0m2022-07-25 16:36:23 V/Net 2785766889: Send: friendlist.GetTroopMemberListReq(friendlist.GetTroopMemberListReq)[0m
+[0m2022-07-25 16:36:23 V/Net 2785766889: Recv: friendlist.GetTroopMemberListReq[0m
+[0m2022-07-25 16:36:23 V/Net 2785766889: Recv: friendlist.GetTroopMemberListReq[0m
+[0m2022-07-25 16:36:23 V/Net 2785766889: Recv: friendlist.GetTroopMemberListReq[0m
+[0m2022-07-25 16:36:23 V/Net 2785766889: Recv: friendlist.GetTroopMemberListReq[0m
+[0m2022-07-25 16:36:23 V/Net 2785766889: Recv: friendlist.GetTroopMemberListReq[0m
+[0m2022-07-25 16:36:23 V/Net 2785766889: Recv: friendlist.GetTroopMemberListReq[0m
+[92m2022-07-25 16:36:23 I/Net 2785766889: Successfully loaded group list: 6 in total.[0m
+[92m2022-07-25 16:36:23 I/Net 2785766889: Scheduled refresh login session in 19d 23h 55min 0.0s.[0m
+[92m2022-07-25 16:36:23 I/Net 2785766889: Scheduled key refresh in 23h 55min 0.0s.[0m
+[92m2022-07-25 16:36:23 I/Net 2785766889: Syncing friend message history: Success.[0m
+[92m2022-07-25 16:36:25 I/Net 2785766889: Server list: 36.155.201.156:14000, msfwifi.3g.qq.com:8080, 111.31.200.170:80, 36.155.227.171:80, 36.155.248.44:14000, 120.232.22.229:443, 111.31.205.231:80, 120.232.130.46:8080, 111.30.170.241:80, 111.30.169.45:14000.[0m
+[0m2022-07-25 16:36:25 V/Net 2785766889: Saving bdh session to cache[0m
+[0m2022-07-25 16:36:25 V/Net 2785766889: Saving server list to cache[0m
+[0m2022-07-25 16:36:25 V/Net 2785766889: Send: ConfigPushSvc.PushResp(ConfigPushSvc.PushResp)[0m
+[0m2022-07-25 16:36:25 V/Net 2785766889: Recv: ConfigPushSvc.PushReq[0m
+[0m2022-07-25 16:36:25 V/Net 2785766889: Saving bdh session to cache[0m
+[0m2022-07-25 16:36:25 V/Net 2785766889: Send: ConfigPushSvc.PushResp(ConfigPushSvc.PushResp)[0m
+[0m2022-07-25 16:36:25 V/Net 2785766889: Recv: ConfigPushSvc.PushReq[0m
+[0m2022-07-25 16:37:28 V/Net 2785766889: Send: MessageSvc.PbSendMsg(MessageSvc.PbSendMsg)[0m
+[0m2022-07-25 16:37:29 V/Net 2785766889: Recv: MessageSvc.PbSendMsg[0m
+[0m2022-07-25 16:38:29 V/Net 2785766889: Send: MessageSvc.PbSendMsg(MessageSvc.PbSendMsg)[0m
+[0m2022-07-25 16:38:30 V/Net 2785766889: Recv: MessageSvc.PbSendMsg[0m
+[0m2022-07-25 16:40:35 V/Net 2785766889: Send: MessageSvc.PbSendMsg(MessageSvc.PbSendMsg)[0m
+[0m2022-07-25 16:40:36 V/Net 2785766889: Recv: MessageSvc.PbSendMsg[0m
+[0m2022-07-25 16:41:27 V/Net 2785766889: Send: StatSvc.GetDevLoginInfo(StatSvc.GetDevLoginInfo)[0m
+[0m2022-07-25 16:41:27 V/Net 2785766889: Recv: StatSvc.GetDevLoginInfo[0m
+[0m2022-07-25 16:41:27 V/Net 2785766889: Recv: MessageSvc.RequestPushStatus[0m
+[0m2022-07-25 16:41:27 V/Net 2785766889: Recv: MessageSvc.RequestPushStatus[0m
+[0m2022-07-25 16:41:27 V/Net 2785766889: Recv: MessageSvc.RequestPushStatus[0m
+[0m2022-07-25 17:11:41 V/Net 2785766889: Loading server list from cache.[0m
+[92m2022-07-25 17:11:41 I/Net 2785766889: Server list: 36.155.201.156:14000, msfwifi.3g.qq.com:8080, 111.31.200.170:80, 36.155.227.171:80, 36.155.248.44:14000, 120.232.22.229:443, 111.31.205.231:80, 120.232.130.46:8080, 111.30.170.241:80, 111.30.169.45:14000.[0m
+[92m2022-07-25 17:11:41 I/Net 2785766889: ECDH key is valid.[0m
+[0m2022-07-25 17:11:41 V/Net 2785766889: Send: wtlogin.exchange_emp[0m
+[0m2022-07-25 17:11:41 V/Net 2785766889: Recv: wtlogin.exchange_emp[0m
+[0m2022-07-25 17:11:41 V/Net 2785766889: Send: StatSvc.register(online)[0m
+[92m2022-07-25 17:11:41 I/Net 2785766889: Server time updated, serverTime: 1658740309, diff: 8ms=0.008s[0m
+[0m2022-07-25 17:11:41 V/Net 2785766889: Recv: StatSvc.register[0m
+[0m2022-07-25 17:11:41 V/Net 2785766889: Loading BdhSession from cache file[0m
+[92m2022-07-25 17:11:41 I/Net 2785766889: Syncing friend message history...[0m
+[92m2022-07-25 17:11:41 I/Net 2785766889: Start loading friend list...[0m
+[92m2022-07-25 17:11:41 I/Net 2785766889: Start loading stranger list...[0m
+[0m2022-07-25 17:11:41 V/Net 2785766889: Send: StatSvc.GetDevLoginInfo(StatSvc.GetDevLoginInfo)[0m
+[0m2022-07-25 17:11:41 V/Net 2785766889: Send: OidbSvc.0x496(OidbSvc.0x496)[0m
+[0m2022-07-25 17:11:41 V/Net 2785766889: Send: OidbSvc.0x5d2_0(OidbSvc.0x5d2_0)[0m
+[0m2022-07-25 17:11:41 V/Net 2785766889: Send: friendlist.getFriendGroupList(friendlist.getFriendGroupList)[0m
+[0m2022-07-25 17:11:41 V/Net 2785766889: Recv: OidbSvc.0x5d2_0[0m
+[92m2022-07-25 17:11:41 I/Net 2785766889: Successfully loaded stranger list: 0 in total[0m
+[0m2022-07-25 17:11:41 V/Net 2785766889: Recv: StatSvc.GetDevLoginInfo[0m
+[92m2022-07-25 17:11:41 I/Net 2785766889: Online OtherClients: HEA1OR(WINDOWS)[0m
+[0m2022-07-25 17:11:41 V/Net 2785766889: Recv: OidbSvc.0x496[0m
+[92m2022-07-25 17:11:41 I/Net 2785766889: Start loading group list...[0m
+[0m2022-07-25 17:11:41 V/Net 2785766889: Send: friendlist.GetTroopListReqV2(friendlist.GetTroopListReqV2)[0m
+[0m2022-07-25 17:11:41 V/Net 2785766889: Recv: friendlist.getFriendGroupList[0m
+[0m2022-07-25 17:11:41 V/Net 2785766889: Loading friend list: 5/5[0m
+[92m2022-07-25 17:11:41 I/Net 2785766889: Successfully loaded friend list: 5 in total[0m
+[0m2022-07-25 17:11:42 V/Net 2785766889: Recv: friendlist.GetTroopListReqV2[0m
+[0m2022-07-25 17:11:42 V/Net 2785766889: Send: friendlist.GetTroopMemberListReq(friendlist.GetTroopMemberListReq)[0m
+[0m2022-07-25 17:11:42 V/Net 2785766889: Send: friendlist.GetTroopMemberListReq(friendlist.GetTroopMemberListReq)[0m
+[0m2022-07-25 17:11:42 V/Net 2785766889: Send: friendlist.GetTroopMemberListReq(friendlist.GetTroopMemberListReq)[0m
+[0m2022-07-25 17:11:42 V/Net 2785766889: Send: friendlist.GetTroopMemberListReq(friendlist.GetTroopMemberListReq)[0m
+[0m2022-07-25 17:11:42 V/Net 2785766889: Send: friendlist.GetTroopMemberListReq(friendlist.GetTroopMemberListReq)[0m
+[0m2022-07-25 17:11:42 V/Net 2785766889: Send: friendlist.GetTroopMemberListReq(friendlist.GetTroopMemberListReq)[0m
+[92m2022-07-25 17:11:42 I/Net 2785766889: Syncing friend message history: Success.[0m
+[0m2022-07-25 17:11:42 V/Net 2785766889: Recv: friendlist.GetTroopMemberListReq[0m
+[0m2022-07-25 17:11:42 V/Net 2785766889: Recv: friendlist.GetTroopMemberListReq[0m
+[0m2022-07-25 17:11:42 V/Net 2785766889: Recv: friendlist.GetTroopMemberListReq[0m
+[0m2022-07-25 17:11:42 V/Net 2785766889: Recv: friendlist.GetTroopMemberListReq[0m
+[0m2022-07-25 17:11:42 V/Net 2785766889: Recv: friendlist.GetTroopMemberListReq[0m
+[0m2022-07-25 17:11:42 V/Net 2785766889: Recv: friendlist.GetTroopMemberListReq[0m
+[92m2022-07-25 17:11:42 I/Net 2785766889: Successfully loaded group list: 6 in total.[0m
+[92m2022-07-25 17:11:42 I/Net 2785766889: Scheduled key refresh in 23h 55min 0.0s.[0m
+[92m2022-07-25 17:11:42 I/Net 2785766889: Scheduled refresh login session in 19d 23h 55min 0.0s.[0m
+[92m2022-07-25 17:11:44 I/Net 2785766889: Server list: 36.155.244.199:14000, 36.155.248.44:80, msfwifi.3g.qq.com:8080, 111.30.169.45:14000, 111.33.189.81:80, 111.31.205.168:80, 111.31.200.183:80, 120.232.69.190:8080, 36.155.201.181:14000, 120.241.150.93:443.[0m
+[0m2022-07-25 17:11:44 V/Net 2785766889: Saving bdh session to cache[0m
+[0m2022-07-25 17:11:44 V/Net 2785766889: Saving server list to cache[0m
+[0m2022-07-25 17:11:44 V/Net 2785766889: Send: ConfigPushSvc.PushResp(ConfigPushSvc.PushResp)[0m
+[0m2022-07-25 17:11:44 V/Net 2785766889: Recv: ConfigPushSvc.PushReq[0m
+[0m2022-07-25 17:11:44 V/Net 2785766889: Saving bdh session to cache[0m
+[0m2022-07-25 17:11:44 V/Net 2785766889: Send: ConfigPushSvc.PushResp(ConfigPushSvc.PushResp)[0m
+[0m2022-07-25 17:11:44 V/Net 2785766889: Recv: ConfigPushSvc.PushReq[0m
+[0m2022-07-25 17:17:59 V/Net 2785766889: Send: MessageSvc.PbSendMsg(MessageSvc.PbSendMsg)[0m
+[0m2022-07-25 17:17:59 V/Net 2785766889: Recv: MessageSvc.PbSendMsg[0m
+[0m2022-07-25 17:18:44 V/Net 2785766889: Send: MessageSvc.PbSendMsg(MessageSvc.PbSendMsg)[0m
+[0m2022-07-25 17:18:44 V/Net 2785766889: Recv: MessageSvc.PbSendMsg[0m
+[0m2022-07-25 17:18:57 V/Net 2785766889: Send: MessageSvc.PbSendMsg(MessageSvc.PbSendMsg)[0m
+[0m2022-07-25 17:18:57 V/Net 2785766889: Recv: MessageSvc.PbSendMsg[0m
+[0m2022-07-25 17:22:15 V/Net 2785766889: Send: MessageSvc.PbSendMsg(MessageSvc.PbSendMsg)[0m
+[0m2022-07-25 17:22:15 V/Net 2785766889: Recv: MessageSvc.PbSendMsg[0m
+[0m2022-07-25 17:24:13 V/Net 2785766889: Send: MessageSvc.PbSendMsg(MessageSvc.PbSendMsg)[0m
+[0m2022-07-25 17:24:13 V/Net 2785766889: Recv: MessageSvc.PbSendMsg[0m
+[0m2022-07-25 17:39:58 V/Net 2785766889: Send: MessageSvc.PbSendMsg(MessageSvc.PbSendMsg)[0m
+[0m2022-07-25 17:39:58 V/Net 2785766889: Recv: MessageSvc.PbSendMsg[0m
+[0m2022-07-25 17:40:59 V/Net 2785766889: Send: MessageSvc.PbSendMsg(MessageSvc.PbSendMsg)[0m
+[0m2022-07-25 17:40:59 V/Net 2785766889: Recv: MessageSvc.PbSendMsg[0m
+[91m2022-07-25 18:06:24 W/Net 2785766889: HeartbeatFailedException: 2785766889.AliveHeartbeat, recoverable=true, cause=PacketTimeoutException(message=2785766889.AliveHeartbeat Scheduler: Timeout receiving action response, cause=kotlinx.coroutines.TimeoutCancellationException: Timed out waiting for 5000 ms)
+HeartbeatFailedException: 2785766889.AliveHeartbeat, recoverable=true, cause=PacketTimeoutException(message=2785766889.AliveHeartbeat Scheduler: Timeout receiving action response, cause=kotlinx.coroutines.TimeoutCancellationException: Timed out waiting for 5000 ms)
+	at net.mamoe.mirai.internal.network.impl.netty.NettyNetworkHandler$StateOK$heartbeatJobs$1$1.invoke(NettyNetworkHandler.kt:369)
+	at net.mamoe.mirai.internal.network.impl.netty.NettyNetworkHandler$StateOK$heartbeatJobs$1$1.invoke(NettyNetworkHandler.kt:369)
+	at net.mamoe.mirai.internal.network.handler.NetworkHandlerSupport.setStateImpl$mirai_core(NetworkHandlerSupport.kt:288)
+	at net.mamoe.mirai.internal.network.impl.netty.NettyNetworkHandler$StateOK$heartbeatJobs$1.invoke(NettyNetworkHandler.kt:421)
+	at net.mamoe.mirai.internal.network.impl.netty.NettyNetworkHandler$StateOK$heartbeatJobs$1.invoke(NettyNetworkHandler.kt:368)
+	at net.mamoe.mirai.internal.network.components.TimeBasedHeartbeatSchedulerImpl$launchHeartbeatJobAsync$1.invokeSuspend(HeartbeatScheduler.kt:130)
+	at kotlin.coroutines.jvm.internal.BaseContinuationImpl.resumeWith(ContinuationImpl.kt:33)
+	at kotlinx.coroutines.internal.ScopeCoroutine.afterResume(Scopes.kt:33)
+	at kotlinx.coroutines.AbstractCoroutine.resumeWith(AbstractCoroutine.kt:102)
+	at kotlin.coroutines.jvm.internal.BaseContinuationImpl.resumeWith(ContinuationImpl.kt:46)
+	at kotlinx.coroutines.internal.ScopeCoroutine.afterResume(Scopes.kt:33)
+	at kotlinx.coroutines.AbstractCoroutine.resumeWith(AbstractCoroutine.kt:102)
+	at kotlin.coroutines.jvm.internal.BaseContinuationImpl.resumeWith(ContinuationImpl.kt:46)
+	at kotlinx.coroutines.DispatchedTask.run(DispatchedTask.kt:104)
+	at kotlinx.coroutines.scheduling.CoroutineScheduler.runSafely(CoroutineScheduler.kt:570)
+	at kotlinx.coroutines.scheduling.CoroutineScheduler$Worker.executeTask(CoroutineScheduler.kt:749)
+	at kotlinx.coroutines.scheduling.CoroutineScheduler$Worker.runWorker(CoroutineScheduler.kt:677)
+	at kotlinx.coroutines.scheduling.CoroutineScheduler$Worker.run(CoroutineScheduler.kt:664)
+Caused by: PacketTimeoutException(message=2785766889.AliveHeartbeat Scheduler: Timeout receiving action response, cause=kotlinx.coroutines.TimeoutCancellationException: Timed out waiting for 5000 ms)
+	at net.mamoe.mirai.internal.network.components.TimeBasedHeartbeatSchedulerImpl$launchHeartbeatJobAsync$1.invokeSuspend(HeartbeatScheduler.kt:132)
+	... 12 more
+Caused by: kotlinx.coroutines.TimeoutCancellationException: Timed out waiting for 5000 ms
+	at kotlinx.coroutines.TimeoutKt.TimeoutCancellationException(Timeout.kt:184)
+	at kotlinx.coroutines.TimeoutCoroutine.run(Timeout.kt:154)
+	at kotlinx.coroutines.EventLoopImplBase$DelayedRunnableTask.run(EventLoop.common.kt:502)
+	at kotlinx.coroutines.EventLoopImplBase.processNextEvent(EventLoop.common.kt:279)
+	at kotlinx.coroutines.DefaultExecutor.run(DefaultExecutor.kt:108)
+	at java.base/java.lang.Thread.run(Thread.java:833)
+[0m
+[91m2022-07-25 18:06:24 W/Net 2785766889: HeartbeatFailedException: 2785766889.AliveHeartbeat, recoverable=true, cause=PacketTimeoutException(message=2785766889.AliveHeartbeat Scheduler: Timeout receiving action response, cause=kotlinx.coroutines.TimeoutCancellationException: Timed out waiting for 5000 ms)
+HeartbeatFailedException: 2785766889.AliveHeartbeat, recoverable=true, cause=PacketTimeoutException(message=2785766889.AliveHeartbeat Scheduler: Timeout receiving action response, cause=kotlinx.coroutines.TimeoutCancellationException: Timed out waiting for 5000 ms)
+	at net.mamoe.mirai.internal.network.impl.netty.NettyNetworkHandler$StateOK$heartbeatJobs$1$1.invoke(NettyNetworkHandler.kt:369)
+	at net.mamoe.mirai.internal.network.impl.netty.NettyNetworkHandler$StateOK$heartbeatJobs$1$1.invoke(NettyNetworkHandler.kt:369)
+	at net.mamoe.mirai.internal.network.handler.NetworkHandlerSupport.setStateImpl$mirai_core(NetworkHandlerSupport.kt:288)
+	at net.mamoe.mirai.internal.network.impl.netty.NettyNetworkHandler$StateOK$heartbeatJobs$1.invoke(NettyNetworkHandler.kt:421)
+	at net.mamoe.mirai.internal.network.impl.netty.NettyNetworkHandler$StateOK$heartbeatJobs$1.invoke(NettyNetworkHandler.kt:368)
+	at net.mamoe.mirai.internal.network.components.TimeBasedHeartbeatSchedulerImpl$launchHeartbeatJobAsync$1.invokeSuspend(HeartbeatScheduler.kt:130)
+	at kotlin.coroutines.jvm.internal.BaseContinuationImpl.resumeWith(ContinuationImpl.kt:33)
+	at kotlinx.coroutines.internal.ScopeCoroutine.afterResume(Scopes.kt:33)
+	at kotlinx.coroutines.AbstractCoroutine.resumeWith(AbstractCoroutine.kt:102)
+	at kotlin.coroutines.jvm.internal.BaseContinuationImpl.resumeWith(ContinuationImpl.kt:46)
+	at kotlinx.coroutines.internal.ScopeCoroutine.afterResume(Scopes.kt:33)
+	at kotlinx.coroutines.AbstractCoroutine.resumeWith(AbstractCoroutine.kt:102)
+	at kotlin.coroutines.jvm.internal.BaseContinuationImpl.resumeWith(ContinuationImpl.kt:46)
+	at kotlinx.coroutines.DispatchedTask.run(DispatchedTask.kt:104)
+	at kotlinx.coroutines.scheduling.CoroutineScheduler.runSafely(CoroutineScheduler.kt:570)
+	at kotlinx.coroutines.scheduling.CoroutineScheduler$Worker.executeTask(CoroutineScheduler.kt:749)
+	at kotlinx.coroutines.scheduling.CoroutineScheduler$Worker.runWorker(CoroutineScheduler.kt:677)
+	at kotlinx.coroutines.scheduling.CoroutineScheduler$Worker.run(CoroutineScheduler.kt:664)
+	Suppressed: StateSwitchingException(old=StateConnecting, new=StateClosed, cause=HeartbeatFailedException: 2785766889.AliveHeartbeat, recoverable=true, cause=PacketTimeoutException(message=2785766889.AliveHeartbeat Scheduler: Timeout receiving action response, cause=kotlinx.coroutines.TimeoutCancellationException: Timed out waiting for 5000 ms))
+		at net.mamoe.mirai.internal.network.handler.NetworkHandlerSupport.setStateImpl$mirai_core(NetworkHandlerSupport.kt:302)
+		at net.mamoe.mirai.internal.network.impl.netty.NettyNetworkHandler.close(NettyNetworkHandler.kt:422)
+		at net.mamoe.mirai.internal.network.handler.selector.SelectorNetworkHandler.close(SelectorNetworkHandler.kt:87)
+		at net.mamoe.mirai.internal.network.components.BotOfflineEventMonitorImpl.onEvent$closeNetwork(BotOfflineEventMonitor.kt:61)
+		at net.mamoe.mirai.internal.network.components.BotOfflineEventMonitorImpl.onEvent(BotOfflineEventMonitor.kt:86)
+		at net.mamoe.mirai.internal.network.components.BotOfflineEventMonitorImpl.access$onEvent(BotOfflineEventMonitor.kt:46)
+		at net.mamoe.mirai.internal.network.components.BotOfflineEventMonitorImpl$attachJob$$inlined$subscribeAlways$default$1.invokeSuspend(EventChannelKotlinExtensions.kt:174)
+		at net.mamoe.mirai.internal.network.components.BotOfflineEventMonitorImpl$attachJob$$inlined$subscribeAlways$default$1.invoke(EventChannelKotlinExtensions.kt)
+		at net.mamoe.mirai.internal.network.components.BotOfflineEventMonitorImpl$attachJob$$inlined$subscribeAlways$default$1.invoke(EventChannelKotlinExtensions.kt)
+		at net.mamoe.mirai.event.EventChannel$subscribeAlways$1.invokeSuspend(EventChannel.kt:511)
+		at net.mamoe.mirai.event.EventChannel$subscribeAlways$1.invoke(EventChannel.kt)
+		at net.mamoe.mirai.event.EventChannel$subscribeAlways$1.invoke(EventChannel.kt)
+		at net.mamoe.mirai.internal.event.SafeListener$onEvent$2.invokeSuspend(SafeListener.kt:58)
+		at net.mamoe.mirai.internal.event.SafeListener$onEvent$2.invoke(SafeListener.kt)
+		at net.mamoe.mirai.internal.event.SafeListener$onEvent$2.invoke(SafeListener.kt)
+		at kotlinx.coroutines.intrinsics.UndispatchedKt.startUndispatchedOrReturn(Undispatched.kt:89)
+		at kotlinx.coroutines.BuildersKt__Builders_commonKt.withContext(Builders.common.kt:166)
+		at kotlinx.coroutines.BuildersKt.withContext(Unknown Source)
+		at net.mamoe.mirai.internal.event.SafeListener.onEvent(SafeListener.kt:58)
+		at net.mamoe.mirai.internal.event.EventListeners.process(EventListeners.kt:119)
+		at net.mamoe.mirai.internal.event.EventListeners.access$process(EventListeners.kt:33)
+		at net.mamoe.mirai.internal.event.EventListeners$callListeners$2$1.invokeSuspend(EventListeners.kt:90)
+		at kotlin.coroutines.jvm.internal.BaseContinuationImpl.resumeWith(ContinuationImpl.kt:33)
+		at kotlinx.coroutines.DispatchedTask.run(DispatchedTask.kt:106)
+		... 4 more
+	Caused by: [CIRCULAR REFERENCE: HeartbeatFailedException: 2785766889.AliveHeartbeat, recoverable=true, cause=PacketTimeoutException(message=2785766889.AliveHeartbeat Scheduler: Timeout receiving action response, cause=kotlinx.coroutines.TimeoutCancellationException: Timed out waiting for 5000 ms)]
+	Suppressed: [CIRCULAR REFERENCE: StateSwitchingException(old=StateConnecting, new=StateClosed, cause=HeartbeatFailedException: 2785766889.AliveHeartbeat, recoverable=true, cause=PacketTimeoutException(message=2785766889.AliveHeartbeat Scheduler: Timeout receiving action response, cause=kotlinx.coroutines.TimeoutCancellationException: Timed out waiting for 5000 ms))]
+Caused by: PacketTimeoutException(message=2785766889.AliveHeartbeat Scheduler: Timeout receiving action response, cause=kotlinx.coroutines.TimeoutCancellationException: Timed out waiting for 5000 ms)
+	at net.mamoe.mirai.internal.network.components.TimeBasedHeartbeatSchedulerImpl$launchHeartbeatJobAsync$1.invokeSuspend(HeartbeatScheduler.kt:132)
+	... 12 more
+Caused by: kotlinx.coroutines.TimeoutCancellationException: Timed out waiting for 5000 ms
+	at kotlinx.coroutines.TimeoutKt.TimeoutCancellationException(Timeout.kt:184)
+	at kotlinx.coroutines.TimeoutCoroutine.run(Timeout.kt:154)
+	at kotlinx.coroutines.EventLoopImplBase$DelayedRunnableTask.run(EventLoop.common.kt:502)
+	at kotlinx.coroutines.EventLoopImplBase.processNextEvent(EventLoop.common.kt:279)
+	at kotlinx.coroutines.DefaultExecutor.run(DefaultExecutor.kt:108)
+	at java.base/java.lang.Thread.run(Thread.java:833)
+[0m
+[91m2022-07-25 18:06:24 W/Net 2785766889: HeartbeatFailedException: 2785766889.AliveHeartbeat, recoverable=true, cause=PacketTimeoutException(message=2785766889.AliveHeartbeat Scheduler: Timeout receiving action response, cause=kotlinx.coroutines.TimeoutCancellationException: Timed out waiting for 5000 ms)
+HeartbeatFailedException: 2785766889.AliveHeartbeat, recoverable=true, cause=PacketTimeoutException(message=2785766889.AliveHeartbeat Scheduler: Timeout receiving action response, cause=kotlinx.coroutines.TimeoutCancellationException: Timed out waiting for 5000 ms)
+	at net.mamoe.mirai.internal.network.impl.netty.NettyNetworkHandler$StateOK$heartbeatJobs$1$1.invoke(NettyNetworkHandler.kt:369)
+	at net.mamoe.mirai.internal.network.impl.netty.NettyNetworkHandler$StateOK$heartbeatJobs$1$1.invoke(NettyNetworkHandler.kt:369)
+	at net.mamoe.mirai.internal.network.handler.NetworkHandlerSupport.setStateImpl$mirai_core(NetworkHandlerSupport.kt:288)
+	at net.mamoe.mirai.internal.network.impl.netty.NettyNetworkHandler$StateOK$heartbeatJobs$1.invoke(NettyNetworkHandler.kt:421)
+	at net.mamoe.mirai.internal.network.impl.netty.NettyNetworkHandler$StateOK$heartbeatJobs$1.invoke(NettyNetworkHandler.kt:368)
+	at net.mamoe.mirai.internal.network.components.TimeBasedHeartbeatSchedulerImpl$launchHeartbeatJobAsync$1.invokeSuspend(HeartbeatScheduler.kt:130)
+	at kotlin.coroutines.jvm.internal.BaseContinuationImpl.resumeWith(ContinuationImpl.kt:33)
+	at kotlinx.coroutines.internal.ScopeCoroutine.afterResume(Scopes.kt:33)
+	at kotlinx.coroutines.AbstractCoroutine.resumeWith(AbstractCoroutine.kt:102)
+	at kotlin.coroutines.jvm.internal.BaseContinuationImpl.resumeWith(ContinuationImpl.kt:46)
+	at kotlinx.coroutines.internal.ScopeCoroutine.afterResume(Scopes.kt:33)
+	at kotlinx.coroutines.AbstractCoroutine.resumeWith(AbstractCoroutine.kt:102)
+	at kotlin.coroutines.jvm.internal.BaseContinuationImpl.resumeWith(ContinuationImpl.kt:46)
+	at kotlinx.coroutines.DispatchedTask.run(DispatchedTask.kt:104)
+	at kotlinx.coroutines.scheduling.CoroutineScheduler.runSafely(CoroutineScheduler.kt:570)
+	at kotlinx.coroutines.scheduling.CoroutineScheduler$Worker.executeTask(CoroutineScheduler.kt:749)
+	at kotlinx.coroutines.scheduling.CoroutineScheduler$Worker.runWorker(CoroutineScheduler.kt:677)
+	at kotlinx.coroutines.scheduling.CoroutineScheduler$Worker.run(CoroutineScheduler.kt:664)
+	Suppressed: StateSwitchingException(old=StateConnecting, new=StateClosed, cause=HeartbeatFailedException: 2785766889.AliveHeartbeat, recoverable=true, cause=PacketTimeoutException(message=2785766889.AliveHeartbeat Scheduler: Timeout receiving action response, cause=kotlinx.coroutines.TimeoutCancellationException: Timed out waiting for 5000 ms))
+		at net.mamoe.mirai.internal.network.handler.NetworkHandlerSupport.setStateImpl$mirai_core(NetworkHandlerSupport.kt:302)
+		at net.mamoe.mirai.internal.network.impl.netty.NettyNetworkHandler.close(NettyNetworkHandler.kt:422)
+		at net.mamoe.mirai.internal.network.handler.selector.SelectorNetworkHandler.close(SelectorNetworkHandler.kt:87)
+		at net.mamoe.mirai.internal.network.components.BotOfflineEventMonitorImpl.onEvent$closeNetwork(BotOfflineEventMonitor.kt:61)
+		at net.mamoe.mirai.internal.network.components.BotOfflineEventMonitorImpl.onEvent(BotOfflineEventMonitor.kt:86)
+		at net.mamoe.mirai.internal.network.components.BotOfflineEventMonitorImpl.access$onEvent(BotOfflineEventMonitor.kt:46)
+		at net.mamoe.mirai.internal.network.components.BotOfflineEventMonitorImpl$attachJob$$inlined$subscribeAlways$default$1.invokeSuspend(EventChannelKotlinExtensions.kt:174)
+		at net.mamoe.mirai.internal.network.components.BotOfflineEventMonitorImpl$attachJob$$inlined$subscribeAlways$default$1.invoke(EventChannelKotlinExtensions.kt)
+		at net.mamoe.mirai.internal.network.components.BotOfflineEventMonitorImpl$attachJob$$inlined$subscribeAlways$default$1.invoke(EventChannelKotlinExtensions.kt)
+		at net.mamoe.mirai.event.EventChannel$subscribeAlways$1.invokeSuspend(EventChannel.kt:511)
+		at net.mamoe.mirai.event.EventChannel$subscribeAlways$1.invoke(EventChannel.kt)
+		at net.mamoe.mirai.event.EventChannel$subscribeAlways$1.invoke(EventChannel.kt)
+		at net.mamoe.mirai.internal.event.SafeListener$onEvent$2.invokeSuspend(SafeListener.kt:58)
+		at net.mamoe.mirai.internal.event.SafeListener$onEvent$2.invoke(SafeListener.kt)
+		at net.mamoe.mirai.internal.event.SafeListener$onEvent$2.invoke(SafeListener.kt)
+		at kotlinx.coroutines.intrinsics.UndispatchedKt.startUndispatchedOrReturn(Undispatched.kt:89)
+		at kotlinx.coroutines.BuildersKt__Builders_commonKt.withContext(Builders.common.kt:166)
+		at kotlinx.coroutines.BuildersKt.withContext(Unknown Source)
+		at net.mamoe.mirai.internal.event.SafeListener.onEvent(SafeListener.kt:58)
+		at net.mamoe.mirai.internal.event.EventListeners.process(EventListeners.kt:119)
+		at net.mamoe.mirai.internal.event.EventListeners.access$process(EventListeners.kt:33)
+		at net.mamoe.mirai.internal.event.EventListeners$callListeners$2$1.invokeSuspend(EventListeners.kt:90)
+		at kotlin.coroutines.jvm.internal.BaseContinuationImpl.resumeWith(ContinuationImpl.kt:33)
+		at kotlinx.coroutines.DispatchedTask.run(DispatchedTask.kt:106)
+		... 4 more
+	Caused by: [CIRCULAR REFERENCE: HeartbeatFailedException: 2785766889.AliveHeartbeat, recoverable=true, cause=PacketTimeoutException(message=2785766889.AliveHeartbeat Scheduler: Timeout receiving action response, cause=kotlinx.coroutines.TimeoutCancellationException: Timed out waiting for 5000 ms)]
+	Suppressed: [CIRCULAR REFERENCE: StateSwitchingException(old=StateConnecting, new=StateClosed, cause=HeartbeatFailedException: 2785766889.AliveHeartbeat, recoverable=true, cause=PacketTimeoutException(message=2785766889.AliveHeartbeat Scheduler: Timeout receiving action response, cause=kotlinx.coroutines.TimeoutCancellationException: Timed out waiting for 5000 ms))]
+Caused by: PacketTimeoutException(message=2785766889.AliveHeartbeat Scheduler: Timeout receiving action response, cause=kotlinx.coroutines.TimeoutCancellationException: Timed out waiting for 5000 ms)
+	at net.mamoe.mirai.internal.network.components.TimeBasedHeartbeatSchedulerImpl$launchHeartbeatJobAsync$1.invokeSuspend(HeartbeatScheduler.kt:132)
+	... 12 more
+Caused by: kotlinx.coroutines.TimeoutCancellationException: Timed out waiting for 5000 ms
+	at kotlinx.coroutines.TimeoutKt.TimeoutCancellationException(Timeout.kt:184)
+	at kotlinx.coroutines.TimeoutCoroutine.run(Timeout.kt:154)
+	at kotlinx.coroutines.EventLoopImplBase$DelayedRunnableTask.run(EventLoop.common.kt:502)
+	at kotlinx.coroutines.EventLoopImplBase.processNextEvent(EventLoop.common.kt:279)
+	at kotlinx.coroutines.DefaultExecutor.run(DefaultExecutor.kt:108)
+	at java.base/java.lang.Thread.run(Thread.java:833)
+[0m
+[0m2022-07-25 18:06:24 V/Net 2785766889: Loading server list from cache.[0m
+[92m2022-07-25 18:06:24 I/Net 2785766889: Server list: 36.155.244.199:14000, 36.155.248.44:80, msfwifi.3g.qq.com:8080, 111.30.169.45:14000, 111.33.189.81:80, 111.31.205.168:80, 111.31.200.183:80, 120.232.69.190:8080, 36.155.201.181:14000, 120.241.150.93:443.[0m
+[92m2022-07-25 18:06:24 I/Net 2785766889: ECDH key is valid.[0m
+[0m2022-07-25 18:06:24 V/Net 2785766889: Send: wtlogin.exchange_emp[0m
+[0m2022-07-25 18:06:25 V/Net 2785766889: Recv: wtlogin.exchange_emp[0m
+[0m2022-07-25 18:06:25 V/Net 2785766889: Send: StatSvc.register(online)[0m
+[92m2022-07-25 18:06:25 I/Net 2785766889: Server time updated, serverTime: 1658743592, diff: 7ms=0.007s[0m
+[0m2022-07-25 18:06:25 V/Net 2785766889: Recv: StatSvc.register[0m
+[92m2022-07-25 18:06:25 I/Net 2785766889: Scheduled key refresh in 23h 55min 0.0s.[0m
+[92m2022-07-25 18:06:25 I/Net 2785766889: Scheduled refresh login session in 19d 23h 55min 0.0s.[0m
+[0m2022-07-25 18:06:25 V/Net 2785766889: Send: MessageSvc.PbSendMsg(MessageSvc.PbSendMsg)[0m
+[0m2022-07-25 18:06:25 V/Net 2785766889: Send: OidbSvc.0xed3(OidbSvc.0xed3)[0m
+[91m2022-07-25 18:06:25 W/Net 2785766889: net.mamoe.mirai.internal.network.components.PacketCodecException: java.lang.IllegalStateException: Received packet returnCode = -10106, which may mean session expired.
+net.mamoe.mirai.internal.network.components.PacketCodecException: java.lang.IllegalStateException: Received packet returnCode = -10106, which may mean session expired.
+	at net.mamoe.mirai.internal.network.components.PacketCodecImpl.parseSsoFrame(PacketCodec.kt:178)
+	at net.mamoe.mirai.internal.network.components.PacketCodecImpl.decodeRaw(PacketCodec.kt:128)
+	at net.mamoe.mirai.internal.network.impl.netty.NettyNetworkHandler$ByteBufToIncomingPacketDecoder.channelRead0(NettyNetworkHandler.kt:95)
+	at net.mamoe.mirai.internal.network.impl.netty.NettyNetworkHandler$ByteBufToIncomingPacketDecoder.channelRead0(NettyNetworkHandler.kt:88)
+	at io.netty.channel.SimpleChannelInboundHandler.channelRead(SimpleChannelInboundHandler.java:99)
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:379)
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:365)
+	at io.netty.channel.AbstractChannelHandlerContext.fireChannelRead(AbstractChannelHandlerContext.java:357)
+	at io.netty.handler.codec.ByteToMessageDecoder.fireChannelRead(ByteToMessageDecoder.java:324)
+	at io.netty.handler.codec.ByteToMessageDecoder.channelRead(ByteToMessageDecoder.java:296)
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:379)
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:365)
+	at io.netty.channel.AbstractChannelHandlerContext.fireChannelRead(AbstractChannelHandlerContext.java:357)
+	at io.netty.channel.DefaultChannelPipeline$HeadContext.channelRead(DefaultChannelPipeline.java:1410)
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:379)
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:365)
+	at io.netty.channel.DefaultChannelPipeline.fireChannelRead(DefaultChannelPipeline.java:919)
+	at io.netty.channel.nio.AbstractNioByteChannel$NioByteUnsafe.read(AbstractNioByteChannel.java:166)
+	at io.netty.channel.nio.NioEventLoop.processSelectedKey(NioEventLoop.java:719)
+	at io.netty.channel.nio.NioEventLoop.processSelectedKeysOptimized(NioEventLoop.java:655)
+	at io.netty.channel.nio.NioEventLoop.processSelectedKeys(NioEventLoop.java:581)
+	at io.netty.channel.nio.NioEventLoop.run(NioEventLoop.java:493)
+	at io.netty.util.concurrent.SingleThreadEventExecutor$4.run(SingleThreadEventExecutor.java:989)
+	at io.netty.util.internal.ThreadExecutorMap$2.run(ThreadExecutorMap.java:74)
+	at io.netty.util.concurrent.FastThreadLocalRunnable.run(FastThreadLocalRunnable.java:30)
+	at java.base/java.lang.Thread.run(Thread.java:833)
+Caused by: java.lang.IllegalStateException: Received packet returnCode = -10106, which may mean session expired.
+	at net.mamoe.mirai.internal.network.components.PacketCodecException.<init>(PacketCodec.kt:73)
+	... 26 more
+[0m
+[0m2022-07-25 18:06:25 V/Net 2785766889: Loading server list from cache.[0m
+[92m2022-07-25 18:06:25 I/Net 2785766889: Server list: 36.155.244.199:14000, 36.155.248.44:80, msfwifi.3g.qq.com:8080, 111.30.169.45:14000, 111.33.189.81:80, 111.31.205.168:80, 111.31.200.183:80, 120.232.69.190:8080, 36.155.201.181:14000, 120.241.150.93:443.[0m
+[92m2022-07-25 18:06:25 I/Net 2785766889: ECDH key is valid.[0m
+[0m2022-07-25 18:06:25 V/Net 2785766889: Send: wtlogin.exchange_emp[0m
+[0m2022-07-25 18:06:25 V/Net 2785766889: Recv: wtlogin.exchange_emp[0m
+[0m2022-07-25 18:06:25 V/Net 2785766889: Send: StatSvc.register(online)[0m
+[92m2022-07-25 18:06:25 I/Net 2785766889: Server time updated, serverTime: 1658743592, diff: 7ms=0.007s[0m
+[0m2022-07-25 18:06:25 V/Net 2785766889: Recv: StatSvc.register[0m
+[92m2022-07-25 18:06:25 I/Net 2785766889: Scheduled refresh login session in 19d 23h 55min 0.0s.[0m
+[92m2022-07-25 18:06:25 I/Net 2785766889: Scheduled key refresh in 23h 55min 0.0s.[0m
+[92m2022-07-25 18:06:28 I/Net 2785766889: Server list: 111.30.187.249:80, 111.31.205.202:80, 111.31.205.243:14000, 120.232.130.47:443, msfwifi.3g.qq.com:8080, 36.155.201.156:14000, 36.155.248.44:14000, 36.155.207.223:80, 120.232.31.221:8080, 111.31.205.168:80.[0m
+[0m2022-07-25 18:06:28 V/Net 2785766889: Saving bdh session to cache[0m
+[0m2022-07-25 18:06:28 V/Net 2785766889: Saving server list to cache[0m
+[0m2022-07-25 18:06:28 V/Net 2785766889: Send: ConfigPushSvc.PushResp(ConfigPushSvc.PushResp)[0m
+[0m2022-07-25 18:06:28 V/Net 2785766889: Recv: ConfigPushSvc.PushReq[0m
+[0m2022-07-25 18:06:28 V/Net 2785766889: Saving bdh session to cache[0m
+[0m2022-07-25 18:06:28 V/Net 2785766889: Send: ConfigPushSvc.PushResp(ConfigPushSvc.PushResp)[0m
+[0m2022-07-25 18:06:28 V/Net 2785766889: Recv: ConfigPushSvc.PushReq[0m
+[0m2022-07-25 18:06:30 V/Net 2785766889: Send: OidbSvc.0xed3(OidbSvc.0xed3)[0m
+[0m2022-07-25 18:06:30 V/Net 2785766889: Send: MessageSvc.PbSendMsg(MessageSvc.PbSendMsg)[0m
+[0m2022-07-25 18:06:30 V/Net 2785766889: Send: ImgStore.GroupPicUp(ImgStore.GroupPicUp)[0m
+[0m2022-07-25 18:06:30 V/Net 2785766889: Send: ImgStore.GroupPicUp(ImgStore.GroupPicUp)[0m
+[0m2022-07-25 18:06:31 V/Net 2785766889: Recv: ImgStore.GroupPicUp[0m
+[0m2022-07-25 18:06:31 V/Net 2785766889: Send: MessageSvc.PbSendMsg(MessageSvc.PbSendMsg)[0m
+[0m2022-07-25 18:06:31 V/Net 2785766889: Recv: ImgStore.GroupPicUp[0m
+[0m2022-07-25 18:06:31 V/Net 2785766889: Send: MessageSvc.PbSendMsg(MessageSvc.PbSendMsg)[0m
+[0m2022-07-25 18:06:31 V/Net 2785766889: Recv: MessageSvc.PbSendMsg[0m
+[0m2022-07-25 18:06:32 V/Net 2785766889: Recv: MessageSvc.PbSendMsg[0m
+[0m2022-07-25 18:07:25 V/Net 2785766889: Send: MessageSvc.PbSendMsg(MessageSvc.PbSendMsg)[0m
+[0m2022-07-25 18:07:25 V/Net 2785766889: Recv: MessageSvc.PbSendMsg[0m
+[0m2022-07-25 18:07:26 V/Net 2785766889: Send: ImgStore.GroupPicUp(ImgStore.GroupPicUp)[0m
+[0m2022-07-25 18:07:26 V/Net 2785766889: Recv: ImgStore.GroupPicUp[0m
+[0m2022-07-25 18:07:26 V/Net 2785766889: Send: MessageSvc.PbSendMsg(MessageSvc.PbSendMsg)[0m
+[0m2022-07-25 18:07:27 V/Net 2785766889: Recv: MessageSvc.PbSendMsg[0m
+[0m2022-07-25 18:07:51 V/Net 2785766889: Send: MessageSvc.PbSendMsg(MessageSvc.PbSendMsg)[0m
+[0m2022-07-25 18:07:52 V/Net 2785766889: Recv: MessageSvc.PbSendMsg[0m
+[0m2022-07-25 18:07:53 V/Net 2785766889: Send: OidbSvc.0xed3(OidbSvc.0xed3)[0m
+[0m2022-07-25 18:07:53 V/Net 2785766889: Recv: OidbSvc.0xed3[0m
+[0m2022-07-25 18:07:54 V/Net 2785766889: Send: MessageSvc.PbSendMsg(MessageSvc.PbSendMsg)[0m
+[0m2022-07-25 18:07:54 V/Net 2785766889: Recv: MessageSvc.PbSendMsg[0m
+[0m2022-07-25 18:07:56 V/Net 2785766889: Send: ImgStore.GroupPicUp(ImgStore.GroupPicUp)[0m
+[0m2022-07-25 18:07:57 V/Net 2785766889: Recv: ImgStore.GroupPicUp[0m
+[0m2022-07-25 18:07:57 V/Net 2785766889: Send: MessageSvc.PbSendMsg(MessageSvc.PbSendMsg)[0m
+[0m2022-07-25 18:07:58 V/Net 2785766889: Recv: MessageSvc.PbSendMsg[0m
+[0m2022-07-25 18:08:03 V/Net 2785766889: Send: MessageSvc.PbSendMsg(MessageSvc.PbSendMsg)[0m
+[0m2022-07-25 18:08:03 V/Net 2785766889: Recv: MessageSvc.PbSendMsg[0m
+[0m2022-07-25 18:08:05 V/Net 2785766889: Send: OidbSvc.0xed3(OidbSvc.0xed3)[0m
+[0m2022-07-25 18:08:05 V/Net 2785766889: Recv: OidbSvc.0xed3[0m
+[0m2022-07-25 18:08:06 V/Net 2785766889: Send: MessageSvc.PbSendMsg(MessageSvc.PbSendMsg)[0m
+[0m2022-07-25 18:08:06 V/Net 2785766889: Recv: MessageSvc.PbSendMsg[0m
+[0m2022-07-25 18:08:07 V/Net 2785766889: Send: ImgStore.GroupPicUp(ImgStore.GroupPicUp)[0m
+[0m2022-07-25 18:08:07 V/Net 2785766889: Recv: ImgStore.GroupPicUp[0m
+[0m2022-07-25 18:08:07 V/Net 2785766889: Send: MessageSvc.PbSendMsg(MessageSvc.PbSendMsg)[0m
+[0m2022-07-25 18:08:08 V/Net 2785766889: Recv: MessageSvc.PbSendMsg[0m
+[0m2022-07-25 18:08:22 V/Net 2785766889: Send: MessageSvc.PbSendMsg(MessageSvc.PbSendMsg)[0m
+[0m2022-07-25 18:08:22 V/Net 2785766889: Recv: MessageSvc.PbSendMsg[0m
+[0m2022-07-25 18:08:44 V/Net 2785766889: Send: OidbSvc.0xb77_9(OidbSvc.0xb77_9)[0m
+[0m2022-07-25 18:08:44 V/Net 2785766889: Recv: OidbSvc.0xb77_9[0m
+[0m2022-07-25 18:09:04 V/Net 2785766889: Send: MessageSvc.PbSendMsg(MessageSvc.PbSendMsg)[0m
+[0m2022-07-25 18:09:04 V/Net 2785766889: Recv: MessageSvc.PbSendMsg[0m
+[0m2022-07-25 18:09:05 V/Net 2785766889: Send: ImgStore.GroupPicUp(ImgStore.GroupPicUp)[0m
+[0m2022-07-25 18:09:05 V/Net 2785766889: Recv: ImgStore.GroupPicUp[0m
+[0m2022-07-25 18:09:05 V/Net 2785766889: Send: MessageSvc.PbSendMsg(MessageSvc.PbSendMsg)[0m
+[0m2022-07-25 18:09:06 V/Net 2785766889: Recv: MessageSvc.PbSendMsg[0m
+[0m2022-07-25 18:11:13 V/Net 2785766889: Send: OidbSvc.0xb77_9(OidbSvc.0xb77_9)[0m
+[0m2022-07-25 18:11:14 V/Net 2785766889: Recv: OidbSvc.0xb77_9[0m
+[0m2022-07-25 18:11:27 V/Net 2785766889: Send: MessageSvc.PbSendMsg(MessageSvc.PbSendMsg)[0m
+[0m2022-07-25 18:11:28 V/Net 2785766889: Recv: MessageSvc.PbSendMsg[0m
+[0m2022-07-25 18:11:33 V/Net 2785766889: Send: OidbSvc.0xb77_9(OidbSvc.0xb77_9)[0m
+[0m2022-07-25 18:11:33 V/Net 2785766889: Recv: OidbSvc.0xb77_9[0m
+[0m2022-07-25 18:11:42 V/Net 2785766889: Send: OidbSvc.0xb77_9(OidbSvc.0xb77_9)[0m
+[0m2022-07-25 18:11:43 V/Net 2785766889: Recv: OidbSvc.0xb77_9[0m
+[0m2022-07-25 18:11:55 V/Net 2785766889: Send: OidbSvc.0xb77_9(OidbSvc.0xb77_9)[0m
+[0m2022-07-25 18:11:55 V/Net 2785766889: Recv: OidbSvc.0xb77_9[0m
+[0m2022-07-25 18:12:02 V/Net 2785766889: Send: OidbSvc.0xb77_9(OidbSvc.0xb77_9)[0m
+[0m2022-07-25 18:12:02 V/Net 2785766889: Recv: OidbSvc.0xb77_9[0m
+[0m2022-07-25 18:12:09 V/Net 2785766889: Send: OidbSvc.0xb77_9(OidbSvc.0xb77_9)[0m
+[0m2022-07-25 18:12:09 V/Net 2785766889: Recv: OidbSvc.0xb77_9[0m
+[0m2022-07-25 18:12:18 V/Net 2785766889: Send: OidbSvc.0xb77_9(OidbSvc.0xb77_9)[0m
+[0m2022-07-25 18:12:19 V/Net 2785766889: Recv: OidbSvc.0xb77_9[0m
+[0m2022-07-25 18:12:27 V/Net 2785766889: Send: OidbSvc.0xb77_9(OidbSvc.0xb77_9)[0m
+[0m2022-07-25 18:12:27 V/Net 2785766889: Recv: OidbSvc.0xb77_9[0m
+[0m2022-07-25 18:14:07 V/Net 2785766889: Send: MessageSvc.PbSendMsg(MessageSvc.PbSendMsg)[0m
+[0m2022-07-25 18:14:07 V/Net 2785766889: Recv: MessageSvc.PbSendMsg[0m
+[0m2022-07-25 18:14:21 V/Net 2785766889: Send: MessageSvc.PbSendMsg(MessageSvc.PbSendMsg)[0m
+[0m2022-07-25 18:14:21 V/Net 2785766889: Recv: MessageSvc.PbSendMsg[0m
+[0m2022-07-25 18:15:29 V/Net 2785766889: Send: MessageSvc.PbSendMsg(MessageSvc.PbSendMsg)[0m
+[0m2022-07-25 18:15:30 V/Net 2785766889: Recv: MessageSvc.PbSendMsg[0m
+[0m2022-07-25 18:16:07 V/Net 2785766889: Send: MessageSvc.PbSendMsg(MessageSvc.PbSendMsg)[0m
+[0m2022-07-25 18:16:08 V/Net 2785766889: Recv: MessageSvc.PbSendMsg[0m
+[0m2022-07-25 18:16:42 V/Net 2785766889: Send: MessageSvc.PbSendMsg(MessageSvc.PbSendMsg)[0m
+[0m2022-07-25 18:16:43 V/Net 2785766889: Recv: MessageSvc.PbSendMsg[0m
+[0m2022-07-25 18:17:47 V/Net 2785766889: Send: MessageSvc.PbSendMsg(MessageSvc.PbSendMsg)[0m
+[0m2022-07-25 18:17:48 V/Net 2785766889: Recv: MessageSvc.PbSendMsg[0m
+[0m2022-07-25 18:17:49 V/Net 2785766889: Send: OidbSvc.0xed3(OidbSvc.0xed3)[0m
+[0m2022-07-25 18:17:49 V/Net 2785766889: Recv: OidbSvc.0xed3[0m
+[0m2022-07-25 18:17:50 V/Net 2785766889: Send: MessageSvc.PbSendMsg(MessageSvc.PbSendMsg)[0m
+[0m2022-07-25 18:17:50 V/Net 2785766889: Recv: MessageSvc.PbSendMsg[0m
+[0m2022-07-25 18:17:51 V/Net 2785766889: Send: ImgStore.GroupPicUp(ImgStore.GroupPicUp)[0m
+[0m2022-07-25 18:17:51 V/Net 2785766889: Recv: ImgStore.GroupPicUp[0m
+[0m2022-07-25 18:17:51 V/Net 2785766889: Send: MessageSvc.PbSendMsg(MessageSvc.PbSendMsg)[0m
+[0m2022-07-25 18:17:52 V/Net 2785766889: Recv: MessageSvc.PbSendMsg[0m
+[0m2022-07-25 18:18:17 V/Net 2785766889: Send: OidbSvc.0xb77_9(OidbSvc.0xb77_9)[0m
+[0m2022-07-25 18:18:17 V/Net 2785766889: Recv: OidbSvc.0xb77_9[0m
+[0m2022-07-25 18:18:39 V/Net 2785766889: Send: OidbSvc.0xb77_9(OidbSvc.0xb77_9)[0m
+[0m2022-07-25 18:18:39 V/Net 2785766889: Recv: OidbSvc.0xb77_9[0m
+[0m2022-07-25 18:19:54 V/Net 2785766889: Send: MessageSvc.PbSendMsg(MessageSvc.PbSendMsg)[0m
+[0m2022-07-25 18:19:54 V/Net 2785766889: Recv: MessageSvc.PbSendMsg[0m
+[0m2022-07-25 18:19:55 V/Net 2785766889: Send: MessageSvc.PbSendMsg(MessageSvc.PbSendMsg)[0m
+[0m2022-07-25 18:19:56 V/Net 2785766889: Recv: MessageSvc.PbSendMsg[0m
+[0m2022-07-25 18:20:09 V/Net 2785766889: Send: MessageSvc.PbSendMsg(MessageSvc.PbSendMsg)[0m
+[0m2022-07-25 18:20:09 V/Net 2785766889: Recv: MessageSvc.PbSendMsg[0m
+[0m2022-07-25 18:21:00 V/Net 2785766889: Send: MessageSvc.PbSendMsg(MessageSvc.PbSendMsg)[0m
+[0m2022-07-25 18:21:00 V/Net 2785766889: Recv: MessageSvc.PbSendMsg[0m
+[0m2022-07-25 18:21:01 V/Net 2785766889: Send: MessageSvc.PbSendMsg(MessageSvc.PbSendMsg)[0m
+[0m2022-07-25 18:21:02 V/Net 2785766889: Recv: MessageSvc.PbSendMsg[0m
+[0m2022-07-25 18:21:25 V/Net 2785766889: Send: ProfileService.Pb.ReqSystemMsgNew.Friend(ProfileService.Pb.ReqSystemMsgNew.Friend)[0m
+[0m2022-07-25 18:21:25 V/Net 2785766889: Recv: ProfileService.Pb.ReqSystemMsgNew.Friend[0m
+[0m2022-07-25 18:21:25 V/Net 2785766889: Send: ProfileService.Pb.ReqSystemMsgAction.Friend(ProfileService.Pb.ReqSystemMsgAction.Friend)[0m
+[0m2022-07-25 18:21:41 V/Net 2785766889: Send: MessageSvc.PbSendMsg(MessageSvc.PbSendMsg)[0m
+[0m2022-07-25 18:21:41 V/Net 2785766889: Recv: MessageSvc.PbSendMsg[0m
+[0m2022-07-25 18:22:11 V/Net 2785766889: Send: MessageSvc.PbSendMsg(MessageSvc.PbSendMsg)[0m
+[0m2022-07-25 18:22:11 V/Net 2785766889: Recv: MessageSvc.PbSendMsg[0m
+[0m2022-07-25 18:22:12 V/Net 2785766889: Send: MessageSvc.PbSendMsg(MessageSvc.PbSendMsg)[0m
+[0m2022-07-25 18:22:13 V/Net 2785766889: Recv: MessageSvc.PbSendMsg[0m
+[0m2022-07-25 18:22:16 V/Net 2785766889: Send: MessageSvc.PbSendMsg(MessageSvc.PbSendMsg)[0m
+[0m2022-07-25 18:22:16 V/Net 2785766889: Recv: MessageSvc.PbSendMsg[0m
+[0m2022-07-25 18:23:07 V/Net 2785766889: Send: MessageSvc.PbSendMsg(MessageSvc.PbSendMsg)[0m
+[0m2022-07-25 18:23:07 V/Net 2785766889: Recv: MessageSvc.PbSendMsg[0m
+[0m2022-07-25 18:23:33 V/Net 2785766889: Send: MessageSvc.PbSendMsg(MessageSvc.PbSendMsg)[0m
+[0m2022-07-25 18:23:33 V/Net 2785766889: Recv: MessageSvc.PbSendMsg[0m
+[0m2022-07-25 18:23:34 V/Net 2785766889: Send: MessageSvc.PbSendMsg(MessageSvc.PbSendMsg)[0m
+[0m2022-07-25 18:23:34 V/Net 2785766889: Recv: MessageSvc.PbSendMsg[0m
+[0m2022-07-25 18:23:38 V/Net 2785766889: Send: MessageSvc.PbSendMsg(MessageSvc.PbSendMsg)[0m
+[0m2022-07-25 18:23:38 V/Net 2785766889: Recv: MessageSvc.PbSendMsg[0m
+[0m2022-07-25 18:25:54 V/Net 2785766889: Send: MessageSvc.PbSendMsg(MessageSvc.PbSendMsg)[0m
+[0m2022-07-25 18:25:54 V/Net 2785766889: Recv: MessageSvc.PbSendMsg[0m
+[0m2022-07-25 18:26:26 V/Net 2785766889: Send: MessageSvc.PbSendMsg(MessageSvc.PbSendMsg)[0m
+[0m2022-07-25 18:26:26 V/Net 2785766889: Recv: MessageSvc.PbSendMsg[0m
+[0m2022-07-25 18:27:06 V/Net 2785766889: Send: MessageSvc.PbSendMsg(MessageSvc.PbSendMsg)[0m
+[0m2022-07-25 18:27:06 V/Net 2785766889: Recv: MessageSvc.PbSendMsg[0m
+[0m2022-07-25 18:27:31 V/Net 2785766889: Send: MessageSvc.PbSendMsg(MessageSvc.PbSendMsg)[0m
+[0m2022-07-25 18:27:31 V/Net 2785766889: Recv: MessageSvc.PbSendMsg[0m
+[0m2022-07-25 18:28:00 V/Net 2785766889: Send: MessageSvc.PbSendMsg(MessageSvc.PbSendMsg)[0m
+[0m2022-07-25 18:28:01 V/Net 2785766889: Recv: MessageSvc.PbSendMsg[0m
+[0m2022-07-25 18:28:03 V/Net 2785766889: Send: ImgStore.GroupPicUp(ImgStore.GroupPicUp)[0m
+[0m2022-07-25 18:28:03 V/Net 2785766889: Recv: ImgStore.GroupPicUp[0m
+[0m2022-07-25 18:28:03 V/Net 2785766889: Send: MessageSvc.PbSendMsg(MessageSvc.PbSendMsg)[0m
+[0m2022-07-25 18:28:04 V/Net 2785766889: Recv: MessageSvc.PbSendMsg[0m
+[0m2022-07-25 18:28:11 V/Net 2785766889: Send: MessageSvc.PbSendMsg(MessageSvc.PbSendMsg)[0m
+[0m2022-07-25 18:28:11 V/Net 2785766889: Recv: MessageSvc.PbSendMsg[0m
+[0m2022-07-25 18:28:12 V/Net 2785766889: Send: MessageSvc.PbSendMsg(MessageSvc.PbSendMsg)[0m
+[0m2022-07-25 18:28:12 V/Net 2785766889: Recv: MessageSvc.PbSendMsg[0m
+[0m2022-07-25 18:28:35 V/Net 2785766889: Send: MessageSvc.PbSendMsg(MessageSvc.PbSendMsg)[0m
+[0m2022-07-25 18:28:36 V/Net 2785766889: Recv: MessageSvc.PbSendMsg[0m
+[0m2022-07-25 18:29:51 V/Net 2785766889: Send: MessageSvc.PbSendMsg(MessageSvc.PbSendMsg)[0m
+[0m2022-07-25 18:29:52 V/Net 2785766889: Recv: MessageSvc.PbSendMsg[0m
+[0m2022-07-25 18:30:01 V/Net 2785766889: Send: MessageSvc.PbSendMsg(MessageSvc.PbSendMsg)[0m
+[0m2022-07-25 18:30:01 V/Net 2785766889: Recv: MessageSvc.PbSendMsg[0m
+[0m2022-07-25 19:46:38 V/Net 2785766889: Send: ImgStore.GroupPicUp(ImgStore.GroupPicUp)[0m
+[0m2022-07-25 19:46:38 V/Net 2785766889: Recv: ImgStore.GroupPicUp[0m
+[0m2022-07-25 19:46:38 V/Net 2785766889: Send: MessageSvc.PbSendMsg(MessageSvc.PbSendMsg)[0m
+[0m2022-07-25 19:46:39 V/Net 2785766889: Recv: MessageSvc.PbSendMsg[0m
+[0m2022-07-25 19:46:52 V/Net 2785766889: Send: ImgStore.GroupPicUp(ImgStore.GroupPicUp)[0m
+[0m2022-07-25 19:46:52 V/Net 2785766889: Recv: ImgStore.GroupPicUp[0m
+[0m2022-07-25 19:46:52 V/Net 2785766889: Send: MessageSvc.PbSendMsg(MessageSvc.PbSendMsg)[0m
+[0m2022-07-25 19:46:53 V/Net 2785766889: Recv: MessageSvc.PbSendMsg[0m
+[0m2022-07-25 19:50:15 V/Net 2785766889: Send: MessageSvc.PbSendMsg(MessageSvc.PbSendMsg)[0m
+[0m2022-07-25 19:50:15 V/Net 2785766889: Recv: MessageSvc.PbSendMsg[0m
+[0m2022-07-25 19:50:16 V/Net 2785766889: Send: OidbSvc.0xed3(OidbSvc.0xed3)[0m
+[0m2022-07-25 19:50:16 V/Net 2785766889: Recv: OidbSvc.0xed3[0m
+[0m2022-07-25 19:50:17 V/Net 2785766889: Send: MessageSvc.PbSendMsg(MessageSvc.PbSendMsg)[0m
+[0m2022-07-25 19:50:18 V/Net 2785766889: Recv: MessageSvc.PbSendMsg[0m
+[0m2022-07-25 19:50:20 V/Net 2785766889: Send: ImgStore.GroupPicUp(ImgStore.GroupPicUp)[0m
+[0m2022-07-25 19:50:20 V/Net 2785766889: Recv: ImgStore.GroupPicUp[0m
+[0m2022-07-25 19:50:20 V/Net 2785766889: Send: MessageSvc.PbSendMsg(MessageSvc.PbSendMsg)[0m
+[0m2022-07-25 19:50:20 V/Net 2785766889: Recv: MessageSvc.PbSendMsg[0m
+[0m2022-07-25 19:50:33 V/Net 2785766889: Recv: MessageSvc.PushForceOffline[0m
+[91m2022-07-25 19:50:33 W/Net 2785766889: net.mamoe.mirai.internal.network.impl.netty.ForceOfflineException: 你的QQ号于19:50在【JEF-AN00】设备登录，当前设备已下线。如果这不是你本人操作，那么你的QQ密码可能已经泄露，请尽快重新登录并修改密码。
+net.mamoe.mirai.internal.network.impl.netty.ForceOfflineException: 你的QQ号于19:50在【JEF-AN00】设备登录，当前设备已下线。如果这不是你本人操作，那么你的QQ密码可能已经泄露，请尽快重新登录并修改密码。
+	at net.mamoe.mirai.internal.network.protocol.packet.chat.receive.MessageSvcPushForceOffline.handle(MessageSvc.PushForceOffline.kt:35)
+	at net.mamoe.mirai.internal.network.protocol.packet.chat.receive.MessageSvcPushForceOffline.handle(MessageSvc.PushForceOffline.kt:25)
+	at net.mamoe.mirai.internal.network.components.CallPacketFactoryPacketHandler.handlePacket(PacketHandler.kt:110)
+	at net.mamoe.mirai.internal.network.components.PacketHandlerChain.handlePacket(PacketHandler.kt:42)
+	at net.mamoe.mirai.internal.network.handler.NetworkHandlerSupport$collectReceived$3.invokeSuspend(NetworkHandlerSupport.kt:90)
+	at net.mamoe.mirai.internal.network.handler.NetworkHandlerSupport$collectReceived$3.invoke(NetworkHandlerSupport.kt)
+	at net.mamoe.mirai.internal.network.handler.NetworkHandlerSupport$collectReceived$3.invoke(NetworkHandlerSupport.kt)
+	at kotlinx.coroutines.intrinsics.UndispatchedKt.startCoroutineUndispatched(Undispatched.kt:55)
+	at kotlinx.coroutines.CoroutineStart.invoke(CoroutineStart.kt:112)
+	at kotlinx.coroutines.AbstractCoroutine.start(AbstractCoroutine.kt:126)
+	at kotlinx.coroutines.BuildersKt__Builders_commonKt.launch(Builders.common.kt:56)
+	at kotlinx.coroutines.BuildersKt.launch(Unknown Source)
+	at kotlinx.coroutines.BuildersKt__Builders_commonKt.launch$default(Builders.common.kt:47)
+	at kotlinx.coroutines.BuildersKt.launch$default(Unknown Source)
+	at net.mamoe.mirai.internal.network.handler.NetworkHandlerSupport.collectReceived$mirai_core(NetworkHandlerSupport.kt:88)
+	at net.mamoe.mirai.internal.network.impl.netty.NettyNetworkHandler$PacketDecodePipeline$send$1.invokeSuspend(NettyNetworkHandler.kt:192)
+	at kotlin.coroutines.jvm.internal.BaseContinuationImpl.resumeWith(ContinuationImpl.kt:33)
+	at kotlinx.coroutines.DispatchedTask.run(DispatchedTask.kt:106)
+	at io.netty.util.concurrent.AbstractEventExecutor.safeExecute(AbstractEventExecutor.java:164)
+	at io.netty.util.concurrent.SingleThreadEventExecutor.runAllTasks(SingleThreadEventExecutor.java:472)
+	at io.netty.channel.nio.NioEventLoop.run(NioEventLoop.java:500)
+	at io.netty.util.concurrent.SingleThreadEventExecutor$4.run(SingleThreadEventExecutor.java:989)
+	at io.netty.util.internal.ThreadExecutorMap$2.run(ThreadExecutorMap.java:74)
+	at io.netty.util.concurrent.FastThreadLocalRunnable.run(FastThreadLocalRunnable.java:30)
+	at java.base/java.lang.Thread.run(Thread.java:833)
+	Suppressed: java.util.concurrent.CancellationException: NetworkHandler closed
+		at kotlinx.coroutines.ExceptionsKt.CancellationException(Exceptions.kt:22)
+		at kotlinx.coroutines.JobKt__JobKt.cancel(Job.kt:596)
+		at kotlinx.coroutines.JobKt.cancel(Unknown Source)
+		at net.mamoe.mirai.internal.network.handler.NetworkHandlerSupport.close(NetworkHandlerSupport.kt:61)
+		at net.mamoe.mirai.internal.network.impl.netty.NettyNetworkHandler.close(NettyNetworkHandler.kt:205)
+		at net.mamoe.mirai.internal.network.handler.selector.SelectorNetworkHandler.close(SelectorNetworkHandler.kt:87)
+		... 25 more
+	Caused by: [CIRCULAR REFERENCE: net.mamoe.mirai.internal.network.impl.netty.ForceOfflineException: 你的QQ号于19:50在【JEF-AN00】设备登录，当前设备已下线。如果这不是你本人操作，那么你的QQ密码可能已经泄露，请尽快重新登录并修改密码。]
+[0m
+[0m2022-07-25 19:50:33 V/Net 2785766889: Loading server list from cache.[0m
+[92m2022-07-25 19:50:33 I/Net 2785766889: Server list: 111.30.187.249:80, 111.31.205.202:80, 111.31.205.243:14000, 120.232.130.47:443, msfwifi.3g.qq.com:8080, 36.155.201.156:14000, 36.155.248.44:14000, 36.155.207.223:80, 120.232.31.221:8080, 111.31.205.168:80.[0m
+[92m2022-07-25 19:50:33 I/Net 2785766889: ECDH key is invalid, start to fetch ecdh public key from server.[0m
+[92m2022-07-25 19:50:34 I/Net 2785766889: Successfully fetched ecdh public key from server.[0m
+[0m2022-07-25 19:50:34 V/Net 2785766889: Send: wtlogin.login[0m
+[0m2022-07-25 19:50:34 V/Net 2785766889: Recv: wtlogin.login[0m
+[0m2022-07-25 19:50:34 V/Net 2785766889: Send: wtlogin.login[0m
+[0m2022-07-25 19:50:34 V/Net 2785766889: Recv: wtlogin.login[0m
+[0m2022-07-25 19:50:34 V/Net 2785766889: Send: StatSvc.register(online)[0m
+[92m2022-07-25 19:50:34 I/Net 2785766889: Server time updated, serverTime: 1658749842, diff: 8ms=0.008s[0m
+[0m2022-07-25 19:50:34 V/Net 2785766889: Recv: StatSvc.register[0m
+[92m2022-07-25 19:50:34 I/Net 2785766889: Scheduled refresh login session in 19d 23h 55min 0.0s.[0m
+[92m2022-07-25 19:50:34 I/Net 2785766889: Scheduled key refresh in 23h 55min 0.0s.[0m
+[92m2022-07-25 19:50:37 I/Net 2785766889: Server list: 120.232.130.74:443, 111.30.169.125:14000, 36.155.187.71:14000, 111.30.169.45:80, msfwifi.3g.qq.com:8080, 111.31.200.210:80, 120.232.69.214:8080, 36.155.213.142:80, 111.30.170.241:80, 36.155.207.223:14000.[0m
+[0m2022-07-25 19:50:37 V/Net 2785766889: Saving bdh session to cache[0m
+[0m2022-07-25 19:50:37 V/Net 2785766889: Saving server list to cache[0m
+[0m2022-07-25 19:50:37 V/Net 2785766889: Send: ConfigPushSvc.PushResp(ConfigPushSvc.PushResp)[0m
+[0m2022-07-25 19:50:37 V/Net 2785766889: Recv: ConfigPushSvc.PushReq[0m
+[0m2022-07-25 19:50:37 V/Net 2785766889: Saving bdh session to cache[0m
+[0m2022-07-25 19:50:37 V/Net 2785766889: Send: ConfigPushSvc.PushResp(ConfigPushSvc.PushResp)[0m
+[0m2022-07-25 19:50:37 V/Net 2785766889: Recv: ConfigPushSvc.PushReq[0m
+[0m2022-07-25 19:50:38 V/Net 2785766889: Recv: MessageSvc.PushForceOffline[0m
+[91m2022-07-25 19:50:38 W/Net 2785766889: net.mamoe.mirai.internal.network.impl.netty.ForceOfflineException: 你的QQ号于19:50在【JEF-AN00】设备登录，当前设备已下线。如果这不是你本人操作，那么你的QQ密码可能已经泄露，请尽快重新登录并修改密码。
+net.mamoe.mirai.internal.network.impl.netty.ForceOfflineException: 你的QQ号于19:50在【JEF-AN00】设备登录，当前设备已下线。如果这不是你本人操作，那么你的QQ密码可能已经泄露，请尽快重新登录并修改密码。
+	at net.mamoe.mirai.internal.network.protocol.packet.chat.receive.MessageSvcPushForceOffline.handle(MessageSvc.PushForceOffline.kt:35)
+	at net.mamoe.mirai.internal.network.protocol.packet.chat.receive.MessageSvcPushForceOffline.handle(MessageSvc.PushForceOffline.kt:25)
+	at net.mamoe.mirai.internal.network.components.CallPacketFactoryPacketHandler.handlePacket(PacketHandler.kt:110)
+	at net.mamoe.mirai.internal.network.components.PacketHandlerChain.handlePacket(PacketHandler.kt:42)
+	at net.mamoe.mirai.internal.network.handler.NetworkHandlerSupport$collectReceived$3.invokeSuspend(NetworkHandlerSupport.kt:90)
+	at net.mamoe.mirai.internal.network.handler.NetworkHandlerSupport$collectReceived$3.invoke(NetworkHandlerSupport.kt)
+	at net.mamoe.mirai.internal.network.handler.NetworkHandlerSupport$collectReceived$3.invoke(NetworkHandlerSupport.kt)
+	at kotlinx.coroutines.intrinsics.UndispatchedKt.startCoroutineUndispatched(Undispatched.kt:55)
+	at kotlinx.coroutines.CoroutineStart.invoke(CoroutineStart.kt:112)
+	at kotlinx.coroutines.AbstractCoroutine.start(AbstractCoroutine.kt:126)
+	at kotlinx.coroutines.BuildersKt__Builders_commonKt.launch(Builders.common.kt:56)
+	at kotlinx.coroutines.BuildersKt.launch(Unknown Source)
+	at kotlinx.coroutines.BuildersKt__Builders_commonKt.launch$default(Builders.common.kt:47)
+	at kotlinx.coroutines.BuildersKt.launch$default(Unknown Source)
+	at net.mamoe.mirai.internal.network.handler.NetworkHandlerSupport.collectReceived$mirai_core(NetworkHandlerSupport.kt:88)
+	at net.mamoe.mirai.internal.network.impl.netty.NettyNetworkHandler$PacketDecodePipeline$send$1.invokeSuspend(NettyNetworkHandler.kt:192)
+	at kotlin.coroutines.jvm.internal.BaseContinuationImpl.resumeWith(ContinuationImpl.kt:33)
+	at kotlinx.coroutines.DispatchedTask.run(DispatchedTask.kt:106)
+	at io.netty.util.concurrent.AbstractEventExecutor.safeExecute(AbstractEventExecutor.java:164)
+	at io.netty.util.concurrent.SingleThreadEventExecutor.runAllTasks(SingleThreadEventExecutor.java:472)
+	at io.netty.channel.nio.NioEventLoop.run(NioEventLoop.java:500)
+	at io.netty.util.concurrent.SingleThreadEventExecutor$4.run(SingleThreadEventExecutor.java:989)
+	at io.netty.util.internal.ThreadExecutorMap$2.run(ThreadExecutorMap.java:74)
+	at io.netty.util.concurrent.FastThreadLocalRunnable.run(FastThreadLocalRunnable.java:30)
+	at java.base/java.lang.Thread.run(Thread.java:833)
+	Suppressed: java.util.concurrent.CancellationException: NetworkHandler closed
+		at kotlinx.coroutines.ExceptionsKt.CancellationException(Exceptions.kt:22)
+		at kotlinx.coroutines.JobKt__JobKt.cancel(Job.kt:596)
+		at kotlinx.coroutines.JobKt.cancel(Unknown Source)
+		at net.mamoe.mirai.internal.network.handler.NetworkHandlerSupport.close(NetworkHandlerSupport.kt:61)
+		at net.mamoe.mirai.internal.network.impl.netty.NettyNetworkHandler.close(NettyNetworkHandler.kt:205)
+		at net.mamoe.mirai.internal.network.handler.selector.SelectorNetworkHandler.close(SelectorNetworkHandler.kt:87)
+		... 25 more
+	Caused by: [CIRCULAR REFERENCE: net.mamoe.mirai.internal.network.impl.netty.ForceOfflineException: 你的QQ号于19:50在【JEF-AN00】设备登录，当前设备已下线。如果这不是你本人操作，那么你的QQ密码可能已经泄露，请尽快重新登录并修改密码。]
+[0m
+[0m2022-07-25 19:50:38 V/Net 2785766889: Loading server list from cache.[0m
+[92m2022-07-25 19:50:38 I/Net 2785766889: Server list: 120.232.130.74:443, 111.30.169.125:14000, 36.155.187.71:14000, 111.30.169.45:80, msfwifi.3g.qq.com:8080, 111.31.200.210:80, 120.232.69.214:8080, 36.155.213.142:80, 111.30.170.241:80, 36.155.207.223:14000.[0m
+[92m2022-07-25 19:50:38 I/Net 2785766889: ECDH key is invalid, start to fetch ecdh public key from server.[0m
+[92m2022-07-25 19:50:38 I/Net 2785766889: Successfully fetched ecdh public key from server.[0m
+[0m2022-07-25 19:50:38 V/Net 2785766889: Send: wtlogin.login[0m
+[0m2022-07-25 19:50:39 V/Net 2785766889: Send: wtlogin.login[0m
+[0m2022-07-25 19:50:39 V/Net 2785766889: Recv: wtlogin.login[0m
+[0m2022-07-25 19:50:39 V/Net 2785766889: Recv: wtlogin.login[0m
+[0m2022-07-25 19:50:39 V/Net 2785766889: Send: StatSvc.register(online)[0m
+[92m2022-07-25 19:50:39 I/Net 2785766889: Server time updated, serverTime: 1658749845, diff: 6ms=0.006s[0m
+[0m2022-07-25 19:50:39 V/Net 2785766889: Recv: StatSvc.register[0m
+[92m2022-07-25 19:50:39 I/Net 2785766889: Scheduled key refresh in 23h 55min 0.0s.[0m
+[92m2022-07-25 19:50:39 I/Net 2785766889: Scheduled refresh login session in 19d 23h 55min 0.0s.[0m
+[0m2022-07-25 19:50:39 V/Net 2785766889: Recv: MessageSvc.PushForceOffline[0m
+[91m2022-07-25 19:50:39 W/Net 2785766889: net.mamoe.mirai.internal.network.impl.netty.ForceOfflineException: 你的QQ号于19:50在【JEF-AN00】设备登录，当前设备已下线。如果这不是你本人操作，那么你的QQ密码可能已经泄露，请尽快重新登录并修改密码。
+net.mamoe.mirai.internal.network.impl.netty.ForceOfflineException: 你的QQ号于19:50在【JEF-AN00】设备登录，当前设备已下线。如果这不是你本人操作，那么你的QQ密码可能已经泄露，请尽快重新登录并修改密码。
+	at net.mamoe.mirai.internal.network.protocol.packet.chat.receive.MessageSvcPushForceOffline.handle(MessageSvc.PushForceOffline.kt:35)
+	at net.mamoe.mirai.internal.network.protocol.packet.chat.receive.MessageSvcPushForceOffline.handle(MessageSvc.PushForceOffline.kt:25)
+	at net.mamoe.mirai.internal.network.components.CallPacketFactoryPacketHandler.handlePacket(PacketHandler.kt:110)
+	at net.mamoe.mirai.internal.network.components.PacketHandlerChain.handlePacket(PacketHandler.kt:42)
+	at net.mamoe.mirai.internal.network.handler.NetworkHandlerSupport$collectReceived$3.invokeSuspend(NetworkHandlerSupport.kt:90)
+	at net.mamoe.mirai.internal.network.handler.NetworkHandlerSupport$collectReceived$3.invoke(NetworkHandlerSupport.kt)
+	at net.mamoe.mirai.internal.network.handler.NetworkHandlerSupport$collectReceived$3.invoke(NetworkHandlerSupport.kt)
+	at kotlinx.coroutines.intrinsics.UndispatchedKt.startCoroutineUndispatched(Undispatched.kt:55)
+	at kotlinx.coroutines.CoroutineStart.invoke(CoroutineStart.kt:112)
+	at kotlinx.coroutines.AbstractCoroutine.start(AbstractCoroutine.kt:126)
+	at kotlinx.coroutines.BuildersKt__Builders_commonKt.launch(Builders.common.kt:56)
+	at kotlinx.coroutines.BuildersKt.launch(Unknown Source)
+	at kotlinx.coroutines.BuildersKt__Builders_commonKt.launch$default(Builders.common.kt:47)
+	at kotlinx.coroutines.BuildersKt.launch$default(Unknown Source)
+	at net.mamoe.mirai.internal.network.handler.NetworkHandlerSupport.collectReceived$mirai_core(NetworkHandlerSupport.kt:88)
+	at net.mamoe.mirai.internal.network.impl.netty.NettyNetworkHandler$PacketDecodePipeline$send$1.invokeSuspend(NettyNetworkHandler.kt:192)
+	at kotlin.coroutines.jvm.internal.BaseContinuationImpl.resumeWith(ContinuationImpl.kt:33)
+	at kotlinx.coroutines.DispatchedTask.run(DispatchedTask.kt:106)
+	at io.netty.util.concurrent.AbstractEventExecutor.safeExecute(AbstractEventExecutor.java:164)
+	at io.netty.util.concurrent.SingleThreadEventExecutor.runAllTasks(SingleThreadEventExecutor.java:472)
+	at io.netty.channel.nio.NioEventLoop.run(NioEventLoop.java:500)
+	at io.netty.util.concurrent.SingleThreadEventExecutor$4.run(SingleThreadEventExecutor.java:989)
+	at io.netty.util.internal.ThreadExecutorMap$2.run(ThreadExecutorMap.java:74)
+	at io.netty.util.concurrent.FastThreadLocalRunnable.run(FastThreadLocalRunnable.java:30)
+	at java.base/java.lang.Thread.run(Thread.java:833)
+	Suppressed: java.util.concurrent.CancellationException: NetworkHandler closed
+		at kotlinx.coroutines.ExceptionsKt.CancellationException(Exceptions.kt:22)
+		at kotlinx.coroutines.JobKt__JobKt.cancel(Job.kt:596)
+		at kotlinx.coroutines.JobKt.cancel(Unknown Source)
+		at net.mamoe.mirai.internal.network.handler.NetworkHandlerSupport.close(NetworkHandlerSupport.kt:61)
+		at net.mamoe.mirai.internal.network.impl.netty.NettyNetworkHandler.close(NettyNetworkHandler.kt:205)
+		at net.mamoe.mirai.internal.network.handler.selector.SelectorNetworkHandler.close(SelectorNetworkHandler.kt:87)
+		... 25 more
+	Caused by: [CIRCULAR REFERENCE: net.mamoe.mirai.internal.network.impl.netty.ForceOfflineException: 你的QQ号于19:50在【JEF-AN00】设备登录，当前设备已下线。如果这不是你本人操作，那么你的QQ密码可能已经泄露，请尽快重新登录并修改密码。]
+[0m
+[0m2022-07-25 19:50:39 V/Net 2785766889: Loading server list from cache.[0m
+[92m2022-07-25 19:50:39 I/Net 2785766889: Server list: 120.232.130.74:443, 111.30.169.125:14000, 36.155.187.71:14000, 111.30.169.45:80, msfwifi.3g.qq.com:8080, 111.31.200.210:80, 120.232.69.214:8080, 36.155.213.142:80, 111.30.170.241:80, 36.155.207.223:14000.[0m
+[92m2022-07-25 19:50:39 I/Net 2785766889: ECDH key is invalid, start to fetch ecdh public key from server.[0m
+[92m2022-07-25 19:50:39 I/Net 2785766889: Successfully fetched ecdh public key from server.[0m
+[0m2022-07-25 19:50:39 V/Net 2785766889: Send: wtlogin.login[0m
+[0m2022-07-25 19:50:39 V/Net 2785766889: Recv: wtlogin.login[0m
+[0m2022-07-25 19:50:39 V/Net 2785766889: Send: wtlogin.login[0m
+[0m2022-07-25 19:50:40 V/Net 2785766889: Recv: wtlogin.login[0m
+[0m2022-07-25 19:50:40 V/Net 2785766889: Send: StatSvc.register(online)[0m
+[92m2022-07-25 19:50:40 I/Net 2785766889: Server time updated, serverTime: 1658749847, diff: 7ms=0.007s[0m
+[0m2022-07-25 19:50:40 V/Net 2785766889: Recv: StatSvc.register[0m
+[92m2022-07-25 19:50:40 I/Net 2785766889: Scheduled refresh login session in 19d 23h 55min 0.0s.[0m
+[92m2022-07-25 19:50:40 I/Net 2785766889: Scheduled key refresh in 23h 55min 0.0s.[0m
+[0m2022-07-25 19:50:42 V/Net 2785766889: Recv: MessageSvc.PushForceOffline[0m
+[91m2022-07-25 19:50:42 W/Net 2785766889: net.mamoe.mirai.internal.network.impl.netty.ForceOfflineException: 你的QQ号于19:50在【JEF-AN00】设备登录，当前设备已下线。如果这不是你本人操作，那么你的QQ密码可能已经泄露，请尽快重新登录并修改密码。
+net.mamoe.mirai.internal.network.impl.netty.ForceOfflineException: 你的QQ号于19:50在【JEF-AN00】设备登录，当前设备已下线。如果这不是你本人操作，那么你的QQ密码可能已经泄露，请尽快重新登录并修改密码。
+	at net.mamoe.mirai.internal.network.protocol.packet.chat.receive.MessageSvcPushForceOffline.handle(MessageSvc.PushForceOffline.kt:35)
+	at net.mamoe.mirai.internal.network.protocol.packet.chat.receive.MessageSvcPushForceOffline.handle(MessageSvc.PushForceOffline.kt:25)
+	at net.mamoe.mirai.internal.network.components.CallPacketFactoryPacketHandler.handlePacket(PacketHandler.kt:110)
+	at net.mamoe.mirai.internal.network.components.PacketHandlerChain.handlePacket(PacketHandler.kt:42)
+	at net.mamoe.mirai.internal.network.handler.NetworkHandlerSupport$collectReceived$3.invokeSuspend(NetworkHandlerSupport.kt:90)
+	at net.mamoe.mirai.internal.network.handler.NetworkHandlerSupport$collectReceived$3.invoke(NetworkHandlerSupport.kt)
+	at net.mamoe.mirai.internal.network.handler.NetworkHandlerSupport$collectReceived$3.invoke(NetworkHandlerSupport.kt)
+	at kotlinx.coroutines.intrinsics.UndispatchedKt.startCoroutineUndispatched(Undispatched.kt:55)
+	at kotlinx.coroutines.CoroutineStart.invoke(CoroutineStart.kt:112)
+	at kotlinx.coroutines.AbstractCoroutine.start(AbstractCoroutine.kt:126)
+	at kotlinx.coroutines.BuildersKt__Builders_commonKt.launch(Builders.common.kt:56)
+	at kotlinx.coroutines.BuildersKt.launch(Unknown Source)
+	at kotlinx.coroutines.BuildersKt__Builders_commonKt.launch$default(Builders.common.kt:47)
+	at kotlinx.coroutines.BuildersKt.launch$default(Unknown Source)
+	at net.mamoe.mirai.internal.network.handler.NetworkHandlerSupport.collectReceived$mirai_core(NetworkHandlerSupport.kt:88)
+	at net.mamoe.mirai.internal.network.impl.netty.NettyNetworkHandler$PacketDecodePipeline$send$1.invokeSuspend(NettyNetworkHandler.kt:192)
+	at kotlin.coroutines.jvm.internal.BaseContinuationImpl.resumeWith(ContinuationImpl.kt:33)
+	at kotlinx.coroutines.DispatchedTask.run(DispatchedTask.kt:106)
+	at io.netty.util.concurrent.AbstractEventExecutor.safeExecute(AbstractEventExecutor.java:164)
+	at io.netty.util.concurrent.SingleThreadEventExecutor.runAllTasks(SingleThreadEventExecutor.java:472)
+	at io.netty.channel.nio.NioEventLoop.run(NioEventLoop.java:500)
+	at io.netty.util.concurrent.SingleThreadEventExecutor$4.run(SingleThreadEventExecutor.java:989)
+	at io.netty.util.internal.ThreadExecutorMap$2.run(ThreadExecutorMap.java:74)
+	at io.netty.util.concurrent.FastThreadLocalRunnable.run(FastThreadLocalRunnable.java:30)
+	at java.base/java.lang.Thread.run(Thread.java:833)
+	Suppressed: java.util.concurrent.CancellationException: NetworkHandler closed
+		at kotlinx.coroutines.ExceptionsKt.CancellationException(Exceptions.kt:22)
+		at kotlinx.coroutines.JobKt__JobKt.cancel(Job.kt:596)
+		at kotlinx.coroutines.JobKt.cancel(Unknown Source)
+		at net.mamoe.mirai.internal.network.handler.NetworkHandlerSupport.close(NetworkHandlerSupport.kt:61)
+		at net.mamoe.mirai.internal.network.impl.netty.NettyNetworkHandler.close(NettyNetworkHandler.kt:205)
+		at net.mamoe.mirai.internal.network.handler.selector.SelectorNetworkHandler.close(SelectorNetworkHandler.kt:87)
+		... 25 more
+	Caused by: [CIRCULAR REFERENCE: net.mamoe.mirai.internal.network.impl.netty.ForceOfflineException: 你的QQ号于19:50在【JEF-AN00】设备登录，当前设备已下线。如果这不是你本人操作，那么你的QQ密码可能已经泄露，请尽快重新登录并修改密码。]
+[0m
+[0m2022-07-25 19:50:42 V/Net 2785766889: Loading server list from cache.[0m
+[92m2022-07-25 19:50:42 I/Net 2785766889: Server list: 120.232.130.74:443, 111.30.169.125:14000, 36.155.187.71:14000, 111.30.169.45:80, msfwifi.3g.qq.com:8080, 111.31.200.210:80, 120.232.69.214:8080, 36.155.213.142:80, 111.30.170.241:80, 36.155.207.223:14000.[0m
+[92m2022-07-25 19:50:42 I/Net 2785766889: ECDH key is invalid, start to fetch ecdh public key from server.[0m
+[92m2022-07-25 19:50:42 I/Net 2785766889: Successfully fetched ecdh public key from server.[0m
+[0m2022-07-25 19:50:42 V/Net 2785766889: Send: wtlogin.login[0m
+[0m2022-07-25 19:50:43 V/Net 2785766889: Recv: wtlogin.login[0m
+[0m2022-07-25 19:50:43 V/Net 2785766889: Send: wtlogin.login[0m
+[0m2022-07-25 19:50:43 V/Net 2785766889: Recv: wtlogin.login[0m
+[0m2022-07-25 19:50:43 V/Net 2785766889: Send: StatSvc.register(online)[0m
+[92m2022-07-25 19:50:43 I/Net 2785766889: Server time updated, serverTime: 1658749849, diff: 6ms=0.006s[0m
+[0m2022-07-25 19:50:43 V/Net 2785766889: Recv: StatSvc.register[0m
+[92m2022-07-25 19:50:43 I/Net 2785766889: Scheduled refresh login session in 19d 23h 55min 0.0s.[0m
+[92m2022-07-25 19:50:43 I/Net 2785766889: Scheduled key refresh in 23h 55min 0.0s.[0m
+[0m2022-07-25 19:50:43 V/Net 2785766889: Recv: MessageSvc.PushForceOffline[0m
+[91m2022-07-25 19:50:43 W/Net 2785766889: net.mamoe.mirai.internal.network.impl.netty.ForceOfflineException: 你的QQ号于19:50在【JEF-AN00】设备登录，当前设备已下线。如果这不是你本人操作，那么你的QQ密码可能已经泄露，请尽快重新登录并修改密码。
+net.mamoe.mirai.internal.network.impl.netty.ForceOfflineException: 你的QQ号于19:50在【JEF-AN00】设备登录，当前设备已下线。如果这不是你本人操作，那么你的QQ密码可能已经泄露，请尽快重新登录并修改密码。
+	at net.mamoe.mirai.internal.network.protocol.packet.chat.receive.MessageSvcPushForceOffline.handle(MessageSvc.PushForceOffline.kt:35)
+	at net.mamoe.mirai.internal.network.protocol.packet.chat.receive.MessageSvcPushForceOffline.handle(MessageSvc.PushForceOffline.kt:25)
+	at net.mamoe.mirai.internal.network.components.CallPacketFactoryPacketHandler.handlePacket(PacketHandler.kt:110)
+	at net.mamoe.mirai.internal.network.components.PacketHandlerChain.handlePacket(PacketHandler.kt:42)
+	at net.mamoe.mirai.internal.network.handler.NetworkHandlerSupport$collectReceived$3.invokeSuspend(NetworkHandlerSupport.kt:90)
+	at net.mamoe.mirai.internal.network.handler.NetworkHandlerSupport$collectReceived$3.invoke(NetworkHandlerSupport.kt)
+	at net.mamoe.mirai.internal.network.handler.NetworkHandlerSupport$collectReceived$3.invoke(NetworkHandlerSupport.kt)
+	at kotlinx.coroutines.intrinsics.UndispatchedKt.startCoroutineUndispatched(Undispatched.kt:55)
+	at kotlinx.coroutines.CoroutineStart.invoke(CoroutineStart.kt:112)
+	at kotlinx.coroutines.AbstractCoroutine.start(AbstractCoroutine.kt:126)
+	at kotlinx.coroutines.BuildersKt__Builders_commonKt.launch(Builders.common.kt:56)
+	at kotlinx.coroutines.BuildersKt.launch(Unknown Source)
+	at kotlinx.coroutines.BuildersKt__Builders_commonKt.launch$default(Builders.common.kt:47)
+	at kotlinx.coroutines.BuildersKt.launch$default(Unknown Source)
+	at net.mamoe.mirai.internal.network.handler.NetworkHandlerSupport.collectReceived$mirai_core(NetworkHandlerSupport.kt:88)
+	at net.mamoe.mirai.internal.network.impl.netty.NettyNetworkHandler$PacketDecodePipeline$send$1.invokeSuspend(NettyNetworkHandler.kt:192)
+	at kotlin.coroutines.jvm.internal.BaseContinuationImpl.resumeWith(ContinuationImpl.kt:33)
+	at kotlinx.coroutines.DispatchedTask.run(DispatchedTask.kt:106)
+	at io.netty.util.concurrent.AbstractEventExecutor.safeExecute(AbstractEventExecutor.java:164)
+	at io.netty.util.concurrent.SingleThreadEventExecutor.runAllTasks(SingleThreadEventExecutor.java:472)
+	at io.netty.channel.nio.NioEventLoop.run(NioEventLoop.java:500)
+	at io.netty.util.concurrent.SingleThreadEventExecutor$4.run(SingleThreadEventExecutor.java:989)
+	at io.netty.util.internal.ThreadExecutorMap$2.run(ThreadExecutorMap.java:74)
+	at io.netty.util.concurrent.FastThreadLocalRunnable.run(FastThreadLocalRunnable.java:30)
+	at java.base/java.lang.Thread.run(Thread.java:833)
+	Suppressed: java.util.concurrent.CancellationException: NetworkHandler closed
+		at kotlinx.coroutines.ExceptionsKt.CancellationException(Exceptions.kt:22)
+		at kotlinx.coroutines.JobKt__JobKt.cancel(Job.kt:596)
+		at kotlinx.coroutines.JobKt.cancel(Unknown Source)
+		at net.mamoe.mirai.internal.network.handler.NetworkHandlerSupport.close(NetworkHandlerSupport.kt:61)
+		at net.mamoe.mirai.internal.network.impl.netty.NettyNetworkHandler.close(NettyNetworkHandler.kt:205)
+		at net.mamoe.mirai.internal.network.handler.selector.SelectorNetworkHandler.close(SelectorNetworkHandler.kt:87)
+		... 25 more
+	Caused by: [CIRCULAR REFERENCE: net.mamoe.mirai.internal.network.impl.netty.ForceOfflineException: 你的QQ号于19:50在【JEF-AN00】设备登录，当前设备已下线。如果这不是你本人操作，那么你的QQ密码可能已经泄露，请尽快重新登录并修改密码。]
+[0m
+[0m2022-07-25 19:50:43 V/Net 2785766889: Loading server list from cache.[0m
+[92m2022-07-25 19:50:43 I/Net 2785766889: Server list: 120.232.130.74:443, 111.30.169.125:14000, 36.155.187.71:14000, 111.30.169.45:80, msfwifi.3g.qq.com:8080, 111.31.200.210:80, 120.232.69.214:8080, 36.155.213.142:80, 111.30.170.241:80, 36.155.207.223:14000.[0m
+[92m2022-07-25 19:50:43 I/Net 2785766889: ECDH key is invalid, start to fetch ecdh public key from server.[0m
+[92m2022-07-25 19:50:43 I/Net 2785766889: Successfully fetched ecdh public key from server.[0m
+[0m2022-07-25 19:50:43 V/Net 2785766889: Send: wtlogin.login[0m
+[0m2022-07-25 19:50:43 V/Net 2785766889: Recv: wtlogin.login[0m
+[0m2022-07-25 19:50:43 V/Net 2785766889: Send: wtlogin.login[0m
+[0m2022-07-25 19:50:43 V/Net 2785766889: Recv: wtlogin.login[0m
+[0m2022-07-25 19:50:43 V/Net 2785766889: Send: StatSvc.register(online)[0m
+[92m2022-07-25 19:50:43 I/Net 2785766889: Server time updated, serverTime: 1658749851, diff: 8ms=0.008s[0m
+[0m2022-07-25 19:50:43 V/Net 2785766889: Recv: StatSvc.register[0m
+[92m2022-07-25 19:50:43 I/Net 2785766889: Scheduled key refresh in 23h 55min 0.0s.[0m
+[92m2022-07-25 19:50:43 I/Net 2785766889: Scheduled refresh login session in 19d 23h 55min 0.0s.[0m
+[0m2022-07-25 19:50:45 V/Net 2785766889: Recv: MessageSvc.PushForceOffline[0m
+[91m2022-07-25 19:50:45 W/Net 2785766889: net.mamoe.mirai.internal.network.impl.netty.ForceOfflineException: 你的QQ号于19:50在【JEF-AN00】设备登录，当前设备已下线。如果这不是你本人操作，那么你的QQ密码可能已经泄露，请尽快重新登录并修改密码。
+net.mamoe.mirai.internal.network.impl.netty.ForceOfflineException: 你的QQ号于19:50在【JEF-AN00】设备登录，当前设备已下线。如果这不是你本人操作，那么你的QQ密码可能已经泄露，请尽快重新登录并修改密码。
+	at net.mamoe.mirai.internal.network.protocol.packet.chat.receive.MessageSvcPushForceOffline.handle(MessageSvc.PushForceOffline.kt:35)
+	at net.mamoe.mirai.internal.network.protocol.packet.chat.receive.MessageSvcPushForceOffline.handle(MessageSvc.PushForceOffline.kt:25)
+	at net.mamoe.mirai.internal.network.components.CallPacketFactoryPacketHandler.handlePacket(PacketHandler.kt:110)
+	at net.mamoe.mirai.internal.network.components.PacketHandlerChain.handlePacket(PacketHandler.kt:42)
+	at net.mamoe.mirai.internal.network.handler.NetworkHandlerSupport$collectReceived$3.invokeSuspend(NetworkHandlerSupport.kt:90)
+	at net.mamoe.mirai.internal.network.handler.NetworkHandlerSupport$collectReceived$3.invoke(NetworkHandlerSupport.kt)
+	at net.mamoe.mirai.internal.network.handler.NetworkHandlerSupport$collectReceived$3.invoke(NetworkHandlerSupport.kt)
+	at kotlinx.coroutines.intrinsics.UndispatchedKt.startCoroutineUndispatched(Undispatched.kt:55)
+	at kotlinx.coroutines.CoroutineStart.invoke(CoroutineStart.kt:112)
+	at kotlinx.coroutines.AbstractCoroutine.start(AbstractCoroutine.kt:126)
+	at kotlinx.coroutines.BuildersKt__Builders_commonKt.launch(Builders.common.kt:56)
+	at kotlinx.coroutines.BuildersKt.launch(Unknown Source)
+	at kotlinx.coroutines.BuildersKt__Builders_commonKt.launch$default(Builders.common.kt:47)
+	at kotlinx.coroutines.BuildersKt.launch$default(Unknown Source)
+	at net.mamoe.mirai.internal.network.handler.NetworkHandlerSupport.collectReceived$mirai_core(NetworkHandlerSupport.kt:88)
+	at net.mamoe.mirai.internal.network.impl.netty.NettyNetworkHandler$PacketDecodePipeline$send$1.invokeSuspend(NettyNetworkHandler.kt:192)
+	at kotlin.coroutines.jvm.internal.BaseContinuationImpl.resumeWith(ContinuationImpl.kt:33)
+	at kotlinx.coroutines.DispatchedTask.run(DispatchedTask.kt:106)
+	at io.netty.util.concurrent.AbstractEventExecutor.safeExecute(AbstractEventExecutor.java:164)
+	at io.netty.util.concurrent.SingleThreadEventExecutor.runAllTasks(SingleThreadEventExecutor.java:472)
+	at io.netty.channel.nio.NioEventLoop.run(NioEventLoop.java:500)
+	at io.netty.util.concurrent.SingleThreadEventExecutor$4.run(SingleThreadEventExecutor.java:989)
+	at io.netty.util.internal.ThreadExecutorMap$2.run(ThreadExecutorMap.java:74)
+	at io.netty.util.concurrent.FastThreadLocalRunnable.run(FastThreadLocalRunnable.java:30)
+	at java.base/java.lang.Thread.run(Thread.java:833)
+	Suppressed: java.util.concurrent.CancellationException: NetworkHandler closed
+		at kotlinx.coroutines.ExceptionsKt.CancellationException(Exceptions.kt:22)
+		at kotlinx.coroutines.JobKt__JobKt.cancel(Job.kt:596)
+		at kotlinx.coroutines.JobKt.cancel(Unknown Source)
+		at net.mamoe.mirai.internal.network.handler.NetworkHandlerSupport.close(NetworkHandlerSupport.kt:61)
+		at net.mamoe.mirai.internal.network.impl.netty.NettyNetworkHandler.close(NettyNetworkHandler.kt:205)
+		at net.mamoe.mirai.internal.network.handler.selector.SelectorNetworkHandler.close(SelectorNetworkHandler.kt:87)
+		... 25 more
+	Caused by: [CIRCULAR REFERENCE: net.mamoe.mirai.internal.network.impl.netty.ForceOfflineException: 你的QQ号于19:50在【JEF-AN00】设备登录，当前设备已下线。如果这不是你本人操作，那么你的QQ密码可能已经泄露，请尽快重新登录并修改密码。]
+[0m
+[0m2022-07-25 19:50:45 V/Net 2785766889: Loading server list from cache.[0m
+[92m2022-07-25 19:50:45 I/Net 2785766889: Server list: 120.232.130.74:443, 111.30.169.125:14000, 36.155.187.71:14000, 111.30.169.45:80, msfwifi.3g.qq.com:8080, 111.31.200.210:80, 120.232.69.214:8080, 36.155.213.142:80, 111.30.170.241:80, 36.155.207.223:14000.[0m
+[92m2022-07-25 19:50:45 I/Net 2785766889: ECDH key is invalid, start to fetch ecdh public key from server.[0m
+[92m2022-07-25 19:50:45 I/Net 2785766889: Successfully fetched ecdh public key from server.[0m
+[0m2022-07-25 19:50:45 V/Net 2785766889: Send: wtlogin.login[0m
+[0m2022-07-25 19:50:45 V/Net 2785766889: Recv: wtlogin.login[0m
+[0m2022-07-25 19:50:45 V/Net 2785766889: Send: wtlogin.login[0m
+[0m2022-07-25 19:50:46 V/Net 2785766889: Recv: wtlogin.login[0m
+[0m2022-07-25 19:50:46 V/Net 2785766889: Send: StatSvc.register(online)[0m
+[0m2022-07-25 19:50:46 V/Net 2785766889: Recv: MessageSvc.PushForceOffline[0m
+[0m2022-07-25 19:50:49 V/Net 2785766889: Loading server list from cache.[0m
+[92m2022-07-25 19:50:49 I/Net 2785766889: Server list: 120.232.130.74:443, 111.30.169.125:14000, 36.155.187.71:14000, 111.30.169.45:80, msfwifi.3g.qq.com:8080, 111.31.200.210:80, 120.232.69.214:8080, 36.155.213.142:80, 111.30.170.241:80, 36.155.207.223:14000.[0m
+[92m2022-07-25 19:50:49 I/Net 2785766889: ECDH key is invalid, start to fetch ecdh public key from server.[0m
+[92m2022-07-25 19:50:49 I/Net 2785766889: Successfully fetched ecdh public key from server.[0m
+[0m2022-07-25 19:50:49 V/Net 2785766889: Send: wtlogin.login[0m
+[0m2022-07-25 19:50:49 V/Net 2785766889: Recv: wtlogin.login[0m
+[0m2022-07-25 19:50:49 V/Net 2785766889: Send: wtlogin.login[0m
+[0m2022-07-25 19:50:49 V/Net 2785766889: Recv: wtlogin.login[0m
+[0m2022-07-25 19:50:49 V/Net 2785766889: Send: StatSvc.register(online)[0m
+[92m2022-07-25 19:50:49 I/Net 2785766889: Server time updated, serverTime: 1658749856, diff: 7ms=0.007s[0m
+[0m2022-07-25 19:50:49 V/Net 2785766889: Recv: StatSvc.register[0m
+[92m2022-07-25 19:50:49 I/Net 2785766889: Scheduled refresh login session in 19d 23h 55min 0.0s.[0m
+[92m2022-07-25 19:50:49 I/Net 2785766889: Scheduled key refresh in 23h 55min 0.0s.[0m
+[96m2022-07-25 19:50:49 D/Net 2785766889: Unknown Transformers528 0x14 template
+templId=10191
+PermList=[net.mamoe.mirai.internal.network.protocol.data.proto.TroopTips0x857$TemplParam@62e7cb59, net.mamoe.mirai.internal.network.protocol.data.proto.TroopTips0x857$TemplParam@b27757e, net.mamoe.mirai.internal.network.protocol.data.proto.TroopTips0x857$TemplParam@3c4d35e2][0m
+[0m2022-07-25 19:50:52 V/Net 2785766889: Saving bdh session to cache[0m
+[0m2022-07-25 19:50:52 V/Net 2785766889: Send: ConfigPushSvc.PushResp(ConfigPushSvc.PushResp)[0m
+[0m2022-07-25 19:50:52 V/Net 2785766889: Recv: ConfigPushSvc.PushReq[0m
+[91m2022-07-25 19:51:54 W/Net 2785766889: HeartbeatFailedException: 2785766889.AliveHeartbeat, recoverable=true, cause=PacketTimeoutException(message=2785766889.AliveHeartbeat Scheduler: Timeout receiving action response, cause=kotlinx.coroutines.TimeoutCancellationException: Timed out waiting for 5000 ms)
+HeartbeatFailedException: 2785766889.AliveHeartbeat, recoverable=true, cause=PacketTimeoutException(message=2785766889.AliveHeartbeat Scheduler: Timeout receiving action response, cause=kotlinx.coroutines.TimeoutCancellationException: Timed out waiting for 5000 ms)
+	at net.mamoe.mirai.internal.network.impl.netty.NettyNetworkHandler$StateOK$heartbeatJobs$1$1.invoke(NettyNetworkHandler.kt:369)
+	at net.mamoe.mirai.internal.network.impl.netty.NettyNetworkHandler$StateOK$heartbeatJobs$1$1.invoke(NettyNetworkHandler.kt:369)
+	at net.mamoe.mirai.internal.network.handler.NetworkHandlerSupport.setStateImpl$mirai_core(NetworkHandlerSupport.kt:288)
+	at net.mamoe.mirai.internal.network.impl.netty.NettyNetworkHandler$StateOK$heartbeatJobs$1.invoke(NettyNetworkHandler.kt:421)
+	at net.mamoe.mirai.internal.network.impl.netty.NettyNetworkHandler$StateOK$heartbeatJobs$1.invoke(NettyNetworkHandler.kt:368)
+	at net.mamoe.mirai.internal.network.components.TimeBasedHeartbeatSchedulerImpl$launchHeartbeatJobAsync$1.invokeSuspend(HeartbeatScheduler.kt:130)
+	at kotlin.coroutines.jvm.internal.BaseContinuationImpl.resumeWith(ContinuationImpl.kt:33)
+	at kotlinx.coroutines.internal.ScopeCoroutine.afterResume(Scopes.kt:33)
+	at kotlinx.coroutines.AbstractCoroutine.resumeWith(AbstractCoroutine.kt:102)
+	at kotlin.coroutines.jvm.internal.BaseContinuationImpl.resumeWith(ContinuationImpl.kt:46)
+	at kotlinx.coroutines.internal.ScopeCoroutine.afterResume(Scopes.kt:33)
+	at kotlinx.coroutines.AbstractCoroutine.resumeWith(AbstractCoroutine.kt:102)
+	at kotlin.coroutines.jvm.internal.BaseContinuationImpl.resumeWith(ContinuationImpl.kt:46)
+	at kotlinx.coroutines.DispatchedTask.run(DispatchedTask.kt:104)
+	at kotlinx.coroutines.scheduling.CoroutineScheduler.runSafely(CoroutineScheduler.kt:570)
+	at kotlinx.coroutines.scheduling.CoroutineScheduler$Worker.executeTask(CoroutineScheduler.kt:749)
+	at kotlinx.coroutines.scheduling.CoroutineScheduler$Worker.runWorker(CoroutineScheduler.kt:677)
+	at kotlinx.coroutines.scheduling.CoroutineScheduler$Worker.run(CoroutineScheduler.kt:664)
+Caused by: PacketTimeoutException(message=2785766889.AliveHeartbeat Scheduler: Timeout receiving action response, cause=kotlinx.coroutines.TimeoutCancellationException: Timed out waiting for 5000 ms)
+	at net.mamoe.mirai.internal.network.components.TimeBasedHeartbeatSchedulerImpl$launchHeartbeatJobAsync$1.invokeSuspend(HeartbeatScheduler.kt:132)
+	... 12 more
+Caused by: kotlinx.coroutines.TimeoutCancellationException: Timed out waiting for 5000 ms
+	at kotlinx.coroutines.TimeoutKt.TimeoutCancellationException(Timeout.kt:184)
+	at kotlinx.coroutines.TimeoutCoroutine.run(Timeout.kt:154)
+	at kotlinx.coroutines.EventLoopImplBase$DelayedRunnableTask.run(EventLoop.common.kt:502)
+	at kotlinx.coroutines.EventLoopImplBase.processNextEvent(EventLoop.common.kt:279)
+	at kotlinx.coroutines.DefaultExecutor.run(DefaultExecutor.kt:108)
+	at java.base/java.lang.Thread.run(Thread.java:833)
+[0m
+[0m2022-07-25 19:51:54 V/Net 2785766889: Loading server list from cache.[0m
+[92m2022-07-25 19:51:54 I/Net 2785766889: Server list: 120.232.130.74:443, 111.30.169.125:14000, 36.155.187.71:14000, 111.30.169.45:80, msfwifi.3g.qq.com:8080, 111.31.200.210:80, 120.232.69.214:8080, 36.155.213.142:80, 111.30.170.241:80, 36.155.207.223:14000.[0m
+[92m2022-07-25 19:51:54 I/Net 2785766889: ECDH key is valid.[0m
+[0m2022-07-25 19:51:54 V/Net 2785766889: Send: wtlogin.exchange_emp[0m
+[0m2022-07-25 19:51:54 V/Net 2785766889: Recv: wtlogin.exchange_emp[0m
+[0m2022-07-25 19:51:54 V/Net 2785766889: Send: StatSvc.register(online)[0m
+[92m2022-07-25 19:51:55 I/Net 2785766889: Server time updated, serverTime: 1658749922, diff: 7ms=0.007s[0m
+[0m2022-07-25 19:51:55 V/Net 2785766889: Recv: StatSvc.register[0m
+[92m2022-07-25 19:51:55 I/Net 2785766889: Scheduled key refresh in 23h 55min 0.0s.[0m
+[92m2022-07-25 19:51:55 I/Net 2785766889: Scheduled refresh login session in 19d 23h 55min 0.0s.[0m
+[0m2022-07-25 19:51:57 V/Net 2785766889: Saving bdh session to cache[0m
+[0m2022-07-25 19:51:57 V/Net 2785766889: Send: ConfigPushSvc.PushResp(ConfigPushSvc.PushResp)[0m
+[0m2022-07-25 19:51:57 V/Net 2785766889: Recv: ConfigPushSvc.PushReq[0m
+[0m2022-07-25 19:52:07 V/Net 2785766889: Send: MessageSvc.PbSendMsg(MessageSvc.PbSendMsg)[0m
+[0m2022-07-25 19:52:07 V/Net 2785766889: Recv: MessageSvc.PbSendMsg[0m
+[0m2022-07-25 19:52:08 V/Net 2785766889: Send: OidbSvc.0xed3(OidbSvc.0xed3)[0m
+[0m2022-07-25 19:52:09 V/Net 2785766889: Recv: OidbSvc.0xed3[0m
+[0m2022-07-25 19:52:10 V/Net 2785766889: Send: MessageSvc.PbSendMsg(MessageSvc.PbSendMsg)[0m
+[0m2022-07-25 19:52:10 V/Net 2785766889: Recv: MessageSvc.PbSendMsg[0m
+[0m2022-07-25 19:52:11 V/Net 2785766889: Send: ImgStore.GroupPicUp(ImgStore.GroupPicUp)[0m
+[0m2022-07-25 19:52:11 V/Net 2785766889: Recv: ImgStore.GroupPicUp[0m
+[0m2022-07-25 19:52:11 V/Net 2785766889: Send: MessageSvc.PbSendMsg(MessageSvc.PbSendMsg)[0m
+[0m2022-07-25 19:52:12 V/Net 2785766889: Recv: MessageSvc.PbSendMsg[0m
+[0m2022-07-25 19:52:24 V/Net 2785766889: Send: MessageSvc.PbSendMsg(MessageSvc.PbSendMsg)[0m
+[0m2022-07-25 19:52:24 V/Net 2785766889: Recv: MessageSvc.PbSendMsg[0m
+[0m2022-07-25 19:52:25 V/Net 2785766889: Send: OidbSvc.0xed3(OidbSvc.0xed3)[0m
+[0m2022-07-25 19:52:26 V/Net 2785766889: Recv: OidbSvc.0xed3[0m
+[0m2022-07-25 19:52:27 V/Net 2785766889: Send: MessageSvc.PbSendMsg(MessageSvc.PbSendMsg)[0m
+[0m2022-07-25 19:52:27 V/Net 2785766889: Recv: MessageSvc.PbSendMsg[0m
+[0m2022-07-25 19:52:29 V/Net 2785766889: Send: ImgStore.GroupPicUp(ImgStore.GroupPicUp)[0m
+[0m2022-07-25 19:52:29 V/Net 2785766889: Recv: ImgStore.GroupPicUp[0m
+[0m2022-07-25 19:52:29 V/Net 2785766889: Send: MessageSvc.PbSendMsg(MessageSvc.PbSendMsg)[0m
+[0m2022-07-25 19:52:30 V/Net 2785766889: Recv: MessageSvc.PbSendMsg[0m
+[0m2022-07-25 19:52:37 V/Net 2785766889: Send: MessageSvc.PbSendMsg(MessageSvc.PbSendMsg)[0m
+[0m2022-07-25 19:52:37 V/Net 2785766889: Recv: MessageSvc.PbSendMsg[0m
+[0m2022-07-25 19:52:38 V/Net 2785766889: Send: ImgStore.GroupPicUp(ImgStore.GroupPicUp)[0m
+[0m2022-07-25 19:52:38 V/Net 2785766889: Recv: ImgStore.GroupPicUp[0m
+[0m2022-07-25 19:52:38 V/Net 2785766889: Send: MessageSvc.PbSendMsg(MessageSvc.PbSendMsg)[0m
+[0m2022-07-25 19:52:39 V/Net 2785766889: Recv: MessageSvc.PbSendMsg[0m
+[0m2022-07-25 19:52:48 V/Net 2785766889: Send: MessageSvc.PbSendMsg(MessageSvc.PbSendMsg)[0m
+[0m2022-07-25 19:52:48 V/Net 2785766889: Recv: MessageSvc.PbSendMsg[0m
+[0m2022-07-25 19:52:49 V/Net 2785766889: Send: ImgStore.GroupPicUp(ImgStore.GroupPicUp)[0m
+[0m2022-07-25 19:52:49 V/Net 2785766889: Recv: ImgStore.GroupPicUp[0m
+[0m2022-07-25 19:52:49 V/Net 2785766889: Send: MessageSvc.PbSendMsg(MessageSvc.PbSendMsg)[0m
+[0m2022-07-25 19:52:50 V/Net 2785766889: Recv: MessageSvc.PbSendMsg[0m
+[0m2022-07-25 19:52:58 V/Net 2785766889: Send: MessageSvc.PbSendMsg(MessageSvc.PbSendMsg)[0m
+[0m2022-07-25 19:52:58 V/Net 2785766889: Recv: MessageSvc.PbSendMsg[0m
+[0m2022-07-25 19:53:00 V/Net 2785766889: Send: ImgStore.GroupPicUp(ImgStore.GroupPicUp)[0m
+[0m2022-07-25 19:53:00 V/Net 2785766889: Recv: ImgStore.GroupPicUp[0m
+[0m2022-07-25 19:53:00 V/Net 2785766889: Send: MessageSvc.PbSendMsg(MessageSvc.PbSendMsg)[0m
+[0m2022-07-25 19:53:01 V/Net 2785766889: Recv: MessageSvc.PbSendMsg[0m
+[0m2022-07-25 19:53:30 V/Net 2785766889: Send: MessageSvc.PbSendMsg(MessageSvc.PbSendMsg)[0m
+[0m2022-07-25 19:53:31 V/Net 2785766889: Recv: MessageSvc.PbSendMsg[0m
+[0m2022-07-25 19:53:43 V/Net 2785766889: Send: MessageSvc.PbSendMsg(MessageSvc.PbSendMsg)[0m
+[0m2022-07-25 19:53:44 V/Net 2785766889: Recv: MessageSvc.PbSendMsg[0m
+[0m2022-07-25 19:53:45 V/Net 2785766889: Send: OidbSvc.0xed3(OidbSvc.0xed3)[0m
+[0m2022-07-25 19:53:45 V/Net 2785766889: Recv: OidbSvc.0xed3[0m
+[0m2022-07-25 19:53:46 V/Net 2785766889: Send: MessageSvc.PbSendMsg(MessageSvc.PbSendMsg)[0m
+[0m2022-07-25 19:53:47 V/Net 2785766889: Recv: MessageSvc.PbSendMsg[0m
+[0m2022-07-25 19:53:47 V/Net 2785766889: Send: ImgStore.GroupPicUp(ImgStore.GroupPicUp)[0m
+[0m2022-07-25 19:53:48 V/Net 2785766889: Recv: ImgStore.GroupPicUp[0m
+[0m2022-07-25 19:53:48 V/Net 2785766889: Send: MessageSvc.PbSendMsg(MessageSvc.PbSendMsg)[0m
+[0m2022-07-25 19:53:48 V/Net 2785766889: Recv: MessageSvc.PbSendMsg[0m
+[0m2022-07-25 19:53:58 V/Net 2785766889: Send: MessageSvc.PbSendMsg(MessageSvc.PbSendMsg)[0m
+[0m2022-07-25 19:53:58 V/Net 2785766889: Recv: MessageSvc.PbSendMsg[0m
+[0m2022-07-25 19:54:46 V/Net 2785766889: Send: MessageSvc.PbSendMsg(MessageSvc.PbSendMsg)[0m
+[0m2022-07-25 19:54:46 V/Net 2785766889: Recv: MessageSvc.PbSendMsg[0m
+[0m2022-07-25 19:54:47 V/Net 2785766889: Send: OidbSvc.0xed3(OidbSvc.0xed3)[0m
+[0m2022-07-25 19:54:48 V/Net 2785766889: Recv: OidbSvc.0xed3[0m
+[0m2022-07-25 19:54:49 V/Net 2785766889: Send: MessageSvc.PbSendMsg(MessageSvc.PbSendMsg)[0m
+[0m2022-07-25 19:54:49 V/Net 2785766889: Recv: MessageSvc.PbSendMsg[0m
+[0m2022-07-25 19:54:51 V/Net 2785766889: Send: ImgStore.GroupPicUp(ImgStore.GroupPicUp)[0m
+[0m2022-07-25 19:54:51 V/Net 2785766889: Recv: ImgStore.GroupPicUp[0m
+[0m2022-07-25 19:54:51 V/Net 2785766889: Send: MessageSvc.PbSendMsg(MessageSvc.PbSendMsg)[0m
+[0m2022-07-25 19:54:52 V/Net 2785766889: Recv: MessageSvc.PbSendMsg[0m
+[0m2022-07-25 19:54:53 V/Net 2785766889: Send: MessageSvc.PbSendMsg(MessageSvc.PbSendMsg)[0m
+[0m2022-07-25 19:54:53 V/Net 2785766889: Recv: MessageSvc.PbSendMsg[0m
+[0m2022-07-25 19:55:03 V/Net 2785766889: Send: MessageSvc.PbSendMsg(MessageSvc.PbSendMsg)[0m
+[0m2022-07-25 19:55:03 V/Net 2785766889: Recv: MessageSvc.PbSendMsg[0m
+[0m2022-07-25 19:55:04 V/Net 2785766889: Send: OidbSvc.0xed3(OidbSvc.0xed3)[0m
+[0m2022-07-25 19:55:04 V/Net 2785766889: Recv: OidbSvc.0xed3[0m
+[0m2022-07-25 19:55:05 V/Net 2785766889: Send: MessageSvc.PbSendMsg(MessageSvc.PbSendMsg)[0m
+[0m2022-07-25 19:55:06 V/Net 2785766889: Recv: MessageSvc.PbSendMsg[0m
+[0m2022-07-25 19:55:08 V/Net 2785766889: Send: ImgStore.GroupPicUp(ImgStore.GroupPicUp)[0m
+[0m2022-07-25 19:55:08 V/Net 2785766889: Recv: ImgStore.GroupPicUp[0m
+[0m2022-07-25 19:55:08 V/Net 2785766889: Send: MessageSvc.PbSendMsg(MessageSvc.PbSendMsg)[0m
+[0m2022-07-25 19:55:09 V/Net 2785766889: Recv: MessageSvc.PbSendMsg[0m
+[0m2022-07-25 19:55:48 V/Net 2785766889: Send: MessageSvc.PbSendMsg(MessageSvc.PbSendMsg)[0m
+[0m2022-07-25 19:55:48 V/Net 2785766889: Recv: MessageSvc.PbSendMsg[0m
+[0m2022-07-25 19:56:30 V/Net 2785766889: Send: MessageSvc.PbSendMsg(MessageSvc.PbSendMsg)[0m
+[0m2022-07-25 19:56:31 V/Net 2785766889: Recv: MessageSvc.PbSendMsg[0m
+[0m2022-07-25 19:56:31 V/Net 2785766889: Send: MessageSvc.PbSendMsg(MessageSvc.PbSendMsg)[0m
+[0m2022-07-25 19:56:31 V/Net 2785766889: Recv: MessageSvc.PbSendMsg[0m
+[0m2022-07-25 19:56:43 V/Net 2785766889: Send: MessageSvc.PbSendMsg(MessageSvc.PbSendMsg)[0m
+[0m2022-07-25 19:56:44 V/Net 2785766889: Recv: MessageSvc.PbSendMsg[0m
+[0m2022-07-25 19:57:07 V/Net 2785766889: Send: MessageSvc.PbSendMsg(MessageSvc.PbSendMsg)[0m
+[0m2022-07-25 19:57:07 V/Net 2785766889: Recv: MessageSvc.PbSendMsg[0m
+[0m2022-07-25 19:57:16 V/Net 2785766889: Send: MessageSvc.PbSendMsg(MessageSvc.PbSendMsg)[0m
+[0m2022-07-25 19:57:16 V/Net 2785766889: Recv: MessageSvc.PbSendMsg[0m
+[0m2022-07-25 19:57:44 V/Net 2785766889: Send: MessageSvc.PbSendMsg(MessageSvc.PbSendMsg)[0m
+[0m2022-07-25 19:57:44 V/Net 2785766889: Recv: MessageSvc.PbSendMsg[0m
+[0m2022-07-25 19:57:51 V/Net 2785766889: Send: MessageSvc.PbSendMsg(MessageSvc.PbSendMsg)[0m
+[0m2022-07-25 19:57:51 V/Net 2785766889: Recv: MessageSvc.PbSendMsg[0m
+[0m2022-07-25 19:58:06 V/Net 2785766889: Send: MessageSvc.PbSendMsg(MessageSvc.PbSendMsg)[0m
+[0m2022-07-25 19:58:06 V/Net 2785766889: Recv: MessageSvc.PbSendMsg[0m
+[0m2022-07-25 19:58:13 V/Net 2785766889: Send: MessageSvc.PbSendMsg(MessageSvc.PbSendMsg)[0m
+[0m2022-07-25 19:58:13 V/Net 2785766889: Recv: MessageSvc.PbSendMsg[0m
+[0m2022-07-25 19:58:19 V/Net 2785766889: Send: MessageSvc.PbSendMsg(MessageSvc.PbSendMsg)[0m
+[0m2022-07-25 19:58:19 V/Net 2785766889: Recv: MessageSvc.PbSendMsg[0m
+[0m2022-07-25 19:58:22 V/Net 2785766889: Send: MessageSvc.PbSendMsg(MessageSvc.PbSendMsg)[0m
+[0m2022-07-25 19:58:22 V/Net 2785766889: Recv: MessageSvc.PbSendMsg[0m
+[0m2022-07-25 19:58:38 V/Net 2785766889: Send: MessageSvc.PbSendMsg(MessageSvc.PbSendMsg)[0m
+[0m2022-07-25 19:58:38 V/Net 2785766889: Recv: MessageSvc.PbSendMsg[0m
+[0m2022-07-25 19:58:38 V/Net 2785766889: Send: MessageSvc.PbSendMsg(MessageSvc.PbSendMsg)[0m
+[0m2022-07-25 19:58:39 V/Net 2785766889: Recv: MessageSvc.PbSendMsg[0m
+[0m2022-07-25 19:58:39 V/Net 2785766889: Send: OidbSvc.0xed3(OidbSvc.0xed3)[0m
+[0m2022-07-25 19:58:39 V/Net 2785766889: Recv: OidbSvc.0xed3[0m
+[0m2022-07-25 19:58:40 V/Net 2785766889: Send: MessageSvc.PbSendMsg(MessageSvc.PbSendMsg)[0m
+[0m2022-07-25 19:58:41 V/Net 2785766889: Recv: MessageSvc.PbSendMsg[0m
+[0m2022-07-25 19:58:43 V/Net 2785766889: Send: ImgStore.GroupPicUp(ImgStore.GroupPicUp)[0m
+[0m2022-07-25 19:58:43 V/Net 2785766889: Recv: ImgStore.GroupPicUp[0m
+[0m2022-07-25 19:58:43 V/Net 2785766889: Send: MessageSvc.PbSendMsg(MessageSvc.PbSendMsg)[0m
+[0m2022-07-25 19:58:43 V/Net 2785766889: Send: MessageSvc.PbSendMsg(MessageSvc.PbSendMsg)[0m
+[0m2022-07-25 19:58:43 V/Net 2785766889: Recv: MessageSvc.PbSendMsg[0m
+[0m2022-07-25 19:58:45 V/Net 2785766889: Recv: MessageSvc.PbSendMsg[0m
+[0m2022-07-25 19:58:45 V/Net 2785766889: Send: ImgStore.GroupPicUp(ImgStore.GroupPicUp)[0m
+[0m2022-07-25 19:58:46 V/Net 2785766889: Recv: ImgStore.GroupPicUp[0m
+[0m2022-07-25 19:58:46 V/Net 2785766889: Send: MessageSvc.PbSendMsg(MessageSvc.PbSendMsg)[0m
+[0m2022-07-25 19:58:46 V/Net 2785766889: Recv: MessageSvc.PbSendMsg[0m
+[0m2022-07-25 19:58:53 V/Net 2785766889: Send: MessageSvc.PbSendMsg(MessageSvc.PbSendMsg)[0m
+[0m2022-07-25 19:58:54 V/Net 2785766889: Recv: MessageSvc.PbSendMsg[0m
+[0m2022-07-25 19:58:56 V/Net 2785766889: Send: MessageSvc.PbSendMsg(MessageSvc.PbSendMsg)[0m
+[0m2022-07-25 19:58:56 V/Net 2785766889: Recv: MessageSvc.PbSendMsg[0m
+[0m2022-07-25 19:59:15 V/Net 2785766889: Send: MessageSvc.PbSendMsg(MessageSvc.PbSendMsg)[0m
+[0m2022-07-25 19:59:15 V/Net 2785766889: Recv: MessageSvc.PbSendMsg[0m
+[0m2022-07-25 19:59:16 V/Net 2785766889: Send: OidbSvc.0xed3(OidbSvc.0xed3)[0m
+[0m2022-07-25 19:59:17 V/Net 2785766889: Recv: OidbSvc.0xed3[0m
+[0m2022-07-25 19:59:18 V/Net 2785766889: Send: MessageSvc.PbSendMsg(MessageSvc.PbSendMsg)[0m
+[0m2022-07-25 19:59:18 V/Net 2785766889: Recv: MessageSvc.PbSendMsg[0m
+[0m2022-07-25 19:59:20 V/Net 2785766889: Send: ImgStore.GroupPicUp(ImgStore.GroupPicUp)[0m
+[0m2022-07-25 19:59:20 V/Net 2785766889: Recv: ImgStore.GroupPicUp[0m
+[0m2022-07-25 19:59:20 V/Net 2785766889: Send: MessageSvc.PbSendMsg(MessageSvc.PbSendMsg)[0m
+[0m2022-07-25 19:59:20 V/Net 2785766889: Recv: MessageSvc.PbSendMsg[0m
+[0m2022-07-25 19:59:24 V/Net 2785766889: Send: MessageSvc.PbSendMsg(MessageSvc.PbSendMsg)[0m
+[0m2022-07-25 19:59:24 V/Net 2785766889: Recv: MessageSvc.PbSendMsg[0m
+[0m2022-07-25 20:00:00 V/Net 2785766889: Send: MessageSvc.PbSendMsg(MessageSvc.PbSendMsg)[0m
+[0m2022-07-25 20:00:00 V/Net 2785766889: Recv: MessageSvc.PbSendMsg[0m
+[0m2022-07-25 20:00:00 V/Net 2785766889: Send: MessageSvc.PbSendMsg(MessageSvc.PbSendMsg)[0m
+[0m2022-07-25 20:00:01 V/Net 2785766889: Recv: MessageSvc.PbSendMsg[0m
+[0m2022-07-25 20:00:30 V/Net 2785766889: Send: ImgStore.GroupPicUp(ImgStore.GroupPicUp)[0m
+[0m2022-07-25 20:00:31 V/Net 2785766889: Recv: ImgStore.GroupPicUp[0m
+[0m2022-07-25 20:00:31 V/Net 2785766889: Send: MessageSvc.PbSendMsg(MessageSvc.PbSendMsg)[0m
+[0m2022-07-25 20:00:31 V/Net 2785766889: Recv: MessageSvc.PbSendMsg[0m
+[0m2022-07-25 20:01:38 V/Net 2785766889: Send: ImgStore.GroupPicUp(ImgStore.GroupPicUp)[0m
+[0m2022-07-25 20:01:39 V/Net 2785766889: Recv: ImgStore.GroupPicUp[0m
+[0m2022-07-25 20:01:39 V/Net 2785766889: Send: MessageSvc.PbSendMsg(MessageSvc.PbSendMsg)[0m
+[0m2022-07-25 20:01:39 V/Net 2785766889: Recv: MessageSvc.PbSendMsg[0m
+[0m2022-07-25 20:02:35 V/Net 2785766889: Send: MessageSvc.PbSendMsg(MessageSvc.PbSendMsg)[0m
+[0m2022-07-25 20:02:35 V/Net 2785766889: Recv: MessageSvc.PbSendMsg[0m
+[0m2022-07-25 20:02:36 V/Net 2785766889: Send: ImgStore.GroupPicUp(ImgStore.GroupPicUp)[0m
+[0m2022-07-25 20:02:36 V/Net 2785766889: Recv: ImgStore.GroupPicUp[0m
+[0m2022-07-25 20:02:36 V/Net 2785766889: Send: MessageSvc.PbSendMsg(MessageSvc.PbSendMsg)[0m
+[0m2022-07-25 20:02:36 V/Net 2785766889: Recv: MessageSvc.PbSendMsg[0m
+[0m2022-07-25 20:02:47 V/Net 2785766889: Recv: MessageSvc.PushForceOffline[0m
+[91m2022-07-25 20:02:47 W/Net 2785766889: net.mamoe.mirai.internal.network.impl.netty.ForceOfflineException: 你的QQ号于20:02在【JEF-AN00】设备登录，当前设备已下线。如果这不是你本人操作，那么你的QQ密码可能已经泄露，请尽快重新登录并修改密码。
+net.mamoe.mirai.internal.network.impl.netty.ForceOfflineException: 你的QQ号于20:02在【JEF-AN00】设备登录，当前设备已下线。如果这不是你本人操作，那么你的QQ密码可能已经泄露，请尽快重新登录并修改密码。
+	at net.mamoe.mirai.internal.network.protocol.packet.chat.receive.MessageSvcPushForceOffline.handle(MessageSvc.PushForceOffline.kt:35)
+	at net.mamoe.mirai.internal.network.protocol.packet.chat.receive.MessageSvcPushForceOffline.handle(MessageSvc.PushForceOffline.kt:25)
+	at net.mamoe.mirai.internal.network.components.CallPacketFactoryPacketHandler.handlePacket(PacketHandler.kt:110)
+	at net.mamoe.mirai.internal.network.components.PacketHandlerChain.handlePacket(PacketHandler.kt:42)
+	at net.mamoe.mirai.internal.network.handler.NetworkHandlerSupport$collectReceived$3.invokeSuspend(NetworkHandlerSupport.kt:90)
+	at net.mamoe.mirai.internal.network.handler.NetworkHandlerSupport$collectReceived$3.invoke(NetworkHandlerSupport.kt)
+	at net.mamoe.mirai.internal.network.handler.NetworkHandlerSupport$collectReceived$3.invoke(NetworkHandlerSupport.kt)
+	at kotlinx.coroutines.intrinsics.UndispatchedKt.startCoroutineUndispatched(Undispatched.kt:55)
+	at kotlinx.coroutines.CoroutineStart.invoke(CoroutineStart.kt:112)
+	at kotlinx.coroutines.AbstractCoroutine.start(AbstractCoroutine.kt:126)
+	at kotlinx.coroutines.BuildersKt__Builders_commonKt.launch(Builders.common.kt:56)
+	at kotlinx.coroutines.BuildersKt.launch(Unknown Source)
+	at kotlinx.coroutines.BuildersKt__Builders_commonKt.launch$default(Builders.common.kt:47)
+	at kotlinx.coroutines.BuildersKt.launch$default(Unknown Source)
+	at net.mamoe.mirai.internal.network.handler.NetworkHandlerSupport.collectReceived$mirai_core(NetworkHandlerSupport.kt:88)
+	at net.mamoe.mirai.internal.network.impl.netty.NettyNetworkHandler$PacketDecodePipeline$send$1.invokeSuspend(NettyNetworkHandler.kt:192)
+	at kotlin.coroutines.jvm.internal.BaseContinuationImpl.resumeWith(ContinuationImpl.kt:33)
+	at kotlinx.coroutines.DispatchedTask.run(DispatchedTask.kt:106)
+	at io.netty.util.concurrent.AbstractEventExecutor.safeExecute(AbstractEventExecutor.java:164)
+	at io.netty.util.concurrent.SingleThreadEventExecutor.runAllTasks(SingleThreadEventExecutor.java:472)
+	at io.netty.channel.nio.NioEventLoop.run(NioEventLoop.java:500)
+	at io.netty.util.concurrent.SingleThreadEventExecutor$4.run(SingleThreadEventExecutor.java:989)
+	at io.netty.util.internal.ThreadExecutorMap$2.run(ThreadExecutorMap.java:74)
+	at io.netty.util.concurrent.FastThreadLocalRunnable.run(FastThreadLocalRunnable.java:30)
+	at java.base/java.lang.Thread.run(Thread.java:833)
+	Suppressed: java.util.concurrent.CancellationException: NetworkHandler closed
+		at kotlinx.coroutines.ExceptionsKt.CancellationException(Exceptions.kt:22)
+		at kotlinx.coroutines.JobKt__JobKt.cancel(Job.kt:596)
+		at kotlinx.coroutines.JobKt.cancel(Unknown Source)
+		at net.mamoe.mirai.internal.network.handler.NetworkHandlerSupport.close(NetworkHandlerSupport.kt:61)
+		at net.mamoe.mirai.internal.network.impl.netty.NettyNetworkHandler.close(NettyNetworkHandler.kt:205)
+		at net.mamoe.mirai.internal.network.handler.selector.SelectorNetworkHandler.close(SelectorNetworkHandler.kt:87)
+		... 25 more
+	Caused by: [CIRCULAR REFERENCE: net.mamoe.mirai.internal.network.impl.netty.ForceOfflineException: 你的QQ号于20:02在【JEF-AN00】设备登录，当前设备已下线。如果这不是你本人操作，那么你的QQ密码可能已经泄露，请尽快重新登录并修改密码。]
+[0m
+[0m2022-07-25 20:02:48 V/Net 2785766889: Loading server list from cache.[0m
+[92m2022-07-25 20:02:48 I/Net 2785766889: Server list: 120.232.130.74:443, 111.30.169.125:14000, 36.155.187.71:14000, 111.30.169.45:80, msfwifi.3g.qq.com:8080, 111.31.200.210:80, 120.232.69.214:8080, 36.155.213.142:80, 111.30.170.241:80, 36.155.207.223:14000.[0m
+[92m2022-07-25 20:02:48 I/Net 2785766889: ECDH key is invalid, start to fetch ecdh public key from server.[0m
+[92m2022-07-25 20:02:48 I/Net 2785766889: Successfully fetched ecdh public key from server.[0m
+[0m2022-07-25 20:02:48 V/Net 2785766889: Send: wtlogin.login[0m
+[0m2022-07-25 20:02:48 V/Net 2785766889: Recv: wtlogin.login[0m
+[0m2022-07-25 20:02:48 V/Net 2785766889: Send: wtlogin.login[0m
+[0m2022-07-25 20:02:48 V/Net 2785766889: Recv: wtlogin.login[0m
+[0m2022-07-25 20:02:48 V/Net 2785766889: Send: StatSvc.register(online)[0m
+[92m2022-07-25 20:02:48 I/Net 2785766889: Server time updated, serverTime: 1658750576, diff: 8ms=0.008s[0m
+[0m2022-07-25 20:02:48 V/Net 2785766889: Recv: StatSvc.register[0m
+[92m2022-07-25 20:02:48 I/Net 2785766889: Scheduled key refresh in 23h 55min 0.0s.[0m
+[92m2022-07-25 20:02:48 I/Net 2785766889: Scheduled refresh login session in 19d 23h 55min 0.0s.[0m
+[0m2022-07-25 20:02:49 V/Net 2785766889: Recv: MessageSvc.PushForceOffline[0m
+[91m2022-07-25 20:02:49 W/Net 2785766889: net.mamoe.mirai.internal.network.impl.netty.ForceOfflineException: 你的QQ号于20:02在【JEF-AN00】设备登录，当前设备已下线。如果这不是你本人操作，那么你的QQ密码可能已经泄露，请尽快重新登录并修改密码。
+net.mamoe.mirai.internal.network.impl.netty.ForceOfflineException: 你的QQ号于20:02在【JEF-AN00】设备登录，当前设备已下线。如果这不是你本人操作，那么你的QQ密码可能已经泄露，请尽快重新登录并修改密码。
+	at net.mamoe.mirai.internal.network.protocol.packet.chat.receive.MessageSvcPushForceOffline.handle(MessageSvc.PushForceOffline.kt:35)
+	at net.mamoe.mirai.internal.network.protocol.packet.chat.receive.MessageSvcPushForceOffline.handle(MessageSvc.PushForceOffline.kt:25)
+	at net.mamoe.mirai.internal.network.components.CallPacketFactoryPacketHandler.handlePacket(PacketHandler.kt:110)
+	at net.mamoe.mirai.internal.network.components.PacketHandlerChain.handlePacket(PacketHandler.kt:42)
+	at net.mamoe.mirai.internal.network.handler.NetworkHandlerSupport$collectReceived$3.invokeSuspend(NetworkHandlerSupport.kt:90)
+	at net.mamoe.mirai.internal.network.handler.NetworkHandlerSupport$collectReceived$3.invoke(NetworkHandlerSupport.kt)
+	at net.mamoe.mirai.internal.network.handler.NetworkHandlerSupport$collectReceived$3.invoke(NetworkHandlerSupport.kt)
+	at kotlinx.coroutines.intrinsics.UndispatchedKt.startCoroutineUndispatched(Undispatched.kt:55)
+	at kotlinx.coroutines.CoroutineStart.invoke(CoroutineStart.kt:112)
+	at kotlinx.coroutines.AbstractCoroutine.start(AbstractCoroutine.kt:126)
+	at kotlinx.coroutines.BuildersKt__Builders_commonKt.launch(Builders.common.kt:56)
+	at kotlinx.coroutines.BuildersKt.launch(Unknown Source)
+	at kotlinx.coroutines.BuildersKt__Builders_commonKt.launch$default(Builders.common.kt:47)
+	at kotlinx.coroutines.BuildersKt.launch$default(Unknown Source)
+	at net.mamoe.mirai.internal.network.handler.NetworkHandlerSupport.collectReceived$mirai_core(NetworkHandlerSupport.kt:88)
+	at net.mamoe.mirai.internal.network.impl.netty.NettyNetworkHandler$PacketDecodePipeline$send$1.invokeSuspend(NettyNetworkHandler.kt:192)
+	at kotlin.coroutines.jvm.internal.BaseContinuationImpl.resumeWith(ContinuationImpl.kt:33)
+	at kotlinx.coroutines.DispatchedTask.run(DispatchedTask.kt:106)
+	at io.netty.util.concurrent.AbstractEventExecutor.safeExecute(AbstractEventExecutor.java:164)
+	at io.netty.util.concurrent.SingleThreadEventExecutor.runAllTasks(SingleThreadEventExecutor.java:472)
+	at io.netty.channel.nio.NioEventLoop.run(NioEventLoop.java:500)
+	at io.netty.util.concurrent.SingleThreadEventExecutor$4.run(SingleThreadEventExecutor.java:989)
+	at io.netty.util.internal.ThreadExecutorMap$2.run(ThreadExecutorMap.java:74)
+	at io.netty.util.concurrent.FastThreadLocalRunnable.run(FastThreadLocalRunnable.java:30)
+	at java.base/java.lang.Thread.run(Thread.java:833)
+	Suppressed: java.util.concurrent.CancellationException: NetworkHandler closed
+		at kotlinx.coroutines.ExceptionsKt.CancellationException(Exceptions.kt:22)
+		at kotlinx.coroutines.JobKt__JobKt.cancel(Job.kt:596)
+		at kotlinx.coroutines.JobKt.cancel(Unknown Source)
+		at net.mamoe.mirai.internal.network.handler.NetworkHandlerSupport.close(NetworkHandlerSupport.kt:61)
+		at net.mamoe.mirai.internal.network.impl.netty.NettyNetworkHandler.close(NettyNetworkHandler.kt:205)
+		at net.mamoe.mirai.internal.network.handler.selector.SelectorNetworkHandler.close(SelectorNetworkHandler.kt:87)
+		... 25 more
+	Caused by: [CIRCULAR REFERENCE: net.mamoe.mirai.internal.network.impl.netty.ForceOfflineException: 你的QQ号于20:02在【JEF-AN00】设备登录，当前设备已下线。如果这不是你本人操作，那么你的QQ密码可能已经泄露，请尽快重新登录并修改密码。]
+[0m
+[0m2022-07-25 20:02:49 V/Net 2785766889: Loading server list from cache.[0m
+[92m2022-07-25 20:02:49 I/Net 2785766889: Server list: 120.232.130.74:443, 111.30.169.125:14000, 36.155.187.71:14000, 111.30.169.45:80, msfwifi.3g.qq.com:8080, 111.31.200.210:80, 120.232.69.214:8080, 36.155.213.142:80, 111.30.170.241:80, 36.155.207.223:14000.[0m
+[92m2022-07-25 20:02:49 I/Net 2785766889: ECDH key is invalid, start to fetch ecdh public key from server.[0m
+[92m2022-07-25 20:02:49 I/Net 2785766889: Successfully fetched ecdh public key from server.[0m
+[0m2022-07-25 20:02:49 V/Net 2785766889: Send: wtlogin.login[0m
+[0m2022-07-25 20:02:49 V/Net 2785766889: Send: wtlogin.login[0m
+[0m2022-07-25 20:02:49 V/Net 2785766889: Recv: wtlogin.login[0m
+[0m2022-07-25 20:02:49 V/Net 2785766889: Recv: wtlogin.login[0m
+[0m2022-07-25 20:02:49 V/Net 2785766889: Send: StatSvc.register(online)[0m
+[92m2022-07-25 20:02:49 I/Net 2785766889: Server time updated, serverTime: 1658750577, diff: 8ms=0.008s[0m
+[0m2022-07-25 20:02:49 V/Net 2785766889: Recv: StatSvc.register[0m
+[92m2022-07-25 20:02:49 I/Net 2785766889: Scheduled refresh login session in 19d 23h 55min 0.0s.[0m
+[92m2022-07-25 20:02:49 I/Net 2785766889: Scheduled key refresh in 23h 55min 0.0s.[0m
+[0m2022-07-25 20:02:52 V/Net 2785766889: Saving bdh session to cache[0m
+[0m2022-07-25 20:02:52 V/Net 2785766889: Send: ConfigPushSvc.PushResp(ConfigPushSvc.PushResp)[0m
+[0m2022-07-25 20:02:52 V/Net 2785766889: Recv: ConfigPushSvc.PushReq[0m
+[0m2022-07-25 20:02:53 V/Net 2785766889: Recv: MessageSvc.PushForceOffline[0m
+[91m2022-07-25 20:02:53 W/Net 2785766889: net.mamoe.mirai.internal.network.impl.netty.ForceOfflineException: 你的QQ号于20:03在【JEF-AN00】设备登录，当前设备已下线。如果这不是你本人操作，那么你的QQ密码可能已经泄露，请尽快重新登录并修改密码。
+net.mamoe.mirai.internal.network.impl.netty.ForceOfflineException: 你的QQ号于20:03在【JEF-AN00】设备登录，当前设备已下线。如果这不是你本人操作，那么你的QQ密码可能已经泄露，请尽快重新登录并修改密码。
+	at net.mamoe.mirai.internal.network.protocol.packet.chat.receive.MessageSvcPushForceOffline.handle(MessageSvc.PushForceOffline.kt:35)
+	at net.mamoe.mirai.internal.network.protocol.packet.chat.receive.MessageSvcPushForceOffline.handle(MessageSvc.PushForceOffline.kt:25)
+	at net.mamoe.mirai.internal.network.components.CallPacketFactoryPacketHandler.handlePacket(PacketHandler.kt:110)
+	at net.mamoe.mirai.internal.network.components.PacketHandlerChain.handlePacket(PacketHandler.kt:42)
+	at net.mamoe.mirai.internal.network.handler.NetworkHandlerSupport$collectReceived$3.invokeSuspend(NetworkHandlerSupport.kt:90)
+	at net.mamoe.mirai.internal.network.handler.NetworkHandlerSupport$collectReceived$3.invoke(NetworkHandlerSupport.kt)
+	at net.mamoe.mirai.internal.network.handler.NetworkHandlerSupport$collectReceived$3.invoke(NetworkHandlerSupport.kt)
+	at kotlinx.coroutines.intrinsics.UndispatchedKt.startCoroutineUndispatched(Undispatched.kt:55)
+	at kotlinx.coroutines.CoroutineStart.invoke(CoroutineStart.kt:112)
+	at kotlinx.coroutines.AbstractCoroutine.start(AbstractCoroutine.kt:126)
+	at kotlinx.coroutines.BuildersKt__Builders_commonKt.launch(Builders.common.kt:56)
+	at kotlinx.coroutines.BuildersKt.launch(Unknown Source)
+	at kotlinx.coroutines.BuildersKt__Builders_commonKt.launch$default(Builders.common.kt:47)
+	at kotlinx.coroutines.BuildersKt.launch$default(Unknown Source)
+	at net.mamoe.mirai.internal.network.handler.NetworkHandlerSupport.collectReceived$mirai_core(NetworkHandlerSupport.kt:88)
+	at net.mamoe.mirai.internal.network.impl.netty.NettyNetworkHandler$PacketDecodePipeline$send$1.invokeSuspend(NettyNetworkHandler.kt:192)
+	at kotlin.coroutines.jvm.internal.BaseContinuationImpl.resumeWith(ContinuationImpl.kt:33)
+	at kotlinx.coroutines.DispatchedTask.run(DispatchedTask.kt:106)
+	at io.netty.util.concurrent.AbstractEventExecutor.safeExecute(AbstractEventExecutor.java:164)
+	at io.netty.util.concurrent.SingleThreadEventExecutor.runAllTasks(SingleThreadEventExecutor.java:472)
+	at io.netty.channel.nio.NioEventLoop.run(NioEventLoop.java:500)
+	at io.netty.util.concurrent.SingleThreadEventExecutor$4.run(SingleThreadEventExecutor.java:989)
+	at io.netty.util.internal.ThreadExecutorMap$2.run(ThreadExecutorMap.java:74)
+	at io.netty.util.concurrent.FastThreadLocalRunnable.run(FastThreadLocalRunnable.java:30)
+	at java.base/java.lang.Thread.run(Thread.java:833)
+	Suppressed: java.util.concurrent.CancellationException: NetworkHandler closed
+		at kotlinx.coroutines.ExceptionsKt.CancellationException(Exceptions.kt:22)
+		at kotlinx.coroutines.JobKt__JobKt.cancel(Job.kt:596)
+		at kotlinx.coroutines.JobKt.cancel(Unknown Source)
+		at net.mamoe.mirai.internal.network.handler.NetworkHandlerSupport.close(NetworkHandlerSupport.kt:61)
+		at net.mamoe.mirai.internal.network.impl.netty.NettyNetworkHandler.close(NettyNetworkHandler.kt:205)
+		at net.mamoe.mirai.internal.network.handler.selector.SelectorNetworkHandler.close(SelectorNetworkHandler.kt:87)
+		... 25 more
+	Caused by: [CIRCULAR REFERENCE: net.mamoe.mirai.internal.network.impl.netty.ForceOfflineException: 你的QQ号于20:03在【JEF-AN00】设备登录，当前设备已下线。如果这不是你本人操作，那么你的QQ密码可能已经泄露，请尽快重新登录并修改密码。]
+[0m
+[0m2022-07-25 20:02:54 V/Net 2785766889: Loading server list from cache.[0m
+[92m2022-07-25 20:02:54 I/Net 2785766889: Server list: 120.232.130.74:443, 111.30.169.125:14000, 36.155.187.71:14000, 111.30.169.45:80, msfwifi.3g.qq.com:8080, 111.31.200.210:80, 120.232.69.214:8080, 36.155.213.142:80, 111.30.170.241:80, 36.155.207.223:14000.[0m
+[92m2022-07-25 20:02:54 I/Net 2785766889: ECDH key is invalid, start to fetch ecdh public key from server.[0m
+[92m2022-07-25 20:02:54 I/Net 2785766889: Successfully fetched ecdh public key from server.[0m
+[0m2022-07-25 20:02:54 V/Net 2785766889: Send: wtlogin.login[0m
+[0m2022-07-25 20:02:54 V/Net 2785766889: Recv: wtlogin.login[0m
+[0m2022-07-25 20:02:54 V/Net 2785766889: Send: wtlogin.login[0m
+[0m2022-07-25 20:02:54 V/Net 2785766889: Recv: wtlogin.login[0m
+[0m2022-07-25 20:02:54 V/Net 2785766889: Send: StatSvc.register(online)[0m
+[92m2022-07-25 20:02:54 I/Net 2785766889: Server time updated, serverTime: 1658750582, diff: 8ms=0.008s[0m
+[0m2022-07-25 20:02:54 V/Net 2785766889: Recv: StatSvc.register[0m
+[92m2022-07-25 20:02:54 I/Net 2785766889: Scheduled refresh login session in 19d 23h 55min 0.0s.[0m
+[92m2022-07-25 20:02:54 I/Net 2785766889: Scheduled key refresh in 23h 55min 0.0s.[0m
+[0m2022-07-25 20:02:57 V/Net 2785766889: Recv: MessageSvc.PushForceOffline[0m
+[91m2022-07-25 20:02:57 W/Net 2785766889: net.mamoe.mirai.internal.network.impl.netty.ForceOfflineException: 你的QQ号于20:03在【JEF-AN00】设备登录，当前设备已下线。如果这不是你本人操作，那么你的QQ密码可能已经泄露，请尽快重新登录并修改密码。
+net.mamoe.mirai.internal.network.impl.netty.ForceOfflineException: 你的QQ号于20:03在【JEF-AN00】设备登录，当前设备已下线。如果这不是你本人操作，那么你的QQ密码可能已经泄露，请尽快重新登录并修改密码。
+	at net.mamoe.mirai.internal.network.protocol.packet.chat.receive.MessageSvcPushForceOffline.handle(MessageSvc.PushForceOffline.kt:35)
+	at net.mamoe.mirai.internal.network.protocol.packet.chat.receive.MessageSvcPushForceOffline.handle(MessageSvc.PushForceOffline.kt:25)
+	at net.mamoe.mirai.internal.network.components.CallPacketFactoryPacketHandler.handlePacket(PacketHandler.kt:110)
+	at net.mamoe.mirai.internal.network.components.PacketHandlerChain.handlePacket(PacketHandler.kt:42)
+	at net.mamoe.mirai.internal.network.handler.NetworkHandlerSupport$collectReceived$3.invokeSuspend(NetworkHandlerSupport.kt:90)
+	at net.mamoe.mirai.internal.network.handler.NetworkHandlerSupport$collectReceived$3.invoke(NetworkHandlerSupport.kt)
+	at net.mamoe.mirai.internal.network.handler.NetworkHandlerSupport$collectReceived$3.invoke(NetworkHandlerSupport.kt)
+	at kotlinx.coroutines.intrinsics.UndispatchedKt.startCoroutineUndispatched(Undispatched.kt:55)
+	at kotlinx.coroutines.CoroutineStart.invoke(CoroutineStart.kt:112)
+	at kotlinx.coroutines.AbstractCoroutine.start(AbstractCoroutine.kt:126)
+	at kotlinx.coroutines.BuildersKt__Builders_commonKt.launch(Builders.common.kt:56)
+	at kotlinx.coroutines.BuildersKt.launch(Unknown Source)
+	at kotlinx.coroutines.BuildersKt__Builders_commonKt.launch$default(Builders.common.kt:47)
+	at kotlinx.coroutines.BuildersKt.launch$default(Unknown Source)
+	at net.mamoe.mirai.internal.network.handler.NetworkHandlerSupport.collectReceived$mirai_core(NetworkHandlerSupport.kt:88)
+	at net.mamoe.mirai.internal.network.impl.netty.NettyNetworkHandler$PacketDecodePipeline$send$1.invokeSuspend(NettyNetworkHandler.kt:192)
+	at kotlin.coroutines.jvm.internal.BaseContinuationImpl.resumeWith(ContinuationImpl.kt:33)
+	at kotlinx.coroutines.DispatchedTask.run(DispatchedTask.kt:106)
+	at io.netty.util.concurrent.AbstractEventExecutor.safeExecute(AbstractEventExecutor.java:164)
+	at io.netty.util.concurrent.SingleThreadEventExecutor.runAllTasks(SingleThreadEventExecutor.java:472)
+	at io.netty.channel.nio.NioEventLoop.run(NioEventLoop.java:500)
+	at io.netty.util.concurrent.SingleThreadEventExecutor$4.run(SingleThreadEventExecutor.java:989)
+	at io.netty.util.internal.ThreadExecutorMap$2.run(ThreadExecutorMap.java:74)
+	at io.netty.util.concurrent.FastThreadLocalRunnable.run(FastThreadLocalRunnable.java:30)
+	at java.base/java.lang.Thread.run(Thread.java:833)
+[0m
+[0m2022-07-25 20:02:57 V/Net 2785766889: Loading server list from cache.[0m
+[92m2022-07-25 20:02:57 I/Net 2785766889: Server list: 120.232.130.74:443, 111.30.169.125:14000, 36.155.187.71:14000, 111.30.169.45:80, msfwifi.3g.qq.com:8080, 111.31.200.210:80, 120.232.69.214:8080, 36.155.213.142:80, 111.30.170.241:80, 36.155.207.223:14000.[0m
+[92m2022-07-25 20:02:57 I/Net 2785766889: ECDH key is invalid, start to fetch ecdh public key from server.[0m
+[92m2022-07-25 20:02:57 I/Net 2785766889: Successfully fetched ecdh public key from server.[0m
+[0m2022-07-25 20:02:57 V/Net 2785766889: Send: wtlogin.login[0m
+[0m2022-07-25 20:02:57 V/Net 2785766889: Recv: wtlogin.login[0m
+[0m2022-07-25 20:02:57 V/Net 2785766889: Send: wtlogin.login[0m
+[0m2022-07-25 20:02:57 V/Net 2785766889: Recv: wtlogin.login[0m
+[0m2022-07-25 20:02:57 V/Net 2785766889: Send: StatSvc.register(online)[0m
+[92m2022-07-25 20:02:57 I/Net 2785766889: Server time updated, serverTime: 1658750584, diff: 7ms=0.007s[0m
+[0m2022-07-25 20:02:57 V/Net 2785766889: Recv: StatSvc.register[0m
+[92m2022-07-25 20:02:57 I/Net 2785766889: Scheduled key refresh in 23h 55min 0.0s.[0m
+[92m2022-07-25 20:02:57 I/Net 2785766889: Scheduled refresh login session in 19d 23h 55min 0.0s.[0m
+[0m2022-07-25 20:02:57 V/Net 2785766889: Recv: MessageSvc.PushForceOffline[0m
+[91m2022-07-25 20:02:57 W/Net 2785766889: net.mamoe.mirai.internal.network.impl.netty.ForceOfflineException: 你的QQ号于20:03在【JEF-AN00】设备登录，当前设备已下线。如果这不是你本人操作，那么你的QQ密码可能已经泄露，请尽快重新登录并修改密码。
+net.mamoe.mirai.internal.network.impl.netty.ForceOfflineException: 你的QQ号于20:03在【JEF-AN00】设备登录，当前设备已下线。如果这不是你本人操作，那么你的QQ密码可能已经泄露，请尽快重新登录并修改密码。
+	at net.mamoe.mirai.internal.network.protocol.packet.chat.receive.MessageSvcPushForceOffline.handle(MessageSvc.PushForceOffline.kt:35)
+	at net.mamoe.mirai.internal.network.protocol.packet.chat.receive.MessageSvcPushForceOffline.handle(MessageSvc.PushForceOffline.kt:25)
+	at net.mamoe.mirai.internal.network.components.CallPacketFactoryPacketHandler.handlePacket(PacketHandler.kt:110)
+	at net.mamoe.mirai.internal.network.components.PacketHandlerChain.handlePacket(PacketHandler.kt:42)
+	at net.mamoe.mirai.internal.network.handler.NetworkHandlerSupport$collectReceived$3.invokeSuspend(NetworkHandlerSupport.kt:90)
+	at net.mamoe.mirai.internal.network.handler.NetworkHandlerSupport$collectReceived$3.invoke(NetworkHandlerSupport.kt)
+	at net.mamoe.mirai.internal.network.handler.NetworkHandlerSupport$collectReceived$3.invoke(NetworkHandlerSupport.kt)
+	at kotlinx.coroutines.intrinsics.UndispatchedKt.startCoroutineUndispatched(Undispatched.kt:55)
+	at kotlinx.coroutines.CoroutineStart.invoke(CoroutineStart.kt:112)
+	at kotlinx.coroutines.AbstractCoroutine.start(AbstractCoroutine.kt:126)
+	at kotlinx.coroutines.BuildersKt__Builders_commonKt.launch(Builders.common.kt:56)
+	at kotlinx.coroutines.BuildersKt.launch(Unknown Source)
+	at kotlinx.coroutines.BuildersKt__Builders_commonKt.launch$default(Builders.common.kt:47)
+	at kotlinx.coroutines.BuildersKt.launch$default(Unknown Source)
+	at net.mamoe.mirai.internal.network.handler.NetworkHandlerSupport.collectReceived$mirai_core(NetworkHandlerSupport.kt:88)
+	at net.mamoe.mirai.internal.network.impl.netty.NettyNetworkHandler$PacketDecodePipeline$send$1.invokeSuspend(NettyNetworkHandler.kt:192)
+	at kotlin.coroutines.jvm.internal.BaseContinuationImpl.resumeWith(ContinuationImpl.kt:33)
+	at kotlinx.coroutines.DispatchedTask.run(DispatchedTask.kt:106)
+	at io.netty.util.concurrent.AbstractEventExecutor.safeExecute(AbstractEventExecutor.java:164)
+	at io.netty.util.concurrent.SingleThreadEventExecutor.runAllTasks(SingleThreadEventExecutor.java:472)
+	at io.netty.channel.nio.NioEventLoop.run(NioEventLoop.java:500)
+	at io.netty.util.concurrent.SingleThreadEventExecutor$4.run(SingleThreadEventExecutor.java:989)
+	at io.netty.util.internal.ThreadExecutorMap$2.run(ThreadExecutorMap.java:74)
+	at io.netty.util.concurrent.FastThreadLocalRunnable.run(FastThreadLocalRunnable.java:30)
+	at java.base/java.lang.Thread.run(Thread.java:833)
+	Suppressed: java.util.concurrent.CancellationException: NetworkHandler closed
+		at kotlinx.coroutines.ExceptionsKt.CancellationException(Exceptions.kt:22)
+		at kotlinx.coroutines.JobKt__JobKt.cancel(Job.kt:596)
+		at kotlinx.coroutines.JobKt.cancel(Unknown Source)
+		at net.mamoe.mirai.internal.network.handler.NetworkHandlerSupport.close(NetworkHandlerSupport.kt:61)
+		at net.mamoe.mirai.internal.network.impl.netty.NettyNetworkHandler.close(NettyNetworkHandler.kt:205)
+		at net.mamoe.mirai.internal.network.handler.selector.SelectorNetworkHandler.close(SelectorNetworkHandler.kt:87)
+		... 25 more
+	Caused by: [CIRCULAR REFERENCE: net.mamoe.mirai.internal.network.impl.netty.ForceOfflineException: 你的QQ号于20:03在【JEF-AN00】设备登录，当前设备已下线。如果这不是你本人操作，那么你的QQ密码可能已经泄露，请尽快重新登录并修改密码。]
+[0m
+[0m2022-07-25 20:02:57 V/Net 2785766889: Loading server list from cache.[0m
+[92m2022-07-25 20:02:57 I/Net 2785766889: Server list: 120.232.130.74:443, 111.30.169.125:14000, 36.155.187.71:14000, 111.30.169.45:80, msfwifi.3g.qq.com:8080, 111.31.200.210:80, 120.232.69.214:8080, 36.155.213.142:80, 111.30.170.241:80, 36.155.207.223:14000.[0m
+[92m2022-07-25 20:02:57 I/Net 2785766889: ECDH key is invalid, start to fetch ecdh public key from server.[0m
+[92m2022-07-25 20:02:57 I/Net 2785766889: Successfully fetched ecdh public key from server.[0m
+[0m2022-07-25 20:02:57 V/Net 2785766889: Send: wtlogin.login[0m
+[0m2022-07-25 20:02:58 V/Net 2785766889: Send: wtlogin.login[0m
+[0m2022-07-25 20:02:58 V/Net 2785766889: Recv: wtlogin.login[0m
+[0m2022-07-25 20:02:58 V/Net 2785766889: Recv: wtlogin.login[0m
+[0m2022-07-25 20:02:58 V/Net 2785766889: Send: StatSvc.register(online)[0m
+[92m2022-07-25 20:02:58 I/Net 2785766889: Server time updated, serverTime: 1658750585, diff: 7ms=0.007s[0m
+[0m2022-07-25 20:02:58 V/Net 2785766889: Recv: StatSvc.register[0m
+[92m2022-07-25 20:02:58 I/Net 2785766889: Scheduled key refresh in 23h 55min 0.0s.[0m
+[92m2022-07-25 20:02:58 I/Net 2785766889: Scheduled refresh login session in 19d 23h 55min 0.0s.[0m
+[0m2022-07-25 20:03:02 V/Net 2785766889: Saving bdh session to cache[0m
+[0m2022-07-25 20:03:02 V/Net 2785766889: Send: ConfigPushSvc.PushResp(ConfigPushSvc.PushResp)[0m
+[0m2022-07-25 20:03:02 V/Net 2785766889: Recv: ConfigPushSvc.PushReq[0m
+[0m2022-07-25 20:21:31 V/Net 2785766889: Send: MessageSvc.PbSendMsg(MessageSvc.PbSendMsg)[0m
+[0m2022-07-25 20:21:31 V/Net 2785766889: Recv: MessageSvc.PbSendMsg[0m
+[0m2022-07-25 20:21:34 V/Net 2785766889: Send: MessageSvc.PbSendMsg(MessageSvc.PbSendMsg)[0m
+[0m2022-07-25 20:21:34 V/Net 2785766889: Recv: MessageSvc.PbSendMsg[0m
+[0m2022-07-25 20:21:36 V/Net 2785766889: Send: MessageSvc.PbSendMsg(MessageSvc.PbSendMsg)[0m
+[0m2022-07-25 20:21:36 V/Net 2785766889: Recv: MessageSvc.PbSendMsg[0m
+[0m2022-07-25 20:21:39 V/Net 2785766889: Send: MessageSvc.PbSendMsg(MessageSvc.PbSendMsg)[0m
+[0m2022-07-25 20:21:39 V/Net 2785766889: Recv: MessageSvc.PbSendMsg[0m
+[0m2022-07-25 20:21:40 V/Net 2785766889: Send: MessageSvc.PbSendMsg(MessageSvc.PbSendMsg)[0m
+[0m2022-07-25 20:21:40 V/Net 2785766889: Recv: MessageSvc.PbSendMsg[0m
+[0m2022-07-25 20:21:42 V/Net 2785766889: Send: MessageSvc.PbSendMsg(MessageSvc.PbSendMsg)[0m
+[0m2022-07-25 20:21:42 V/Net 2785766889: Recv: MessageSvc.PbSendMsg[0m
+[0m2022-07-25 20:21:44 V/Net 2785766889: Send: MessageSvc.PbSendMsg(MessageSvc.PbSendMsg)[0m
+[0m2022-07-25 20:21:45 V/Net 2785766889: Recv: MessageSvc.PbSendMsg[0m
+[0m2022-07-25 20:23:15 V/Net 2785766889: Recv: OnlinePush.PbPushTransMsg[0m
+[0m2022-07-25 20:26:14 V/Net 2785766889: Send: MessageSvc.PbSendMsg(MessageSvc.PbSendMsg)[0m
+[0m2022-07-25 20:26:14 V/Net 2785766889: Recv: OnlinePush.PbPushTransMsg[0m
+[0m2022-07-25 20:26:14 V/Net 2785766889: Recv: MessageSvc.PbSendMsg[0m
+[0m2022-07-25 20:28:05 V/Net 2785766889: Send: MessageSvc.PbSendMsg(MessageSvc.PbSendMsg)[0m
+[0m2022-07-25 20:28:05 V/Net 2785766889: Recv: OnlinePush.PbPushTransMsg[0m
+[0m2022-07-25 20:28:05 V/Net 2785766889: Recv: MessageSvc.PbSendMsg[0m
+[0m2022-07-25 20:29:14 V/Net 2785766889: Send: MessageSvc.PbSendMsg(MessageSvc.PbSendMsg)[0m
+[0m2022-07-25 20:29:14 V/Net 2785766889: Recv: MessageSvc.PbSendMsg[0m
+[0m2022-07-25 20:29:18 V/Net 2785766889: Send: MessageSvc.PbSendMsg(MessageSvc.PbSendMsg)[0m
+[0m2022-07-25 20:29:18 V/Net 2785766889: Recv: MessageSvc.PbSendMsg[0m
+[0m2022-07-25 20:29:25 V/Net 2785766889: Send: MessageSvc.PbSendMsg(MessageSvc.PbSendMsg)[0m
+[0m2022-07-25 20:29:26 V/Net 2785766889: Recv: MessageSvc.PbSendMsg[0m
+[0m2022-07-25 20:29:26 V/Net 2785766889: Send: MessageSvc.PbSendMsg(MessageSvc.PbSendMsg)[0m
+[0m2022-07-25 20:29:26 V/Net 2785766889: Recv: MessageSvc.PbSendMsg[0m
+[0m2022-07-25 20:30:08 V/Net 2785766889: Send: MessageSvc.PbSendMsg(MessageSvc.PbSendMsg)[0m
+[0m2022-07-25 20:30:09 V/Net 2785766889: Recv: MessageSvc.PbSendMsg[0m
+[0m2022-07-25 20:30:17 V/Net 2785766889: Send: MessageSvc.PbSendMsg(MessageSvc.PbSendMsg)[0m
+[0m2022-07-25 20:30:18 V/Net 2785766889: Recv: MessageSvc.PbSendMsg[0m
+[0m2022-07-25 20:30:26 V/Net 2785766889: Send: MessageSvc.PbSendMsg(MessageSvc.PbSendMsg)[0m
+[0m2022-07-25 20:30:26 V/Net 2785766889: Recv: MessageSvc.PbSendMsg[0m
+[0m2022-07-25 20:30:35 V/Net 2785766889: Send: MessageSvc.PbSendMsg(MessageSvc.PbSendMsg)[0m
+[0m2022-07-25 20:30:35 V/Net 2785766889: Recv: MessageSvc.PbSendMsg[0m
+[0m2022-07-25 20:31:03 V/Net 2785766889: Send: MessageSvc.PbSendMsg(MessageSvc.PbSendMsg)[0m
+[0m2022-07-25 20:31:03 V/Net 2785766889: Recv: OnlinePush.PbPushTransMsg[0m
+[0m2022-07-25 20:31:03 V/Net 2785766889: Recv: MessageSvc.PbSendMsg[0m
+[0m2022-07-25 20:31:12 V/Net 2785766889: Send: MessageSvc.PbSendMsg(MessageSvc.PbSendMsg)[0m
+[0m2022-07-25 20:31:12 V/Net 2785766889: Recv: MessageSvc.PbSendMsg[0m
+[0m2022-07-25 20:31:19 V/Net 2785766889: Send: MessageSvc.PbSendMsg(MessageSvc.PbSendMsg)[0m
+[0m2022-07-25 20:31:19 V/Net 2785766889: Recv: MessageSvc.PbSendMsg[0m
+[0m2022-07-25 20:31:29 V/Net 2785766889: Send: MessageSvc.PbSendMsg(MessageSvc.PbSendMsg)[0m
+[0m2022-07-25 20:31:30 V/Net 2785766889: Recv: MessageSvc.PbSendMsg[0m
+[0m2022-07-25 20:31:52 V/Net 2785766889: Send: MessageSvc.PbSendMsg(MessageSvc.PbSendMsg)[0m
+[0m2022-07-25 20:31:53 V/Net 2785766889: Recv: MessageSvc.PbSendMsg[0m
+[0m2022-07-25 20:31:53 V/Net 2785766889: Send: MessageSvc.PbSendMsg(MessageSvc.PbSendMsg)[0m
+[0m2022-07-25 20:31:53 V/Net 2785766889: Recv: MessageSvc.PbSendMsg[0m
+[0m2022-07-25 20:31:58 V/Net 2785766889: Send: MessageSvc.PbSendMsg(MessageSvc.PbSendMsg)[0m
+[0m2022-07-25 20:31:58 V/Net 2785766889: Recv: MessageSvc.PbSendMsg[0m
+[0m2022-07-25 20:31:58 V/Net 2785766889: Send: MessageSvc.PbSendMsg(MessageSvc.PbSendMsg)[0m
+[0m2022-07-25 20:31:58 V/Net 2785766889: Recv: MessageSvc.PbSendMsg[0m
+[0m2022-07-25 20:31:59 V/Net 2785766889: Send: MessageSvc.PbSendMsg(MessageSvc.PbSendMsg)[0m
+[0m2022-07-25 20:31:59 V/Net 2785766889: Recv: MessageSvc.PbSendMsg[0m
+[0m2022-07-25 20:31:59 V/Net 2785766889: Send: MessageSvc.PbSendMsg(MessageSvc.PbSendMsg)[0m
+[0m2022-07-25 20:31:59 V/Net 2785766889: Recv: MessageSvc.PbSendMsg[0m
+[0m2022-07-25 20:32:11 V/Net 2785766889: Send: MessageSvc.PbSendMsg(MessageSvc.PbSendMsg)[0m
+[0m2022-07-25 20:32:11 V/Net 2785766889: Recv: MessageSvc.PbSendMsg[0m
+[0m2022-07-25 20:32:11 V/Net 2785766889: Send: MessageSvc.PbSendMsg(MessageSvc.PbSendMsg)[0m
+[0m2022-07-25 20:32:12 V/Net 2785766889: Recv: MessageSvc.PbSendMsg[0m
+[0m2022-07-25 20:33:36 V/Net 2785766889: Send: MessageSvc.PbSendMsg(MessageSvc.PbSendMsg)[0m
+[0m2022-07-25 20:33:36 V/Net 2785766889: Recv: MessageSvc.PbSendMsg[0m
+[0m2022-07-25 20:33:58 V/Net 2785766889: Send: MessageSvc.PbSendMsg(MessageSvc.PbSendMsg)[0m
+[0m2022-07-25 20:33:58 V/Net 2785766889: Recv: MessageSvc.PbSendMsg[0m
+[0m2022-07-25 20:34:01 V/Net 2785766889: Send: OidbSvc.0x570_8(OidbSvc.0x570_8)[0m
+[0m2022-07-25 20:34:02 V/Net 2785766889: Recv: OidbSvc.0x570_8[0m
+[0m2022-07-25 20:34:02 V/Net 2785766889: Send: MessageSvc.PbSendMsg(MessageSvc.PbSendMsg)[0m
+[0m2022-07-25 20:34:02 V/Net 2785766889: Recv: MessageSvc.PbSendMsg[0m
+[0m2022-07-25 20:36:28 V/Net 2785766889: Send: MessageSvc.PbSendMsg(MessageSvc.PbSendMsg)[0m
+[0m2022-07-25 20:36:28 V/Net 2785766889: Recv: MessageSvc.PbSendMsg[0m
+[0m2022-07-25 20:36:47 V/Net 2785766889: Send: MessageSvc.PbSendMsg(MessageSvc.PbSendMsg)[0m
+[0m2022-07-25 20:36:47 V/Net 2785766889: Recv: MessageSvc.PbSendMsg[0m
+[0m2022-07-25 20:36:54 V/Net 2785766889: Send: MessageSvc.PbSendMsg(MessageSvc.PbSendMsg)[0m
+[0m2022-07-25 20:36:54 V/Net 2785766889: Recv: MessageSvc.PbSendMsg[0m
+[0m2022-07-25 20:36:54 V/Net 2785766889: Send: PbMessageSvc.PbMsgWithDraw(PbMsgWithDraw(group=558344752, seq=21569, rand=256293934))[0m
+[0m2022-07-25 20:36:55 V/Net 2785766889: Recv: PbMessageSvc.PbMsgWithDraw[0m
+[0m2022-07-25 20:37:05 V/Net 2785766889: Send: MessageSvc.PbSendMsg(MessageSvc.PbSendMsg)[0m
+[0m2022-07-25 20:37:06 V/Net 2785766889: Recv: MessageSvc.PbSendMsg[0m
+[0m2022-07-25 20:37:06 V/Net 2785766889: Send: PbMessageSvc.PbMsgWithDraw(PbMsgWithDraw(group=558344752, seq=21572, rand=2029533608))[0m
+[0m2022-07-25 20:37:06 V/Net 2785766889: Recv: PbMessageSvc.PbMsgWithDraw[0m
+[0m2022-07-25 20:37:22 V/Net 2785766889: Send: MessageSvc.PbSendMsg(MessageSvc.PbSendMsg)[0m
+[0m2022-07-25 20:37:22 V/Net 2785766889: Recv: MessageSvc.PbSendMsg[0m
+[0m2022-07-25 20:37:25 V/Net 2785766889: Send: MessageSvc.PbSendMsg(MessageSvc.PbSendMsg)[0m
+[0m2022-07-25 20:37:25 V/Net 2785766889: Recv: MessageSvc.PbSendMsg[0m
+[0m2022-07-25 20:37:25 V/Net 2785766889: Send: PbMessageSvc.PbMsgWithDraw(PbMsgWithDraw(group=756092113, seq=529, rand=957660965))[0m
+[0m2022-07-25 20:37:26 V/Net 2785766889: Recv: PbMessageSvc.PbMsgWithDraw[0m
+[0m2022-07-25 20:38:05 V/Net 2785766889: Send: OidbSvc.0xb77_9(OidbSvc.0xb77_9)[0m
+[0m2022-07-25 20:38:05 V/Net 2785766889: Recv: OidbSvc.0xb77_9[0m
+[0m2022-07-25 20:38:23 V/Net 2785766889: Send: OidbSvc.0xb77_9(OidbSvc.0xb77_9)[0m
+[0m2022-07-25 20:38:23 V/Net 2785766889: Recv: OidbSvc.0xb77_9[0m
+[0m2022-07-25 20:40:08 V/Net 2785766889: Loading server list from cache.[0m
+[92m2022-07-25 20:40:08 I/Net 2785766889: Server list: 120.232.130.74:443, 111.30.169.125:14000, 36.155.187.71:14000, 111.30.169.45:80, msfwifi.3g.qq.com:8080, 111.31.200.210:80, 120.232.69.214:8080, 36.155.213.142:80, 111.30.170.241:80, 36.155.207.223:14000.[0m
+[92m2022-07-25 20:40:08 I/Net 2785766889: ECDH key is valid.[0m
+[0m2022-07-25 20:40:08 V/Net 2785766889: Send: wtlogin.exchange_emp[0m
+[0m2022-07-25 20:40:08 V/Net 2785766889: Recv: wtlogin.exchange_emp[0m
+[0m2022-07-25 20:40:08 V/Net 2785766889: Send: StatSvc.register(online)[0m
+[92m2022-07-25 20:40:09 I/Net 2785766889: Server time updated, serverTime: 1658752816, diff: 7ms=0.007s[0m
+[0m2022-07-25 20:40:09 V/Net 2785766889: Recv: StatSvc.register[0m
+[0m2022-07-25 20:40:09 V/Net 2785766889: Loading BdhSession from cache file[0m
+[92m2022-07-25 20:40:09 I/Net 2785766889: Syncing friend message history...[0m
+[92m2022-07-25 20:40:09 I/Net 2785766889: Start loading friend list...[0m
+[92m2022-07-25 20:40:09 I/Net 2785766889: Start loading stranger list...[0m
+[0m2022-07-25 20:40:09 V/Net 2785766889: Send: StatSvc.GetDevLoginInfo(StatSvc.GetDevLoginInfo)[0m
+[0m2022-07-25 20:40:09 V/Net 2785766889: Send: OidbSvc.0x496(OidbSvc.0x496)[0m
+[0m2022-07-25 20:40:09 V/Net 2785766889: Send: OidbSvc.0x5d2_0(OidbSvc.0x5d2_0)[0m
+[0m2022-07-25 20:40:09 V/Net 2785766889: Send: friendlist.getFriendGroupList(friendlist.getFriendGroupList)[0m
+[92m2022-07-25 20:40:09 I/Net 2785766889: Successfully loaded stranger list: 0 in total[0m
+[0m2022-07-25 20:40:09 V/Net 2785766889: Recv: OidbSvc.0x5d2_0[0m
+[0m2022-07-25 20:40:09 V/Net 2785766889: Recv: StatSvc.GetDevLoginInfo[0m
+[92m2022-07-25 20:40:09 I/Net 2785766889: Online OtherClients: HEA1OR(WINDOWS)[0m
+[92m2022-07-25 20:40:09 I/Net 2785766889: Start loading group list...[0m
+[0m2022-07-25 20:40:09 V/Net 2785766889: Recv: OidbSvc.0x496[0m
+[0m2022-07-25 20:40:09 V/Net 2785766889: Send: friendlist.GetTroopListReqV2(friendlist.GetTroopListReqV2)[0m
+[0m2022-07-25 20:40:09 V/Net 2785766889: Recv: friendlist.getFriendGroupList[0m
+[0m2022-07-25 20:40:09 V/Net 2785766889: Loading friend list: 5/5[0m
+[92m2022-07-25 20:40:09 I/Net 2785766889: Successfully loaded friend list: 5 in total[0m
+[0m2022-07-25 20:40:09 V/Net 2785766889: Recv: friendlist.GetTroopListReqV2[0m
+[0m2022-07-25 20:40:09 V/Net 2785766889: Send: friendlist.GetTroopMemberListReq(friendlist.GetTroopMemberListReq)[0m
+[0m2022-07-25 20:40:09 V/Net 2785766889: Send: friendlist.GetTroopMemberListReq(friendlist.GetTroopMemberListReq)[0m
+[0m2022-07-25 20:40:09 V/Net 2785766889: Send: friendlist.GetTroopMemberListReq(friendlist.GetTroopMemberListReq)[0m
+[0m2022-07-25 20:40:09 V/Net 2785766889: Send: friendlist.GetTroopMemberListReq(friendlist.GetTroopMemberListReq)[0m
+[0m2022-07-25 20:40:09 V/Net 2785766889: Send: friendlist.GetTroopMemberListReq(friendlist.GetTroopMemberListReq)[0m
+[0m2022-07-25 20:40:09 V/Net 2785766889: Send: friendlist.GetTroopMemberListReq(friendlist.GetTroopMemberListReq)[0m
+[0m2022-07-25 20:40:09 V/Net 2785766889: Recv: friendlist.GetTroopMemberListReq[0m
+[0m2022-07-25 20:40:09 V/Net 2785766889: Recv: friendlist.GetTroopMemberListReq[0m
+[0m2022-07-25 20:40:09 V/Net 2785766889: Recv: friendlist.GetTroopMemberListReq[0m
+[0m2022-07-25 20:40:09 V/Net 2785766889: Recv: friendlist.GetTroopMemberListReq[0m
+[0m2022-07-25 20:40:09 V/Net 2785766889: Recv: friendlist.GetTroopMemberListReq[0m
+[0m2022-07-25 20:40:09 V/Net 2785766889: Recv: friendlist.GetTroopMemberListReq[0m
+[92m2022-07-25 20:40:09 I/Net 2785766889: Successfully loaded group list: 6 in total.[0m
+[92m2022-07-25 20:40:09 I/Net 2785766889: Scheduled key refresh in 23h 55min 0.0s.[0m
+[92m2022-07-25 20:40:09 I/Net 2785766889: Scheduled refresh login session in 19d 23h 55min 0.0s.[0m
+[92m2022-07-25 20:40:09 I/Net 2785766889: Syncing friend message history: Success.[0m
+[92m2022-07-25 20:40:11 I/Net 2785766889: Server list: 111.30.187.201:80, 36.155.248.239:80, 111.31.200.210:80, 111.31.205.218:80, 36.155.207.223:14000, msfwifi.3g.qq.com:8080, 120.232.130.20:443, 36.155.206.174:14000, 120.232.31.250:8080, 111.30.169.58:14000.[0m
+[0m2022-07-25 20:40:11 V/Net 2785766889: Saving bdh session to cache[0m
+[0m2022-07-25 20:40:11 V/Net 2785766889: Saving server list to cache[0m
+[0m2022-07-25 20:40:11 V/Net 2785766889: Send: ConfigPushSvc.PushResp(ConfigPushSvc.PushResp)[0m
+[0m2022-07-25 20:40:11 V/Net 2785766889: Recv: ConfigPushSvc.PushReq[0m
+[0m2022-07-25 20:40:11 V/Net 2785766889: Saving bdh session to cache[0m
+[0m2022-07-25 20:40:11 V/Net 2785766889: Send: ConfigPushSvc.PushResp(ConfigPushSvc.PushResp)[0m
+[0m2022-07-25 20:40:11 V/Net 2785766889: Recv: ConfigPushSvc.PushReq[0m
+[0m2022-07-25 20:40:23 V/Net 2785766889: Send: ImgStore.GroupPicUp(ImgStore.GroupPicUp)[0m
+[0m2022-07-25 20:40:23 V/Net 2785766889: Recv: ImgStore.GroupPicUp[0m
+[0m2022-07-25 20:40:24 V/Net 2785766889: Send: MessageSvc.PbSendMsg(MessageSvc.PbSendMsg)[0m
+[0m2022-07-25 20:40:25 V/Net 2785766889: Recv: MessageSvc.PbSendMsg[0m
+[0m2022-07-25 20:40:33 V/Net 2785766889: Send: ImgStore.GroupPicUp(ImgStore.GroupPicUp)[0m
+[0m2022-07-25 20:40:33 V/Net 2785766889: Recv: ImgStore.GroupPicUp[0m
+[0m2022-07-25 20:40:33 V/Net 2785766889: Send: MessageSvc.PbSendMsg(MessageSvc.PbSendMsg)[0m
+[0m2022-07-25 20:40:34 V/Net 2785766889: Recv: MessageSvc.PbSendMsg[0m
+[91m2022-07-25 20:40:39 W/Net 2785766889: Failed to find member 50000000 in group 558344752[0m
+[0m2022-07-25 20:40:39 V/Net 2785766889: Recv: OnlinePush.PbPushGroupMsg[0m
+[0m2022-07-25 20:40:43 V/Net 2785766889: Send: OidbSvc.0xed3(OidbSvc.0xed3)[0m
+[0m2022-07-25 20:40:43 V/Net 2785766889: Recv: OidbSvc.0xed3[0m
+[0m2022-07-25 20:40:43 V/Net 2785766889: Send: OidbSvc.0xed3(OidbSvc.0xed3)[0m
+[0m2022-07-25 20:40:43 V/Net 2785766889: Recv: OidbSvc.0xed3[0m
+[0m2022-07-25 20:40:43 V/Net 2785766889: Send: OidbSvc.0xed3(OidbSvc.0xed3)[0m
+[0m2022-07-25 20:40:44 V/Net 2785766889: Recv: OidbSvc.0xed3[0m
+[0m2022-07-25 20:40:44 V/Net 2785766889: Send: OidbSvc.0xed3(OidbSvc.0xed3)[0m
+[0m2022-07-25 20:40:44 V/Net 2785766889: Recv: OidbSvc.0xed3[0m
+[0m2022-07-25 20:40:44 V/Net 2785766889: Send: OidbSvc.0xed3(OidbSvc.0xed3)[0m
+[0m2022-07-25 20:40:44 V/Net 2785766889: Recv: OidbSvc.0xed3[0m
+[0m2022-07-25 20:40:44 V/Net 2785766889: Send: OidbSvc.0xed3(OidbSvc.0xed3)[0m
+[0m2022-07-25 20:40:45 V/Net 2785766889: Recv: OidbSvc.0xed3[0m
+[0m2022-07-25 20:40:45 V/Net 2785766889: Send: OidbSvc.0xed3(OidbSvc.0xed3)[0m
+[0m2022-07-25 20:40:45 V/Net 2785766889: Recv: OidbSvc.0xed3[0m
+[0m2022-07-25 20:40:45 V/Net 2785766889: Send: OidbSvc.0xed3(OidbSvc.0xed3)[0m
+[0m2022-07-25 20:40:45 V/Net 2785766889: Recv: OidbSvc.0xed3[0m
+[0m2022-07-25 20:40:45 V/Net 2785766889: Send: OidbSvc.0xed3(OidbSvc.0xed3)[0m
+[0m2022-07-25 20:40:45 V/Net 2785766889: Recv: OidbSvc.0xed3[0m
+[0m2022-07-25 20:40:45 V/Net 2785766889: Send: OidbSvc.0xed3(OidbSvc.0xed3)[0m
+[0m2022-07-25 20:40:45 V/Net 2785766889: Recv: OidbSvc.0xed3[0m
+[0m2022-07-25 20:40:45 V/Net 2785766889: Send: OidbSvc.0xed3(OidbSvc.0xed3)[0m
+[0m2022-07-25 20:40:46 V/Net 2785766889: Recv: OidbSvc.0xed3[0m
+[0m2022-07-25 20:40:46 V/Net 2785766889: Send: OidbSvc.0xed3(OidbSvc.0xed3)[0m
+[0m2022-07-25 20:40:46 V/Net 2785766889: Recv: OidbSvc.0xed3[0m
+[0m2022-07-25 20:40:46 V/Net 2785766889: Send: OidbSvc.0xed3(OidbSvc.0xed3)[0m
+[0m2022-07-25 20:40:46 V/Net 2785766889: Recv: OidbSvc.0xed3[0m
+[0m2022-07-25 20:40:46 V/Net 2785766889: Send: OidbSvc.0xed3(OidbSvc.0xed3)[0m
+[0m2022-07-25 20:40:46 V/Net 2785766889: Recv: OidbSvc.0xed3[0m
+[0m2022-07-25 20:40:46 V/Net 2785766889: Send: OidbSvc.0xed3(OidbSvc.0xed3)[0m
+[0m2022-07-25 20:40:46 V/Net 2785766889: Recv: OidbSvc.0xed3[0m
+[0m2022-07-25 20:40:47 V/Net 2785766889: Send: MessageSvc.PbSendMsg(MessageSvc.PbSendMsg)[0m
+[0m2022-07-25 20:40:48 V/Net 2785766889: Recv: MessageSvc.PbSendMsg[0m
+[0m2022-07-25 20:40:48 V/Net 2785766889: Send: ImgStore.GroupPicUp(ImgStore.GroupPicUp)[0m
+[0m2022-07-25 20:40:49 V/Net 2785766889: Recv: ImgStore.GroupPicUp[0m
+[0m2022-07-25 20:40:49 V/Net 2785766889: Send: MessageSvc.PbSendMsg(MessageSvc.PbSendMsg)[0m
+[0m2022-07-25 20:40:49 V/Net 2785766889: Recv: MessageSvc.PbSendMsg[0m
+[0m2022-07-25 20:42:08 V/Net 2785766889: Send: MessageSvc.PbSendMsg(MessageSvc.PbSendMsg)[0m
+[0m2022-07-25 20:42:08 V/Net 2785766889: Recv: MessageSvc.PbSendMsg[0m
+[0m2022-07-25 20:42:09 V/Net 2785766889: Send: ImgStore.GroupPicUp(ImgStore.GroupPicUp)[0m
+[0m2022-07-25 20:42:09 V/Net 2785766889: Recv: ImgStore.GroupPicUp[0m
+[0m2022-07-25 20:42:09 V/Net 2785766889: Send: MessageSvc.PbSendMsg(MessageSvc.PbSendMsg)[0m
+[0m2022-07-25 20:42:10 V/Net 2785766889: Recv: MessageSvc.PbSendMsg[0m
+[0m2022-07-25 20:44:40 V/Net 2785766889: Send: ImgStore.GroupPicUp(ImgStore.GroupPicUp)[0m
+[0m2022-07-25 20:44:41 V/Net 2785766889: Recv: ImgStore.GroupPicUp[0m
+[0m2022-07-25 20:44:41 V/Net 2785766889: Send: MessageSvc.PbSendMsg(MessageSvc.PbSendMsg)[0m
+[0m2022-07-25 20:44:41 V/Net 2785766889: Recv: MessageSvc.PbSendMsg[0m
+[0m2022-07-25 20:44:57 V/Net 2785766889: Send: MessageSvc.PbSendMsg(MessageSvc.PbSendMsg)[0m
+[0m2022-07-25 20:44:57 V/Net 2785766889: Recv: MessageSvc.PbSendMsg[0m
+[0m2022-07-25 20:49:00 V/Net 2785766889: Send: StatSvc.register(offline)[0m
+[0m2022-07-25 20:54:25 V/Net 2785766889: Loading server list from cache.[0m
+[92m2022-07-25 20:54:25 I/Net 2785766889: Server list: 111.30.187.201:80, 36.155.248.239:80, 111.31.200.210:80, 111.31.205.218:80, 36.155.207.223:14000, msfwifi.3g.qq.com:8080, 120.232.130.20:443, 36.155.206.174:14000, 120.232.31.250:8080, 111.30.169.58:14000.[0m
+[92m2022-07-25 20:54:26 I/Net 2785766889: ECDH key is valid.[0m
+[0m2022-07-25 20:54:26 V/Net 2785766889: Send: wtlogin.exchange_emp[0m
+[0m2022-07-25 20:54:26 V/Net 2785766889: Recv: wtlogin.exchange_emp[0m
+[0m2022-07-25 20:54:26 V/Net 2785766889: Send: StatSvc.register(online)[0m
+[92m2022-07-25 20:54:27 I/Net 2785766889: Server time updated, serverTime: 1658753674, diff: 7ms=0.007s[0m
+[0m2022-07-25 20:54:27 V/Net 2785766889: Recv: StatSvc.register[0m
+[0m2022-07-25 20:54:27 V/Net 2785766889: Loading BdhSession from cache file[0m
+[92m2022-07-25 20:54:27 I/Net 2785766889: Syncing friend message history...[0m
+[92m2022-07-25 20:54:27 I/Net 2785766889: Start loading friend list...[0m
+[92m2022-07-25 20:54:27 I/Net 2785766889: Start loading stranger list...[0m
+[0m2022-07-25 20:54:27 V/Net 2785766889: Send: StatSvc.GetDevLoginInfo(StatSvc.GetDevLoginInfo)[0m
+[0m2022-07-25 20:54:27 V/Net 2785766889: Send: OidbSvc.0x496(OidbSvc.0x496)[0m
+[0m2022-07-25 20:54:27 V/Net 2785766889: Send: OidbSvc.0x5d2_0(OidbSvc.0x5d2_0)[0m
+[0m2022-07-25 20:54:27 V/Net 2785766889: Send: friendlist.getFriendGroupList(friendlist.getFriendGroupList)[0m
+[0m2022-07-25 20:54:27 V/Net 2785766889: Recv: OidbSvc.0x5d2_0[0m
+[92m2022-07-25 20:54:27 I/Net 2785766889: Successfully loaded stranger list: 0 in total[0m
+[0m2022-07-25 20:54:27 V/Net 2785766889: Recv: StatSvc.GetDevLoginInfo[0m
+[92m2022-07-25 20:54:27 I/Net 2785766889: Online OtherClients: HEA1OR(WINDOWS)[0m
+[92m2022-07-25 20:54:27 I/Net 2785766889: Start loading group list...[0m
+[0m2022-07-25 20:54:27 V/Net 2785766889: Recv: OidbSvc.0x496[0m
+[0m2022-07-25 20:54:27 V/Net 2785766889: Send: friendlist.GetTroopListReqV2(friendlist.GetTroopListReqV2)[0m
+[0m2022-07-25 20:54:27 V/Net 2785766889: Recv: friendlist.getFriendGroupList[0m
+[0m2022-07-25 20:54:27 V/Net 2785766889: Loading friend list: 5/5[0m
+[92m2022-07-25 20:54:27 I/Net 2785766889: Successfully loaded friend list: 5 in total[0m
+[0m2022-07-25 20:54:27 V/Net 2785766889: Recv: friendlist.GetTroopListReqV2[0m
+[0m2022-07-25 20:54:27 V/Net 2785766889: Send: friendlist.GetTroopMemberListReq(friendlist.GetTroopMemberListReq)[0m
+[0m2022-07-25 20:54:27 V/Net 2785766889: Send: friendlist.GetTroopMemberListReq(friendlist.GetTroopMemberListReq)[0m
+[0m2022-07-25 20:54:27 V/Net 2785766889: Send: friendlist.GetTroopMemberListReq(friendlist.GetTroopMemberListReq)[0m
+[0m2022-07-25 20:54:27 V/Net 2785766889: Send: friendlist.GetTroopMemberListReq(friendlist.GetTroopMemberListReq)[0m
+[0m2022-07-25 20:54:27 V/Net 2785766889: Send: friendlist.GetTroopMemberListReq(friendlist.GetTroopMemberListReq)[0m
+[0m2022-07-25 20:54:27 V/Net 2785766889: Send: friendlist.GetTroopMemberListReq(friendlist.GetTroopMemberListReq)[0m
+[0m2022-07-25 20:54:27 V/Net 2785766889: Recv: friendlist.GetTroopMemberListReq[0m
+[0m2022-07-25 20:54:27 V/Net 2785766889: Recv: friendlist.GetTroopMemberListReq[0m
+[0m2022-07-25 20:54:27 V/Net 2785766889: Recv: friendlist.GetTroopMemberListReq[0m
+[0m2022-07-25 20:54:27 V/Net 2785766889: Recv: friendlist.GetTroopMemberListReq[0m
+[0m2022-07-25 20:54:27 V/Net 2785766889: Recv: friendlist.GetTroopMemberListReq[0m
+[0m2022-07-25 20:54:27 V/Net 2785766889: Recv: friendlist.GetTroopMemberListReq[0m
+[92m2022-07-25 20:54:27 I/Net 2785766889: Successfully loaded group list: 6 in total.[0m
+[92m2022-07-25 20:54:27 I/Net 2785766889: Scheduled refresh login session in 19d 23h 55min 0.0s.[0m
+[92m2022-07-25 20:54:27 I/Net 2785766889: Scheduled key refresh in 23h 55min 0.0s.[0m
+[92m2022-07-25 20:54:27 I/Net 2785766889: Syncing friend message history: Success.[0m
+[0m2022-07-25 20:54:27 V/Net 2785766889: Send: MessageSvc.PbSendMsg(MessageSvc.PbSendMsg)[0m
+[0m2022-07-25 20:54:27 V/Net 2785766889: Recv: OnlinePush.PbPushTransMsg[0m
+[0m2022-07-25 20:54:28 V/Net 2785766889: Recv: MessageSvc.PbSendMsg[0m
+[0m2022-07-25 20:54:30 V/Net 2785766889: Saving bdh session to cache[0m
+[0m2022-07-25 20:54:30 V/Net 2785766889: Send: ConfigPushSvc.PushResp(ConfigPushSvc.PushResp)[0m
+[0m2022-07-25 20:54:30 V/Net 2785766889: Recv: ConfigPushSvc.PushReq[0m
+[0m2022-07-25 21:00:32 V/Net 2785766889: Send: MessageSvc.PbSendMsg(MessageSvc.PbSendMsg)[0m
+[0m2022-07-25 21:00:32 V/Net 2785766889: Recv: MessageSvc.PbSendMsg[0m
+[0m2022-07-25 21:00:33 V/Net 2785766889: Send: MessageSvc.PbSendMsg(MessageSvc.PbSendMsg)[0m
+[0m2022-07-25 21:00:33 V/Net 2785766889: Recv: MessageSvc.PbSendMsg[0m
+[0m2022-07-25 21:00:34 V/Net 2785766889: Send: MessageSvc.PbSendMsg(MessageSvc.PbSendMsg)[0m
+[0m2022-07-25 21:00:35 V/Net 2785766889: Recv: MessageSvc.PbSendMsg[0m
+[0m2022-07-25 21:00:36 V/Net 2785766889: Send: MessageSvc.PbSendMsg(MessageSvc.PbSendMsg)[0m
+[0m2022-07-25 21:00:36 V/Net 2785766889: Recv: MessageSvc.PbSendMsg[0m
+[0m2022-07-25 21:00:37 V/Net 2785766889: Send: MessageSvc.PbSendMsg(MessageSvc.PbSendMsg)[0m
+[0m2022-07-25 21:00:37 V/Net 2785766889: Recv: MessageSvc.PbSendMsg[0m
+[0m2022-07-25 21:00:39 V/Net 2785766889: Send: MessageSvc.PbSendMsg(MessageSvc.PbSendMsg)[0m
+[0m2022-07-25 21:00:39 V/Net 2785766889: Recv: MessageSvc.PbSendMsg[0m
+[0m2022-07-25 21:58:07 V/Net 2785766889: Recv: MessageSvc.RequestPushStatus[0m
+[0m2022-07-25 21:58:07 V/Net 2785766889: Recv: MessageSvc.RequestPushStatus[0m
+[0m2022-07-25 21:58:07 V/Net 2785766889: Recv: MessageSvc.RequestPushStatus[0m
+[0m2022-07-25 22:50:42 V/Net 2785766889: Send: MessageSvc.PbSendMsg(MessageSvc.PbSendMsg)[0m
+[0m2022-07-25 22:50:43 V/Net 2785766889: Recv: MessageSvc.PbSendMsg[0m
+[0m2022-07-25 22:57:39 V/Net 2785766889: Send: MessageSvc.PbSendMsg(MessageSvc.PbSendMsg)[0m
+[0m2022-07-25 22:57:40 V/Net 2785766889: Recv: MessageSvc.PbSendMsg[0m

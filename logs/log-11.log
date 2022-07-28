@@ -1,0 +1,161 @@
+[92m2022-07-24 19:31:27 I/main: Starting mirai-console...[0m[m
+[92m2022-07-24 19:31:27 I/main: Backend: version 2.12.0, built on 2022-07-03 10:57:58.[0m[m
+[92m2022-07-24 19:31:27 I/main: Frontend Terminal: version 2.12.0, provided by Mamoe Technologies[0m[m
+[92m2022-07-24 19:31:27 I/main: Welcome to visit https://mirai.mamoe.net/[0m[m
+[91m2022-07-24 19:31:28 W/stderr: SLF4J: Failed to load class "org.slf4j.impl.StaticLoggerBinder".[0m[m
+[91m2022-07-24 19:31:28 W/stderr: SLF4J: Defaulting to no-operation (NOP) logger implementation[0m[m
+[91m2022-07-24 19:31:28 W/stderr: SLF4J: See http://www.slf4j.org/codes.html#StaticLoggerBinder for further details.[0m[m
+[92m2022-07-24 19:31:28 I/plugin: Successfully loaded plugin AutoGroup v2.0.3[0m[m
+[92m2022-07-24 19:31:28 I/plugin: Successfully loaded plugin Chat Command v0.5.0[0m[m
+[92m2022-07-24 19:31:28 I/plugin: Successfully loaded plugin net.mamoe.mirai-api-http v2.5.2[0m[m
+[92m2022-07-24 19:31:28 I/plugin: Successfully loaded plugin SteamHelper v1.0.10[0m[m
+[92m2022-07-24 19:31:28 I/plugin: Successfully loaded plugin Setu v3.6.3[0m[m
+[92m2022-07-24 19:31:28 I/plugin: Successfully loaded plugin MCL Addon v2.0.2[0m[m
+[92m2022-07-24 19:31:28 I/main: Prepared built-in commands: autoLogin, help, login, logout, permission, status, stop[0m[m
+[92m2022-07-24 19:31:28 I/AutoGroup: 开始折磨群友[0m[m
+[91m2022-07-24 19:31:28 W/net.mamoe.mirai-api-http: USING INITIAL KEY, please edit the key[0m[m
+[92m2022-07-24 19:31:28 I/Mirai HTTP API: ********************************************************[0m[m
+[91m2022-07-24 19:31:28 W/stderr: SLF4J: Failed to load class "org.slf4j.impl.StaticLoggerBinder".[0m[m
+[91m2022-07-24 19:31:28 W/stderr: SLF4J: Defaulting to no-operation (NOP) logger implementation[0m[m
+[91m2022-07-24 19:31:28 W/stderr: SLF4J: See http://www.slf4j.org/codes.html#StaticLoggerBinder for further details.[0m[m
+[92m2022-07-24 19:31:28 I/http adapter: >>> [http adapter] is listening at http://localhost:8080[0m[m
+[92m2022-07-24 19:31:28 I/Mirai HTTP API: Http api server is running with verifyKey: INITKEYPqcMkD3J[0m[m
+[92m2022-07-24 19:31:28 I/Mirai HTTP API: adaptors: [http][0m[m
+[92m2022-07-24 19:31:28 I/Mirai HTTP API: ********************************************************[0m[m
+[92m2022-07-24 19:31:28 I/Setu: Setu >> Enable.[0m[m
+[92m2022-07-24 19:31:28 I/Setu: Start Init...[0m[m
+[92m2022-07-24 19:31:28 I/Setu: [FileSystem] Init FileSystem.[0m[m
+[92m2022-07-24 19:31:28 I/Setu: [FileSystem] Init All Configs...[0m[m
+[92m2022-07-24 19:31:28 I/Setu: [FileSystem] Init >> ApplicationConfig.json[0m[m
+[92m2022-07-24 19:31:28 I/Setu: [FileSystem] Load Local File to Memory >> ApplicationConfig.json[0m[m
+[92m2022-07-24 19:31:28 I/Setu: [CommandSystem] Init CommandSystem.[0m[m
+[92m2022-07-24 19:31:28 I/Setu: End Init...[0m[m
+[91m2022-07-24 19:31:28 W/stderr: SLF4J: Failed to load class "org.slf4j.impl.StaticLoggerBinder".[0m[m
+[91m2022-07-24 19:31:28 W/stderr: SLF4J: Defaulting to no-operation (NOP) logger implementation[0m[m
+[91m2022-07-24 19:31:28 W/stderr: SLF4J: See http://www.slf4j.org/codes.html#StaticLoggerBinder for further details.[0m[m
+[92m2022-07-24 19:31:28 I/MCL Addon: iTXTech MCL Version: 2.1.0-71ec418[0m[m
+[91m2022-07-24 19:31:28 W/MCL Addon: iTXTech Soyuz 未安装，Soyuz MCL Handler 特性已禁用[0m[m
+[92m2022-07-24 19:31:28 I/SteamHelper: SteamHelper已就绪，数据刷新命令已经发出，会延迟于插件启动，请稍后[0m[m
+[92m2022-07-24 19:31:28 I/main: 6 plugin(s) enabled.[0m[m
+[92m2022-07-24 19:31:28 I/WindowHelperJvm: Mirai 正在使用桌面环境. 如遇到验证码将会弹出对话框. 可添加 JVM 属性 `mirai.no-desktop` 以关闭.[0m[m
+[92m2022-07-24 19:31:28 I/WindowHelperJvm: Mirai is using desktop. Captcha will be thrown by window popup. You can add `mirai.no-desktop` to JVM properties (-Dmirai.no-desktop) to disable it.[0m[m
+[92m2022-07-24 19:31:28 I/main: Auto-login 2785766889[0m[m
+[92m2022-07-24 19:31:29 I/SteamHelper: Steam周榜刷新失败：未知错误：java.net.SocketException: Unexpected end of file from server|java.net.SocketException: Unexpected end of file from server[0m[m
+[91m2022-07-24 19:31:29 W/stderr: ERROR StatusLogger Log4j2 could not find a logging implementation. Please add log4j-core to the classpath. Using SimpleLogger to log to the console...[0m[m
+[92m2022-07-24 19:31:29 I/Bot.2785766889: Loaded account secrets from local cache.[0m[m
+[92m2022-07-24 19:31:29 I/Bot.2785766889: Saved account secrets to local cache for fast login.[0m[m
+[92m2022-07-24 19:31:29 I/Bot.2785766889: Login successful.[0m[m
+[0m2022-07-24 19:31:30 V/Bot.2785766889: Event: BotOnlineEvent(bot=Bot(2785766889))[0m[m
+[92m2022-07-24 19:31:30 I/AutoGroup: 开戳[0m[m
+[92m2022-07-24 19:31:30 I/Bot.2785766889: Bot login successful.[0m[m
+[92m2022-07-24 19:31:30 I/main: mirai-console started successfully.[0m[m
+[92m2022-07-24 19:31:30 I/SteamHelper: 信息刷新线程执行完毕[0m[m
+[0m2022-07-24 19:31:39 V/Bot.2785766889: [BOT(756092113)] XWJ(2604317843) -> 点歌 孤勇者[0m[m
+[0m2022-07-24 19:32:37 V/Bot.2785766889: [都参加七日了(1121965245)] 俊鸣王女(846131129) -> 这机器人除了可以骂人[0m[m
+[0m2022-07-24 19:32:42 V/Bot.2785766889: [都参加七日了(1121965245)] 俊鸣王女(846131129) -> 还可以干什么呢[0m[m
+[0m2022-07-24 19:33:18 V/Bot.2785766889: [都参加七日了(1121965245)] Q群管家(2604317843) -> 现在只导入几个功能，而且有概率响应失败[0m[m
+[0m2022-07-24 19:33:23 V/Bot.2785766889: [都参加七日了(1121965245)] Q群管家(2604317843) -> 发色图[0m[m
+[0m2022-07-24 19:33:26 V/Bot.2785766889: [都参加七日了(1121965245)] Q群管家(2604317843) -> ghs[0m[m
+[0m2022-07-24 19:33:29 V/Bot.2785766889: Group(1121965245) <- [mirai:image:{CA5C1D3F-93D6-6122-E74B-46A2169AE8CF}.jpg, width=1242, height=757, size=263378, type=JPG, isEmoji=false][0m[m
+[0m2022-07-24 19:33:41 V/Bot.2785766889: Event: NudgeEvent(from=NormalMember(2604317843), target=Bot(2785766889), subject=Group(1121965245), action=戳了戳, suffix=)[0m[m
+[0m2022-07-24 19:33:42 V/Bot.2785766889: Group(1121965245) <- 再戳我你就是笨批<( ￣^￣)[0m[m
+[0m2022-07-24 19:33:52 V/Bot.2785766889: [都参加七日了(1121965245)] 俊鸣王女(846131129) -> ？[0m[m
+[0m2022-07-24 19:33:59 V/Bot.2785766889: [都参加七日了(1121965245)] 俊鸣王女(846131129) -> [mirai:marketface:209590,[呵呵]][0m[m
+[0m2022-07-24 19:34:02 V/Bot.2785766889: [都参加七日了(1121965245)] Q群管家(2604317843) -> 还有就是查steam一些促销[0m[m
+[0m2022-07-24 19:34:14 V/Bot.2785766889: [都参加七日了(1121965245)] Q群管家(2604317843) -> /sh sale[0m[m
+[0m2022-07-24 19:34:14 V/Bot.2785766889: Group(1121965245) <- 离「Steam VR 游戏节」还有 : 正在进行中预计结束1天5时25分45秒[0m[m
+[0m2022-07-24 19:37:31 V/Bot.2785766889: [都参加七日了(1121965245)] Q群管家(2604317843) -> 我在加一个点歌[0m[m
+[0m2022-07-24 19:39:47 V/Bot.2785766889: [都参加七日了(1121965245)] 俊鸣王女(846131129) -> /sh[0m[m
+[0m2022-07-24 19:39:47 V/Bot.2785766889: Group(1121965245) <- 参数不匹配, 你是否想执行: \n/sh cp <AppNameOrAppid>    (参数不足)\n/sh 比价 <AppNameOrAppid>    (参数不足)\n/sh epic    (参数不足)\n/sh list    (参数不足)\n/sh 查看订阅    (参数不足)\n/sh push    (参数不足)\n/sh 推送    (参数不足)\n/sh pushepic    (参数不足)\n/sh 推送epic    (参数不足)\n/sh reload    (参数不足)\n/sh 重载    (参数不足)\n/sh sale    (参数不足)\n/sh 促销    (参数不足)\n/sh sr <AppNameOrAppid>    (参数不足)\n/sh 搜索 <AppNameOrAppid>    (参数不足)\n/sh stat    (参数不足)\n/sh 状态    (参数不足)\n/sh sub <AppNameOrAppid>    (参数不足)\n/sh 订阅 <AppNameOrAppid>    (参数不足)\n/sh unall    (参数不足)\n/sh 取消全部订阅    (参数不足)\n/sh unsub <AppNameOrAppid>    (参数不足)\n/sh 取消订阅 <AppNameOrAppid>    (参数不足)\n/sh week    (参数不足)\n/sh 周榜    (参数不足)[0m[m
+[0m2022-07-24 19:39:49 V/Bot.2785766889: [都参加七日了(1121965245)] 俊鸣王女(846131129) -> 是什么[0m[m
+[0m2022-07-24 19:40:32 V/Bot.2785766889: [都参加七日了(1121965245)] Q群管家(2604317843) -> 你输入对应的指令，他就回答你问题[0m[m
+[0m2022-07-24 19:40:45 V/Bot.2785766889: [都参加七日了(1121965245)] 俊鸣王女(846131129) -> /sh 徐文江[0m[m
+[0m2022-07-24 19:40:46 V/Bot.2785766889: Group(1121965245) <- 参数不匹配, 你是否想执行: \n/sh cp <AppNameOrAppid>    # 对比某SteamApp各区域的价格\n/sh 比价 <AppNameOrAppid>    # 对比某SteamApp各区域的价格\n/sh epic    # 获取epic周免信息\n/sh list    # 查看该会话下的所有订阅\n/sh 查看订阅    # 查看该会话下的所有订阅\n/sh push    # 定时推送大促、周榜信息\n/sh 推送    # 定时推送大促、周榜信息\n/sh pushepic    # 开启epic周免信息推送\n/sh 推送epic    # 开启epic周免信息推送\n/sh reload    # 重载并刷新Steamhelper\n/sh 重载    # 重载并刷新Steamhelper\n/sh sale    # 获取最近的Steam促销\n/sh 促销    # 获取最近的Steam促销\n/sh sr <AppNameOrAppid>    # 搜索一个SteamApp\n/sh 搜索 <AppNameOrAppid>    # 搜索一个SteamApp\n/sh stat    # 获取最近的Steam状态\n/sh 状态    # 获取最近的Steam状态\n/sh sub <AppNameOrAppid>    # 订阅一个SteamApp的价格变化\n/sh 订阅 <AppNameOrAppid>    # 订阅一个SteamApp的价格变化\n/sh unall    # 取消该会话下的所有订阅\n/sh 取消全部订阅    # 取消该会话下的所有订阅\n/sh unsub <AppNameOrAppid>    # 取消订阅一个SteamApp\n/sh 取消订阅 <AppNameOrAppid>    # 取消订阅一个SteamApp\n/sh week    # 获取Steam每周销量榜单\n/sh 周榜    # 获取Steam每周销量榜单[0m[m
+[0m2022-07-24 19:40:58 V/Bot.2785766889: Event: NudgeEvent(from=NormalMember(2604317843), target=Bot(2785766889), subject=Group(1121965245), action=戳了戳, suffix=)[0m[m
+[0m2022-07-24 19:40:59 V/Bot.2785766889: Group(1121965245) <- 戳回去(￣ ‘i ￣;)[0m[m
+[0m2022-07-24 19:41:00 V/Bot.2785766889: Event: NudgeEvent(from=Bot(2785766889), target=NormalMember(2604317843), subject=Group(1121965245), action=拍了拍, suffix=)[0m[m
+[0m2022-07-24 19:41:01 V/Bot.2785766889: Group(1121965245) <- 切[0m[m
+[0m2022-07-24 19:41:09 V/Bot.2785766889: [都参加七日了(1121965245)] 俊鸣王女(846131129) -> [mirai:marketface:209590,[阴险]][0m[m
+[0m2022-07-24 19:41:35 V/Bot.2785766889: [都参加七日了(1121965245)] 俊鸣王女(846131129) -> [mirai:image:{D44ABBB3-D376-2A79-4E9F-74280F1DCD19}.jpg, width=1500, height=1194, size=122025, type=JPG, isEmoji=true][0m[m
+[0m2022-07-24 19:44:12 V/Bot.2785766889: [BOT(756092113)] XWJ(2604317843) -> ghs[0m[m
+[91m2022-07-24 19:44:17 W/stderr: java.net.SocketTimeoutException: Connect timed out[0m[m
+[91m2022-07-24 19:44:17 W/stderr: 	at java.base/sun.nio.ch.NioSocketImpl.timedFinishConnect(NioSocketImpl.java:543)[0m[m
+[91m2022-07-24 19:44:17 W/stderr: 	at java.base/sun.nio.ch.NioSocketImpl.connect(NioSocketImpl.java:594)[0m[m
+[91m2022-07-24 19:44:17 W/stderr: 	at java.base/java.net.SocksSocketImpl.connect(SocksSocketImpl.java:327)[0m[m
+[91m2022-07-24 19:44:17 W/stderr: 	at java.base/java.net.Socket.connect(Socket.java:633)[0m[m
+[91m2022-07-24 19:44:17 W/stderr: 	at java.base/sun.security.ssl.SSLSocketImpl.connect(SSLSocketImpl.java:304)[0m[m
+[91m2022-07-24 19:44:17 W/stderr: 	at java.base/sun.net.NetworkClient.doConnect(NetworkClient.java:178)[0m[m
+[91m2022-07-24 19:44:17 W/stderr: 	at java.base/sun.net.www.http.HttpClient.openServer(HttpClient.java:498)[0m[m
+[91m2022-07-24 19:44:17 W/stderr: 	at java.base/sun.net.www.http.HttpClient.openServer(HttpClient.java:603)[0m[m
+[91m2022-07-24 19:44:17 W/stderr: 	at java.base/sun.net.www.protocol.https.HttpsClient.<init>(HttpsClient.java:264)[0m[m
+[91m2022-07-24 19:44:17 W/stderr: 	at java.base/sun.net.www.protocol.https.HttpsClient.New(HttpsClient.java:378)[0m[m
+[91m2022-07-24 19:44:17 W/stderr: 	at java.base/sun.net.www.protocol.https.AbstractDelegateHttpsURLConnection.getNewHttpClient(AbstractDelegateHttpsURLConnection.java:189)[0m[m
+[91m2022-07-24 19:44:17 W/stderr: 	at java.base/sun.net.www.protocol.http.HttpURLConnection.plainConnect0(HttpURLConnection.java:1242)[0m[m
+[91m2022-07-24 19:44:17 W/stderr: 	at java.base/sun.net.www.protocol.http.HttpURLConnection.plainConnect(HttpURLConnection.java:1128)[0m[m
+[91m2022-07-24 19:44:17 W/stderr: 	at java.base/sun.net.www.protocol.https.AbstractDelegateHttpsURLConnection.connect(AbstractDelegateHttpsURLConnection.java:175)[0m[m
+[91m2022-07-24 19:44:17 W/stderr: 	at java.base/sun.net.www.protocol.http.HttpURLConnection.followRedirect0(HttpURLConnection.java:2887)[0m[m
+[91m2022-07-24 19:44:17 W/stderr: 	at java.base/sun.net.www.protocol.http.HttpURLConnection.followRedirect(HttpURLConnection.java:2796)[0m[m
+[91m2022-07-24 19:44:17 W/stderr: 	at java.base/sun.net.www.protocol.http.HttpURLConnection.getInputStream0(HttpURLConnection.java:1927)[0m[m
+[91m2022-07-24 19:44:17 W/stderr: 	at java.base/sun.net.www.protocol.http.HttpURLConnection.getInputStream(HttpURLConnection.java:1589)[0m[m
+[91m2022-07-24 19:44:17 W/stderr: 	at java.base/sun.net.www.protocol.https.HttpsURLConnectionImpl.getInputStream(HttpsURLConnectionImpl.java:224)[0m[m
+[91m2022-07-24 19:44:17 W/stderr: 	at suijisetu-ycitus-3.6.3.mirai.jar//com.ycitus.command.commands.RandomImagesCommand.httpRequest(RandomImagesCommand.java:307)[0m[m
+[91m2022-07-24 19:44:17 W/stderr: 	at suijisetu-ycitus-3.6.3.mirai.jar//com.ycitus.command.commands.RandomImagesCommand.sendImage(RandomImagesCommand.java:111)[0m[m
+[91m2022-07-24 19:44:17 W/stderr: 	at suijisetu-ycitus-3.6.3.mirai.jar//com.ycitus.command.commands.RandomImagesCommand.runCommand(RandomImagesCommand.java:69)[0m[m
+[91m2022-07-24 19:44:17 W/stderr: 	at suijisetu-ycitus-3.6.3.mirai.jar//com.ycitus.command.RobotCommandManager.receiveMessage(RobotCommandManager.java:69)[0m[m
+[91m2022-07-24 19:44:17 W/stderr: 	at suijisetu-ycitus-3.6.3.mirai.jar//com.ycitus.PluginMain.lambda$onEnable$0(PluginMain.java:69)[0m[m
+[91m2022-07-24 19:44:17 W/stderr: 	at net.mamoe.mirai.event.EventChannel$subscribeAlways$2$1.invoke(EventChannel.kt:631)[0m[m
+[91m2022-07-24 19:44:17 W/stderr: 	at net.mamoe.mirai.event.EventChannel$subscribeAlways$2$1.invoke(EventChannel.kt:631)[0m[m
+[91m2022-07-24 19:44:17 W/stderr: 	at kotlinx.coroutines.InterruptibleKt.runInterruptibleInExpectedContext(Interruptible.kt:51)[0m[m
+[91m2022-07-24 19:44:17 W/stderr: 	at kotlinx.coroutines.InterruptibleKt.access$runInterruptibleInExpectedContext(Interruptible.kt:1)[0m[m
+[91m2022-07-24 19:44:17 W/stderr: 	at kotlinx.coroutines.InterruptibleKt$runInterruptible$2.invokeSuspend(Interruptible.kt:43)[0m[m
+[91m2022-07-24 19:44:17 W/stderr: 	at kotlin.coroutines.jvm.internal.BaseContinuationImpl.resumeWith(ContinuationImpl.kt:33)[0m[m
+[91m2022-07-24 19:44:17 W/stderr: 	at kotlinx.coroutines.DispatchedTask.run(DispatchedTask.kt:106)[0m[m
+[91m2022-07-24 19:44:17 W/stderr: 	at kotlinx.coroutines.internal.LimitedDispatcher.run(LimitedDispatcher.kt:42)[0m[m
+[91m2022-07-24 19:44:17 W/stderr: 	at kotlinx.coroutines.scheduling.TaskImpl.run(Tasks.kt:95)[0m[m
+[91m2022-07-24 19:44:17 W/stderr: 	at kotlinx.coroutines.scheduling.CoroutineScheduler.runSafely(CoroutineScheduler.kt:570)[0m[m
+[91m2022-07-24 19:44:17 W/stderr: 	at kotlinx.coroutines.scheduling.CoroutineScheduler$Worker.executeTask(CoroutineScheduler.kt:749)[0m[m
+[91m2022-07-24 19:44:17 W/stderr: 	at kotlinx.coroutines.scheduling.CoroutineScheduler$Worker.runWorker(CoroutineScheduler.kt:677)[0m[m
+[91m2022-07-24 19:44:17 W/stderr: 	at kotlinx.coroutines.scheduling.CoroutineScheduler$Worker.run(CoroutineScheduler.kt:664)[0m[m
+[0m2022-07-24 19:44:17 V/Bot.2785766889: Group(756092113) <- 获取图片失败[0m[m
+[0m2022-07-24 19:44:25 V/Bot.2785766889: [BOT(756092113)] XWJ(2604317843) -> ghs[0m[m
+[0m2022-07-24 19:44:26 V/Bot.2785766889: Group(756092113) <- [mirai:source:ids=[360], internalIds=[860035097], from group 2604317843 to 756092113 at 1658663070]ghs[0m[m
+[92m2022-07-24 19:44:26 I/AutoGroup: 复读了一次[0m[m
+[91m2022-07-24 19:44:31 W/stderr: java.net.SocketTimeoutException: Connect timed out[0m[m
+[91m2022-07-24 19:44:31 W/stderr: 	at java.base/sun.nio.ch.NioSocketImpl.timedFinishConnect(NioSocketImpl.java:543)[0m[m
+[91m2022-07-24 19:44:31 W/stderr: 	at java.base/sun.nio.ch.NioSocketImpl.connect(NioSocketImpl.java:594)[0m[m
+[91m2022-07-24 19:44:31 W/stderr: 	at java.base/java.net.SocksSocketImpl.connect(SocksSocketImpl.java:327)[0m[m
+[91m2022-07-24 19:44:31 W/stderr: 	at java.base/java.net.Socket.connect(Socket.java:633)[0m[m
+[91m2022-07-24 19:44:31 W/stderr: 	at java.base/sun.security.ssl.SSLSocketImpl.connect(SSLSocketImpl.java:304)[0m[m
+[91m2022-07-24 19:44:31 W/stderr: 	at java.base/sun.net.NetworkClient.doConnect(NetworkClient.java:178)[0m[m
+[91m2022-07-24 19:44:31 W/stderr: 	at java.base/sun.net.www.http.HttpClient.openServer(HttpClient.java:498)[0m[m
+[91m2022-07-24 19:44:31 W/stderr: 	at java.base/sun.net.www.http.HttpClient.openServer(HttpClient.java:603)[0m[m
+[91m2022-07-24 19:44:31 W/stderr: 	at java.base/sun.net.www.protocol.https.HttpsClient.<init>(HttpsClient.java:264)[0m[m
+[91m2022-07-24 19:44:31 W/stderr: 	at java.base/sun.net.www.protocol.https.HttpsClient.New(HttpsClient.java:378)[0m[m
+[91m2022-07-24 19:44:31 W/stderr: 	at java.base/sun.net.www.protocol.https.AbstractDelegateHttpsURLConnection.getNewHttpClient(AbstractDelegateHttpsURLConnection.java:189)[0m[m
+[91m2022-07-24 19:44:31 W/stderr: 	at java.base/sun.net.www.protocol.http.HttpURLConnection.plainConnect0(HttpURLConnection.java:1242)[0m[m
+[91m2022-07-24 19:44:31 W/stderr: 	at java.base/sun.net.www.protocol.http.HttpURLConnection.plainConnect(HttpURLConnection.java:1128)[0m[m
+[91m2022-07-24 19:44:31 W/stderr: 	at java.base/sun.net.www.protocol.https.AbstractDelegateHttpsURLConnection.connect(AbstractDelegateHttpsURLConnection.java:175)[0m[m
+[91m2022-07-24 19:44:31 W/stderr: 	at java.base/sun.net.www.protocol.http.HttpURLConnection.followRedirect0(HttpURLConnection.java:2887)[0m[m
+[91m2022-07-24 19:44:31 W/stderr: 	at java.base/sun.net.www.protocol.http.HttpURLConnection.followRedirect(HttpURLConnection.java:2796)[0m[m
+[91m2022-07-24 19:44:31 W/stderr: 	at java.base/sun.net.www.protocol.http.HttpURLConnection.getInputStream0(HttpURLConnection.java:1927)[0m[m
+[91m2022-07-24 19:44:31 W/stderr: 	at java.base/sun.net.www.protocol.http.HttpURLConnection.getInputStream(HttpURLConnection.java:1589)[0m[m
+[91m2022-07-24 19:44:31 W/stderr: 	at java.base/sun.net.www.protocol.https.HttpsURLConnectionImpl.getInputStream(HttpsURLConnectionImpl.java:224)[0m[m
+[91m2022-07-24 19:44:31 W/stderr: 	at suijisetu-ycitus-3.6.3.mirai.jar//com.ycitus.command.commands.RandomImagesCommand.httpRequest(RandomImagesCommand.java:307)[0m[m
+[91m2022-07-24 19:44:31 W/stderr: 	at suijisetu-ycitus-3.6.3.mirai.jar//com.ycitus.command.commands.RandomImagesCommand.sendImage(RandomImagesCommand.java:111)[0m[m
+[91m2022-07-24 19:44:31 W/stderr: 	at suijisetu-ycitus-3.6.3.mirai.jar//com.ycitus.command.commands.RandomImagesCommand.runCommand(RandomImagesCommand.java:69)[0m[m
+[91m2022-07-24 19:44:31 W/stderr: 	at suijisetu-ycitus-3.6.3.mirai.jar//com.ycitus.command.RobotCommandManager.receiveMessage(RobotCommandManager.java:69)[0m[m
+[91m2022-07-24 19:44:31 W/stderr: 	at suijisetu-ycitus-3.6.3.mirai.jar//com.ycitus.PluginMain.lambda$onEnable$0(PluginMain.java:69)[0m[m
+[91m2022-07-24 19:44:31 W/stderr: 	at net.mamoe.mirai.event.EventChannel$subscribeAlways$2$1.invoke(EventChannel.kt:631)[0m[m
+[91m2022-07-24 19:44:31 W/stderr: 	at net.mamoe.mirai.event.EventChannel$subscribeAlways$2$1.invoke(EventChannel.kt:631)[0m[m
+[91m2022-07-24 19:44:31 W/stderr: 	at kotlinx.coroutines.InterruptibleKt.runInterruptibleInExpectedContext(Interruptible.kt:51)[0m[m
+[91m2022-07-24 19:44:31 W/stderr: 	at kotlinx.coroutines.InterruptibleKt.access$runInterruptibleInExpectedContext(Interruptible.kt:1)[0m[m
+[91m2022-07-24 19:44:31 W/stderr: 	at kotlinx.coroutines.InterruptibleKt$runInterruptible$2.invokeSuspend(Interruptible.kt:43)[0m[m
+[91m2022-07-24 19:44:31 W/stderr: 	at kotlin.coroutines.jvm.internal.BaseContinuationImpl.resumeWith(ContinuationImpl.kt:33)[0m[m
+[91m2022-07-24 19:44:31 W/stderr: 	at kotlinx.coroutines.DispatchedTask.run(DispatchedTask.kt:106)[0m[m
+[91m2022-07-24 19:44:31 W/stderr: 	at kotlinx.coroutines.internal.LimitedDispatcher.run(LimitedDispatcher.kt:42)[0m[m
+[91m2022-07-24 19:44:31 W/stderr: 	at kotlinx.coroutines.scheduling.TaskImpl.run(Tasks.kt:95)[0m[m
+[91m2022-07-24 19:44:31 W/stderr: 	at kotlinx.coroutines.scheduling.CoroutineScheduler.runSafely(CoroutineScheduler.kt:570)[0m[m
+[91m2022-07-24 19:44:31 W/stderr: 	at kotlinx.coroutines.scheduling.CoroutineScheduler$Worker.executeTask(CoroutineScheduler.kt:749)[0m[m
+[91m2022-07-24 19:44:31 W/stderr: 	at kotlinx.coroutines.scheduling.CoroutineScheduler$Worker.runWorker(CoroutineScheduler.kt:677)[0m[m
+[91m2022-07-24 19:44:31 W/stderr: 	at kotlinx.coroutines.scheduling.CoroutineScheduler$Worker.run(CoroutineScheduler.kt:664)[0m[m
+[0m2022-07-24 19:44:31 V/Bot.2785766889: Group(756092113) <- 获取图片失败[0m[m

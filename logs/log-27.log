@@ -1,0 +1,378 @@
+[92m2022-07-26 09:40:12 I/main: Starting mirai-console...[0m[m
+[92m2022-07-26 09:40:12 I/main: Backend: version 2.12.0, built on 2022-07-03 10:57:58.[0m[m
+[92m2022-07-26 09:40:12 I/main: Frontend Terminal: version 2.12.0, provided by Mamoe Technologies[0m[m
+[92m2022-07-26 09:40:12 I/main: Welcome to visit https://mirai.mamoe.net/[0m[m
+[91m2022-07-26 09:40:13 W/stderr: SLF4J: Failed to load class "org.slf4j.impl.StaticLoggerBinder".[0m[m
+[91m2022-07-26 09:40:13 W/stderr: SLF4J: Defaulting to no-operation (NOP) logger implementation[0m[m
+[91m2022-07-26 09:40:13 W/stderr: SLF4J: See http://www.slf4j.org/codes.html#StaticLoggerBinder for further details.[0m[m
+[92m2022-07-26 09:40:13 I/plugin: Successfully loaded plugin AutoGroup v2.0.3[0m[m
+[92m2022-07-26 09:40:13 I/plugin: Successfully loaded plugin Chat Command v0.5.0[0m[m
+[92m2022-07-26 09:40:13 I/plugin: Successfully loaded plugin net.mamoe.mirai-api-http v2.5.2[0m[m
+[92m2022-07-26 09:40:13 I/plugin: Successfully loaded plugin Reporter v1.3.3[0m[m
+[92m2022-07-26 09:40:13 I/plugin: Successfully loaded plugin Plum v1.0[0m[m
+[92m2022-07-26 09:40:13 I/plugin: Successfully loaded plugin SteamHelper v1.0.10[0m[m
+[92m2022-07-26 09:40:13 I/plugin: Successfully loaded plugin Setu v3.6.3[0m[m
+[92m2022-07-26 09:40:13 I/plugin: Successfully loaded plugin MCL Addon v2.0.2[0m[m
+[92m2022-07-26 09:40:13 I/main: Prepared built-in commands: autoLogin, help, login, logout, permission, status, stop[0m[m
+[92m2022-07-26 09:40:13 I/AutoGroup: 开始折磨群友[0m[m
+[91m2022-07-26 09:40:13 W/net.mamoe.mirai-api-http: USING INITIAL KEY, please edit the key[0m[m
+[92m2022-07-26 09:40:13 I/Mirai HTTP API: ********************************************************[0m[m
+[91m2022-07-26 09:40:13 W/stderr: SLF4J: Failed to load class "org.slf4j.impl.StaticLoggerBinder".[0m[m
+[91m2022-07-26 09:40:13 W/stderr: SLF4J: Defaulting to no-operation (NOP) logger implementation[0m[m
+[91m2022-07-26 09:40:13 W/stderr: SLF4J: See http://www.slf4j.org/codes.html#StaticLoggerBinder for further details.[0m[m
+[92m2022-07-26 09:40:14 I/http adapter: >>> [http adapter] is listening at http://localhost:8080[0m[m
+[92m2022-07-26 09:40:14 I/Mirai HTTP API: Http api server is running with verifyKey: INITKEYPqcMkD3J[0m[m
+[92m2022-07-26 09:40:14 I/Mirai HTTP API: adaptors: [http][0m[m
+[92m2022-07-26 09:40:14 I/Mirai HTTP API: ********************************************************[0m[m
+[92m2022-07-26 09:40:14 I/Plum: Plum >> Enable.[0m[m
+[92m2022-07-26 09:40:14 I/Plum: Start Init...[0m[m
+[92m2022-07-26 09:40:14 I/Plum: [CommandSystem] Init CommandSystem.[0m[m
+[92m2022-07-26 09:40:14 I/Plum: [FileSystem] Init FileSystem.[0m[m
+[92m2022-07-26 09:40:14 I/Plum: [FileSystem] Init All Configs...[0m[m
+[92m2022-07-26 09:40:14 I/Plum: [FileSystem] Init >> ApplicationConfig.json[0m[m
+[92m2022-07-26 09:40:14 I/Plum: [FileSystem] Load Local File to Memory >> ApplicationConfig.json[0m[m
+[92m2022-07-26 09:40:14 I/Plum: Init AudioUtils.[0m[m
+[92m2022-07-26 09:40:14 I/Plum: [TimerSystem] Start TimerSystem.[0m[m
+[92m2022-07-26 09:40:14 I/Plum: End Init...[0m[m
+[92m2022-07-26 09:40:14 I/Setu: Setu >> Enable.[0m[m
+[92m2022-07-26 09:40:14 I/Setu: Start Init...[0m[m
+[92m2022-07-26 09:40:14 I/Setu: [FileSystem] Init FileSystem.[0m[m
+[92m2022-07-26 09:40:14 I/Setu: [FileSystem] Init All Configs...[0m[m
+[92m2022-07-26 09:40:14 I/Setu: [FileSystem] Init >> ApplicationConfig.json[0m[m
+[92m2022-07-26 09:40:14 I/Setu: [FileSystem] Load Local File to Memory >> ApplicationConfig.json[0m[m
+[92m2022-07-26 09:40:14 I/Setu: [CommandSystem] Init CommandSystem.[0m[m
+[92m2022-07-26 09:40:14 I/Setu: End Init...[0m[m
+[91m2022-07-26 09:40:14 W/stderr: SLF4J: Failed to load class "org.slf4j.impl.StaticLoggerBinder".[0m[m
+[91m2022-07-26 09:40:14 W/stderr: SLF4J: Defaulting to no-operation (NOP) logger implementation[0m[m
+[91m2022-07-26 09:40:14 W/stderr: SLF4J: See http://www.slf4j.org/codes.html#StaticLoggerBinder for further details.[0m[m
+[92m2022-07-26 09:40:14 I/MCL Addon: iTXTech MCL Version: 2.1.0-71ec418[0m[m
+[91m2022-07-26 09:40:14 W/MCL Addon: iTXTech Soyuz 未安装，Soyuz MCL Handler 特性已禁用[0m[m
+[92m2022-07-26 09:40:14 I/SteamHelper: SteamHelper已就绪，数据刷新命令已经发出，会延迟于插件启动，请稍后[0m[m
+[92m2022-07-26 09:40:14 I/main: 8 plugin(s) enabled.[0m[m
+[92m2022-07-26 09:40:14 I/WindowHelperJvm: Mirai 正在使用桌面环境. 如遇到验证码将会弹出对话框. 可添加 JVM 属性 `mirai.no-desktop` 以关闭.[0m[m
+[92m2022-07-26 09:40:14 I/WindowHelperJvm: Mirai is using desktop. Captcha will be thrown by window popup. You can add `mirai.no-desktop` to JVM properties (-Dmirai.no-desktop) to disable it.[0m[m
+[92m2022-07-26 09:40:14 I/main: Auto-login 2785766889[0m[m
+[91m2022-07-26 09:40:14 W/stderr: ERROR StatusLogger Log4j2 could not find a logging implementation. Please add log4j-core to the classpath. Using SimpleLogger to log to the console...[0m[m
+[92m2022-07-26 09:40:14 I/Bot.2785766889: Loaded account secrets from local cache.[0m[m
+[92m2022-07-26 09:40:15 I/Bot.2785766889: Saved account secrets to local cache for fast login.[0m[m
+[92m2022-07-26 09:40:15 I/Bot.2785766889: Login successful.[0m[m
+[0m2022-07-26 09:40:15 V/Bot.2785766889: Event: BotOnlineEvent(bot=Bot(2785766889))[0m[m
+[92m2022-07-26 09:40:15 I/AutoGroup: 开戳[0m[m
+[92m2022-07-26 09:40:15 I/Bot.2785766889: Bot login successful.[0m[m
+[92m2022-07-26 09:40:15 I/main: mirai-console started successfully.[0m[m
+[92m2022-07-26 09:40:16 I/SteamHelper: 信息刷新线程执行完毕[0m[m
+[91m2022-07-26 09:56:31 W/console: 未知指令: / /news_group add 756092113, 输入 ? 获取帮助[0m[m
+[0m2022-07-26 09:57:22 V/Bot.2785766889: [1B430也要加速了！(558344752)] 黄礼志名井南裴珠泫姜涩琪唯一指定老公(2912539912) -> ghs[0m[m
+[91m2022-07-26 09:57:27 W/stderr: java.net.SocketTimeoutException: Connect timed out[0m[m
+[91m2022-07-26 09:57:27 W/stderr: 	at java.base/sun.nio.ch.NioSocketImpl.timedFinishConnect(NioSocketImpl.java:543)[0m[m
+[91m2022-07-26 09:57:27 W/stderr: 	at java.base/sun.nio.ch.NioSocketImpl.connect(NioSocketImpl.java:594)[0m[m
+[91m2022-07-26 09:57:27 W/stderr: 	at java.base/java.net.SocksSocketImpl.connect(SocksSocketImpl.java:327)[0m[m
+[91m2022-07-26 09:57:27 W/stderr: 	at java.base/java.net.Socket.connect(Socket.java:633)[0m[m
+[91m2022-07-26 09:57:27 W/stderr: 	at java.base/sun.security.ssl.SSLSocketImpl.connect(SSLSocketImpl.java:304)[0m[m
+[91m2022-07-26 09:57:27 W/stderr: 	at java.base/sun.net.NetworkClient.doConnect(NetworkClient.java:178)[0m[m
+[91m2022-07-26 09:57:27 W/stderr: 	at java.base/sun.net.www.http.HttpClient.openServer(HttpClient.java:498)[0m[m
+[91m2022-07-26 09:57:27 W/stderr: 	at java.base/sun.net.www.http.HttpClient.openServer(HttpClient.java:603)[0m[m
+[91m2022-07-26 09:57:27 W/stderr: 	at java.base/sun.net.www.protocol.https.HttpsClient.<init>(HttpsClient.java:264)[0m[m
+[91m2022-07-26 09:57:27 W/stderr: 	at java.base/sun.net.www.protocol.https.HttpsClient.New(HttpsClient.java:378)[0m[m
+[91m2022-07-26 09:57:27 W/stderr: 	at java.base/sun.net.www.protocol.https.AbstractDelegateHttpsURLConnection.getNewHttpClient(AbstractDelegateHttpsURLConnection.java:189)[0m[m
+[91m2022-07-26 09:57:27 W/stderr: 	at java.base/sun.net.www.protocol.http.HttpURLConnection.plainConnect0(HttpURLConnection.java:1242)[0m[m
+[91m2022-07-26 09:57:27 W/stderr: 	at java.base/sun.net.www.protocol.http.HttpURLConnection.plainConnect(HttpURLConnection.java:1128)[0m[m
+[91m2022-07-26 09:57:27 W/stderr: 	at java.base/sun.net.www.protocol.https.AbstractDelegateHttpsURLConnection.connect(AbstractDelegateHttpsURLConnection.java:175)[0m[m
+[91m2022-07-26 09:57:27 W/stderr: 	at java.base/sun.net.www.protocol.http.HttpURLConnection.followRedirect0(HttpURLConnection.java:2887)[0m[m
+[91m2022-07-26 09:57:27 W/stderr: 	at java.base/sun.net.www.protocol.http.HttpURLConnection.followRedirect(HttpURLConnection.java:2796)[0m[m
+[91m2022-07-26 09:57:27 W/stderr: 	at java.base/sun.net.www.protocol.http.HttpURLConnection.getInputStream0(HttpURLConnection.java:1927)[0m[m
+[91m2022-07-26 09:57:27 W/stderr: 	at java.base/sun.net.www.protocol.http.HttpURLConnection.getInputStream(HttpURLConnection.java:1589)[0m[m
+[91m2022-07-26 09:57:27 W/stderr: 	at java.base/sun.net.www.protocol.https.HttpsURLConnectionImpl.getInputStream(HttpsURLConnectionImpl.java:224)[0m[m
+[91m2022-07-26 09:57:27 W/stderr: 	at suijisetu-ycitus-3.6.3.mirai.jar//com.ycitus.command.commands.RandomImagesCommand.httpRequest(RandomImagesCommand.java:307)[0m[m
+[91m2022-07-26 09:57:27 W/stderr: 	at suijisetu-ycitus-3.6.3.mirai.jar//com.ycitus.command.commands.RandomImagesCommand.sendImage(RandomImagesCommand.java:111)[0m[m
+[91m2022-07-26 09:57:27 W/stderr: 	at suijisetu-ycitus-3.6.3.mirai.jar//com.ycitus.command.commands.RandomImagesCommand.runCommand(RandomImagesCommand.java:69)[0m[m
+[91m2022-07-26 09:57:27 W/stderr: 	at suijisetu-ycitus-3.6.3.mirai.jar//com.ycitus.command.RobotCommandManager.receiveMessage(RobotCommandManager.java:69)[0m[m
+[91m2022-07-26 09:57:27 W/stderr: 	at suijisetu-ycitus-3.6.3.mirai.jar//com.ycitus.PluginMain.lambda$onEnable$0(PluginMain.java:69)[0m[m
+[91m2022-07-26 09:57:27 W/stderr: 	at net.mamoe.mirai.event.EventChannel$subscribeAlways$2$1.invoke(EventChannel.kt:631)[0m[m
+[91m2022-07-26 09:57:27 W/stderr: 	at net.mamoe.mirai.event.EventChannel$subscribeAlways$2$1.invoke(EventChannel.kt:631)[0m[m
+[91m2022-07-26 09:57:27 W/stderr: 	at kotlinx.coroutines.InterruptibleKt.runInterruptibleInExpectedContext(Interruptible.kt:51)[0m[m
+[91m2022-07-26 09:57:27 W/stderr: 	at kotlinx.coroutines.InterruptibleKt.access$runInterruptibleInExpectedContext(Interruptible.kt:1)[0m[m
+[91m2022-07-26 09:57:27 W/stderr: 	at kotlinx.coroutines.InterruptibleKt$runInterruptible$2.invokeSuspend(Interruptible.kt:43)[0m[m
+[91m2022-07-26 09:57:27 W/stderr: 	at kotlin.coroutines.jvm.internal.BaseContinuationImpl.resumeWith(ContinuationImpl.kt:33)[0m[m
+[91m2022-07-26 09:57:27 W/stderr: 	at kotlinx.coroutines.DispatchedTask.run(DispatchedTask.kt:106)[0m[m
+[91m2022-07-26 09:57:27 W/stderr: 	at kotlinx.coroutines.internal.LimitedDispatcher.run(LimitedDispatcher.kt:42)[0m[m
+[91m2022-07-26 09:57:27 W/stderr: 	at kotlinx.coroutines.scheduling.TaskImpl.run(Tasks.kt:95)[0m[m
+[91m2022-07-26 09:57:27 W/stderr: 	at kotlinx.coroutines.scheduling.CoroutineScheduler.runSafely(CoroutineScheduler.kt:570)[0m[m
+[91m2022-07-26 09:57:27 W/stderr: 	at kotlinx.coroutines.scheduling.CoroutineScheduler$Worker.executeTask(CoroutineScheduler.kt:749)[0m[m
+[91m2022-07-26 09:57:27 W/stderr: 	at kotlinx.coroutines.scheduling.CoroutineScheduler$Worker.runWorker(CoroutineScheduler.kt:677)[0m[m
+[91m2022-07-26 09:57:27 W/stderr: 	at kotlinx.coroutines.scheduling.CoroutineScheduler$Worker.run(CoroutineScheduler.kt:664)[0m[m
+[0m2022-07-26 09:57:27 V/Bot.2785766889: Group(558344752) <- 获取图片失败[0m[m
+[0m2022-07-26 09:57:29 V/Bot.2785766889: [BOT(756092113)] XWJ(2604317843) -> 今日新闻[0m[m
+[92m2022-07-26 09:57:29 I/Reporter: XWJ 发起了新闻请求...[0m[m
+[92m2022-07-26 09:57:30 I/stdout: main dict load finished, time elapsed 948 ms[0m[m
+[92m2022-07-26 09:57:30 I/stdout: model load finished, time elapsed 27 ms.[0m[m
+[0m2022-07-26 09:57:31 V/Bot.2785766889: Group(756092113) <- 这是今天的新闻速报 \nq(≧▽≦q)[0m[m
+[0m2022-07-26 09:57:31 V/Bot.2785766889: [都参加七日了(1121965245)] 俊鸣王女(846131129) -> 准备疯狂擦边[0m[m
+[92m2022-07-26 09:57:31 I/stdout: https://zhuanlan.zhihu.com/p/546086751[0m[m
+[0m2022-07-26 09:57:33 V/Bot.2785766889: Event: NudgeEvent(from=NormalMember(2912539912), target=Bot(2785766889), subject=Group(558344752), action=戳了戳, suffix=)[0m[m
+[0m2022-07-26 09:57:33 V/Bot.2785766889: Group(558344752) <- 你是春春的初生[0m[m
+[91m2022-07-26 09:57:33 W/Plum: Linked class okhttp3.OkHttpClient in news-reporter-1.3.3.mirai.jar but plugin not depend on it.[0m[m
+[91m2022-07-26 09:57:33 W/Plum: Class loading logic may change in feature.[0m[m
+[92m2022-07-26 09:57:33 I/Plum: [RandomImage (ThirdParty)] Currently Use Image-Site: http://api.mtyqx.cn/tapi/random.php[0m[m
+[0m2022-07-26 09:57:33 V/Bot.2785766889: Group(756092113) <- [mirai:image:{8D26877F-D3F4-23FC-445C-1FC0F6A9147D}.png, width=860, height=2013, size=837008, type=PNG, isEmoji=false][0m[m
+[0m2022-07-26 09:57:35 V/Bot.2785766889: Group(558344752) <- [mirai:at:2912539912]\n『自责要短暂，不过要长久铭记。』-「当你沉睡时」\n[mirai:image:{33C42F21-C804-56D2-1398-76675EA1EAD8}.jpg, width=1920, height=1080, size=792614, type=JPG, isEmoji=false][0m[m
+[0m2022-07-26 09:57:44 V/Bot.2785766889: [都参加七日了(1121965245)] 俊鸣王女(846131129) -> 我不会被封号吧[0m[m
+[0m2022-07-26 09:57:47 V/Bot.2785766889: Event: NudgeEvent(from=NormalMember(2912539912), target=Bot(2785766889), subject=Group(558344752), action=戳了戳, suffix=)[0m[m
+[0m2022-07-26 09:57:47 V/Bot.2785766889: Group(558344752) <- 吾身乃高性能机器人...呜呜[0m[m
+[92m2022-07-26 09:57:47 I/Plum: [RandomImage (ThirdParty)] Currently Use Image-Site: http://api.mtyqx.cn/tapi/random.php[0m[m
+[0m2022-07-26 09:57:48 V/Bot.2785766889: [都参加七日了(1121965245)] 俊鸣王女(846131129) -> [mirai:marketface:209590,[生气]][0m[m
+[0m2022-07-26 09:57:49 V/Bot.2785766889: Group(558344752) <- [mirai:at:2912539912]\n『对于我们的幸福来说，别人的看法在本质上来讲并不十分重要。』-「人生的智慧」\n[mirai:image:{5878c0a0-4635-001a-82d4-1be985430556}.jpg, width=0, height=0, size=0, type=UNKNOWN, isEmoji=false][0m[m
+[0m2022-07-26 09:58:13 V/Bot.2785766889: [都参加七日了(1121965245)] Q群管家(2604317843) -> 确实，想快速涨粉就拍露的[0m[m
+[0m2022-07-26 09:58:31 V/Bot.2785766889: [都参加七日了(1121965245)] 俊鸣王女(846131129) -> ？[0m[m
+[0m2022-07-26 09:58:33 V/Bot.2785766889: [都参加七日了(1121965245)] 俊鸣王女(846131129) -> [mirai:marketface:209590,[阴险]][0m[m
+[0m2022-07-26 09:58:39 V/Bot.2785766889: [都参加七日了(1121965245)] 俊鸣王女(846131129) -> 反正不是我露[0m[m
+[0m2022-07-26 09:59:15 V/Bot.2785766889: [都参加七日了(1121965245)] 俊鸣王女(846131129) -> 被扒出来顶多只是感叹我外表下竟然是个yy喜欢福利的猥琐男[0m[m
+[0m2022-07-26 09:59:31 V/Bot.2785766889: [1B430也要加速了！(558344752)] 黄礼志名井南裴珠泫姜涩琪唯一指定老公(2912539912) -> 还是用let it be吧[0m[m
+[0m2022-07-26 09:59:40 V/Bot.2785766889: [1B430也要加速了！(558344752)] 黄礼志名井南裴珠泫姜涩琪唯一指定老公(2912539912) -> 点歌 let it be[0m[m
+[92m2022-07-26 09:59:40 I/Plum: [SingSong] 收到唱歌指令，开始执行核心代码[0m[m
+[92m2022-07-26 09:59:40 I/Plum: [SingSong] 用户输入的需要唱的歌曲: input_music_name = let it be[0m[m
+[92m2022-07-26 09:59:40 I/Plum: [SingSong] input_music_name = let it be[0m[m
+[92m2022-07-26 09:59:40 I/Plum: [SingSong] 尝试第1乐库: NeteaseMusic - API[0m[m
+[92m2022-07-26 09:59:40 I/Plum: [NeteaseMusic - API] 获取到的SongInformation: SongInformation{music_Name='Let It Be', music_ID=1965010561, music_Length=0, music_introduction='null', music_Page_URL='http://music.163.com/song/1965010561', author='null', music_File_URL='http://music.163.com/song/media/outer/url?id=1965010561.mp3', music_MID='null', img_URL='null', hash='null', sourceType='网易云音乐', summary='null'}[0m[m
+[0m2022-07-26 09:59:44 V/Bot.2785766889: Group(558344752) <- [mirai:musicshare:neteasecloudmusic,let it be,[点歌] 黄礼志名井南裴珠泫姜涩琪唯一指定老公,http://music.163.com/song/1965010561,http://q.qlogo.cn/g?b=qq&nk=2912539912&s=640,http://music.163.com/song/media/outer/url?id=1965010561.mp3,[点歌] let it be][0m[m
+[92m2022-07-26 10:00:01 I/SteamHelper: 信息刷新线程执行完毕[0m[m
+[0m2022-07-26 10:00:09 V/Bot.2785766889: [1B430也要加速了！(558344752)][SYNC] <- 输入今日新闻和今日番剧试试[0m[m
+[0m2022-07-26 10:00:14 V/Bot.2785766889: [1B430也要加速了！(558344752)] 黄礼志名井南裴珠泫姜涩琪唯一指定老公(2912539912) -> 今日新闻[0m[m
+[92m2022-07-26 10:00:14 I/Reporter: 黄礼志名井南裴珠泫姜涩琪唯一指定老公 发起了新闻请求...[0m[m
+[0m2022-07-26 10:00:15 V/Bot.2785766889: Group(558344752) <- 这是今天的新闻速报 \nq(≧▽≦q)[0m[m
+[0m2022-07-26 10:00:15 V/Bot.2785766889: Group(558344752) <- [mirai:image:{8D26877F-D3F4-23FC-445C-1FC0F6A9147D}.png, width=860, height=2013, size=837008, type=PNG, isEmoji=false][0m[m
+[0m2022-07-26 10:00:36 V/Bot.2785766889: [1B430也要加速了！(558344752)] 黄礼志名井南裴珠泫姜涩琪唯一指定老公(2912539912) -> 有点意思[0m[m
+[0m2022-07-26 10:00:38 V/Bot.2785766889: [都参加七日了(1121965245)] 俊鸣王女(846131129) -> [mirai:image:{23EA893B-D7B9-CF44-170C-17F780DCBF00}.jpg, width=1080, height=607, size=59945, type=JPG, isEmoji=false][0m[m
+[0m2022-07-26 10:00:39 V/Bot.2785766889: [都参加七日了(1121965245)] 俊鸣王女(846131129) -> [mirai:image:{4FE951A1-3420-667E-9656-E4C29AEC7ABF}.jpg, width=1080, height=607, size=78885, type=JPG, isEmoji=false][0m[m
+[0m2022-07-26 10:00:40 V/Bot.2785766889: [都参加七日了(1121965245)] 俊鸣王女(846131129) -> [mirai:image:{F95E1A92-4CF1-A832-C3E0-668188D0035D}.jpg, width=1465, height=2104, size=409275, type=JPG, isEmoji=false][0m[m
+[0m2022-07-26 10:00:41 V/Bot.2785766889: [1B430也要加速了！(558344752)] 黄礼志名井南裴珠泫姜涩琪唯一指定老公(2912539912) -> 今日番剧[0m[m
+[92m2022-07-26 10:00:41 I/Reporter: 黄礼志名井南裴珠泫姜涩琪唯一指定老公 发起了动画请求...[0m[m
+[0m2022-07-26 10:00:41 V/Bot.2785766889: Group(558344752) <- 这是今天的 B 站番剧 \n( •̀ ω •́ )✧[0m[m
+[0m2022-07-26 10:00:43 V/Bot.2785766889: Group(558344752) <- [mirai:image:{f4eadd07-7f40-310a-ee7e-7e4399fe755c}.png, width=0, height=0, size=0, type=UNKNOWN, isEmoji=false][0m[m
+[0m2022-07-26 10:00:46 V/Bot.2785766889: [都参加七日了(1121965245)] 俊鸣王女(846131129) -> 我沉默、[0m[m
+[0m2022-07-26 10:00:54 V/Bot.2785766889: [都参加七日了(1121965245)] 俊鸣王女(846131129) -> [mirai:marketface:209590,[开心]][0m[m
+[0m2022-07-26 10:00:59 V/Bot.2785766889: [都参加七日了(1121965245)] 俊鸣王女(846131129) -> 让我回去观摩一下[0m[m
+[0m2022-07-26 10:01:08 V/Bot.2785766889: [都参加七日了(1121965245)] 俊鸣王女(846131129) -> 顺便想个营销号标题[0m[m
+[0m2022-07-26 10:01:44 V/Bot.2785766889: [1B429(1040698508)] 1b429辅导员(2604317843) -> 今日新闻[0m[m
+[92m2022-07-26 10:01:44 I/Reporter: 1b429辅导员 发起了新闻请求...[0m[m
+[0m2022-07-26 10:01:44 V/Bot.2785766889: Group(1040698508) <- 这是今天的新闻速报 \nq(≧▽≦q)[0m[m
+[0m2022-07-26 10:01:45 V/Bot.2785766889: Group(1040698508) <- [mirai:image:{8d26877f-d3f4-23fc-445c-1fc0f6a9147d}.png, width=0, height=0, size=0, type=UNKNOWN, isEmoji=false][0m[m
+[0m2022-07-26 10:02:19 V/Bot.2785766889: [都参加七日了(1121965245)][SYNC] <- 今日新闻[0m[m
+[0m2022-07-26 10:02:33 V/Bot.2785766889: [都参加七日了(1121965245)] Q群管家(2604317843) -> 今日新闻[0m[m
+[92m2022-07-26 10:02:33 I/Reporter: Q群管家 发起了新闻请求...[0m[m
+[0m2022-07-26 10:02:33 V/Bot.2785766889: Group(1121965245) <- 这是今天的新闻速报 \nq(≧▽≦q)[0m[m
+[0m2022-07-26 10:02:34 V/Bot.2785766889: Group(1121965245) <- [mirai:image:{8D26877F-D3F4-23FC-445C-1FC0F6A9147D}.png, width=860, height=2013, size=837008, type=PNG, isEmoji=false][0m[m
+[0m2022-07-26 10:02:44 V/Bot.2785766889: [都参加七日了(1121965245)] Q群管家(2604317843) -> 今日番剧[0m[m
+[92m2022-07-26 10:02:44 I/Reporter: Q群管家 发起了动画请求...[0m[m
+[0m2022-07-26 10:02:44 V/Bot.2785766889: Group(1121965245) <- 这是今天的 b 站番剧 \n( •̀ ω •́ )✧[0m[m
+[0m2022-07-26 10:02:45 V/Bot.2785766889: Group(1121965245) <- [mirai:image:{F4EADD07-7F40-310A-EE7E-7E4399FE755C}.png, width=1200, height=636, size=656018, type=PNG, isEmoji=false][0m[m
+[0m2022-07-26 10:03:20 V/Bot.2785766889: [都参加七日了(1121965245)] 俊鸣王女(846131129) -> [mirai:marketface:209590,[哈哈]][0m[m
+[0m2022-07-26 10:03:54 V/Bot.2785766889: [BOT(756092113)] XWJ(2604317843) -> 唱歌 孤勇者[0m[m
+[92m2022-07-26 10:03:54 I/Plum: [SingSong] 收到唱歌指令，开始执行核心代码[0m[m
+[92m2022-07-26 10:03:54 I/Plum: [SingSong] 用户输入的需要唱的歌曲: input_music_name = 孤勇者[0m[m
+[92m2022-07-26 10:03:54 I/Plum: [SingSong] input_music_name = 孤勇者[0m[m
+[92m2022-07-26 10:03:54 I/Plum: [SingSong] 尝试第1乐库: NeteaseMusic - API[0m[m
+[92m2022-07-26 10:03:54 I/Plum: [NeteaseMusic - API] 获取到的SongInformation: SongInformation{music_Name='孤勇者', music_ID=1901371647, music_Length=0, music_introduction='null', music_Page_URL='http://music.163.com/song/1901371647', author='null', music_File_URL='http://music.163.com/song/media/outer/url?id=1901371647.mp3', music_MID='null', img_URL='null', hash='null', sourceType='网易云音乐', summary='null'}[0m[m
+[92m2022-07-26 10:03:54 I/Plum: [NeteaseMusic - API] 检测到所要下载音乐文件已存在，跳过下载: file_path = D:\插件\mcl\plugins\Plum\voice-files\netease_cloud_music#DEFAULT_MUSIC_NAME#1901371647[0m[m
+[92m2022-07-26 10:03:54 I/Plum: [SendSystem] sendMusic() -> voice_file_name = netease_cloud_music#DEFAULT_MUSIC_NAME#1901371647[0m[m
+[92m2022-07-26 10:03:54 I/Plum: [SendSystem] Ready to send VoiceFile: voice_file_name = netease_cloud_music#DEFAULT_MUSIC_NAME#1901371647[0m[m
+[91m2022-07-26 10:03:54 W/stderr: Exception in thread "Thread-80" java.io.FileNotFoundException: D:\插件\mcl\plugins\Plum\voice-files\mirai_audio_silk_1658801034897.silk (系统找不到指定的文件。)[0m[m
+[91m2022-07-26 10:03:54 W/stderr: 	at java.base/java.io.RandomAccessFile.open0(Native Method)[0m[m
+[91m2022-07-26 10:03:54 W/stderr: 	at java.base/java.io.RandomAccessFile.open(RandomAccessFile.java:344)[0m[m
+[91m2022-07-26 10:03:54 W/stderr: 	at java.base/java.io.RandomAccessFile.<init>(RandomAccessFile.java:259)[0m[m
+[91m2022-07-26 10:03:54 W/stderr: 	at java.base/java.io.RandomAccessFile.<init>(RandomAccessFile.java:213)[0m[m
+[91m2022-07-26 10:03:54 W/stderr: 	at net.mamoe.mirai.utils.ExternalResource$Companion.create(ExternalResource.kt:258)[0m[m
+[91m2022-07-26 10:03:54 W/stderr: 	at net.mamoe.mirai.utils.ExternalResource$Companion.create$default(ExternalResource.kt:256)[0m[m
+[91m2022-07-26 10:03:54 W/stderr: 	at net.mamoe.mirai.utils.ExternalResource$Companion.create(ExternalResource.kt)[0m[m
+[91m2022-07-26 10:03:54 W/stderr: 	at net.mamoe.mirai.utils.ExternalResource.create(ExternalResource.kt)[0m[m
+[91m2022-07-26 10:03:54 W/stderr: 	at Plum-1.0-SNAPSHOT.mirai.jar//com.sakurawald.framework.MessageManager.sendVoiceToQQGroup(MessageManager.java:244)[0m[m
+[91m2022-07-26 10:03:54 W/stderr: 	at Plum-1.0-SNAPSHOT.mirai.jar//com.sakurawald.command.commands.SingSongCommand.lambda$runCommand$0(SingSongCommand.java:188)[0m[m
+[91m2022-07-26 10:03:54 W/stderr: 	at java.base/java.lang.Thread.run(Thread.java:833)[0m[m
+[0m2022-07-26 10:28:39 V/Bot.2785766889: [1B430也要加速了！(558344752)] 黄礼志名井南裴珠泫姜涩琪唯一指定老公(2912539912) -> [mirai:origin:FORWARD,pXaaDqSkuiUkturuxJgAHaRlvGpL82NYUqhoyIo+rJ/M+dyI8WVGgV5WAuk8SXST]ForwardMessage(preview=[任俊宇:  请问马原成绩一直没收到，是还没出来吗？, 任俊宇:  @政治-孔智键, 政治-孔智键:  没呢/笑哭], title=群聊的聊天记录, brief=[聊天记录], source=聊天记录, summary=查看3条转发消息, nodeList=[Node(senderId=1208010601, time=1658802471, senderName=任俊宇, messageChain=请问马原成绩一直没收到，是还没出来吗？), Node(senderId=1208010601, time=1658802492, senderName=任俊宇, messageChain=@政治-孔智键 ), Node(senderId=515793626, time=1658802508, senderName=政治-孔智键, messageChain=没呢[笑哭])])[0m[m
+[0m2022-07-26 10:28:57 V/Bot.2785766889: [1B430也要加速了！(558344752)] 黄礼志名井南裴珠泫姜涩琪唯一指定老公(2912539912) -> 直接质问[0m[m
+[0m2022-07-26 10:29:00 V/Bot.2785766889: [1B430也要加速了！(558344752)][SYNC] <- [喷血][0m[m
+[0m2022-07-26 10:35:12 V/Bot.2785766889: [都参加七日了(1121965245)] 尊重女性的小葛(1304745336) -> 666[0m[m
+[92m2022-07-26 10:40:15 I/AutoGroup: 开戳[0m[m
+[92m2022-07-26 11:00:00 I/SteamHelper: 信息刷新线程执行完毕[0m[m
+[0m2022-07-26 11:03:10 V/Bot.2785766889: [都参加七日了(1121965245)] 俊鸣王女(846131129) -> [mirai:image:{8A7110EB-0E52-4E17-A614-6171392A9276}.jpg, width=1170, height=2532, size=788070, type=PNG, isEmoji=false][0m[m
+[0m2022-07-26 11:06:18 V/Bot.2785766889: [都参加七日了(1121965245)] 尊重女性的小葛(1304745336) -> 可以[0m[m
+[0m2022-07-26 11:06:31 V/Bot.2785766889: [都参加七日了(1121965245)] 尊重女性的小葛(1304745336) -> 看到好多人免单了[0m[m
+[0m2022-07-26 11:30:51 V/Bot.2785766889: [都参加七日了(1121965245)] 俊鸣王女(846131129) -> https://www.bilibili.com/video/BV1ZB4y1Y7Hm?share_source=copy_web&vd_source=70f501d93f284a5afa930980302391fc[0m[m
+[0m2022-07-26 11:30:58 V/Bot.2785766889: [都参加七日了(1121965245)] 俊鸣王女(846131129) -> 我笑得相似[0m[m
+[92m2022-07-26 11:40:15 I/AutoGroup: 开戳[0m[m
+[0m2022-07-26 11:55:52 V/Bot.2785766889: [都参加七日了(1121965245)] 尊重女性的小葛(1304745336) -> 666[0m[m
+[92m2022-07-26 12:00:01 I/SteamHelper: 信息刷新线程执行完毕[0m[m
+[92m2022-07-26 12:40:15 I/AutoGroup: 开戳[0m[m
+[92m2022-07-26 13:00:01 I/SteamHelper: 信息刷新线程执行完毕[0m[m
+[0m2022-07-26 13:13:34 V/Bot.2785766889: [都参加七日了(1121965245)] 俊鸣王女(846131129) -> 我沉默[0m[m
+[0m2022-07-26 13:13:43 V/Bot.2785766889: [都参加七日了(1121965245)] 俊鸣王女(846131129) -> 我写那个脚本[0m[m
+[0m2022-07-26 13:13:51 V/Bot.2785766889: [都参加七日了(1121965245)] 俊鸣王女(846131129) -> 然后就是不给提女足[0m[m
+[0m2022-07-26 13:14:05 V/Bot.2785766889: [都参加七日了(1121965245)] 俊鸣王女(846131129) -> 说如果提女足这两个字，就得向中国足协报备[0m[m
+[0m2022-07-26 13:14:16 V/Bot.2785766889: [都参加七日了(1121965245)] 俊鸣王女(846131129) -> [mirai:image:{088F0C05-1993-45C2-3202-96DDA3783A0B}.gif, width=200, height=200, size=18931, type=GIF, isEmoji=false][0m[m
+[0m2022-07-26 13:14:17 V/Bot.2785766889: [都参加七日了(1121965245)] 俊鸣王女(846131129) -> 没事吧[0m[m
+[0m2022-07-26 13:20:15 V/Bot.2785766889: [都参加七日了(1121965245)] 尊重女性的小葛(1304745336) -> [mirai:marketface:209590,[乖]][0m[m
+[0m2022-07-26 13:20:36 V/Bot.2785766889: [都参加七日了(1121965245)] 尊重女性的小葛(1304745336) -> [mirai:image:{A87C7518-6F2F-BC7D-E8D7-52F603217560}.jpg, width=586, height=375, size=38398, type=JPG, isEmoji=true][0m[m
+[0m2022-07-26 13:20:54 V/Bot.2785766889: [都参加七日了(1121965245)] 俊鸣王女(846131129) -> [mirai:marketface:209590,[滑稽]][0m[m
+[0m2022-07-26 13:26:38 V/Bot.2785766889: [BOT(756092113)] XWJ(2604317843) -> ghs[0m[m
+[91m2022-07-26 13:26:43 W/stderr: java.net.SocketTimeoutException: Connect timed out[0m[m
+[91m2022-07-26 13:26:43 W/stderr: 	at java.base/sun.nio.ch.NioSocketImpl.timedFinishConnect(NioSocketImpl.java:543)[0m[m
+[91m2022-07-26 13:26:43 W/stderr: 	at java.base/sun.nio.ch.NioSocketImpl.connect(NioSocketImpl.java:594)[0m[m
+[91m2022-07-26 13:26:43 W/stderr: 	at java.base/java.net.SocksSocketImpl.connect(SocksSocketImpl.java:327)[0m[m
+[91m2022-07-26 13:26:43 W/stderr: 	at java.base/java.net.Socket.connect(Socket.java:633)[0m[m
+[91m2022-07-26 13:26:43 W/stderr: 	at java.base/sun.security.ssl.SSLSocketImpl.connect(SSLSocketImpl.java:304)[0m[m
+[91m2022-07-26 13:26:43 W/stderr: 	at java.base/sun.net.NetworkClient.doConnect(NetworkClient.java:178)[0m[m
+[91m2022-07-26 13:26:43 W/stderr: 	at java.base/sun.net.www.http.HttpClient.openServer(HttpClient.java:498)[0m[m
+[91m2022-07-26 13:26:43 W/stderr: 	at java.base/sun.net.www.http.HttpClient.openServer(HttpClient.java:603)[0m[m
+[91m2022-07-26 13:26:43 W/stderr: 	at java.base/sun.net.www.protocol.https.HttpsClient.<init>(HttpsClient.java:264)[0m[m
+[91m2022-07-26 13:26:43 W/stderr: 	at java.base/sun.net.www.protocol.https.HttpsClient.New(HttpsClient.java:378)[0m[m
+[91m2022-07-26 13:26:43 W/stderr: 	at java.base/sun.net.www.protocol.https.AbstractDelegateHttpsURLConnection.getNewHttpClient(AbstractDelegateHttpsURLConnection.java:189)[0m[m
+[91m2022-07-26 13:26:43 W/stderr: 	at java.base/sun.net.www.protocol.http.HttpURLConnection.plainConnect0(HttpURLConnection.java:1242)[0m[m
+[91m2022-07-26 13:26:43 W/stderr: 	at java.base/sun.net.www.protocol.http.HttpURLConnection.plainConnect(HttpURLConnection.java:1128)[0m[m
+[91m2022-07-26 13:26:43 W/stderr: 	at java.base/sun.net.www.protocol.https.AbstractDelegateHttpsURLConnection.connect(AbstractDelegateHttpsURLConnection.java:175)[0m[m
+[91m2022-07-26 13:26:43 W/stderr: 	at java.base/sun.net.www.protocol.http.HttpURLConnection.followRedirect0(HttpURLConnection.java:2887)[0m[m
+[91m2022-07-26 13:26:43 W/stderr: 	at java.base/sun.net.www.protocol.http.HttpURLConnection.followRedirect(HttpURLConnection.java:2796)[0m[m
+[91m2022-07-26 13:26:43 W/stderr: 	at java.base/sun.net.www.protocol.http.HttpURLConnection.getInputStream0(HttpURLConnection.java:1927)[0m[m
+[91m2022-07-26 13:26:43 W/stderr: 	at java.base/sun.net.www.protocol.http.HttpURLConnection.getInputStream(HttpURLConnection.java:1589)[0m[m
+[91m2022-07-26 13:26:43 W/stderr: 	at java.base/sun.net.www.protocol.https.HttpsURLConnectionImpl.getInputStream(HttpsURLConnectionImpl.java:224)[0m[m
+[91m2022-07-26 13:26:43 W/stderr: 	at suijisetu-ycitus-3.6.3.mirai.jar//com.ycitus.command.commands.RandomImagesCommand.httpRequest(RandomImagesCommand.java:307)[0m[m
+[91m2022-07-26 13:26:43 W/stderr: 	at suijisetu-ycitus-3.6.3.mirai.jar//com.ycitus.command.commands.RandomImagesCommand.sendImage(RandomImagesCommand.java:111)[0m[m
+[91m2022-07-26 13:26:43 W/stderr: 	at suijisetu-ycitus-3.6.3.mirai.jar//com.ycitus.command.commands.RandomImagesCommand.runCommand(RandomImagesCommand.java:69)[0m[m
+[91m2022-07-26 13:26:43 W/stderr: 	at suijisetu-ycitus-3.6.3.mirai.jar//com.ycitus.command.RobotCommandManager.receiveMessage(RobotCommandManager.java:69)[0m[m
+[91m2022-07-26 13:26:43 W/stderr: 	at suijisetu-ycitus-3.6.3.mirai.jar//com.ycitus.PluginMain.lambda$onEnable$0(PluginMain.java:69)[0m[m
+[91m2022-07-26 13:26:43 W/stderr: 	at net.mamoe.mirai.event.EventChannel$subscribeAlways$2$1.invoke(EventChannel.kt:631)[0m[m
+[91m2022-07-26 13:26:43 W/stderr: 	at net.mamoe.mirai.event.EventChannel$subscribeAlways$2$1.invoke(EventChannel.kt:631)[0m[m
+[91m2022-07-26 13:26:43 W/stderr: 	at kotlinx.coroutines.InterruptibleKt.runInterruptibleInExpectedContext(Interruptible.kt:51)[0m[m
+[91m2022-07-26 13:26:43 W/stderr: 	at kotlinx.coroutines.InterruptibleKt.access$runInterruptibleInExpectedContext(Interruptible.kt:1)[0m[m
+[91m2022-07-26 13:26:43 W/stderr: 	at kotlinx.coroutines.InterruptibleKt$runInterruptible$2.invokeSuspend(Interruptible.kt:43)[0m[m
+[91m2022-07-26 13:26:43 W/stderr: 	at kotlin.coroutines.jvm.internal.BaseContinuationImpl.resumeWith(ContinuationImpl.kt:33)[0m[m
+[91m2022-07-26 13:26:43 W/stderr: 	at kotlinx.coroutines.DispatchedTask.run(DispatchedTask.kt:106)[0m[m
+[91m2022-07-26 13:26:43 W/stderr: 	at kotlinx.coroutines.internal.LimitedDispatcher.run(LimitedDispatcher.kt:42)[0m[m
+[91m2022-07-26 13:26:43 W/stderr: 	at kotlinx.coroutines.scheduling.TaskImpl.run(Tasks.kt:95)[0m[m
+[91m2022-07-26 13:26:43 W/stderr: 	at kotlinx.coroutines.scheduling.CoroutineScheduler.runSafely(CoroutineScheduler.kt:570)[0m[m
+[91m2022-07-26 13:26:43 W/stderr: 	at kotlinx.coroutines.scheduling.CoroutineScheduler$Worker.executeTask(CoroutineScheduler.kt:749)[0m[m
+[91m2022-07-26 13:26:43 W/stderr: 	at kotlinx.coroutines.scheduling.CoroutineScheduler$Worker.runWorker(CoroutineScheduler.kt:677)[0m[m
+[91m2022-07-26 13:26:43 W/stderr: 	at kotlinx.coroutines.scheduling.CoroutineScheduler$Worker.run(CoroutineScheduler.kt:664)[0m[m
+[0m2022-07-26 13:26:43 V/Bot.2785766889: Group(756092113) <- 获取图片失败[0m[m
+[0m2022-07-26 13:26:56 V/Bot.2785766889: [BOT(756092113)] XWJ(2604317843) -> 骂人[0m[m
+[0m2022-07-26 13:27:11 V/Bot.2785766889: [BOT(756092113)] XWJ(2604317843) -> /骂人 3[0m[m
+[0m2022-07-26 13:27:29 V/Bot.2785766889: [BOT(756092113)] XWJ(2604317843) -> 骂我[0m[m
+[0m2022-07-26 13:27:38 V/Bot.2785766889: [BOT(756092113)] XWJ(2604317843) -> 骂我 3[0m[m
+[0m2022-07-26 13:27:59 V/Bot.2785766889: [BOT(756092113)] XWJ(2604317843) -> /骂我 3[0m[m
+[0m2022-07-26 13:28:39 V/Bot.2785766889: [BOT(756092113)] XWJ(2604317843) -> （/）骂我 3[0m[m
+[0m2022-07-26 13:36:24 V/Bot.2785766889: [1B429(1040698508)] 1b429辅导员(2604317843) -> [mirai:image:{4ECF09C9-84AE-1BD3-0F7D-6CB38E1E9E99}.jpg, width=640, height=4010, size=559518, type=JPG, isEmoji=false][0m[m
+[92m2022-07-26 13:40:15 I/AutoGroup: 开戳[0m[m
+[0m2022-07-26 13:45:21 V/Bot.2785766889: [1B429(1040698508)] 1b429辅导员(2604317843) -> 顺便看看武大BBQ，发现上面也是时不时扒渣男，或者发表逆天言论钓鱼[斜眼笑][0m[m
+[92m2022-07-26 14:00:00 I/SteamHelper: 信息刷新线程执行完毕[0m[m
+[92m2022-07-26 14:40:15 I/AutoGroup: 开戳[0m[m
+[0m2022-07-26 14:57:24 V/Bot.2785766889: [BOT(756092113)] XWJ(2604317843) -> /sh week[0m[m
+[0m2022-07-26 14:57:24 V/Bot.2785766889: Group(756092113) <- Steam一周销量榜：\n截止时间：2022-07-24 15:00:00 星期日\n#1 - Steam Deck\n#2 - Stray\n#3 - Marvel’s Spider-Man Remastered\n#4 - Raft\n#5 - Dinkum\n#6 - No Man's Sky\n#7 - Valve Index VR 套件\n#8 - 艾尔登法环\n#9 - MultiVersus Founder's Pack - Standard Edition\n#10 - Ready or Not\n[0m[m
+[0m2022-07-26 14:57:41 V/Bot.2785766889: [BOT(756092113)] XWJ(2604317843) -> /sh sr stray[0m[m
+[0m2022-07-26 14:58:09 V/Bot.2785766889: Group(756092113) <- 搜索失败，如长期出现此信息请检查日志和机器人网络状况[0m[m
+[0m2022-07-26 14:58:21 V/Bot.2785766889: [BOT(756092113)] XWJ(2604317843) -> /sh sr stray[0m[m
+[0m2022-07-26 14:58:21 V/Bot.2785766889: Group(756092113) <- [mirai:source:ids=[561], internalIds=[393109324], from group 2604317843 to 756092113 at 1658818709]/sh sr stray[0m[m
+[92m2022-07-26 14:58:21 I/AutoGroup: 复读了一次[0m[m
+[92m2022-07-26 14:58:48 I/SteamHelper: SteamHelper在搜索的时候得到了一个错误：连接已超时，请检查是否能够流畅访问相关网站|java.net.SocketTimeoutException: Connect timed out
+java.net.SocketTimeoutException: Connect timed out
+java.net.SocketTimeoutException: Connect timed out
+[0m[m
+[0m2022-07-26 14:58:48 V/Bot.2785766889: Group(756092113) <- 搜索发生误误，如长期出现此信息请检查日志和机器人网络络状况[0m[m
+[0m2022-07-26 14:58:58 V/Bot.2785766889: [BOT(756092113)] XWJ(2604317843) -> /sh stat[0m[m
+[0m2022-07-26 14:58:59 V/Bot.2785766889: Group(756092113) <- steam 店店状态态 : 正常 | steam 社区状态 : 正常[0m[m
+[92m2022-07-26 15:00:09 I/SteamHelper: Steam周榜刷新失败：连接已超时，请检查是否能够流畅访问相关网站|java.net.SocketTimeoutException: Connect timed out[0m[m
+[92m2022-07-26 15:00:09 I/SteamHelper: 信息刷新线程执行完毕[0m[m
+[0m2022-07-26 15:05:02 V/Bot.2785766889: [1B430也要加速了！(558344752)] 黄礼志名井南裴珠泫姜涩琪唯一指定老公(2912539912) -> [mirai:image:{F49FD68D-6F4D-4F12-19BC-6EF4EBB355CE}.jpg, width=1071, height=573, size=78372, type=JPG, isEmoji=false][0m[m
+[0m2022-07-26 15:05:25 V/Bot.2785766889: [1B430也要加速了！(558344752)] 黄礼志名井南裴珠泫姜涩琪唯一指定老公(2912539912) -> 怎么感觉还有点神似[0m[m
+[92m2022-07-26 15:40:15 I/AutoGroup: 开戳[0m[m
+[0m2022-07-26 15:44:19 V/Bot.2785766889: Event: MemberHonorChangeEvent.Achieve(member=NormalMember(2785766889), honorType=TALKATIVE)[0m[m
+[0m2022-07-26 15:48:57 V/Bot.2785766889: Event: MemberHonorChangeEvent.Achieve(member=NormalMember(2912539912), honorType=TALKATIVE)[0m[m
+[92m2022-07-26 16:00:01 I/SteamHelper: 信息刷新线程执行完毕[0m[m
+[92m2022-07-26 16:40:15 I/AutoGroup: 开戳[0m[m
+[92m2022-07-26 17:00:01 I/SteamHelper: 信息刷新线程执行完毕[0m[m
+[92m2022-07-26 17:40:15 I/AutoGroup: 开戳[0m[m
+[92m2022-07-26 18:00:00 I/SteamHelper: 信息刷新线程执行完毕[0m[m
+[0m2022-07-26 18:18:06 V/Bot.2785766889: Event: OtherClientOfflineEvent(client=OtherClient(bot=2785766889,deviceName=HEA1OR,platform=WINDOWS))[0m[m
+[0m2022-07-26 18:35:35 V/Bot.2785766889: Event: BotOfflineEvent.Dropped(bot=Bot(2785766889), cause=HeartbeatFailedException: 2785766889.AliveHeartbeat, recoverable=true, cause=PacketTimeoutException(message=2785766889.AliveHeartbeat Scheduler: Timeout receiving action response, cause=kotlinx.coroutines.TimeoutCancellationException: Timed out waiting for 5000 ms), reconnect=true)[0m[m
+[91m2022-07-26 18:35:35 W/Bot.2785766889: Connection lost, reconnecting... (HeartbeatFailedException: 2785766889.AliveHeartbeat, recoverable=true, cause=PacketTimeoutException(message=2785766889.AliveHeartbeat Scheduler: Timeout receiving action response, cause=kotlinx.coroutines.TimeoutCancellationException: Timed out waiting for 5000 ms))[0m[m
+[92m2022-07-26 18:35:35 I/Bot.2785766889: Saved account secrets to local cache for fast login.[0m[m
+[92m2022-07-26 18:35:35 I/Bot.2785766889: Login successful.[0m[m
+[0m2022-07-26 18:35:35 V/Bot.2785766889: Event: BotOnlineEvent(bot=Bot(2785766889))[0m[m
+[92m2022-07-26 18:35:35 I/Bot.2785766889: Reconnected successfully in 0.343s.[0m[m
+[0m2022-07-26 18:35:35 V/Bot.2785766889: Event: BotReloginEvent(bot=Bot(2785766889), cause=null)[0m[m
+[0m2022-07-26 18:39:36 V/Bot.2785766889: [1B430也要加速了！(558344752)] 米哈游的爹(2765930277) -> 好[0m[m
+[0m2022-07-26 18:39:45 V/Bot.2785766889: [1B430也要加速了！(558344752)] 米哈游的爹(2765930277) -> 不好[0m[m
+[0m2022-07-26 18:40:45 V/Bot.2785766889: Event: OtherClientOnlineEvent(client=OtherClient(bot=2785766889,deviceName=HEA1OR,platform=WINDOWS), kind=MOBILE_PC_QQ)[0m[m
+[92m2022-07-26 18:57:31 I/AutoGroup: 开戳[0m[m
+[92m2022-07-26 19:00:00 I/SteamHelper: 信息刷新线程执行完毕[0m[m
+[0m2022-07-26 19:23:12 V/Bot.2785766889: [都参加七日了(1121965245)] 尊重女性的小葛(1304745336) -> [mirai:image:{FF42F4B4-02E9-6474-9907-5DC49674189D}.jpg, width=720, height=888, size=86636, type=JPG, isEmoji=false][0m[m
+[0m2022-07-26 19:23:40 V/Bot.2785766889: [都参加七日了(1121965245)] 尊重女性的小葛(1304745336) -> 哥们的说唱怎么样[0m[m
+[0m2022-07-26 19:23:45 V/Bot.2785766889: [都参加七日了(1121965245)] 尊重女性的小葛(1304745336) -> 你的QQ暂不支持查看视频短片，请期待后续版本。[不支持的消息#1580865567][0m[m
+[92m2022-07-26 19:57:31 I/AutoGroup: 开戳[0m[m
+[0m2022-07-26 20:00:00 V/Bot.2785766889: Group(756092113) <- 离「steam生存游戏节」还有 : 还有6天4时59分59秒[0m[m
+[92m2022-07-26 20:00:01 I/SteamHelper: 信息刷新线程执行完毕[0m[m
+[0m2022-07-26 20:00:01 V/Bot.2785766889: Group(1040698508) <- 离「Steam生存游戏节」还有 : 还有6天4时59分59秒[0m[m
+[92m2022-07-26 20:00:03 I/SteamHelper: Steam大促信息推送完毕[0m[m
+[0m2022-07-26 20:32:12 V/Bot.2785766889: [都参加七日了(1121965245)] 俊鸣王女(846131129) -> 、[0m[m
+[0m2022-07-26 20:32:17 V/Bot.2785766889: [都参加七日了(1121965245)] 俊鸣王女(846131129) -> 你在唱什么[0m[m
+[0m2022-07-26 20:34:17 V/Bot.2785766889: [都参加七日了(1121965245)] 尊重女性的小葛(1304745336) -> gap啊[0m[m
+[0m2022-07-26 20:34:20 V/Bot.2785766889: [都参加七日了(1121965245)] 尊重女性的小葛(1304745336) -> 看不见啊[0m[m
+[0m2022-07-26 20:34:25 V/Bot.2785766889: [都参加七日了(1121965245)] 俊鸣王女(846131129) -> 、[0m[m
+[0m2022-07-26 20:34:27 V/Bot.2785766889: [都参加七日了(1121965245)] 尊重女性的小葛(1304745336) -> 我是taogod[0m[m
+[0m2022-07-26 20:34:28 V/Bot.2785766889: Event: GroupRecall(bot=Bot(2785766889), authorId=1304745336, messageIds=[178227], messageInternalIds=[936778595], messageTime=1658838876, operator=NormalMember(1304745336), group=Group(1121965245), author=NormalMember(1304745336))[0m[m
+[0m2022-07-26 20:34:36 V/Bot.2785766889: [都参加七日了(1121965245)] 尊重女性的小葛(1304745336) -> 我是rapgod[0m[m
+[0m2022-07-26 20:34:50 V/Bot.2785766889: [都参加七日了(1121965245)] 尊重女性的小葛(1304745336) -> 可以点歌[0m[m
+[0m2022-07-26 20:35:02 V/Bot.2785766889: [都参加七日了(1121965245)] 尊重女性的小葛(1304745336) -> 我唱给你们听听[0m[m
+[0m2022-07-26 20:35:17 V/Bot.2785766889: [都参加七日了(1121965245)] 尊重女性的小葛(1304745336) -> 吉他刚调好弦[0m[m
+[0m2022-07-26 20:35:57 V/Bot.2785766889: [都参加七日了(1121965245)] 尊重女性的小葛(1304745336) -> 我跟你说的没错吧[0m[m
+[0m2022-07-26 20:36:08 V/Bot.2785766889: [都参加七日了(1121965245)] 尊重女性的小葛(1304745336) -> 搞擦边才有人气[0m[m
+[0m2022-07-26 20:36:09 V/Bot.2785766889: [都参加七日了(1121965245)] 俊鸣王女(846131129) -> 、[0m[m
+[0m2022-07-26 20:36:19 V/Bot.2785766889: [都参加七日了(1121965245)] 俊鸣王女(846131129) -> [mirai:marketface:209590,[乖]][0m[m
+[0m2022-07-26 20:36:29 V/Bot.2785766889: [都参加七日了(1121965245)] 俊鸣王女(846131129) -> 我现在恨不得把xwj裸照发上去[0m[m
+[0m2022-07-26 20:36:32 V/Bot.2785766889: [都参加七日了(1121965245)] 俊鸣王女(846131129) -> 哈哈哈哈哈哈哈哈哈哈[0m[m
+[0m2022-07-26 20:36:46 V/Bot.2785766889: [都参加七日了(1121965245)][SYNC] <- ？[0m[m
+[0m2022-07-26 20:36:50 V/Bot.2785766889: [都参加七日了(1121965245)] 俊鸣王女(846131129) -> 马上头牌换成xwj[0m[m
+[0m2022-07-26 20:36:54 V/Bot.2785766889: Event: NudgeEvent(from=NormalMember(2604317843), target=Bot(2785766889), subject=Group(1121965245), action=戳了戳, suffix=)[0m[m
+[0m2022-07-26 20:36:54 V/Bot.2785766889: Group(1121965245) <- ヾ(≧へ≦)〃[0m[m
+[92m2022-07-26 20:36:55 I/Plum: [RandomImage (ThirdParty)] Currently Use Image-Site: http://www.dmoe.cc/random.php[0m[m
+[0m2022-07-26 20:36:56 V/Bot.2785766889: [都参加七日了(1121965245)] 尊重女性的小葛(1304745336) -> 可以放[0m[m
+[0m2022-07-26 20:36:58 V/Bot.2785766889: Group(1121965245) <- [mirai:at:2604317843]\n『万法缘生，皆系缘分！』-「佛教禅语」\n[mirai:image:{60530B1D-EC2C-EA39-C856-C0A942395EC2}.jpg, width=2048, height=1152, size=1076497, type=JPG, isEmoji=false][0m[m
+[0m2022-07-26 20:36:59 V/Bot.2785766889: [都参加七日了(1121965245)] 俊鸣王女(846131129) -> [mirai:marketface:209590,[呵呵]][0m[m
+[0m2022-07-26 20:37:02 V/Bot.2785766889: [都参加七日了(1121965245)] 尊重女性的小葛(1304745336) -> 就是[0m[m
+[0m2022-07-26 20:37:09 V/Bot.2785766889: Event: OtherClientOfflineEvent(client=OtherClient(bot=2785766889,deviceName=HEA1OR,platform=WINDOWS))[0m[m
+[92m2022-07-26 21:46:18 I/SteamHelper: 信息刷新线程执行完毕[0m[m
+[0m2022-07-26 21:46:21 V/Bot.2785766889: Event: BotOfflineEvent.Dropped(bot=Bot(2785766889), cause=HeartbeatFailedException: 2785766889.AliveHeartbeat, recoverable=true, cause=PacketTimeoutException(message=2785766889.AliveHeartbeat Scheduler: Timeout receiving action response, cause=kotlinx.coroutines.TimeoutCancellationException: Timed out waiting for 5000 ms), reconnect=true)[0m[m
+[91m2022-07-26 21:46:21 W/Bot.2785766889: Connection lost, reconnecting... (HeartbeatFailedException: 2785766889.AliveHeartbeat, recoverable=true, cause=PacketTimeoutException(message=2785766889.AliveHeartbeat Scheduler: Timeout receiving action response, cause=kotlinx.coroutines.TimeoutCancellationException: Timed out waiting for 5000 ms))[0m[m
+[92m2022-07-26 21:46:21 I/Bot.2785766889: Saved account secrets to local cache for fast login.[0m[m
+[92m2022-07-26 21:46:21 I/Bot.2785766889: Login successful.[0m[m
+[0m2022-07-26 21:46:21 V/Bot.2785766889: Event: BotOnlineEvent(bot=Bot(2785766889))[0m[m
+[92m2022-07-26 21:46:21 I/Bot.2785766889: Reconnected successfully in 0.516s.[0m[m
+[0m2022-07-26 21:46:21 V/Bot.2785766889: Event: BotReloginEvent(bot=Bot(2785766889), cause=null)[0m[m
+[0m2022-07-26 21:46:59 V/Bot.2785766889: [1B430也要加速了！(558344752)] 黄礼志名井南裴珠泫姜涩琪唯一指定老公(2912539912) -> 世另我[0m[m
+[0m2022-07-26 21:53:17 V/Bot.2785766889: [都参加七日了(1121965245)] 尊重女性的小葛(1304745336) -> [mirai:flash:{F9F2293F-FAB6-04EE-0489-123D15CBF109}.jpg][0m[m
+[0m2022-07-26 21:53:19 V/Bot.2785766889: [都参加七日了(1121965245)] 尊重女性的小葛(1304745336) -> 是我[0m[m
+[0m2022-07-26 21:53:45 V/Bot.2785766889: [都参加七日了(1121965245)] 俊鸣王女(846131129) -> 、、、[0m[m
+[0m2022-07-26 21:53:47 V/Bot.2785766889: [都参加七日了(1121965245)] 尊重女性的小葛(1304745336) -> 。[0m[m
+[0m2022-07-26 21:53:51 V/Bot.2785766889: [都参加七日了(1121965245)] 俊鸣王女(846131129) -> 好脏的感觉、[0m[m
+[0m2022-07-26 21:53:58 V/Bot.2785766889: [都参加七日了(1121965245)] 俊鸣王女(846131129) -> 这是洗澡吗、[0m[m
+[0m2022-07-26 21:54:39 V/Bot.2785766889: [都参加七日了(1121965245)] 尊重女性的小葛(1304745336) -> 额额额[0m[m
+[0m2022-07-26 21:54:50 V/Bot.2785766889: [都参加七日了(1121965245)] 尊重女性的小葛(1304745336) -> 你问毕皓去[0m[m
+[0m2022-07-26 21:54:53 V/Bot.2785766889: [都参加七日了(1121965245)] 尊重女性的小葛(1304745336) -> 又不是我[0m[m
+[0m2022-07-26 21:54:59 V/Bot.2785766889: [都参加七日了(1121965245)] 尊重女性的小葛(1304745336) -> [mirai:image:{FF42F4B4-02E9-6474-9907-5DC49674189D}.jpg, width=720, height=888, size=86636, type=JPG, isEmoji=true][0m[m
+[0m2022-07-26 21:59:51 V/Bot.2785766889: [都参加七日了(1121965245)] 俊鸣王女(846131129) -> 你去评论区问问[0m[m
+[92m2022-07-26 22:00:01 I/SteamHelper: 信息刷新线程执行完毕[0m[m
+[0m2022-07-26 22:00:05 V/Bot.2785766889: [都参加七日了(1121965245)] 俊鸣王女(846131129) -> 他发照片不就是为了你这种默默观看的[0m[m
+[0m2022-07-26 22:20:44 V/Bot.2785766889: [都参加七日了(1121965245)] 尊重女性的小葛(1304745336) -> 已经问了[0m[m
+[0m2022-07-26 22:20:47 V/Bot.2785766889: [都参加七日了(1121965245)] 尊重女性的小葛(1304745336) -> 没回我[0m[m
+[0m2022-07-26 22:20:54 V/Bot.2785766889: [都参加七日了(1121965245)] 尊重女性的小葛(1304745336) -> [mirai:image:{A87C7518-6F2F-BC7D-E8D7-52F603217560}.jpg, width=586, height=375, size=38398, type=JPG, isEmoji=true][0m[m
+[0m2022-07-26 22:23:50 V/Bot.2785766889: [都参加七日了(1121965245)] 俊鸣王女(846131129) -> [mirai:image:{FDE9D138-2B66-84A0-6FB6-38A802EFFB26}.jpg, width=190, height=142, size=989757, type=GIF, isEmoji=true][0m[m
+[92m2022-07-26 23:00:01 I/SteamHelper: 信息刷新线程执行完毕[0m[m
+[0m2022-07-26 23:28:31 V/Bot.2785766889: [都参加七日了(1121965245)] 尊重女性的小葛(1304745336) -> 狂发是吧[0m[m
+[0m2022-07-26 23:29:20 V/Bot.2785766889: [都参加七日了(1121965245)] 俊鸣王女(846131129) -> 试水个二创[0m[m
+[0m2022-07-26 23:30:01 V/Bot.2785766889: [都参加七日了(1121965245)] 俊鸣王女(846131129) -> 五条悟、为什么还流行[0m[m
+[0m2022-07-26 23:30:04 V/Bot.2785766889: [都参加七日了(1121965245)] 俊鸣王女(846131129) -> [mirai:image:{7B9798CC-7E52-E7EE-A53D-011AB7117B3E}.jpg, width=538, height=527, size=30701, type=JPG, isEmoji=true][0m[m
+[0m2022-07-26 23:32:06 V/Bot.2785766889: [都参加七日了(1121965245)] 尊重女性的小葛(1304745336) -> [mirai:app:{"app":"com.tencent.structmsg","config":{"ctime":1658849536,"forward":true,"token":"3fc89a145c9b62fd7468b168ca685444","type":"normal"},"desc":"新闻","extra":{"app_type":1,"appid":100497308,"msg_seq":7124704498134349787,"uin":1304745336},"meta":{"news":{"action":"","android_pkg_name":"","app_type":1,"appid":100497308,"ctime":1658849536,"desc":"周杰伦","jumpUrl":"https://i.y.qq.com/v8/playsong.html?platform=11&appshare=android_qq&appversion=11080009&hosteuin=oKoz7eSP7Koi7c**&songmid=002tNzue0g8xQA&type=0&appsongtype=1&_wv=1&source=qq&ADTAG=qfshare","preview":"https://pic.ugcimg.cn/1c791bad16505b15252e9280dc0f8502/jpg1","source_icon":"https://p.qpic.cn/qqconnect/0/app_100497308_1626060999/100?max-age=2592000&t=0","source_url":"","tag":"QQ音乐","title":"爱你没差","uin":1304745336}},"prompt":"[分享]爱你没差","ver":"0.0.0.1","view":"news"}][0m[m
+[0m2022-07-26 23:32:13 V/Bot.2785766889: [都参加七日了(1121965245)] 尊重女性的小葛(1304745336) -> 不知道[0m[m
+[0m2022-07-26 23:32:20 V/Bot.2785766889: [都参加七日了(1121965245)] 尊重女性的小葛(1304745336) -> 没看过[0m[m
+[0m2022-07-26 23:32:55 V/Bot.2785766889: [都参加七日了(1121965245)] 俊鸣王女(846131129) -> [mirai:quote:[mirai:source:ids=[178296], internalIds=[0], from 1304745336 to 1121965245 at 1658849536], content=<not yet initialized>][mirai:at:1304745336] 谢谢[0m[m
+[0m2022-07-26 23:33:01 V/Bot.2785766889: [都参加七日了(1121965245)] 尊重女性的小葛(1304745336) -> 6[0m[m
+[0m2022-07-26 23:36:45 V/Bot.2785766889: [都参加七日了(1121965245)] 尊重女性的小葛(1304745336) -> [mirai:image:{3D0CE789-6152-C90B-5C30-97126E532059}.jpg, width=886, height=1920, size=91417, type=JPG, isEmoji=false][0m[m
+[0m2022-07-26 23:36:49 V/Bot.2785766889: [都参加七日了(1121965245)] 尊重女性的小葛(1304745336) -> 境界的彼方[0m[m

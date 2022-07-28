@@ -1,0 +1,74 @@
+[92m2022-07-23 23:46:59 I/main: Starting mirai-console...[0m[m
+[92m2022-07-23 23:46:59 I/main: Backend: version 2.12.0, built on 2022-07-03 10:57:58.[0m[m
+[92m2022-07-23 23:46:59 I/main: Frontend Terminal: version 2.12.0, provided by Mamoe Technologies[0m[m
+[92m2022-07-23 23:46:59 I/main: Welcome to visit https://mirai.mamoe.net/[0m[m
+[31m2022-07-23 23:46:59 E/main: Failed to init MiraiConsole.
+net.mamoe.yamlkt.YamlDecodingException: Top-level decoder: deserializing nested class for 'accounts' in 'AutoLogin'
+      value: pwd
+               ^ at line 8, column 17
+
+	at net.mamoe.yamlkt.internal.YamlUtils__ContextualExceptionKt.contextualDecodingException(ContextualException.kt:154)
+	at net.mamoe.yamlkt.internal.YamlUtils.contextualDecodingException(Unknown Source)
+	at net.mamoe.yamlkt.internal.YamlDecoder$AbstractDecoder.decodeSerializableElement(YamlDecoder.kt:181)
+	at kotlinx.serialization.encoding.CompositeDecoder$DefaultImpls.decodeSerializableElement$default(Decoding.kt:535)
+	at net.mamoe.mirai.console.internal.data.PluginDataImpl$updaterSerializer$1.deserialize(PluginDataImpl.kt:85)
+	at net.mamoe.mirai.console.internal.data.PluginDataImpl$updaterSerializer$1.deserialize(PluginDataImpl.kt:47)
+	at net.mamoe.yamlkt.Yaml.decodeFromString(Yaml.kt:162)
+	at net.mamoe.mirai.console.internal.data.MultiFilePluginDataStorageImpl.load(MultiFilePluginDataStorageImpl.kt:44)
+	at net.mamoe.mirai.console.internal.data.builtins.ConsoleDataScopeImpl.addAndReloadConfig(ConsoleDataScopeImpl.kt:41)
+	at net.mamoe.mirai.console.internal.MiraiConsoleImplementationBridge.doStart$mirai_console(MiraiConsoleImplementationBridge.kt:164)
+	at net.mamoe.mirai.console.MiraiConsoleImplementation$Companion.start(MiraiConsoleImplementation.kt:464)
+	at net.mamoe.mirai.console.terminal.MiraiConsoleTerminalLoader.startAsDaemon(MiraiConsoleTerminalLoader.kt:168)
+	at net.mamoe.mirai.console.terminal.MiraiConsoleTerminalLoader.startAsDaemon$default(MiraiConsoleTerminalLoader.kt:167)
+	at net.mamoe.mirai.console.terminal.MiraiConsoleTerminalLoader.main(MiraiConsoleTerminalLoader.kt:52)
+	at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:104)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:577)
+	at org.itxtech.mcl.Utility.bootJars(Utility.java:89)
+	at org.itxtech.mcl.Utility.bootJars(Utility.java:79)
+	at org.itxtech.mcl.Utility.bootMirai(Utility.java:101)
+	at org.itxtech.mcl.module.builtin.Boot.boot(Boot.java:109)
+	at org.itxtech.mcl.module.ModuleManager.phaseBoot(ModuleManager.java:148)
+	at org.itxtech.mcl.Loader.lambda$start$4(Loader.java:189)
+	at org.itxtech.mcl.Loader.tryCatching(Loader.java:146)
+	at org.itxtech.mcl.Loader.start(Loader.java:189)
+	at org.itxtech.mcl.Loader.main(Loader.java:79)
+Caused by: net.mamoe.yamlkt.YamlDecodingException: Top-level decoder: deserializing nested class for '0' in 'kotlin.collections.ArrayList'
+...密码内容, PLAIN 时为密码文本, MD5 时为 16 进制
+                                  ^ at line 7, column 41
+
+	at net.mamoe.yamlkt.internal.YamlUtils__ContextualExceptionKt.contextualDecodingException(ContextualException.kt:154)
+	at net.mamoe.yamlkt.internal.YamlUtils.contextualDecodingException(Unknown Source)
+	at net.mamoe.yamlkt.internal.YamlDecoder$AbstractDecoder.decodeSerializableElement(YamlDecoder.kt:181)
+	at kotlinx.serialization.encoding.CompositeDecoder$DefaultImpls.decodeSerializableElement$default(Decoding.kt:535)
+	at kotlinx.serialization.internal.ListLikeSerializer.readElement(CollectionSerializers.kt:80)
+	at kotlinx.serialization.internal.AbstractCollectionSerializer.readElement$default(CollectionSerializers.kt:51)
+	at kotlinx.serialization.internal.AbstractCollectionSerializer.merge(CollectionSerializers.kt:36)
+	at kotlinx.serialization.internal.AbstractCollectionSerializer.deserialize(CollectionSerializers.kt:43)
+	at net.mamoe.mirai.console.data.SerializableValue$Companion$serializableValueWith$$inlined$map$1.deserialize(serializerHelper.kt:170)
+	at net.mamoe.yamlkt.internal.YamlDecoder$AbstractDecoder.decodeSerializableElement(YamlDecoder.kt:179)
+	... 22 more
+Caused by: net.mamoe.yamlkt.YamlDecodingException: Top-level decoder: deserializing nested class for 'password' in 'net.mamoe.mirai.console.internal.data.builtins.AutoLoginConfig.Account'
+      kind: PLAIN
+                ^ at line 6, column 18
+
+	at net.mamoe.yamlkt.internal.YamlUtils__ContextualExceptionKt.contextualDecodingException(ContextualException.kt:154)
+	at net.mamoe.yamlkt.internal.YamlUtils.contextualDecodingException(Unknown Source)
+	at net.mamoe.yamlkt.internal.YamlDecoder$AbstractDecoder.decodeSerializableElement(YamlDecoder.kt:181)
+	at net.mamoe.mirai.console.internal.data.builtins.AutoLoginConfig$Account$$serializer.deserialize(AutoLoginConfig.kt:31)
+	at net.mamoe.mirai.console.internal.data.builtins.AutoLoginConfig$Account$$serializer.deserialize(AutoLoginConfig.kt:31)
+	at net.mamoe.yamlkt.internal.YamlDecoder$AbstractDecoder.decodeSerializableElement(YamlDecoder.kt:179)
+	... 29 more
+Caused by: net.mamoe.yamlkt.YamlDecodingException: There must be a COLON between class key and value but found STRING for 'net.mamoe.mirai.console.internal.data.builtins.AutoLoginConfig.Account.Password'
+      kind: PLAIN
+          ^ at line 6, column 12
+
+	at net.mamoe.yamlkt.internal.YamlUtils__ContextualExceptionKt.contextualDecodingException(ContextualException.kt:154)
+	at net.mamoe.yamlkt.internal.YamlUtils.contextualDecodingException(Unknown Source)
+	at net.mamoe.yamlkt.internal.YamlUtils__ContextualExceptionKt.contextualDecodingException$default(ContextualException.kt:128)
+	at net.mamoe.yamlkt.internal.YamlUtils.contextualDecodingException$default(Unknown Source)
+	at net.mamoe.yamlkt.internal.YamlDecoder$BlockClassDecoder.decodeElementIndex(YamlDecoder.kt:294)
+	at net.mamoe.mirai.console.internal.data.builtins.AutoLoginConfig$Account$Password$$serializer.deserialize(AutoLoginConfig.kt:47)
+	at net.mamoe.mirai.console.internal.data.builtins.AutoLoginConfig$Account$Password$$serializer.deserialize(AutoLoginConfig.kt:47)
+	at net.mamoe.yamlkt.internal.YamlDecoder$AbstractDecoder.decodeSerializableElement(YamlDecoder.kt:179)
+	... 32 more
+[0m[m

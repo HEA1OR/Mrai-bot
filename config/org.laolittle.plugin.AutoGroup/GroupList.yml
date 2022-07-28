@@ -1,0 +1,7 @@
+# 启用白名单/黑名单
+# 请输入BlackList/WhiteList
+type: BlackList
+# 群聊名单
+groupList: 
+  - 123456
+  - 756092113

@@ -1,0 +1,72 @@
+[92m2022-07-24 19:22:26 I/main: Starting mirai-console...[0m[m
+[92m2022-07-24 19:22:26 I/main: Backend: version 2.12.0, built on 2022-07-03 10:57:58.[0m[m
+[92m2022-07-24 19:22:26 I/main: Frontend Terminal: version 2.12.0, provided by Mamoe Technologies[0m[m
+[92m2022-07-24 19:22:26 I/main: Welcome to visit https://mirai.mamoe.net/[0m[m
+[91m2022-07-24 19:22:26 W/stderr: SLF4J: Failed to load class "org.slf4j.impl.StaticLoggerBinder".[0m[m
+[91m2022-07-24 19:22:26 W/stderr: SLF4J: Defaulting to no-operation (NOP) logger implementation[0m[m
+[91m2022-07-24 19:22:26 W/stderr: SLF4J: See http://www.slf4j.org/codes.html#StaticLoggerBinder for further details.[0m[m
+[92m2022-07-24 19:22:26 I/plugin: Successfully loaded plugin AutoGroup v2.0.3[0m[m
+[92m2022-07-24 19:22:26 I/plugin: Successfully loaded plugin Chat Command v0.5.0[0m[m
+[92m2022-07-24 19:22:26 I/plugin: Successfully loaded plugin net.mamoe.mirai-api-http v2.5.2[0m[m
+[92m2022-07-24 19:22:26 I/plugin: Successfully loaded plugin SteamHelper v1.0.10[0m[m
+[92m2022-07-24 19:22:26 I/plugin: Successfully loaded plugin Setu v3.6.3[0m[m
+[92m2022-07-24 19:22:26 I/plugin: Successfully loaded plugin MCL Addon v2.0.2[0m[m
+[92m2022-07-24 19:22:26 I/main: Prepared built-in commands: autoLogin, help, login, logout, permission, status, stop[0m[m
+[92m2022-07-24 19:22:26 I/AutoGroup: 开始折磨群友[0m[m
+[91m2022-07-24 19:22:26 W/net.mamoe.mirai-api-http: USING INITIAL KEY, please edit the key[0m[m
+[92m2022-07-24 19:22:26 I/Mirai HTTP API: ********************************************************[0m[m
+[91m2022-07-24 19:22:26 W/stderr: SLF4J: Failed to load class "org.slf4j.impl.StaticLoggerBinder".[0m[m
+[91m2022-07-24 19:22:26 W/stderr: SLF4J: Defaulting to no-operation (NOP) logger implementation[0m[m
+[91m2022-07-24 19:22:26 W/stderr: SLF4J: See http://www.slf4j.org/codes.html#StaticLoggerBinder for further details.[0m[m
+[92m2022-07-24 19:22:27 I/http adapter: >>> [http adapter] is listening at http://localhost:8080[0m[m
+[92m2022-07-24 19:22:27 I/Mirai HTTP API: Http api server is running with verifyKey: INITKEYPqcMkD3J[0m[m
+[92m2022-07-24 19:22:27 I/Mirai HTTP API: adaptors: [http][0m[m
+[92m2022-07-24 19:22:27 I/Mirai HTTP API: ********************************************************[0m[m
+[92m2022-07-24 19:22:27 I/Setu: Setu >> Enable.[0m[m
+[92m2022-07-24 19:22:27 I/Setu: Start Init...[0m[m
+[92m2022-07-24 19:22:27 I/Setu: [FileSystem] Init FileSystem.[0m[m
+[92m2022-07-24 19:22:27 I/Setu: [FileSystem] Init All Configs...[0m[m
+[92m2022-07-24 19:22:27 I/Setu: [FileSystem] Init >> ApplicationConfig.json[0m[m
+[92m2022-07-24 19:22:27 I/Setu: [FileSystem] Load Local File to Memory >> ApplicationConfig.json[0m[m
+[92m2022-07-24 19:22:27 I/Setu: [CommandSystem] Init CommandSystem.[0m[m
+[92m2022-07-24 19:22:27 I/Setu: End Init...[0m[m
+[91m2022-07-24 19:22:27 W/stderr: SLF4J: Failed to load class "org.slf4j.impl.StaticLoggerBinder".[0m[m
+[91m2022-07-24 19:22:27 W/stderr: SLF4J: Defaulting to no-operation (NOP) logger implementation[0m[m
+[91m2022-07-24 19:22:27 W/stderr: SLF4J: See http://www.slf4j.org/codes.html#StaticLoggerBinder for further details.[0m[m
+[92m2022-07-24 19:22:27 I/MCL Addon: iTXTech MCL Version: 2.1.0-71ec418[0m[m
+[91m2022-07-24 19:22:27 W/MCL Addon: iTXTech Soyuz 未安装，Soyuz MCL Handler 特性已禁用[0m[m
+[92m2022-07-24 19:22:27 I/SteamHelper: SteamHelper已就绪，数据刷新命令已经发出，会延迟于插件启动，请稍后[0m[m
+[92m2022-07-24 19:22:27 I/main: 6 plugin(s) enabled.[0m[m
+[92m2022-07-24 19:22:27 I/WindowHelperJvm: Mirai 正在使用桌面环境. 如遇到验证码将会弹出对话框. 可添加 JVM 属性 `mirai.no-desktop` 以关闭.[0m[m
+[92m2022-07-24 19:22:27 I/WindowHelperJvm: Mirai is using desktop. Captcha will be thrown by window popup. You can add `mirai.no-desktop` to JVM properties (-Dmirai.no-desktop) to disable it.[0m[m
+[92m2022-07-24 19:22:27 I/main: Auto-login 2785766889[0m[m
+[91m2022-07-24 19:22:27 W/stderr: ERROR StatusLogger Log4j2 could not find a logging implementation. Please add log4j-core to the classpath. Using SimpleLogger to log to the console...[0m[m
+[92m2022-07-24 19:22:27 I/SteamHelper: Steam周榜刷新失败：未知错误：java.net.SocketException: Unexpected end of file from server|java.net.SocketException: Unexpected end of file from server[0m[m
+[92m2022-07-24 19:22:27 I/Bot.2785766889: Loaded account secrets from local cache.[0m[m
+[92m2022-07-24 19:22:27 I/Bot.2785766889: Saved account secrets to local cache for fast login.[0m[m
+[92m2022-07-24 19:22:28 I/Bot.2785766889: Login successful.[0m[m
+[0m2022-07-24 19:22:28 V/Bot.2785766889: Event: BotOnlineEvent(bot=Bot(2785766889))[0m[m
+[92m2022-07-24 19:22:28 I/AutoGroup: 开戳[0m[m
+[92m2022-07-24 19:22:28 I/Bot.2785766889: Bot login successful.[0m[m
+[92m2022-07-24 19:22:28 I/main: mirai-console started successfully.[0m[m
+[92m2022-07-24 19:22:30 I/SteamHelper: 信息刷新线程执行完毕[0m[m
+[0m2022-07-24 19:26:02 V/Bot.2785766889: [BOT(756092113)] XWJ(2604317843) -> 。[0m[m
+[0m2022-07-24 19:26:11 V/Bot.2785766889: [BOT(756092113)] XWJ(2604317843) -> /sh stat[0m[m
+[0m2022-07-24 19:26:12 V/Bot.2785766889: Group(756092113) <- Steam 商店状态 : 正常 | Steam 社区状态 : 正常[0m[m
+[0m2022-07-24 19:26:21 V/Bot.2785766889: [BOT(756092113)] XWJ(2604317843) -> /sh reload[0m[m
+[92m2022-07-24 19:26:21 I/SteamHelper: Steam周榜刷新失败：未知错误：java.net.SocketException: Unexpected end of file from server|java.net.SocketException: Unexpected end of file from server[0m[m
+[0m2022-07-24 19:26:21 V/Bot.2785766889: Group(756092113) <- 插件重载完成，数据刷新命令已发出[0m[m
+[92m2022-07-24 19:26:22 I/SteamHelper: 信息刷新线程执行完毕[0m[m
+[0m2022-07-24 19:26:43 V/Bot.2785766889: [BOT(756092113)] XWJ(2604317843) -> /sh sr air[0m[m
+[92m2022-07-24 19:26:43 I/SteamHelper: SteamHelper在搜索的时候得到了一个错误：未知错误：java.net.SocketException: Unexpected end of file from server
+java.net.SocketException: Unexpected end of file from server
+java.net.SocketException: Unexpected end of file from server
+|java.net.SocketException: Unexpected end of file from server
+java.net.SocketException: Unexpected end of file from server
+java.net.SocketException: Unexpected end of file from server
+[0m[m
+[0m2022-07-24 19:26:44 V/Bot.2785766889: Group(756092113) <- 搜索发生错误，如长期出现此信息请检查日志和机器人网络状况[0m[m
+[0m2022-07-24 19:27:02 V/Bot.2785766889: [BOT(756092113)] XWJ(2604317843) -> 点歌 孤勇者[0m[m
+[0m2022-07-24 19:27:37 V/Bot.2785766889: [BOT(756092113)] XWJ(2604317843) -> 唱歌 孤勇者[0m[m
+[0m2022-07-24 19:27:48 V/Bot.2785766889: [都参加七日了(1121965245)] 尊重女性的小葛(1304745336) -> [糗大了][0m[m
+[0m2022-07-24 19:27:54 V/Bot.2785766889: [都参加七日了(1121965245)] 尊重女性的小葛(1304745336) -> 你真是个小人[0m[m

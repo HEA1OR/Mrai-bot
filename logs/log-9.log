@@ -1,0 +1,128 @@
+[92m2022-07-24 18:42:07 I/main: Starting mirai-console...[0m[m
+[92m2022-07-24 18:42:07 I/main: Backend: version 2.12.0, built on 2022-07-03 10:57:58.[0m[m
+[92m2022-07-24 18:42:07 I/main: Frontend Terminal: version 2.12.0, provided by Mamoe Technologies[0m[m
+[92m2022-07-24 18:42:07 I/main: Welcome to visit https://mirai.mamoe.net/[0m[m
+[91m2022-07-24 18:42:08 W/stderr: SLF4J: Failed to load class "org.slf4j.impl.StaticLoggerBinder".[0m[m
+[91m2022-07-24 18:42:08 W/stderr: SLF4J: Defaulting to no-operation (NOP) logger implementation[0m[m
+[91m2022-07-24 18:42:08 W/stderr: SLF4J: See http://www.slf4j.org/codes.html#StaticLoggerBinder for further details.[0m[m
+[92m2022-07-24 18:42:17 I/plugin: Successfully loaded plugin AutoGroup v2.0.3[0m[m
+[92m2022-07-24 18:42:17 I/plugin: Successfully loaded plugin Chat Command v0.5.0[0m[m
+[92m2022-07-24 18:42:17 I/plugin: Successfully loaded plugin net.mamoe.mirai-api-http v2.5.2[0m[m
+[92m2022-07-24 18:42:17 I/plugin: Successfully loaded plugin SteamHelper v1.0.10[0m[m
+[92m2022-07-24 18:42:17 I/plugin: Successfully loaded plugin Setu v3.6.3[0m[m
+[92m2022-07-24 18:42:17 I/plugin: Successfully loaded plugin MCL Addon v2.0.2[0m[m
+[92m2022-07-24 18:42:17 I/main: Prepared built-in commands: autoLogin, help, login, logout, permission, status, stop[0m[m
+[92m2022-07-24 18:42:17 I/AutoGroup: 开始折磨群友[0m[m
+[91m2022-07-24 18:42:17 W/net.mamoe.mirai-api-http: USING INITIAL KEY, please edit the key[0m[m
+[92m2022-07-24 18:42:17 I/Mirai HTTP API: ********************************************************[0m[m
+[91m2022-07-24 18:42:17 W/stderr: SLF4J: Failed to load class "org.slf4j.impl.StaticLoggerBinder".[0m[m
+[91m2022-07-24 18:42:17 W/stderr: SLF4J: Defaulting to no-operation (NOP) logger implementation[0m[m
+[91m2022-07-24 18:42:17 W/stderr: SLF4J: See http://www.slf4j.org/codes.html#StaticLoggerBinder for further details.[0m[m
+[92m2022-07-24 18:42:17 I/http adapter: >>> [http adapter] is listening at http://localhost:8080[0m[m
+[92m2022-07-24 18:42:17 I/Mirai HTTP API: Http api server is running with verifyKey: INITKEYPqcMkD3J[0m[m
+[92m2022-07-24 18:42:17 I/Mirai HTTP API: adaptors: [http][0m[m
+[92m2022-07-24 18:42:17 I/Mirai HTTP API: ********************************************************[0m[m
+[92m2022-07-24 18:42:17 I/Setu: Setu >> Enable.[0m[m
+[92m2022-07-24 18:42:17 I/Setu: Start Init...[0m[m
+[92m2022-07-24 18:42:17 I/Setu: [FileSystem] Init FileSystem.[0m[m
+[92m2022-07-24 18:42:17 I/Setu: [FileSystem] Init All Configs...[0m[m
+[92m2022-07-24 18:42:17 I/Setu: [FileSystem] Init >> ApplicationConfig.json[0m[m
+[92m2022-07-24 18:42:17 I/Setu: [FileSystem] Load Local File to Memory >> ApplicationConfig.json[0m[m
+[92m2022-07-24 18:42:17 I/Setu: [CommandSystem] Init CommandSystem.[0m[m
+[92m2022-07-24 18:42:17 I/Setu: End Init...[0m[m
+[91m2022-07-24 18:42:17 W/stderr: SLF4J: Failed to load class "org.slf4j.impl.StaticLoggerBinder".[0m[m
+[91m2022-07-24 18:42:17 W/stderr: SLF4J: Defaulting to no-operation (NOP) logger implementation[0m[m
+[91m2022-07-24 18:42:17 W/stderr: SLF4J: See http://www.slf4j.org/codes.html#StaticLoggerBinder for further details.[0m[m
+[92m2022-07-24 18:42:17 I/MCL Addon: iTXTech MCL Version: 2.1.0-71ec418[0m[m
+[91m2022-07-24 18:42:17 W/MCL Addon: iTXTech Soyuz 未安装，Soyuz MCL Handler 特性已禁用[0m[m
+[92m2022-07-24 18:42:17 I/main: 6 plugin(s) enabled.[0m[m
+[92m2022-07-24 18:42:17 I/SteamHelper: SteamHelper已就绪，数据刷新命令已经发出，会延迟于插件启动，请稍后[0m[m
+[92m2022-07-24 18:42:17 I/WindowHelperJvm: Mirai 正在使用桌面环境. 如遇到验证码将会弹出对话框. 可添加 JVM 属性 `mirai.no-desktop` 以关闭.[0m[m
+[92m2022-07-24 18:42:17 I/WindowHelperJvm: Mirai is using desktop. Captcha will be thrown by window popup. You can add `mirai.no-desktop` to JVM properties (-Dmirai.no-desktop) to disable it.[0m[m
+[92m2022-07-24 18:42:17 I/main: Auto-login 2785766889[0m[m
+[91m2022-07-24 18:42:17 W/stderr: ERROR StatusLogger Log4j2 could not find a logging implementation. Please add log4j-core to the classpath. Using SimpleLogger to log to the console...[0m[m
+[92m2022-07-24 18:42:18 I/SteamHelper: Steam周榜刷新失败：未知错误：java.net.SocketException: Unexpected end of file from server|java.net.SocketException: Unexpected end of file from server[0m[m
+[92m2022-07-24 18:42:18 I/Bot.2785766889: Loaded account secrets from local cache.[0m[m
+[92m2022-07-24 18:42:18 I/Bot.2785766889: Saved account secrets to local cache for fast login.[0m[m
+[92m2022-07-24 18:42:18 I/Bot.2785766889: Login successful.[0m[m
+[0m2022-07-24 18:42:19 V/Bot.2785766889: Event: BotOnlineEvent(bot=Bot(2785766889))[0m[m
+[92m2022-07-24 18:42:19 I/AutoGroup: 开戳[0m[m
+[92m2022-07-24 18:42:19 I/Bot.2785766889: Bot login successful.[0m[m
+[92m2022-07-24 18:42:19 I/main: mirai-console started successfully.[0m[m
+[92m2022-07-24 18:42:19 I/SteamHelper: 信息刷新线程执行完毕[0m[m
+[0m2022-07-24 18:42:23 V/Bot.2785766889: [都参加七日了(1121965245)] 尊重女性的小葛(1304745336) -> 好潮的手机壳[0m[m
+[0m2022-07-24 18:42:24 V/Bot.2785766889: [都参加七日了(1121965245)][SYNC] <- 美美美[0m[m
+[0m2022-07-24 18:42:38 V/Bot.2785766889: [都参加七日了(1121965245)] 尊重女性的小葛(1304745336) -> 好智能的机器人[0m[m
+[0m2022-07-24 18:43:23 V/Bot.2785766889: [都参加七日了(1121965245)] 俊鸣王女(846131129) -> [mirai:marketface:209590,[黑线]][0m[m
+[0m2022-07-24 18:44:29 V/Bot.2785766889: Event: NudgeEvent(from=NormalMember(2604317843), target=Bot(2785766889), subject=Group(1121965245), action=戳了戳, suffix=)[0m[m
+[0m2022-07-24 18:44:29 V/Bot.2785766889: Group(1121965245) <- 请不要戳我~>_<~[0m[m
+[0m2022-07-24 18:45:13 V/Bot.2785766889: [都参加七日了(1121965245)] 尊重女性的小葛(1304745336) -> [mirai:app:{"app":"com.tencent.structmsg","config":{"ctime":1658659518,"forward":true,"token":"ad4b6c55f0241be08fa576a8494582b1","type":"normal"},"desc":"新闻","extra":{"app_type":1,"appid":100497308,"msg_seq":7123888382151112198,"uin":1304745336},"meta":{"news":{"action":"","android_pkg_name":"","app_type":1,"appid":100497308,"ctime":1658659518,"desc":"邓丽君","jumpUrl":"https://i.y.qq.com/v8/playsong.html?platform=11&appshare=android_qq&appversion=11080009&hosteuin=oKoz7eSP7Koi7c**&songmid=000KNcxx3nfhSu&type=0&appsongtype=1&_wv=1&source=qq&ADTAG=qfshare","preview":"https://pic.ugcimg.cn/9cdfe96e85066bc8a739b5df4cb05cee/jpg1","source_icon":"https://p.qpic.cn/qqconnect/0/app_100497308_1626060999/100?max-age=2592000&t=0","source_url":"","tag":"QQ音乐","title":"夜来香","uin":1304745336}},"prompt":"[分享]夜来香","ver":"0.0.0.1","view":"news"}][0m[m
+[0m2022-07-24 18:45:23 V/Bot.2785766889: [都参加七日了(1121965245)] Q群管家(2604317843) -> sh week[0m[m
+[0m2022-07-24 18:45:46 V/Bot.2785766889: [都参加七日了(1121965245)] Q群管家(2604317843) -> /sh week[0m[m
+[0m2022-07-24 18:47:15 V/Bot.2785766889: [都参加七日了(1121965245)] 尊重女性的小葛(1304745336) -> 我去 群里的机器人是我同学[捂脸][0m[m
+[0m2022-07-24 18:47:28 V/Bot.2785766889: [都参加七日了(1121965245)] 俊鸣王女(846131129) -> [mirai:marketface:209590,[阴险]][0m[m
+[0m2022-07-24 18:47:48 V/Bot.2785766889: [都参加七日了(1121965245)] 俊鸣王女(846131129) -> 放屁[0m[m
+[0m2022-07-24 18:47:53 V/Bot.2785766889: [都参加七日了(1121965245)] 俊鸣王女(846131129) -> 这是丁真[0m[m
+[0m2022-07-24 18:49:39 V/Bot.2785766889: [都参加七日了(1121965245)] 尊重女性的小葛(1304745336) -> 我去 你们说的那个理塘丁真是我同学[捂脸][0m[m
+[0m2022-07-24 18:49:45 V/Bot.2785766889: [都参加七日了(1121965245)] Q群管家(2604317843) -> [捂脸][0m[m
+[0m2022-07-24 18:49:54 V/Bot.2785766889: [BOT(756092113)] XWJ(2604317843) -> /sh week[0m[m
+[0m2022-07-24 18:49:55 V/Bot.2785766889: Group(756092113) <- 周榜信息暂未初始化请稍后，如长期出现此信息请检查日志和机器人网络状况[0m[m
+[0m2022-07-24 18:50:18 V/Bot.2785766889: [BOT(756092113)] XWJ(2604317843) -> sh sale[0m[m
+[0m2022-07-24 18:50:25 V/Bot.2785766889: [BOT(756092113)] XWJ(2604317843) -> /sh sale[0m[m
+[0m2022-07-24 18:50:25 V/Bot.2785766889: Group(756092113) <- 离「Steam VR 游戏节」还有 : 正在进行中预计结束1天6时9分34秒[0m[m
+[0m2022-07-24 18:50:57 V/Bot.2785766889: [BOT(756092113)] XWJ(2604317843) -> /sh push[0m[m
+[0m2022-07-24 18:50:57 V/Bot.2785766889: Group(756092113) <- 查询您的推送状态……[0m[m
+[0m2022-07-24 18:50:58 V/Bot.2785766889: Group(756092113) <- 您的Steam周榜推送已开启[0m[m
+[0m2022-07-24 18:51:38 V/Bot.2785766889: [BOT(756092113)] XWJ(2604317843) -> /sh week[0m[m
+[0m2022-07-24 18:51:38 V/Bot.2785766889: Group(756092113) <- 周榜信息暂未初始化请稍后，如长期出现此信息请检查日志和机器人网络状况[0m[m
+[0m2022-07-24 18:51:59 V/Bot.2785766889: [BOT(756092113)] XWJ(2604317843) -> /sh reload[0m[m
+[92m2022-07-24 18:51:59 I/SteamHelper: Steam周榜刷新失败：未知错误：java.net.SocketException: Unexpected end of file from server|java.net.SocketException: Unexpected end of file from server[0m[m
+[0m2022-07-24 18:52:00 V/Bot.2785766889: Group(756092113) <- 插件重载完成，数据刷新命令已发出[0m[m
+[92m2022-07-24 18:52:00 I/SteamHelper: 信息刷新线程执行完毕[0m[m
+[0m2022-07-24 18:52:08 V/Bot.2785766889: [BOT(756092113)] XWJ(2604317843) -> /sh week[0m[m
+[0m2022-07-24 18:52:08 V/Bot.2785766889: Group(756092113) <- 周榜信息暂未初始化请稍后，如长期出现此信息请检查日志和机器人网络状况[0m[m
+[0m2022-07-24 18:52:37 V/Bot.2785766889: [BOT(756092113)] XWJ(2604317843) -> /sh reload[0m[m
+[92m2022-07-24 18:52:37 I/SteamHelper: Steam周榜刷新失败：未知错误：java.net.SocketException: Unexpected end of file from server|java.net.SocketException: Unexpected end of file from server[0m[m
+[0m2022-07-24 18:52:37 V/Bot.2785766889: Group(756092113) <- 插件重载完成，数据刷新命令已发出[0m[m
+[92m2022-07-24 18:52:38 I/SteamHelper: 信息刷新线程执行完毕[0m[m
+[0m2022-07-24 18:52:54 V/Bot.2785766889: [BOT(756092113)] XWJ(2604317843) -> /sh stat[0m[m
+[0m2022-07-24 18:52:54 V/Bot.2785766889: Group(756092113) <- Steam 商店状态 : 正常 | Steam 社区状态 : 正常[0m[m
+[0m2022-07-24 18:52:54 V/Bot.2785766889: [都参加七日了(1121965245)] 尊重女性的小葛(1304745336) -> [mirai:app:{"app":"com.tencent.structmsg","config":{"ctime":1658659979,"forward":true,"token":"b62fbb7aa5f9d491760e7a7d12caf0f5","type":"normal"},"desc":"新闻","extra":{"app_type":1,"appid":100497308,"msg_seq":7123890360947881937,"uin":1304745336},"meta":{"news":{"action":"","android_pkg_name":"","app_type":1,"appid":100497308,"ctime":1658659979,"desc":"陶喆","jumpUrl":"https://i.y.qq.com/v8/playsong.html?platform=11&appshare=android_qq&appversion=11080009&hosteuin=oKoz7eSP7Koi7c**&songmid=001yZ7Tf0kudte&type=0&appsongtype=1&_wv=1&source=qq&ADTAG=qfshare","preview":"https://pic.ugcimg.cn/5f790f59f982af18079397b11c3e6f4e/jpg1","source_icon":"https://p.qpic.cn/qqconnect/0/app_100497308_1626060999/100?max-age=2592000&t=0","source_url":"","tag":"QQ音乐","title":"爱，很简单（《单身男女》电影插曲|《单身男女2》主题曲）","uin":1304745336}},"prompt":"[分享]爱，很简单（《单身男女》电影插曲|《单身男女2》主题曲）","ver":"0.0.0.1","view":"news"}][0m[m
+[0m2022-07-24 18:53:03 V/Bot.2785766889: [都参加七日了(1121965245)] 尊重女性的小葛(1304745336) -> 陶喆确实比杰伦中[0m[m
+[0m2022-07-24 18:53:42 V/Bot.2785766889: [BOT(756092113)] XWJ(2604317843) -> /sh epic[0m[m
+[0m2022-07-24 18:53:42 V/Bot.2785766889: Group(756092113) <- Epic本周免费游戏：\n《Tannenberg》[开始于：2022-07-21 23:00:00 星期四]\n传奇商店[开始于：2022-07-21 23:00:00 星期四]\n\n未来免费游戏：\n????? / Lawn Mowing Simulator[开始于：2022-07-28 23:00:00 星期四]\n[0m[m
+[0m2022-07-24 18:53:59 V/Bot.2785766889: [都参加七日了(1121965245)] Q群管家(2604317843) -> /sh epic[0m[m
+[0m2022-07-24 18:53:59 V/Bot.2785766889: Group(1121965245) <- Epic本周免费游戏：\n《Tannenberg》[开始于：2022-07-21 23:00:00 星期四]\n传奇商店[开始于：2022-07-21 23:00:00 星期四]\n\n未来免费游戏：\n????? / Lawn Mowing Simulator[开始于：2022-07-28 23:00:00 星期四]\n[0m[m
+[0m2022-07-24 18:54:11 V/Bot.2785766889: [都参加七日了(1121965245)] Q群管家(2604317843) -> [mirai:quote:[mirai:source:ids=[177676], internalIds=[870796499], from 1304745336 to 1121965245 at 1658659988], content=<not yet initialized>][mirai:at:1304745336] 黑色柳丁听过吗[0m[m
+[0m2022-07-24 18:54:22 V/Bot.2785766889: [都参加七日了(1121965245)] 尊重女性的小葛(1304745336) -> 嗯[0m[m
+[0m2022-07-24 18:55:08 V/Bot.2785766889: [1B429(1040698508)] 1b429辅导员(2604317843) -> /sh sale[0m[m
+[0m2022-07-24 18:55:08 V/Bot.2785766889: Group(1040698508) <- 离「Steam VR 游戏节」还有 : 正在进行中预计结束1天6时4分51秒[0m[m
+[0m2022-07-24 18:55:09 V/Bot.2785766889: [都参加七日了(1121965245)] 尊重女性的小葛(1304745336) -> 苏三说最好听[0m[m
+[0m2022-07-24 18:55:37 V/Bot.2785766889: [都参加七日了(1121965245)] 尊重女性的小葛(1304745336) -> 我记得韩寒有部小说有个苏三[0m[m
+[0m2022-07-24 18:55:44 V/Bot.2785766889: [都参加七日了(1121965245)] 尊重女性的小葛(1304745336) -> Susan[0m[m
+[0m2022-07-24 18:55:52 V/Bot.2785766889: [1B429(1040698508)] 1b429辅导员(2604317843) -> /sh epic[0m[m
+[0m2022-07-24 18:55:53 V/Bot.2785766889: Group(1040698508) <- Epic本周免费游戏：\n《Tannenberg》[开始于：2022-07-21 23:00:00 星期四]\n传奇商店[开始于：2022-07-21 23:00:00 星期四]\n\n未来免费游戏：\n????? / Lawn Mowing Simulator[开始于：2022-07-28 23:00:00 星期四]\n[0m[m
+[0m2022-07-24 18:56:10 V/Bot.2785766889: [BOT(756092113)] XWJ(2604317843) -> /sh sr CSGO[0m[m
+[92m2022-07-24 18:56:10 I/SteamHelper: SteamHelper在搜索的时候得到了一个错误：未知错误：java.net.SocketException: Unexpected end of file from server
+java.net.SocketException: Unexpected end of file from server
+java.net.SocketException: Unexpected end of file from server
+|java.net.SocketException: Unexpected end of file from server
+java.net.SocketException: Unexpected end of file from server
+java.net.SocketException: Unexpected end of file from server
+[0m[m
+[0m2022-07-24 18:56:10 V/Bot.2785766889: Group(756092113) <- 搜索发生错误，如长期出现此信息请检查日志和机器人网络状况[0m[m
+[0m2022-07-24 18:56:35 V/Bot.2785766889: [BOT(756092113)] XWJ(2604317843) -> /sh sr ploy bridge[0m[m
+[92m2022-07-24 18:56:35 I/SteamHelper: SteamHelper在搜索的时候得到了一个错误：未知错误：java.net.SocketException: Unexpected end of file from server
+java.net.SocketException: Unexpected end of file from server
+java.net.SocketException: Unexpected end of file from server
+|java.net.SocketException: Unexpected end of file from server
+java.net.SocketException: Unexpected end of file from server
+java.net.SocketException: Unexpected end of file from server
+[0m[m
+[0m2022-07-24 18:56:36 V/Bot.2785766889: Group(756092113) <- 搜索发生错误，如长期出现此信息请检查日志和机器人网络状况[0m[m
+[92m2022-07-24 19:00:00 I/SteamHelper: Steam周榜刷新失败：未知错误：java.net.SocketException: Unexpected end of file from server|java.net.SocketException: Unexpected end of file from server[0m[m
+[92m2022-07-24 19:00:00 I/SteamHelper: 信息刷新线程执行完毕[0m[m
+[0m2022-07-24 19:07:29 V/Bot.2785766889: [1B429(1040698508)] 1b429宿霸(1005315843) -> [mirai:image:{FBD5CB8B-98B0-CDC8-E288-37132801E050}.jpg, width=125, height=71, size=2319, type=JPG, isEmoji=true][0m[m
+[0m2022-07-24 19:15:21 V/Bot.2785766889: [都参加七日了(1121965245)] 俊鸣王女(846131129) -> 、[0m[m
+[0m2022-07-24 19:15:30 V/Bot.2785766889: [都参加七日了(1121965245)] 俊鸣王女(846131129) -> 这机器人是xwj儿子吗[0m[m
+[0m2022-07-24 19:15:35 V/Bot.2785766889: [都参加七日了(1121965245)] 俊鸣王女(846131129) -> [mirai:marketface:209590,[阴险]][0m[m

@@ -1,0 +1,29 @@
+[92m2022-07-23 23:23:03 I/main: Starting mirai-console...[0m[m
+[92m2022-07-23 23:23:03 I/main: Backend: version 2.12.0, built on 2022-07-03 10:57:58.[0m[m
+[92m2022-07-23 23:23:03 I/main: Frontend Terminal: version 2.12.0, provided by Mamoe Technologies[0m[m
+[92m2022-07-23 23:23:03 I/main: Welcome to visit https://mirai.mamoe.net/[0m[m
+[91m2022-07-23 23:23:04 W/stderr: SLF4J: Failed to load class "org.slf4j.impl.StaticLoggerBinder".[0m[m
+[91m2022-07-23 23:23:04 W/stderr: SLF4J: Defaulting to no-operation (NOP) logger implementation[0m[m
+[91m2022-07-23 23:23:04 W/stderr: SLF4J: See http://www.slf4j.org/codes.html#StaticLoggerBinder for further details.[0m[m
+[92m2022-07-23 23:23:22 I/plugin: Successfully loaded plugin net.mamoe.mirai-api-http v2.5.2[0m[m
+[92m2022-07-23 23:23:22 I/plugin: Successfully loaded plugin MCL Addon v2.0.2[0m[m
+[92m2022-07-23 23:23:23 I/main: Prepared built-in commands: autoLogin, help, login, logout, permission, status, stop[0m[m
+[91m2022-07-23 23:23:23 W/net.mamoe.mirai-api-http: USING INITIAL KEY, please edit the key[0m[m
+[92m2022-07-23 23:23:23 I/Mirai HTTP API: ********************************************************[0m[m
+[91m2022-07-23 23:23:23 W/stderr: SLF4J: Failed to load class "org.slf4j.impl.StaticLoggerBinder".[0m[m
+[91m2022-07-23 23:23:23 W/stderr: SLF4J: Defaulting to no-operation (NOP) logger implementation[0m[m
+[91m2022-07-23 23:23:23 W/stderr: SLF4J: See http://www.slf4j.org/codes.html#StaticLoggerBinder for further details.[0m[m
+[92m2022-07-23 23:23:23 I/http adapter: >>> [http adapter] is listening at http://localhost:8080[0m[m
+[92m2022-07-23 23:23:23 I/Mirai HTTP API: Http api server is running with verifyKey: INITKEYPqcMkD3J[0m[m
+[92m2022-07-23 23:23:23 I/Mirai HTTP API: adaptors: [http][0m[m
+[92m2022-07-23 23:23:23 I/Mirai HTTP API: ********************************************************[0m[m
+[92m2022-07-23 23:23:23 I/MCL Addon: iTXTech MCL Version: 2.1.0-71ec418[0m[m
+[91m2022-07-23 23:23:23 W/MCL Addon: iTXTech Soyuz 未安装，Soyuz MCL Handler 特性已禁用[0m[m
+[92m2022-07-23 23:23:23 I/main: 2 plugin(s) enabled.[0m[m
+[92m2022-07-23 23:23:23 I/main: mirai-console started successfully.[0m[m
+[91m2022-07-23 23:23:23 W/console: 参数不匹配, 你是否想执行: 
+/login <qq> [password] [protocol]    (参数不足)[0m[m
+[91m2022-07-23 23:23:23 W/console: 未知指令: /2604317843, 输入 ? 获取帮助[0m[m
+[91m2022-07-23 23:23:23 W/console: 未知指令: /lo, 输入 ? 获取帮助[0m[m
+[91m2022-07-23 23:24:17 W/console: 未知指令: /, 输入 ? 获取帮助[0m[m
+[91m2022-07-23 23:26:51 W/console: 无法解析 <2785766889> 为长整数[0m[m

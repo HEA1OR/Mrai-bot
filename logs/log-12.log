@@ -1,0 +1,233 @@
+[92m2022-07-24 19:46:37 I/main: Starting mirai-console...[0m[m
+[92m2022-07-24 19:46:37 I/main: Backend: version 2.12.0, built on 2022-07-03 10:57:58.[0m[m
+[92m2022-07-24 19:46:37 I/main: Frontend Terminal: version 2.12.0, provided by Mamoe Technologies[0m[m
+[92m2022-07-24 19:46:37 I/main: Welcome to visit https://mirai.mamoe.net/[0m[m
+[91m2022-07-24 19:46:38 W/stderr: SLF4J: Failed to load class "org.slf4j.impl.StaticLoggerBinder".[0m[m
+[91m2022-07-24 19:46:38 W/stderr: SLF4J: Defaulting to no-operation (NOP) logger implementation[0m[m
+[91m2022-07-24 19:46:38 W/stderr: SLF4J: See http://www.slf4j.org/codes.html#StaticLoggerBinder for further details.[0m[m
+[92m2022-07-24 19:46:38 I/plugin: Successfully loaded plugin AutoGroup v2.0.3[0m[m
+[92m2022-07-24 19:46:38 I/plugin: Successfully loaded plugin Chat Command v0.5.0[0m[m
+[92m2022-07-24 19:46:38 I/plugin: Successfully loaded plugin net.mamoe.mirai-api-http v2.5.2[0m[m
+[92m2022-07-24 19:46:38 I/plugin: Successfully loaded plugin Plum v1.0[0m[m
+[92m2022-07-24 19:46:38 I/plugin: Successfully loaded plugin SteamHelper v1.0.10[0m[m
+[92m2022-07-24 19:46:38 I/plugin: Successfully loaded plugin Setu v3.6.3[0m[m
+[92m2022-07-24 19:46:38 I/plugin: Successfully loaded plugin MCL Addon v2.0.2[0m[m
+[92m2022-07-24 19:46:38 I/main: Prepared built-in commands: autoLogin, help, login, logout, permission, status, stop[0m[m
+[92m2022-07-24 19:46:38 I/AutoGroup: 开始折磨群友[0m[m
+[91m2022-07-24 19:46:38 W/net.mamoe.mirai-api-http: USING INITIAL KEY, please edit the key[0m[m
+[92m2022-07-24 19:46:38 I/Mirai HTTP API: ********************************************************[0m[m
+[91m2022-07-24 19:46:38 W/stderr: SLF4J: Failed to load class "org.slf4j.impl.StaticLoggerBinder".[0m[m
+[91m2022-07-24 19:46:38 W/stderr: SLF4J: Defaulting to no-operation (NOP) logger implementation[0m[m
+[91m2022-07-24 19:46:38 W/stderr: SLF4J: See http://www.slf4j.org/codes.html#StaticLoggerBinder for further details.[0m[m
+[92m2022-07-24 19:46:38 I/http adapter: >>> [http adapter] is listening at http://localhost:8080[0m[m
+[92m2022-07-24 19:46:38 I/Mirai HTTP API: Http api server is running with verifyKey: INITKEYPqcMkD3J[0m[m
+[92m2022-07-24 19:46:38 I/Mirai HTTP API: adaptors: [http][0m[m
+[92m2022-07-24 19:46:38 I/Mirai HTTP API: ********************************************************[0m[m
+[92m2022-07-24 19:46:38 I/Plum: Plum >> Enable.[0m[m
+[92m2022-07-24 19:46:38 I/Plum: Start Init...[0m[m
+[92m2022-07-24 19:46:38 I/Plum: [CommandSystem] Init CommandSystem.[0m[m
+[92m2022-07-24 19:46:38 I/Plum: [FileSystem] Init FileSystem.[0m[m
+[92m2022-07-24 19:46:38 I/Plum: [FileSystem] Init All Configs...[0m[m
+[92m2022-07-24 19:46:38 I/Plum: [FileSystem] Init >> ApplicationConfig.json[0m[m
+[92m2022-07-24 19:46:38 I/Plum: [FileSystem] Start to Write Default ConfigFile Data >> ApplicationConfig.json[0m[m
+[92m2022-07-24 19:46:38 I/Plum: [FileSystem] Use Reflect to Create the instance of Data Class >> ApplicationConfig_Data[0m[m
+[92m2022-07-24 19:46:38 I/Plum: [FileSystem] Load Local File to Memory >> ApplicationConfig.json[0m[m
+[92m2022-07-24 19:46:38 I/Plum: Init AudioUtils.[0m[m
+[92m2022-07-24 19:46:39 I/Plum: [TimerSystem] Start TimerSystem.[0m[m
+[92m2022-07-24 19:46:39 I/Plum: End Init...[0m[m
+[92m2022-07-24 19:46:39 I/Setu: Setu >> Enable.[0m[m
+[92m2022-07-24 19:46:39 I/Setu: Start Init...[0m[m
+[92m2022-07-24 19:46:39 I/Setu: [FileSystem] Init FileSystem.[0m[m
+[92m2022-07-24 19:46:39 I/Setu: [FileSystem] Init All Configs...[0m[m
+[92m2022-07-24 19:46:39 I/Setu: [FileSystem] Init >> ApplicationConfig.json[0m[m
+[92m2022-07-24 19:46:39 I/Setu: [FileSystem] Load Local File to Memory >> ApplicationConfig.json[0m[m
+[92m2022-07-24 19:46:39 I/Setu: [CommandSystem] Init CommandSystem.[0m[m
+[92m2022-07-24 19:46:39 I/Setu: End Init...[0m[m
+[91m2022-07-24 19:46:39 W/stderr: SLF4J: Failed to load class "org.slf4j.impl.StaticLoggerBinder".[0m[m
+[91m2022-07-24 19:46:39 W/stderr: SLF4J: Defaulting to no-operation (NOP) logger implementation[0m[m
+[91m2022-07-24 19:46:39 W/stderr: SLF4J: See http://www.slf4j.org/codes.html#StaticLoggerBinder for further details.[0m[m
+[92m2022-07-24 19:46:39 I/MCL Addon: iTXTech MCL Version: 2.1.0-71ec418[0m[m
+[91m2022-07-24 19:46:39 W/MCL Addon: iTXTech Soyuz 未安装，Soyuz MCL Handler 特性已禁用[0m[m
+[92m2022-07-24 19:46:39 I/SteamHelper: SteamHelper已就绪，数据刷新命令已经发出，会延迟于插件启动，请稍后[0m[m
+[92m2022-07-24 19:46:39 I/main: 7 plugin(s) enabled.[0m[m
+[92m2022-07-24 19:46:39 I/WindowHelperJvm: Mirai 正在使用桌面环境. 如遇到验证码将会弹出对话框. 可添加 JVM 属性 `mirai.no-desktop` 以关闭.[0m[m
+[92m2022-07-24 19:46:39 I/WindowHelperJvm: Mirai is using desktop. Captcha will be thrown by window popup. You can add `mirai.no-desktop` to JVM properties (-Dmirai.no-desktop) to disable it.[0m[m
+[92m2022-07-24 19:46:39 I/main: Auto-login 2785766889[0m[m
+[91m2022-07-24 19:46:39 W/stderr: ERROR StatusLogger Log4j2 could not find a logging implementation. Please add log4j-core to the classpath. Using SimpleLogger to log to the console...[0m[m
+[92m2022-07-24 19:46:39 I/SteamHelper: Steam周榜刷新失败：未知错误：java.net.SocketException: Unexpected end of file from server|java.net.SocketException: Unexpected end of file from server[0m[m
+[92m2022-07-24 19:46:39 I/Bot.2785766889: Loaded account secrets from local cache.[0m[m
+[92m2022-07-24 19:46:40 I/Bot.2785766889: Saved account secrets to local cache for fast login.[0m[m
+[92m2022-07-24 19:46:40 I/Bot.2785766889: Login successful.[0m[m
+[0m2022-07-24 19:46:40 V/Bot.2785766889: Event: BotOnlineEvent(bot=Bot(2785766889))[0m[m
+[92m2022-07-24 19:46:40 I/AutoGroup: 开戳[0m[m
+[92m2022-07-24 19:46:40 I/Bot.2785766889: Bot login successful.[0m[m
+[92m2022-07-24 19:46:40 I/main: mirai-console started successfully.[0m[m
+[92m2022-07-24 19:46:41 I/SteamHelper: 信息刷新线程执行完毕[0m[m
+[0m2022-07-24 19:47:13 V/Bot.2785766889: [BOT(756092113)] XWJ(2604317843) -> 点歌 孤勇者[0m[m
+[92m2022-07-24 19:47:13 I/Plum: [SingSong] 收到唱歌指令，开始执行核心代码[0m[m
+[92m2022-07-24 19:47:13 I/Plum: [SingSong] 用户输入的需要唱的歌曲: input_music_name = 孤勇者[0m[m
+[92m2022-07-24 19:47:13 I/Plum: [SingSong] input_music_name = 孤勇者[0m[m
+[92m2022-07-24 19:47:13 I/Plum: [SingSong] 尝试第1乐库: NeteaseMusic - API[0m[m
+[92m2022-07-24 19:47:13 I/Plum: [NeteaseMusic - API] 获取到的SongInformation: SongInformation{music_Name='孤勇者', music_ID=1901371647, music_Length=0, music_introduction='null', music_Page_URL='http://music.163.com/song/1901371647', author='null', music_File_URL='http://music.163.com/song/media/outer/url?id=1901371647.mp3', music_MID='null', img_URL='null', hash='null', sourceType='网易云音乐', summary='null'}[0m[m
+[0m2022-07-24 19:47:13 V/Bot.2785766889: Group(756092113) <- MusicShare(kind=NeteaseCloudMusic, title=孤勇者, summary=[点歌] XWJ, jumpUrl=http://music.163.com/song/1901371647, pictureUrl=http://q.qlogo.cn/g?b=qq&nk=2604317843&s=640, musicUrl=http://music.163.com/song/media/outer/url?id=1901371647.mp3, brief=[点歌] 孤勇者)[0m[m
+[0m2022-07-24 19:47:22 V/Bot.2785766889: [都参加七日了(1121965245)] Q群管家(2604317843) -> 点歌 孤勇者[0m[m
+[92m2022-07-24 19:47:22 I/Plum: [SingSong] 收到唱歌指令，开始执行核心代码[0m[m
+[92m2022-07-24 19:47:22 I/Plum: [SingSong] 用户输入的需要唱的歌曲: input_music_name = 孤勇者[0m[m
+[92m2022-07-24 19:47:22 I/Plum: [SingSong] input_music_name = 孤勇者[0m[m
+[92m2022-07-24 19:47:22 I/Plum: [SingSong] 尝试第1乐库: NeteaseMusic - API[0m[m
+[92m2022-07-24 19:47:22 I/Plum: [NeteaseMusic - API] 获取到的SongInformation: SongInformation{music_Name='孤勇者', music_ID=1901371647, music_Length=0, music_introduction='null', music_Page_URL='http://music.163.com/song/1901371647', author='null', music_File_URL='http://music.163.com/song/media/outer/url?id=1901371647.mp3', music_MID='null', img_URL='null', hash='null', sourceType='网易云音乐', summary='null'}[0m[m
+[0m2022-07-24 19:47:22 V/Bot.2785766889: Group(1121965245) <- MusicShare(kind=NeteaseCloudMusic, title=孤勇者, summary=[点歌] Q群管家, jumpUrl=http://music.163.com/song/1901371647, pictureUrl=http://q.qlogo.cn/g?b=qq&nk=2604317843&s=640, musicUrl=http://music.163.com/song/media/outer/url?id=1901371647.mp3, brief=[点歌] 孤勇者)[0m[m
+[0m2022-07-24 19:47:31 V/Bot.2785766889: [都参加七日了(1121965245)] Q群管家(2604317843) -> 点歌 七里香[0m[m
+[92m2022-07-24 19:47:31 I/Plum: [SingSong] 收到唱歌指令，开始执行核心代码[0m[m
+[92m2022-07-24 19:47:31 I/Plum: [SingSong] 用户输入的需要唱的歌曲: input_music_name = 七里香[0m[m
+[92m2022-07-24 19:47:31 I/Plum: [SingSong] input_music_name = 七里香[0m[m
+[92m2022-07-24 19:47:31 I/Plum: [SingSong] 尝试第1乐库: NeteaseMusic - API[0m[m
+[92m2022-07-24 19:47:31 I/Plum: [NeteaseMusic - API] 获取到的SongInformation: SongInformation{music_Name='七里香 (女声版)', music_ID=1938392288, music_Length=0, music_introduction='null', music_Page_URL='http://music.163.com/song/1938392288', author='null', music_File_URL='http://music.163.com/song/media/outer/url?id=1938392288.mp3', music_MID='null', img_URL='null', hash='null', sourceType='网易云音乐', summary='null'}[0m[m
+[0m2022-07-24 19:47:32 V/Bot.2785766889: Group(1121965245) <- MusicShare(kind=NeteaseCloudMusic, title=七里香 (女声版), summary=[点歌] Q群管家, jumpUrl=http://music.163.com/song/1938392288, pictureUrl=http://q.qlogo.cn/g?b=qq&nk=2604317843&s=640, musicUrl=http://music.163.com/song/media/outer/url?id=1938392288.mp3, brief=[点歌] 七里香 (女声版))[0m[m
+[0m2022-07-24 19:48:08 V/Bot.2785766889: Event: NudgeEvent(from=NormalMember(2604317843), target=Bot(2785766889), subject=Group(1121965245), action=戳了戳, suffix=)[0m[m
+[0m2022-07-24 19:48:09 V/Bot.2785766889: Group(1121965245) <- 别戳啦[0m[m
+[92m2022-07-24 19:48:09 I/Plum: [RandomImage (ThirdParty)] Currently Use Image-Site: http://api.mtyqx.cn/api/random.php[0m[m
+[0m2022-07-24 19:48:10 V/Bot.2785766889: Group(1121965245) <- [mirai:at:2604317843]\n『那天，我听到了种子破土的声音，又细微又坚定。』-「子不语」\n[mirai:image:{3272D75E-14B8-4AD7-D44C-D0911CE45D83}.jpg, width=2048, height=1451, size=530384, type=JPG, isEmoji=false][0m[m
+[0m2022-07-24 19:48:35 V/Bot.2785766889: [都参加七日了(1121965245)] Q群管家(2604317843) -> [mirai:at:2785766889] 我帅不[0m[m
+[0m2022-07-24 19:48:44 V/Bot.2785766889: Event: GroupRecall(bot=Bot(2785766889), authorId=2604317843, messageIds=[177720], messageInternalIds=[1932136242], messageTime=1658663320, operator=NormalMember(2604317843), group=Group(1121965245), author=NormalMember(2604317843))[0m[m
+[0m2022-07-24 19:48:48 V/Bot.2785766889: [都参加七日了(1121965245)] 俊鸣王女(846131129) -> ？[0m[m
+[0m2022-07-24 19:48:50 V/Bot.2785766889: [都参加七日了(1121965245)] 俊鸣王女(846131129) -> 哈哈[0m[m
+[0m2022-07-24 19:48:55 V/Bot.2785766889: [都参加七日了(1121965245)] 俊鸣王女(846131129) -> 冷场喇叭[0m[m
+[0m2022-07-24 19:48:57 V/Bot.2785766889: [都参加七日了(1121965245)] 俊鸣王女(846131129) -> [mirai:marketface:209590,[欢呼]][0m[m
+[0m2022-07-24 19:49:10 V/Bot.2785766889: [都参加七日了(1121965245)] Q群管家(2604317843) -> [mirai:at:2785766889] 你是谁[0m[m
+[0m2022-07-24 19:49:20 V/Bot.2785766889: Event: GroupRecall(bot=Bot(2785766889), authorId=2604317843, messageIds=[177725], messageInternalIds=[1661884028], messageTime=1658663355, operator=NormalMember(2604317843), group=Group(1121965245), author=NormalMember(2604317843))[0m[m
+[0m2022-07-24 19:49:53 V/Bot.2785766889: [都参加七日了(1121965245)] Q群管家(2604317843) -> 哈哈[0m[m
+[0m2022-07-24 19:50:17 V/Bot.2785766889: [BOT(756092113)] XWJ(2604317843) -> 唱歌 孤勇者[0m[m
+[92m2022-07-24 19:50:17 I/Plum: [SingSong] 收到唱歌指令，开始执行核心代码[0m[m
+[92m2022-07-24 19:50:17 I/Plum: [SingSong] 用户输入的需要唱的歌曲: input_music_name = 孤勇者[0m[m
+[92m2022-07-24 19:50:17 I/Plum: [SingSong] input_music_name = 孤勇者[0m[m
+[92m2022-07-24 19:50:17 I/Plum: [SingSong] 尝试第1乐库: NeteaseMusic - API[0m[m
+[92m2022-07-24 19:50:17 I/Plum: [NeteaseMusic - API] 获取到的SongInformation: SongInformation{music_Name='孤勇者', music_ID=1901371647, music_Length=0, music_introduction='null', music_Page_URL='http://music.163.com/song/1901371647', author='null', music_File_URL='http://music.163.com/song/media/outer/url?id=1901371647.mp3', music_MID='null', img_URL='null', hash='null', sourceType='网易云音乐', summary='null'}[0m[m
+[92m2022-07-24 19:50:17 I/Plum: [NeteaseMusic - API] 开始下载音乐文件: URL = http://music.163.com/song/media/outer/url?id=1901371647.mp3[0m[m
+[92m2022-07-24 19:50:18 I/stdout: D:\插件\mcl\plugins\Plum\voice-files\netease_cloud_music#DEFAULT_MUSIC_NAME#1901371647[0m[m
+[92m2022-07-24 19:50:18 I/Plum: [NeteaseMusic - API] 完成下载音乐文件: URL = http://music.163.com/song/media/outer/url?id=1901371647.mp3[0m[m
+[92m2022-07-24 19:50:18 I/Plum: [SendSystem] sendMusic() -> voice_file_name = netease_cloud_music#DEFAULT_MUSIC_NAME#1901371647[0m[m
+[92m2022-07-24 19:50:18 I/Plum: [SendSystem] Ready to send VoiceFile: voice_file_name = netease_cloud_music#DEFAULT_MUSIC_NAME#1901371647[0m[m
+[91m2022-07-24 19:50:18 W/stderr: Exception in thread "Thread-37" java.io.FileNotFoundException: D:\插件\mcl\plugins\Plum\voice-files\mirai_audio_silk_1658663418386.silk (系统找不到指定的文件。)[0m[m
+[91m2022-07-24 19:50:18 W/stderr: 	at java.base/java.io.RandomAccessFile.open0(Native Method)[0m[m
+[91m2022-07-24 19:50:18 W/stderr: 	at java.base/java.io.RandomAccessFile.open(RandomAccessFile.java:344)[0m[m
+[91m2022-07-24 19:50:18 W/stderr: 	at java.base/java.io.RandomAccessFile.<init>(RandomAccessFile.java:259)[0m[m
+[91m2022-07-24 19:50:18 W/stderr: 	at java.base/java.io.RandomAccessFile.<init>(RandomAccessFile.java:213)[0m[m
+[91m2022-07-24 19:50:18 W/stderr: 	at net.mamoe.mirai.utils.ExternalResource$Companion.create(ExternalResource.kt:258)[0m[m
+[91m2022-07-24 19:50:18 W/stderr: 	at net.mamoe.mirai.utils.ExternalResource$Companion.create$default(ExternalResource.kt:256)[0m[m
+[91m2022-07-24 19:50:18 W/stderr: 	at net.mamoe.mirai.utils.ExternalResource$Companion.create(ExternalResource.kt)[0m[m
+[91m2022-07-24 19:50:18 W/stderr: 	at net.mamoe.mirai.utils.ExternalResource.create(ExternalResource.kt)[0m[m
+[91m2022-07-24 19:50:18 W/stderr: 	at Plum-1.0-SNAPSHOT.mirai.jar//com.sakurawald.framework.MessageManager.sendVoiceToQQGroup(MessageManager.java:244)[0m[m
+[91m2022-07-24 19:50:18 W/stderr: 	at Plum-1.0-SNAPSHOT.mirai.jar//com.sakurawald.command.commands.SingSongCommand.lambda$runCommand$0(SingSongCommand.java:188)[0m[m
+[91m2022-07-24 19:50:18 W/stderr: 	at java.base/java.lang.Thread.run(Thread.java:833)[0m[m
+[0m2022-07-24 19:50:44 V/Bot.2785766889: Event: NudgeEvent(from=NormalMember(2604317843), target=Bot(2785766889), subject=Group(756092113), action=戳了戳, suffix=)[0m[m
+[0m2022-07-24 19:50:45 V/Bot.2785766889: Group(756092113) <- 请不要戳我~>_<~[0m[m
+[92m2022-07-24 19:50:45 I/Plum: [RandomImage (ThirdParty)] Currently Use Image-Site: http://www.dmoe.cc/random.php[0m[m
+[0m2022-07-24 19:50:50 V/Bot.2785766889: Group(756092113) <- [mirai:at:2604317843]\n『一件事物与其自身完全一致』-「逻辑哲学论」\n[mirai:image:{FC77B60F-ECEF-90B7-60AC-773761911C0F}.jpg, width=1920, height=1080, size=882867, type=JPG, isEmoji=false][0m[m
+[0m2022-07-24 19:50:57 V/Bot.2785766889: Event: NudgeEvent(from=NormalMember(2604317843), target=Bot(2785766889), subject=Group(756092113), action=戳了戳, suffix=)[0m[m
+[0m2022-07-24 19:50:58 V/Bot.2785766889: Group(756092113) <- 别戳啦[0m[m
+[92m2022-07-24 19:50:58 I/Plum: [RandomImage (ThirdParty)] Currently Use Image-Site: http://api.mtyqx.cn/api/random.php[0m[m
+[0m2022-07-24 19:51:00 V/Bot.2785766889: Group(756092113) <- [mirai:at:2604317843]\n『OIer和拉拉人都是应该相信奇迹的』-「SilverN」\n[mirai:image:{9EE82788-6ECE-A4D3-4139-CE4ADAF48D89}.jpg, width=1920, height=1080, size=894671, type=JPG, isEmoji=false][0m[m
+[0m2022-07-24 19:51:07 V/Bot.2785766889: [BOT(756092113)] XWJ(2604317843) -> [mirai:at:2785766889] 你好[0m[m
+[0m2022-07-24 19:51:27 V/Bot.2785766889: [BOT(756092113)] XWJ(2604317843) -> [mirai:at:2785766889] 地球是不是圆的？[0m[m
+[0m2022-07-24 19:51:40 V/Bot.2785766889: [BOT(756092113)] XWJ(2604317843) -> @你好[0m[m
+[0m2022-07-24 19:55:52 V/Bot.2785766889: Event: BotOfflineEvent.Force(bot=Bot(2785766889), title='下线通知', message='你的QQ号于19:55在【JEF-AN00】设备登录，当前设备已下线。如果这不是你本人操作，那么你的QQ密码可能已经泄露，请尽快重新登录并修改密码。', reconnect=true)[0m[m
+[91m2022-07-24 19:55:52 W/Bot.2785766889: Connection occupied by another android device: 你的QQ号于19:55在【JEF-AN00】设备登录，当前设备已下线。如果这不是你本人操作，那么你的QQ密码可能已经泄露，请尽快重新登录并修改密码。[0m[m
+[92m2022-07-24 19:55:53 I/Bot.2785766889: Login successful[0m[m
+[92m2022-07-24 19:55:53 I/Bot.2785766889: Saved account secrets to local cache for fast login.[0m[m
+[92m2022-07-24 19:55:53 I/Bot.2785766889: Login successful.[0m[m
+[0m2022-07-24 19:55:53 V/Bot.2785766889: Event: BotOnlineEvent(bot=Bot(2785766889))[0m[m
+[92m2022-07-24 19:55:53 I/Bot.2785766889: Reconnected successfully in 0.879s.[0m[m
+[0m2022-07-24 19:55:53 V/Bot.2785766889: Event: BotReloginEvent(bot=Bot(2785766889), cause=null)[0m[m
+[0m2022-07-24 19:56:30 V/Bot.2785766889: [1B429(1040698508)] 1b429辅导员(2604317843) -> 点歌 孤勇者[0m[m
+[92m2022-07-24 19:56:30 I/Plum: [SingSong] 收到唱歌指令，开始执行核心代码[0m[m
+[92m2022-07-24 19:56:30 I/Plum: [SingSong] 用户输入的需要唱的歌曲: input_music_name = 孤勇者[0m[m
+[92m2022-07-24 19:56:30 I/Plum: [SingSong] input_music_name = 孤勇者[0m[m
+[92m2022-07-24 19:56:30 I/Plum: [SingSong] 尝试第1乐库: NeteaseMusic - API[0m[m
+[92m2022-07-24 19:56:30 I/Plum: [NeteaseMusic - API] 获取到的SongInformation: SongInformation{music_Name='孤勇者', music_ID=1901371647, music_Length=0, music_introduction='null', music_Page_URL='http://music.163.com/song/1901371647', author='null', music_File_URL='http://music.163.com/song/media/outer/url?id=1901371647.mp3', music_MID='null', img_URL='null', hash='null', sourceType='网易云音乐', summary='null'}[0m[m
+[0m2022-07-24 19:56:30 V/Bot.2785766889: Group(1040698508) <- MusicShare(kind=NeteaseCloudMusic, title=孤勇者, summary=[点歌] 1b429辅导员, jumpUrl=http://music.163.com/song/1901371647, pictureUrl=http://q.qlogo.cn/g?b=qq&nk=2604317843&s=640, musicUrl=http://music.163.com/song/media/outer/url?id=1901371647.mp3, brief=[点歌] 孤勇者)[0m[m
+[0m2022-07-24 19:58:21 V/Bot.2785766889: Event: NewFriendRequestEvent(bot=Bot(2785766889), eventId=1658663906000000, message=我是南安折日, fromId=2765930277, fromGroupId=0, fromNick=南安折日)[0m[m
+[91m2022-07-24 19:58:21 W/Bot.2785766889: An exception occurred when processing event. Subscriber scope: '<unnamed>'. Broadcaster scope: 'Bot 2785766889.EventDispatcher'
+java.lang.IllegalStateException: the request NewFriendRequestEvent(bot=Bot(2785766889), eventId=1658663906000000, message=我是南安折日, fromId=2765930277, fromGroupId=0, fromNick=南安折日) has already been responded
+	at net.mamoe.mirai.internal.MiraiImpl.rejectNewFriendRequest$suspendImpl(MiraiImpl.kt:199)
+	at net.mamoe.mirai.internal.MiraiImpl.rejectNewFriendRequest(MiraiImpl.kt)
+	at net.mamoe.mirai.event.events.NewFriendRequestEvent.reject(friend.kt:94)
+	at net.mamoe.mirai.event.events.NewFriendRequestEvent$reject$2.invoke(friend.kt:65535)
+	at net.mamoe.mirai.event.events.NewFriendRequestEvent$reject$2.invoke(friend.kt)
+	at kotlin.coroutines.intrinsics.IntrinsicsKt__IntrinsicsJvmKt$createCoroutineUnintercepted$$inlined$createCoroutineFromSuspendFunction$IntrinsicsKt__IntrinsicsJvmKt$1.invokeSuspend(IntrinsicsJvm.kt:205)
+	at kotlin.coroutines.jvm.internal.BaseContinuationImpl.resumeWith(ContinuationImpl.kt:33)
+	at kotlin.coroutines.ContinuationKt.startCoroutine(Continuation.kt:115)
+	at me.him188.kotlin.jvm.blocking.bridge.internal.RunSuspendKt.$runSuspend$(RunSuspend.kt:18)
+	at net.mamoe.mirai.event.events.NewFriendRequestEvent.reject(friend.kt)
+	at suijisetu-ycitus-3.6.3.mirai.jar//com.ycitus.PluginMain.lambda$onEnable$5(PluginMain.java:149)
+	at net.mamoe.mirai.event.EventChannel$subscribeAlways$2$1.invoke(EventChannel.kt:631)
+	at net.mamoe.mirai.event.EventChannel$subscribeAlways$2$1.invoke(EventChannel.kt:631)
+	at kotlinx.coroutines.InterruptibleKt.runInterruptibleInExpectedContext(Interruptible.kt:51)
+	at kotlinx.coroutines.InterruptibleKt.access$runInterruptibleInExpectedContext(Interruptible.kt:1)
+	at kotlinx.coroutines.InterruptibleKt$runInterruptible$2.invokeSuspend(Interruptible.kt:43)
+	at kotlin.coroutines.jvm.internal.BaseContinuationImpl.resumeWith(ContinuationImpl.kt:33)
+	at kotlinx.coroutines.DispatchedTask.run(DispatchedTask.kt:106)
+	at kotlinx.coroutines.internal.LimitedDispatcher.run(LimitedDispatcher.kt:42)
+	at kotlinx.coroutines.scheduling.TaskImpl.run(Tasks.kt:95)
+	at kotlinx.coroutines.scheduling.CoroutineScheduler.runSafely(CoroutineScheduler.kt:570)
+	at kotlinx.coroutines.scheduling.CoroutineScheduler$Worker.executeTask(CoroutineScheduler.kt:749)
+	at kotlinx.coroutines.scheduling.CoroutineScheduler$Worker.runWorker(CoroutineScheduler.kt:677)
+	at kotlinx.coroutines.scheduling.CoroutineScheduler$Worker.run(CoroutineScheduler.kt:664)
+[0m[m
+[0m2022-07-24 19:58:23 V/Bot.2785766889: Event: OtherClientOfflineEvent(client=OtherClient(bot=2785766889,deviceName=HEA1OR,platform=WINDOWS))[0m[m
+[0m2022-07-24 19:58:23 V/Bot.2785766889: Event: OtherClientOnlineEvent(client=OtherClient(bot=2785766889,deviceName=HEA1OR,platform=WINDOWS), kind=MOBILE_PC_QQ)[0m[m
+[0m2022-07-24 19:59:12 V/Bot.2785766889: [1B429(1040698508)] zyc的爷爷(452447241) -> 点歌 孤勇者[0m[m
+[0m2022-07-24 19:59:12 V/Bot.2785766889: Group(1040698508) <- [mirai:source:ids=[17256], internalIds=[1699850101], from group 452447241 to 1040698508 at 1658663957]点歌 孤勇者[0m[m
+[92m2022-07-24 19:59:12 I/AutoGroup: 复读了一次[0m[m
+[92m2022-07-24 19:59:12 I/Plum: [SingSong] 收到唱歌指令，开始执行核心代码[0m[m
+[92m2022-07-24 19:59:12 I/Plum: [SingSong] 用户输入的需要唱的歌曲: input_music_name = 孤勇者[0m[m
+[92m2022-07-24 19:59:12 I/Plum: [SingSong] input_music_name = 孤勇者[0m[m
+[92m2022-07-24 19:59:12 I/Plum: [SingSong] 尝试第1乐库: NeteaseMusic - API[0m[m
+[92m2022-07-24 19:59:13 I/Plum: [NeteaseMusic - API] 获取到的SongInformation: SongInformation{music_Name='孤勇者', music_ID=1901371647, music_Length=0, music_introduction='null', music_Page_URL='http://music.163.com/song/1901371647', author='null', music_File_URL='http://music.163.com/song/media/outer/url?id=1901371647.mp3', music_MID='null', img_URL='null', hash='null', sourceType='网易云音乐', summary='null'}[0m[m
+[0m2022-07-24 19:59:13 V/Bot.2785766889: Group(1040698508) <- MusicShare(kind=NeteaseCloudMusic, title=孤勇者, summary=[点歌] zyc的爷爷, jumpUrl=http://music.163.com/song/1901371647, pictureUrl=http://q.qlogo.cn/g?b=qq&nk=452447241&s=640, musicUrl=http://music.163.com/song/media/outer/url?id=1901371647.mp3, brief=[点歌] 孤勇者)[0m[m
+[0m2022-07-24 19:59:25 V/Bot.2785766889: [1B429(1040698508)] zyc的爷爷(452447241) -> 点歌 听我说谢谢你[0m[m
+[92m2022-07-24 19:59:25 I/Plum: [SingSong] 收到唱歌指令，开始执行核心代码[0m[m
+[92m2022-07-24 19:59:25 I/Plum: [SingSong] 用户输入的需要唱的歌曲: input_music_name = 听我说谢谢你[0m[m
+[92m2022-07-24 19:59:25 I/Plum: [SingSong] input_music_name = 听我说谢谢你[0m[m
+[92m2022-07-24 19:59:25 I/Plum: [SingSong] 尝试第1乐库: NeteaseMusic - API[0m[m
+[92m2022-07-24 19:59:25 I/Plum: [NeteaseMusic - API] 获取到的SongInformation: SongInformation{music_Name='听我说谢谢你', music_ID=1805865747, music_Length=0, music_introduction='null', music_Page_URL='http://music.163.com/song/1805865747', author='null', music_File_URL='http://music.163.com/song/media/outer/url?id=1805865747.mp3', music_MID='null', img_URL='null', hash='null', sourceType='网易云音乐', summary='null'}[0m[m
+[0m2022-07-24 19:59:26 V/Bot.2785766889: Group(1040698508) <- MusicShare(kind=NeteaseCloudMusic, title=听我说谢谢你, summary=[点歌] zyc的爷爷, jumpUrl=http://music.163.com/song/1805865747, pictureUrl=http://q.qlogo.cn/g?b=qq&nk=452447241&s=640, musicUrl=http://music.163.com/song/media/outer/url?id=1805865747.mp3, brief=[点歌] 听我说谢谢你)[0m[m
+[0m2022-07-24 19:59:36 V/Bot.2785766889: [1B429(1040698508)] 1b429辅导员(2604317843) -> [mirai:image:{692E6C9F-3B8B-BC46-FC1F-A2C5E742DBC1}.gif, width=310, height=301, size=228679, type=GIF, isEmoji=true][0m[m
+[92m2022-07-24 20:00:00 I/SteamHelper: Steam周榜刷新失败：未知错误：java.net.SocketException: Unexpected end of file from server|java.net.SocketException: Unexpected end of file from server[0m[m
+[0m2022-07-24 20:00:00 V/Bot.2785766889: Group(756092113) <- 离「Steam VR 游戏节」还有 : 正在进行中预计结束1天4时59分59秒[0m[m
+[92m2022-07-24 20:00:00 I/SteamHelper: 信息刷新线程执行完毕[0m[m
+[92m2022-07-24 20:00:01 I/SteamHelper: Steam大促信息推送完毕[0m[m
+[0m2022-07-24 20:00:39 V/Bot.2785766889: Event: NudgeEvent(from=NormalMember(2604317843), target=Bot(2785766889), subject=Group(756092113), action=戳了戳, suffix=)[0m[m
+[0m2022-07-24 20:00:39 V/Bot.2785766889: Group(756092113) <- 戳回去(￣ ‘i ￣;)[0m[m
+[0m2022-07-24 20:00:40 V/Bot.2785766889: Event: NudgeEvent(from=Bot(2785766889), target=NormalMember(2604317843), subject=Group(756092113), action=拍了拍, suffix=)[0m[m
+[0m2022-07-24 20:00:41 V/Bot.2785766889: Group(756092113) <- 哼[0m[m
+[92m2022-07-24 20:00:42 I/Plum: [RandomImage (ThirdParty)] Currently Use Image-Site: http://api.mtyqx.cn/api/random.php[0m[m
+[0m2022-07-24 20:00:44 V/Bot.2785766889: Group(756092113) <- [mirai:at:2604317843]\n『人而无仪，不死何为!』-「相鼠」\n[mirai:image:{3421399C-ADCE-BA3E-6301-682FBF9AAB0C}.jpg, width=2048, height=1152, size=2011726, type=JPG, isEmoji=false][0m[m
+[0m2022-07-24 20:02:09 V/Bot.2785766889: Event: NewFriendRequestEvent(bot=Bot(2785766889), eventId=1658664134000000, message=我是南安折日, fromId=2765930277, fromGroupId=0, fromNick=南安折日)[0m[m
+[91m2022-07-24 20:02:09 W/Bot.2785766889: An exception occurred when processing event. Subscriber scope: '<unnamed>'. Broadcaster scope: 'Bot 2785766889.EventDispatcher'
+java.lang.IllegalStateException: the request NewFriendRequestEvent(bot=Bot(2785766889), eventId=1658664134000000, message=我是南安折日, fromId=2765930277, fromGroupId=0, fromNick=南安折日) has already been responded
+	at net.mamoe.mirai.internal.MiraiImpl.rejectNewFriendRequest$suspendImpl(MiraiImpl.kt:199)
+	at net.mamoe.mirai.internal.MiraiImpl.rejectNewFriendRequest(MiraiImpl.kt)
+	at net.mamoe.mirai.event.events.NewFriendRequestEvent.reject(friend.kt:94)
+	at net.mamoe.mirai.event.events.NewFriendRequestEvent$reject$2.invoke(friend.kt:65535)
+	at net.mamoe.mirai.event.events.NewFriendRequestEvent$reject$2.invoke(friend.kt)
+	at kotlin.coroutines.intrinsics.IntrinsicsKt__IntrinsicsJvmKt$createCoroutineUnintercepted$$inlined$createCoroutineFromSuspendFunction$IntrinsicsKt__IntrinsicsJvmKt$1.invokeSuspend(IntrinsicsJvm.kt:205)
+	at kotlin.coroutines.jvm.internal.BaseContinuationImpl.resumeWith(ContinuationImpl.kt:33)
+	at kotlin.coroutines.ContinuationKt.startCoroutine(Continuation.kt:115)
+	at me.him188.kotlin.jvm.blocking.bridge.internal.RunSuspendKt.$runSuspend$(RunSuspend.kt:18)
+	at net.mamoe.mirai.event.events.NewFriendRequestEvent.reject(friend.kt)
+	at suijisetu-ycitus-3.6.3.mirai.jar//com.ycitus.PluginMain.lambda$onEnable$5(PluginMain.java:149)
+	at net.mamoe.mirai.event.EventChannel$subscribeAlways$2$1.invoke(EventChannel.kt:631)
+	at net.mamoe.mirai.event.EventChannel$subscribeAlways$2$1.invoke(EventChannel.kt:631)
+	at kotlinx.coroutines.InterruptibleKt.runInterruptibleInExpectedContext(Interruptible.kt:51)
+	at kotlinx.coroutines.InterruptibleKt.access$runInterruptibleInExpectedContext(Interruptible.kt:1)
+	at kotlinx.coroutines.InterruptibleKt$runInterruptible$2.invokeSuspend(Interruptible.kt:43)
+	at kotlin.coroutines.jvm.internal.BaseContinuationImpl.resumeWith(ContinuationImpl.kt:33)
+	at kotlinx.coroutines.DispatchedTask.run(DispatchedTask.kt:106)
+	at kotlinx.coroutines.internal.LimitedDispatcher.run(LimitedDispatcher.kt:42)
+	at kotlinx.coroutines.scheduling.TaskImpl.run(Tasks.kt:95)
+	at kotlinx.coroutines.scheduling.CoroutineScheduler.runSafely(CoroutineScheduler.kt:570)
+	at kotlinx.coroutines.scheduling.CoroutineScheduler$Worker.executeTask(CoroutineScheduler.kt:749)
+	at kotlinx.coroutines.scheduling.CoroutineScheduler$Worker.runWorker(CoroutineScheduler.kt:677)
+	at kotlinx.coroutines.scheduling.CoroutineScheduler$Worker.run(CoroutineScheduler.kt:664)
+[0m[m

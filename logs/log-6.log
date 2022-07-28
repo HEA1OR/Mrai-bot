@@ -1,0 +1,33 @@
+[91m2022-07-24 00:00:29 W/console: 未知指令: /W/console: 无法解析 <qq> 为长整数?, 输入 ? 获取帮助[0m[m
+[91m2022-07-24 00:03:18 W/console: 无法解析 <10100110000010110110110111101001> 为长整数[0m[m
+[92m2022-07-24 00:08:40 I/WindowHelperJvm: Mirai 正在使用桌面环境. 如遇到验证码将会弹出对话框. 可添加 JVM 属性 `mirai.no-desktop` 以关闭.[0m[m
+[92m2022-07-24 00:08:40 I/WindowHelperJvm: Mirai is using desktop. Captcha will be thrown by window popup. You can add `mirai.no-desktop` to JVM properties (-Dmirai.no-desktop) to disable it.[0m[m
+[91m2022-07-24 00:08:40 W/stderr: ERROR StatusLogger Log4j2 could not find a logging implementation. Please add log4j-core to the classpath. Using SimpleLogger to log to the console...[0m[m
+[92m2022-07-24 00:11:10 I/Bot.2785766889: Login successful[0m[m
+[92m2022-07-24 00:11:10 I/Bot.2785766889: Saved account secrets to local cache for fast login.[0m[m
+[92m2022-07-24 00:11:10 I/Bot.2785766889: Login successful.[0m[m
+[0m2022-07-24 00:11:11 V/Bot.2785766889: Event: BotOnlineEvent(bot=Bot(2785766889))[0m[m
+[92m2022-07-24 00:11:11 I/Bot.2785766889: Bot login successful.[0m[m
+[0m2022-07-24 00:13:15 V/Bot.2785766889: Event: BotJoinGroupEvent.Invite(invitor=NormalMember(2604317843))[0m[m
+[0m2022-07-24 00:13:32 V/Bot.2785766889: Event: OtherClientOnlineEvent(client=OtherClient(bot=2785766889,deviceName=HEA1OR,platform=WINDOWS), kind=MOBILE_PC_QQ)[0m[m
+[0m2022-07-24 00:29:02 V/Bot.2785766889: Event: OtherClientOfflineEvent(client=OtherClient(bot=2785766889,deviceName=HEA1OR,platform=WINDOWS))[0m[m
+[0m2022-07-24 10:22:54 V/Bot.2785766889: Event: BotOfflineEvent.Dropped(bot=Bot(2785766889), cause=NettyChannelException(message=null, cause=java.net.SocketException: Connection reset), reconnect=true)[0m[m
+[91m2022-07-24 10:22:54 W/Bot.2785766889: Connection lost, reconnecting... (NettyChannelException(message=null, cause=java.net.SocketException: Connection reset))[0m[m
+[92m2022-07-24 10:22:57 I/Bot.2785766889: Saved account secrets to local cache for fast login.[0m[m
+[92m2022-07-24 10:22:57 I/Bot.2785766889: Login successful.[0m[m
+[0m2022-07-24 10:22:57 V/Bot.2785766889: Event: BotOnlineEvent(bot=Bot(2785766889))[0m[m
+[0m2022-07-24 10:22:58 V/Bot.2785766889: Event: BotReloginEvent(bot=Bot(2785766889), cause=null)[0m[m
+[92m2022-07-24 10:22:58 I/Bot.2785766889: Reconnected successfully in 3.381s.[0m[m
+[0m2022-07-24 10:23:02 V/Bot.2785766889: Event: OtherClientOnlineEvent(client=OtherClient(bot=2785766889,deviceName=HEA1OR,platform=WINDOWS), kind=MOBILE_PC_QQ)[0m[m
+[0m2022-07-24 13:21:09 V/Bot.2785766889: Event: OtherClientOfflineEvent(client=OtherClient(bot=2785766889,deviceName=HEA1OR,platform=WINDOWS))[0m[m
+[0m2022-07-24 15:31:48 V/Bot.2785766889: Event: BotOfflineEvent.Dropped(bot=Bot(2785766889), cause=NettyChannelException(message=null, cause=java.net.SocketException: Connection reset), reconnect=true)[0m[m
+[91m2022-07-24 15:31:48 W/Bot.2785766889: Connection lost, reconnecting... (NettyChannelException(message=null, cause=java.net.SocketException: Connection reset))[0m[m
+[92m2022-07-24 15:31:51 I/Bot.2785766889: Saved account secrets to local cache for fast login.[0m[m
+[92m2022-07-24 15:31:52 I/Bot.2785766889: Login successful.[0m[m
+[0m2022-07-24 15:31:52 V/Bot.2785766889: Event: BotOnlineEvent(bot=Bot(2785766889))[0m[m
+[0m2022-07-24 15:31:52 V/Bot.2785766889: Event: BotReloginEvent(bot=Bot(2785766889), cause=null)[0m[m
+[92m2022-07-24 15:31:52 I/Bot.2785766889: Reconnected successfully in 3.596s.[0m[m
+[0m2022-07-24 15:31:57 V/Bot.2785766889: Event: OtherClientOnlineEvent(client=OtherClient(bot=2785766889,deviceName=HEA1OR,platform=WINDOWS), kind=MOBILE_PC_QQ)[0m[m
+[0m2022-07-24 16:24:48 V/Bot.2785766889: Event: OtherClientOfflineEvent(client=OtherClient(bot=2785766889,deviceName=HEA1OR,platform=WINDOWS))[0m[m
+[0m2022-07-24 16:25:08 V/Bot.2785766889: Event: OtherClientOnlineEvent(client=OtherClient(bot=2785766889,deviceName=HEA1OR,platform=WINDOWS), kind=MOBILE_PC_QQ)[0m[m
+[0m2022-07-24 16:59:17 V/Bot.2785766889: Event: BotJoinGroupEvent.Invite(invitor=NormalMember(2604317843))[0m[m

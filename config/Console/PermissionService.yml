@@ -1,0 +1,13 @@
+grantedPermissionMap: 
+  '*:*': 
+    - console
+  'com.evolvedghost.mirai.steamhelper.steamhelper:*': 
+    - '*'
+  'com.evolvedghost.mirai.steamhelper.steamhelper:command.sh': 
+    - '*'
+  'com.evolvedghost.mirai.steamhelper.steamhelper:sub': 
+    - '*'
+  'com.evolvedghost.mirai.steamhelper.steamhelper:push': 
+    - '*'
+  'com.evolvedghost.mirai.steamhelper.steamhelper:reload': 
+    - '*'
