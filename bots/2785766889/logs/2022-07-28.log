@@ -1,0 +1,498 @@
+[0m2022-07-28 11:29:15 V/Net 2785766889: Loading server list from cache.[0m
+[92m2022-07-28 11:29:15 I/Net 2785766889: Server list: 36.155.227.171:8080, 111.30.187.227:80, msfwifi.3g.qq.com:8080, 36.155.207.186:80, 111.31.200.170:80, 111.31.200.210:14000, 120.232.69.214:8080, 36.155.248.76:14000, 111.31.205.168:80, 120.232.67.218:443.[0m
+[92m2022-07-28 11:29:15 I/Net 2785766889: ECDH key is invalid, start to fetch ecdh public key from server.[0m
+[92m2022-07-28 11:29:16 I/Net 2785766889: Successfully fetched ecdh public key from server.[0m
+[0m2022-07-28 11:29:16 V/Net 2785766889: Send: wtlogin.exchange_emp[0m
+[0m2022-07-28 11:29:16 V/Net 2785766889: Recv: wtlogin.exchange_emp[0m
+[0m2022-07-28 11:29:16 V/Net 2785766889: Send: StatSvc.register(online)[0m
+[92m2022-07-28 11:29:16 I/Net 2785766889: Server time updated, serverTime: 1658978957, diff: 1ms=0.001s[0m
+[0m2022-07-28 11:29:16 V/Net 2785766889: Recv: StatSvc.register[0m
+[0m2022-07-28 11:29:16 V/Net 2785766889: Loading BdhSession from cache file[0m
+[92m2022-07-28 11:29:16 I/Net 2785766889: Syncing friend message history...[0m
+[92m2022-07-28 11:29:16 I/Net 2785766889: Start loading stranger list...[0m
+[0m2022-07-28 11:29:16 V/Net 2785766889: Send: StatSvc.GetDevLoginInfo(StatSvc.GetDevLoginInfo)[0m
+[92m2022-07-28 11:29:16 I/Net 2785766889: Start loading friend list...[0m
+[0m2022-07-28 11:29:16 V/Net 2785766889: Send: OidbSvc.0x496(OidbSvc.0x496)[0m
+[0m2022-07-28 11:29:16 V/Net 2785766889: Send: OidbSvc.0x5d2_0(OidbSvc.0x5d2_0)[0m
+[0m2022-07-28 11:29:16 V/Net 2785766889: Send: friendlist.getFriendGroupList(friendlist.getFriendGroupList)[0m
+[92m2022-07-28 11:29:16 I/Net 2785766889: Successfully loaded stranger list: 0 in total[0m
+[0m2022-07-28 11:29:16 V/Net 2785766889: Recv: OidbSvc.0x5d2_0[0m
+[92m2022-07-28 11:29:16 I/Net 2785766889: Start loading group list...[0m
+[0m2022-07-28 11:29:16 V/Net 2785766889: Recv: OidbSvc.0x496[0m
+[0m2022-07-28 11:29:16 V/Net 2785766889: Send: friendlist.GetTroopListReqV2(friendlist.GetTroopListReqV2)[0m
+[0m2022-07-28 11:29:16 V/Net 2785766889: Recv: StatSvc.GetDevLoginInfo[0m
+[92m2022-07-28 11:29:16 I/Net 2785766889: No OtherClient online.[0m
+[0m2022-07-28 11:29:16 V/Net 2785766889: Recv: friendlist.getFriendGroupList[0m
+[0m2022-07-28 11:29:16 V/Net 2785766889: Loading friend list: 5/5[0m
+[92m2022-07-28 11:29:16 I/Net 2785766889: Successfully loaded friend list: 5 in total[0m
+[0m2022-07-28 11:29:16 V/Net 2785766889: Recv: friendlist.GetTroopListReqV2[0m
+[0m2022-07-28 11:29:16 V/Net 2785766889: Send: friendlist.GetTroopMemberListReq(friendlist.GetTroopMemberListReq)[0m
+[0m2022-07-28 11:29:16 V/Net 2785766889: Send: friendlist.GetTroopMemberListReq(friendlist.GetTroopMemberListReq)[0m
+[0m2022-07-28 11:29:16 V/Net 2785766889: Send: friendlist.GetTroopMemberListReq(friendlist.GetTroopMemberListReq)[0m
+[0m2022-07-28 11:29:16 V/Net 2785766889: Send: friendlist.GetTroopMemberListReq(friendlist.GetTroopMemberListReq)[0m
+[0m2022-07-28 11:29:16 V/Net 2785766889: Send: friendlist.GetTroopMemberListReq(friendlist.GetTroopMemberListReq)[0m
+[0m2022-07-28 11:29:16 V/Net 2785766889: Send: friendlist.GetTroopMemberListReq(friendlist.GetTroopMemberListReq)[0m
+[92m2022-07-28 11:29:16 I/Net 2785766889: Syncing friend message history: Success.[0m
+[0m2022-07-28 11:29:16 V/Net 2785766889: Recv: friendlist.GetTroopMemberListReq[0m
+[0m2022-07-28 11:29:17 V/Net 2785766889: Recv: friendlist.GetTroopMemberListReq[0m
+[0m2022-07-28 11:29:17 V/Net 2785766889: Recv: friendlist.GetTroopMemberListReq[0m
+[0m2022-07-28 11:29:17 V/Net 2785766889: Recv: friendlist.GetTroopMemberListReq[0m
+[0m2022-07-28 11:29:17 V/Net 2785766889: Recv: friendlist.GetTroopMemberListReq[0m
+[0m2022-07-28 11:29:17 V/Net 2785766889: Recv: friendlist.GetTroopMemberListReq[0m
+[92m2022-07-28 11:29:17 I/Net 2785766889: Successfully loaded group list: 6 in total.[0m
+[92m2022-07-28 11:29:17 I/Net 2785766889: Scheduled refresh login session in 19d 23h 55min 0.0s.[0m
+[92m2022-07-28 11:29:17 I/Net 2785766889: Scheduled key refresh in 23h 55min 0.0s.[0m
+[92m2022-07-28 11:29:19 I/Net 2785766889: Server list: msfwifi.3g.qq.com:8080, 111.31.205.244:80, 36.155.201.42:14000, 120.232.31.250:443, 36.155.201.181:80, 111.30.169.43:80, 111.31.200.210:443, 120.232.31.192:8080, 111.33.189.81:80, 36.155.227.171:14000.[0m
+[0m2022-07-28 11:29:19 V/Net 2785766889: Saving bdh session to cache[0m
+[0m2022-07-28 11:29:19 V/Net 2785766889: Saving server list to cache[0m
+[0m2022-07-28 11:29:19 V/Net 2785766889: Send: ConfigPushSvc.PushResp(ConfigPushSvc.PushResp)[0m
+[0m2022-07-28 11:29:19 V/Net 2785766889: Recv: ConfigPushSvc.PushReq[0m
+[0m2022-07-28 11:29:19 V/Net 2785766889: Saving bdh session to cache[0m
+[0m2022-07-28 11:29:19 V/Net 2785766889: Send: ConfigPushSvc.PushResp(ConfigPushSvc.PushResp)[0m
+[0m2022-07-28 11:29:19 V/Net 2785766889: Recv: ConfigPushSvc.PushReq[0m
+[0m2022-07-28 12:00:12 V/Net 2785766889: Send: MessageSvc.PbSendMsg(MessageSvc.PbSendMsg)[0m
+[0m2022-07-28 12:00:12 V/Net 2785766889: Recv: MessageSvc.PbSendMsg[0m
+[0m2022-07-28 12:02:11 V/Net 2785766889: Send: StatSvc.GetDevLoginInfo(StatSvc.GetDevLoginInfo)[0m
+[0m2022-07-28 12:02:11 V/Net 2785766889: Recv: StatSvc.GetDevLoginInfo[0m
+[0m2022-07-28 12:02:13 V/Net 2785766889: Send: StatSvc.GetDevLoginInfo(StatSvc.GetDevLoginInfo)[0m
+[0m2022-07-28 12:02:13 V/Net 2785766889: Recv: StatSvc.GetDevLoginInfo[0m
+[0m2022-07-28 12:02:13 V/Net 2785766889: Recv: MessageSvc.RequestPushStatus[0m
+[0m2022-07-28 12:02:13 V/Net 2785766889: Recv: MessageSvc.RequestPushStatus[0m
+[0m2022-07-28 12:02:13 V/Net 2785766889: Recv: MessageSvc.RequestPushStatus[0m
+[0m2022-07-28 12:09:32 V/Net 2785766889: Loading server list from cache.[0m
+[92m2022-07-28 12:09:32 I/Net 2785766889: Server list: msfwifi.3g.qq.com:8080, 111.31.205.244:80, 36.155.201.42:14000, 120.232.31.250:443, 36.155.201.181:80, 111.30.169.43:80, 111.31.200.210:443, 120.232.31.192:8080, 111.33.189.81:80, 36.155.227.171:14000.[0m
+[92m2022-07-28 12:09:33 I/Net 2785766889: ECDH key is valid.[0m
+[0m2022-07-28 12:09:33 V/Net 2785766889: Send: wtlogin.exchange_emp[0m
+[0m2022-07-28 12:09:33 V/Net 2785766889: Recv: wtlogin.exchange_emp[0m
+[0m2022-07-28 12:09:33 V/Net 2785766889: Send: StatSvc.register(online)[0m
+[92m2022-07-28 12:09:33 I/Net 2785766889: Server time updated, serverTime: 1658981374, diff: 1ms=0.001s[0m
+[0m2022-07-28 12:09:33 V/Net 2785766889: Recv: StatSvc.register[0m
+[0m2022-07-28 12:09:33 V/Net 2785766889: Loading BdhSession from cache file[0m
+[92m2022-07-28 12:09:33 I/Net 2785766889: Syncing friend message history...[0m
+[92m2022-07-28 12:09:33 I/Net 2785766889: Start loading friend list...[0m
+[0m2022-07-28 12:09:33 V/Net 2785766889: Send: StatSvc.GetDevLoginInfo(StatSvc.GetDevLoginInfo)[0m
+[92m2022-07-28 12:09:33 I/Net 2785766889: Start loading stranger list...[0m
+[0m2022-07-28 12:09:33 V/Net 2785766889: Send: OidbSvc.0x496(OidbSvc.0x496)[0m
+[0m2022-07-28 12:09:33 V/Net 2785766889: Send: OidbSvc.0x5d2_0(OidbSvc.0x5d2_0)[0m
+[0m2022-07-28 12:09:33 V/Net 2785766889: Send: friendlist.getFriendGroupList(friendlist.getFriendGroupList)[0m
+[0m2022-07-28 12:09:33 V/Net 2785766889: Recv: OidbSvc.0x5d2_0[0m
+[92m2022-07-28 12:09:33 I/Net 2785766889: Successfully loaded stranger list: 0 in total[0m
+[0m2022-07-28 12:09:33 V/Net 2785766889: Recv: StatSvc.GetDevLoginInfo[0m
+[92m2022-07-28 12:09:33 I/Net 2785766889: Online OtherClients: HEA1OR(WINDOWS)[0m
+[92m2022-07-28 12:09:33 I/Net 2785766889: Start loading group list...[0m
+[0m2022-07-28 12:09:33 V/Net 2785766889: Recv: OidbSvc.0x496[0m
+[0m2022-07-28 12:09:33 V/Net 2785766889: Send: friendlist.GetTroopListReqV2(friendlist.GetTroopListReqV2)[0m
+[0m2022-07-28 12:09:33 V/Net 2785766889: Recv: friendlist.getFriendGroupList[0m
+[0m2022-07-28 12:09:33 V/Net 2785766889: Loading friend list: 5/5[0m
+[92m2022-07-28 12:09:33 I/Net 2785766889: Successfully loaded friend list: 5 in total[0m
+[0m2022-07-28 12:09:33 V/Net 2785766889: Recv: friendlist.GetTroopListReqV2[0m
+[0m2022-07-28 12:09:33 V/Net 2785766889: Send: friendlist.GetTroopMemberListReq(friendlist.GetTroopMemberListReq)[0m
+[0m2022-07-28 12:09:33 V/Net 2785766889: Send: friendlist.GetTroopMemberListReq(friendlist.GetTroopMemberListReq)[0m
+[0m2022-07-28 12:09:33 V/Net 2785766889: Send: friendlist.GetTroopMemberListReq(friendlist.GetTroopMemberListReq)[0m
+[0m2022-07-28 12:09:33 V/Net 2785766889: Send: friendlist.GetTroopMemberListReq(friendlist.GetTroopMemberListReq)[0m
+[0m2022-07-28 12:09:33 V/Net 2785766889: Send: friendlist.GetTroopMemberListReq(friendlist.GetTroopMemberListReq)[0m
+[0m2022-07-28 12:09:33 V/Net 2785766889: Send: friendlist.GetTroopMemberListReq(friendlist.GetTroopMemberListReq)[0m
+[92m2022-07-28 12:09:33 I/Net 2785766889: Syncing friend message history: Success.[0m
+[0m2022-07-28 12:09:33 V/Net 2785766889: Recv: friendlist.GetTroopMemberListReq[0m
+[0m2022-07-28 12:09:33 V/Net 2785766889: Recv: friendlist.GetTroopMemberListReq[0m
+[0m2022-07-28 12:09:33 V/Net 2785766889: Recv: friendlist.GetTroopMemberListReq[0m
+[0m2022-07-28 12:09:33 V/Net 2785766889: Recv: friendlist.GetTroopMemberListReq[0m
+[0m2022-07-28 12:09:33 V/Net 2785766889: Recv: friendlist.GetTroopMemberListReq[0m
+[0m2022-07-28 12:09:33 V/Net 2785766889: Recv: friendlist.GetTroopMemberListReq[0m
+[92m2022-07-28 12:09:33 I/Net 2785766889: Successfully loaded group list: 6 in total.[0m
+[92m2022-07-28 12:09:33 I/Net 2785766889: Scheduled refresh login session in 19d 23h 55min 0.0s.[0m
+[92m2022-07-28 12:09:33 I/Net 2785766889: Scheduled key refresh in 23h 55min 0.0s.[0m
+[0m2022-07-28 12:09:36 V/Net 2785766889: Saving bdh session to cache[0m
+[0m2022-07-28 12:09:36 V/Net 2785766889: Send: ConfigPushSvc.PushResp(ConfigPushSvc.PushResp)[0m
+[0m2022-07-28 12:09:36 V/Net 2785766889: Recv: ConfigPushSvc.PushReq[0m
+[0m2022-07-28 12:14:20 V/Net 2785766889: Send: MessageSvc.PbSendMsg(MessageSvc.PbSendMsg)[0m
+[0m2022-07-28 12:14:20 V/Net 2785766889: Recv: MessageSvc.PbSendMsg[0m
+[0m2022-07-28 12:14:22 V/Net 2785766889: Send: ImgStore.GroupPicUp(ImgStore.GroupPicUp)[0m
+[0m2022-07-28 12:14:23 V/Net 2785766889: Recv: ImgStore.GroupPicUp[0m
+[0m2022-07-28 12:14:24 V/Net 2785766889: Send: MessageSvc.PbSendMsg(MessageSvc.PbSendMsg)[0m
+[0m2022-07-28 12:14:24 V/Net 2785766889: Recv: MessageSvc.PbSendMsg[0m
+[0m2022-07-28 12:14:31 V/Net 2785766889: Send: ImgStore.GroupPicUp(ImgStore.GroupPicUp)[0m
+[0m2022-07-28 12:14:31 V/Net 2785766889: Recv: ImgStore.GroupPicUp[0m
+[0m2022-07-28 12:14:31 V/Net 2785766889: Send: MessageSvc.PbSendMsg(MessageSvc.PbSendMsg)[0m
+[0m2022-07-28 12:14:32 V/Net 2785766889: Recv: MessageSvc.PbSendMsg[0m
+[0m2022-07-28 12:15:27 V/Net 2785766889: Send: MessageSvc.PbSendMsg(MessageSvc.PbSendMsg)[0m
+[0m2022-07-28 12:15:27 V/Net 2785766889: Recv: MessageSvc.PbSendMsg[0m
+[0m2022-07-28 12:26:11 V/Net 2785766889: Send: MessageSvc.PbSendMsg(MessageSvc.PbSendMsg)[0m
+[0m2022-07-28 12:26:11 V/Net 2785766889: Recv: MessageSvc.PbSendMsg[0m
+[0m2022-07-28 12:26:29 V/Net 2785766889: Send: ImgStore.GroupPicUp(ImgStore.GroupPicUp)[0m
+[0m2022-07-28 12:26:29 V/Net 2785766889: Recv: ImgStore.GroupPicUp[0m
+[0m2022-07-28 12:26:29 V/Net 2785766889: Send: MessageSvc.PbSendMsg(MessageSvc.PbSendMsg)[0m
+[0m2022-07-28 12:26:30 V/Net 2785766889: Recv: MessageSvc.PbSendMsg[0m
+[0m2022-07-28 12:26:41 V/Net 2785766889: Send: ImgStore.GroupPicUp(ImgStore.GroupPicUp)[0m
+[0m2022-07-28 12:26:41 V/Net 2785766889: Recv: ImgStore.GroupPicUp[0m
+[0m2022-07-28 12:26:41 V/Net 2785766889: Send: MessageSvc.PbSendMsg(MessageSvc.PbSendMsg)[0m
+[0m2022-07-28 12:26:42 V/Net 2785766889: Recv: MessageSvc.PbSendMsg[0m
+[0m2022-07-28 12:28:37 V/Net 2785766889: Send: MessageSvc.PbSendMsg(MessageSvc.PbSendMsg)[0m
+[0m2022-07-28 12:28:37 V/Net 2785766889: Recv: MessageSvc.PbSendMsg[0m
+[0m2022-07-28 12:28:45 V/Net 2785766889: Send: MessageSvc.PbSendMsg(MessageSvc.PbSendMsg)[0m
+[0m2022-07-28 12:28:46 V/Net 2785766889: Recv: MessageSvc.PbSendMsg[0m
+[0m2022-07-28 12:28:48 V/Net 2785766889: Send: MessageSvc.PbSendMsg(MessageSvc.PbSendMsg)[0m
+[0m2022-07-28 12:28:48 V/Net 2785766889: Recv: MessageSvc.PbSendMsg[0m
+[0m2022-07-28 12:28:50 V/Net 2785766889: Send: MessageSvc.PbSendMsg(MessageSvc.PbSendMsg)[0m
+[0m2022-07-28 12:28:50 V/Net 2785766889: Recv: MessageSvc.PbSendMsg[0m
+[0m2022-07-28 12:28:51 V/Net 2785766889: Send: MessageSvc.PbSendMsg(MessageSvc.PbSendMsg)[0m
+[0m2022-07-28 12:28:51 V/Net 2785766889: Recv: MessageSvc.PbSendMsg[0m
+[0m2022-07-28 12:28:53 V/Net 2785766889: Send: MessageSvc.PbSendMsg(MessageSvc.PbSendMsg)[0m
+[0m2022-07-28 12:28:54 V/Net 2785766889: Recv: MessageSvc.PbSendMsg[0m
+[0m2022-07-28 12:28:56 V/Net 2785766889: Send: MessageSvc.PbSendMsg(MessageSvc.PbSendMsg)[0m
+[0m2022-07-28 12:28:56 V/Net 2785766889: Recv: MessageSvc.PbSendMsg[0m
+[0m2022-07-28 12:31:40 V/Net 2785766889: Send: MessageSvc.PbSendMsg(MessageSvc.PbSendMsg)[0m
+[0m2022-07-28 12:31:41 V/Net 2785766889: Recv: MessageSvc.PbSendMsg[0m
+[0m2022-07-28 12:48:29 V/Net 2785766889: Recv: MessageSvc.RequestPushStatus[0m
+[0m2022-07-28 12:48:29 V/Net 2785766889: Recv: MessageSvc.RequestPushStatus[0m
+[0m2022-07-28 12:48:29 V/Net 2785766889: Recv: MessageSvc.RequestPushStatus[0m
+[91m2022-07-28 15:01:55 W/Net 2785766889: HeartbeatFailedException: 2785766889.AliveHeartbeat, recoverable=true, cause=PacketTimeoutException(message=2785766889.AliveHeartbeat Scheduler: Timeout receiving action response, cause=kotlinx.coroutines.TimeoutCancellationException: Timed out waiting for 5000 ms)
+HeartbeatFailedException: 2785766889.AliveHeartbeat, recoverable=true, cause=PacketTimeoutException(message=2785766889.AliveHeartbeat Scheduler: Timeout receiving action response, cause=kotlinx.coroutines.TimeoutCancellationException: Timed out waiting for 5000 ms)
+	at net.mamoe.mirai.internal.network.impl.netty.NettyNetworkHandler$StateOK$heartbeatJobs$1$1.invoke(NettyNetworkHandler.kt:369)
+	at net.mamoe.mirai.internal.network.impl.netty.NettyNetworkHandler$StateOK$heartbeatJobs$1$1.invoke(NettyNetworkHandler.kt:369)
+	at net.mamoe.mirai.internal.network.handler.NetworkHandlerSupport.setStateImpl$mirai_core(NetworkHandlerSupport.kt:288)
+	at net.mamoe.mirai.internal.network.impl.netty.NettyNetworkHandler$StateOK$heartbeatJobs$1.invoke(NettyNetworkHandler.kt:421)
+	at net.mamoe.mirai.internal.network.impl.netty.NettyNetworkHandler$StateOK$heartbeatJobs$1.invoke(NettyNetworkHandler.kt:368)
+	at net.mamoe.mirai.internal.network.components.TimeBasedHeartbeatSchedulerImpl$launchHeartbeatJobAsync$1.invokeSuspend(HeartbeatScheduler.kt:130)
+	at kotlin.coroutines.jvm.internal.BaseContinuationImpl.resumeWith(ContinuationImpl.kt:33)
+	at kotlinx.coroutines.internal.ScopeCoroutine.afterResume(Scopes.kt:33)
+	at kotlinx.coroutines.AbstractCoroutine.resumeWith(AbstractCoroutine.kt:102)
+	at kotlin.coroutines.jvm.internal.BaseContinuationImpl.resumeWith(ContinuationImpl.kt:46)
+	at kotlinx.coroutines.internal.ScopeCoroutine.afterResume(Scopes.kt:33)
+	at kotlinx.coroutines.AbstractCoroutine.resumeWith(AbstractCoroutine.kt:102)
+	at kotlin.coroutines.jvm.internal.BaseContinuationImpl.resumeWith(ContinuationImpl.kt:46)
+	at kotlinx.coroutines.DispatchedTask.run(DispatchedTask.kt:104)
+	at kotlinx.coroutines.scheduling.CoroutineScheduler.runSafely(CoroutineScheduler.kt:570)
+	at kotlinx.coroutines.scheduling.CoroutineScheduler$Worker.executeTask(CoroutineScheduler.kt:749)
+	at kotlinx.coroutines.scheduling.CoroutineScheduler$Worker.runWorker(CoroutineScheduler.kt:677)
+	at kotlinx.coroutines.scheduling.CoroutineScheduler$Worker.run(CoroutineScheduler.kt:664)
+Caused by: PacketTimeoutException(message=2785766889.AliveHeartbeat Scheduler: Timeout receiving action response, cause=kotlinx.coroutines.TimeoutCancellationException: Timed out waiting for 5000 ms)
+	at net.mamoe.mirai.internal.network.components.TimeBasedHeartbeatSchedulerImpl$launchHeartbeatJobAsync$1.invokeSuspend(HeartbeatScheduler.kt:132)
+	... 12 more
+Caused by: kotlinx.coroutines.TimeoutCancellationException: Timed out waiting for 5000 ms
+	at kotlinx.coroutines.TimeoutKt.TimeoutCancellationException(Timeout.kt:184)
+	at kotlinx.coroutines.TimeoutCoroutine.run(Timeout.kt:154)
+	at kotlinx.coroutines.EventLoopImplBase$DelayedRunnableTask.run(EventLoop.common.kt:502)
+	at kotlinx.coroutines.EventLoopImplBase.processNextEvent(EventLoop.common.kt:279)
+	at kotlinx.coroutines.DefaultExecutor.run(DefaultExecutor.kt:108)
+	at java.base/java.lang.Thread.run(Thread.java:833)
+[0m
+[91m2022-07-28 15:01:55 W/Net 2785766889: java.net.UnknownHostException: 不知道这样的主机。 (msfwifi.3g.qq.com)
+java.net.UnknownHostException: 不知道这样的主机。 (msfwifi.3g.qq.com)
+	at java.base/java.net.Inet6AddressImpl.lookupAllHostAddr(Native Method)
+	at java.base/java.net.Inet6AddressImpl.lookupAllHostAddr(Inet6AddressImpl.java:52)
+	at java.base/java.net.InetAddress$PlatformResolver.lookupByName(InetAddress.java:1048)
+	at java.base/java.net.InetAddress.getAddressesFromNameService(InetAddress.java:1648)
+	at java.base/java.net.InetAddress$NameServiceAddresses.get(InetAddress.java:997)
+	at java.base/java.net.InetAddress.getAllByName0(InetAddress.java:1638)
+	at java.base/java.net.InetAddress.getAllByName(InetAddress.java:1504)
+	at java.base/java.net.InetAddress.getByName(InetAddress.java:1393)
+	at io.netty.util.internal.SocketUtils$8.run(SocketUtils.java:156)
+	at io.netty.util.internal.SocketUtils$8.run(SocketUtils.java:153)
+	at java.base/java.security.AccessController.doPrivileged(AccessController.java:569)
+	at io.netty.util.internal.SocketUtils.addressByName(SocketUtils.java:153)
+	at io.netty.resolver.DefaultNameResolver.doResolve(DefaultNameResolver.java:41)
+	at io.netty.resolver.SimpleNameResolver.resolve(SimpleNameResolver.java:61)
+	at io.netty.resolver.SimpleNameResolver.resolve(SimpleNameResolver.java:53)
+	at io.netty.resolver.InetSocketAddressResolver.doResolve(InetSocketAddressResolver.java:55)
+	at io.netty.resolver.InetSocketAddressResolver.doResolve(InetSocketAddressResolver.java:31)
+	at io.netty.resolver.AbstractAddressResolver.resolve(AbstractAddressResolver.java:106)
+	at io.netty.bootstrap.Bootstrap.doResolveAndConnect0(Bootstrap.java:206)
+	at io.netty.bootstrap.Bootstrap.access$000(Bootstrap.java:46)
+	at io.netty.bootstrap.Bootstrap$1.operationComplete(Bootstrap.java:180)
+	at io.netty.bootstrap.Bootstrap$1.operationComplete(Bootstrap.java:166)
+	at io.netty.util.concurrent.DefaultPromise.notifyListener0(DefaultPromise.java:578)
+	at io.netty.util.concurrent.DefaultPromise.notifyListenersNow(DefaultPromise.java:552)
+	at io.netty.util.concurrent.DefaultPromise.notifyListeners(DefaultPromise.java:491)
+	at io.netty.util.concurrent.DefaultPromise.setValue0(DefaultPromise.java:616)
+	at io.netty.util.concurrent.DefaultPromise.setSuccess0(DefaultPromise.java:605)
+	at io.netty.util.concurrent.DefaultPromise.trySuccess(DefaultPromise.java:104)
+	at io.netty.channel.DefaultChannelPromise.trySuccess(DefaultChannelPromise.java:84)
+	at io.netty.channel.AbstractChannel$AbstractUnsafe.safeSetSuccess(AbstractChannel.java:1012)
+	at io.netty.channel.AbstractChannel$AbstractUnsafe.register0(AbstractChannel.java:516)
+	at io.netty.channel.AbstractChannel$AbstractUnsafe.access$200(AbstractChannel.java:429)
+	at io.netty.channel.AbstractChannel$AbstractUnsafe$1.run(AbstractChannel.java:486)
+	at io.netty.util.concurrent.AbstractEventExecutor.safeExecute(AbstractEventExecutor.java:164)
+	at io.netty.util.concurrent.SingleThreadEventExecutor.runAllTasks(SingleThreadEventExecutor.java:472)
+	at io.netty.channel.nio.NioEventLoop.run(NioEventLoop.java:500)
+	at io.netty.util.concurrent.SingleThreadEventExecutor$4.run(SingleThreadEventExecutor.java:989)
+	at io.netty.util.internal.ThreadExecutorMap$2.run(ThreadExecutorMap.java:74)
+	at io.netty.util.concurrent.FastThreadLocalRunnable.run(FastThreadLocalRunnable.java:30)
+	at java.base/java.lang.Thread.run(Thread.java:833)
+	Suppressed: kotlinx.coroutines.JobCancellationException: Parent job is Cancelling; job=JobImpl{Cancelled}@43481434
+	Caused by: [CIRCULAR REFERENCE: java.net.UnknownHostException: 不知道这样的主机。 (msfwifi.3g.qq.com)]
+	Suppressed: [CIRCULAR REFERENCE: kotlinx.coroutines.JobCancellationException: Parent job is Cancelling; job=JobImpl{Cancelled}@43481434]
+[0m
+[0m2022-07-28 15:01:59 V/Net 2785766889: Loading server list from cache.[0m
+[92m2022-07-28 15:01:59 I/Net 2785766889: Server list: msfwifi.3g.qq.com:8080, 111.31.205.244:80, 36.155.201.42:14000, 120.232.31.250:443, 36.155.201.181:80, 111.30.169.43:80, 111.31.200.210:443, 120.232.31.192:8080, 111.33.189.81:80, 36.155.227.171:14000.[0m
+[92m2022-07-28 15:01:59 I/Net 2785766889: ECDH key is valid.[0m
+[0m2022-07-28 15:01:59 V/Net 2785766889: Send: wtlogin.exchange_emp[0m
+[0m2022-07-28 15:01:59 V/Net 2785766889: Recv: wtlogin.exchange_emp[0m
+[0m2022-07-28 15:01:59 V/Net 2785766889: Send: StatSvc.register(online)[0m
+[92m2022-07-28 15:01:59 I/Net 2785766889: Server time updated, serverTime: 1658991719, diff: 0ms=0.0s[0m
+[0m2022-07-28 15:01:59 V/Net 2785766889: Recv: StatSvc.register[0m
+[92m2022-07-28 15:01:59 I/Net 2785766889: Scheduled refresh login session in 19d 23h 55min 0.0s.[0m
+[92m2022-07-28 15:01:59 I/Net 2785766889: Scheduled key refresh in 23h 55min 0.0s.[0m
+[0m2022-07-28 15:02:00 V/Net 2785766889: Send: StatSvc.GetDevLoginInfo(StatSvc.GetDevLoginInfo)[0m
+[0m2022-07-28 15:02:00 V/Net 2785766889: Recv: StatSvc.GetDevLoginInfo[0m
+[0m2022-07-28 15:02:00 V/Net 2785766889: Recv: MessageSvc.RequestPushStatus[0m
+[0m2022-07-28 15:02:00 V/Net 2785766889: Recv: MessageSvc.RequestPushStatus[0m
+[92m2022-07-28 15:02:02 I/Net 2785766889: Server list: 120.232.130.20:8080, 36.155.213.231:80, 120.232.67.160:443, 111.31.200.230:443, 36.155.202.141:14000, msfwifi.3g.qq.com:8080, 111.31.205.233:80, 111.31.200.210:80, 111.31.200.230:80, 36.155.245.243:14000.[0m
+[0m2022-07-28 15:02:02 V/Net 2785766889: Saving bdh session to cache[0m
+[0m2022-07-28 15:02:02 V/Net 2785766889: Saving server list to cache[0m
+[0m2022-07-28 15:02:02 V/Net 2785766889: Send: ConfigPushSvc.PushResp(ConfigPushSvc.PushResp)[0m
+[0m2022-07-28 15:02:02 V/Net 2785766889: Recv: ConfigPushSvc.PushReq[0m
+[0m2022-07-28 15:02:02 V/Net 2785766889: Saving bdh session to cache[0m
+[0m2022-07-28 15:02:02 V/Net 2785766889: Send: ConfigPushSvc.PushResp(ConfigPushSvc.PushResp)[0m
+[0m2022-07-28 15:02:02 V/Net 2785766889: Recv: ConfigPushSvc.PushReq[0m
+[0m2022-07-28 15:05:00 V/Net 2785766889: Send: MessageSvc.PbSendMsg(MessageSvc.PbSendMsg)[0m
+[0m2022-07-28 15:05:01 V/Net 2785766889: Recv: MessageSvc.PbSendMsg[0m
+[0m2022-07-28 15:05:02 V/Net 2785766889: Send: OidbSvc.0xed3(OidbSvc.0xed3)[0m
+[0m2022-07-28 15:05:02 V/Net 2785766889: Recv: OidbSvc.0xed3[0m
+[0m2022-07-28 15:05:03 V/Net 2785766889: Send: MessageSvc.PbSendMsg(MessageSvc.PbSendMsg)[0m
+[0m2022-07-28 15:05:04 V/Net 2785766889: Recv: MessageSvc.PbSendMsg[0m
+[0m2022-07-28 15:05:07 V/Net 2785766889: Send: ImgStore.GroupPicUp(ImgStore.GroupPicUp)[0m
+[0m2022-07-28 15:05:07 V/Net 2785766889: Recv: ImgStore.GroupPicUp[0m
+[0m2022-07-28 15:05:07 V/Net 2785766889: Send: MessageSvc.PbSendMsg(MessageSvc.PbSendMsg)[0m
+[0m2022-07-28 15:05:08 V/Net 2785766889: Recv: MessageSvc.PbSendMsg[0m
+[0m2022-07-28 15:14:16 V/Net 2785766889: Send: MessageSvc.PbSendMsg(MessageSvc.PbSendMsg)[0m
+[0m2022-07-28 15:14:16 V/Net 2785766889: Recv: MessageSvc.PbSendMsg[0m
+[0m2022-07-28 18:04:33 V/Net 2785766889: Recv: MessageSvc.RequestPushStatus[0m
+[0m2022-07-28 18:04:33 V/Net 2785766889: Recv: MessageSvc.RequestPushStatus[0m
+[91m2022-07-28 18:09:33 W/Net 2785766889: HeartbeatFailedException: 2785766889.StatHeartbeat, recoverable=true, cause=PacketTimeoutException(message=2785766889.StatHeartbeat Scheduler: Timeout receiving action response, cause=kotlinx.coroutines.TimeoutCancellationException: Timed out waiting for 5000 ms)
+HeartbeatFailedException: 2785766889.StatHeartbeat, recoverable=true, cause=PacketTimeoutException(message=2785766889.StatHeartbeat Scheduler: Timeout receiving action response, cause=kotlinx.coroutines.TimeoutCancellationException: Timed out waiting for 5000 ms)
+	at net.mamoe.mirai.internal.network.impl.netty.NettyNetworkHandler$StateOK$heartbeatJobs$1$1.invoke(NettyNetworkHandler.kt:369)
+	at net.mamoe.mirai.internal.network.impl.netty.NettyNetworkHandler$StateOK$heartbeatJobs$1$1.invoke(NettyNetworkHandler.kt:369)
+	at net.mamoe.mirai.internal.network.handler.NetworkHandlerSupport.setStateImpl$mirai_core(NetworkHandlerSupport.kt:288)
+	at net.mamoe.mirai.internal.network.impl.netty.NettyNetworkHandler$StateOK$heartbeatJobs$1.invoke(NettyNetworkHandler.kt:421)
+	at net.mamoe.mirai.internal.network.impl.netty.NettyNetworkHandler$StateOK$heartbeatJobs$1.invoke(NettyNetworkHandler.kt:368)
+	at net.mamoe.mirai.internal.network.components.TimeBasedHeartbeatSchedulerImpl$launchHeartbeatJobAsync$1.invokeSuspend(HeartbeatScheduler.kt:130)
+	at kotlin.coroutines.jvm.internal.BaseContinuationImpl.resumeWith(ContinuationImpl.kt:33)
+	at kotlinx.coroutines.internal.ScopeCoroutine.afterResume(Scopes.kt:33)
+	at kotlinx.coroutines.AbstractCoroutine.resumeWith(AbstractCoroutine.kt:102)
+	at kotlin.coroutines.jvm.internal.BaseContinuationImpl.resumeWith(ContinuationImpl.kt:46)
+	at kotlinx.coroutines.internal.ScopeCoroutine.afterResume(Scopes.kt:33)
+	at kotlinx.coroutines.AbstractCoroutine.resumeWith(AbstractCoroutine.kt:102)
+	at kotlin.coroutines.jvm.internal.BaseContinuationImpl.resumeWith(ContinuationImpl.kt:46)
+	at kotlinx.coroutines.DispatchedTask.run(DispatchedTask.kt:104)
+	at kotlinx.coroutines.scheduling.CoroutineScheduler.runSafely(CoroutineScheduler.kt:570)
+	at kotlinx.coroutines.scheduling.CoroutineScheduler$Worker.executeTask(CoroutineScheduler.kt:749)
+	at kotlinx.coroutines.scheduling.CoroutineScheduler$Worker.runWorker(CoroutineScheduler.kt:677)
+	at kotlinx.coroutines.scheduling.CoroutineScheduler$Worker.run(CoroutineScheduler.kt:664)
+Caused by: PacketTimeoutException(message=2785766889.StatHeartbeat Scheduler: Timeout receiving action response, cause=kotlinx.coroutines.TimeoutCancellationException: Timed out waiting for 5000 ms)
+	at net.mamoe.mirai.internal.network.components.TimeBasedHeartbeatSchedulerImpl$launchHeartbeatJobAsync$1.invokeSuspend(HeartbeatScheduler.kt:132)
+	... 12 more
+Caused by: kotlinx.coroutines.TimeoutCancellationException: Timed out waiting for 5000 ms
+	at kotlinx.coroutines.TimeoutKt.TimeoutCancellationException(Timeout.kt:184)
+	at kotlinx.coroutines.TimeoutCoroutine.run(Timeout.kt:154)
+	at kotlinx.coroutines.EventLoopImplBase$DelayedRunnableTask.run(EventLoop.common.kt:502)
+	at kotlinx.coroutines.EventLoopImplBase.processNextEvent(EventLoop.common.kt:279)
+	at kotlinx.coroutines.DefaultExecutor.run(DefaultExecutor.kt:108)
+	at java.base/java.lang.Thread.run(Thread.java:833)
+[0m
+[0m2022-07-28 18:09:34 V/Net 2785766889: Loading server list from cache.[0m
+[92m2022-07-28 18:09:34 I/Net 2785766889: Server list: 120.232.130.20:8080, 36.155.213.231:80, 120.232.67.160:443, 111.31.200.230:443, 36.155.202.141:14000, msfwifi.3g.qq.com:8080, 111.31.205.233:80, 111.31.200.210:80, 111.31.200.230:80, 36.155.245.243:14000.[0m
+[92m2022-07-28 18:09:34 I/Net 2785766889: ECDH key is valid.[0m
+[0m2022-07-28 18:09:34 V/Net 2785766889: Send: wtlogin.exchange_emp[0m
+[0m2022-07-28 18:09:34 V/Net 2785766889: Recv: wtlogin.exchange_emp[0m
+[0m2022-07-28 18:09:34 V/Net 2785766889: Send: StatSvc.register(online)[0m
+[92m2022-07-28 18:09:34 I/Net 2785766889: Server time updated, serverTime: 1659002975, diff: 1ms=0.001s[0m
+[0m2022-07-28 18:09:34 V/Net 2785766889: Recv: StatSvc.register[0m
+[92m2022-07-28 18:09:34 I/Net 2785766889: Scheduled refresh login session in 19d 23h 55min 0.0s.[0m
+[92m2022-07-28 18:09:34 I/Net 2785766889: Scheduled key refresh in 23h 55min 0.0s.[0m
+[92m2022-07-28 18:09:37 I/Net 2785766889: Server list: 111.33.189.81:80, 36.155.227.171:80, 120.232.69.203:443, 36.155.201.162:14000, 36.155.248.239:14000, 111.30.187.249:80, 120.232.69.214:8080, 111.31.200.220:443, msfwifi.3g.qq.com:8080, 111.30.187.227:80.[0m
+[0m2022-07-28 18:09:37 V/Net 2785766889: Saving bdh session to cache[0m
+[0m2022-07-28 18:09:37 V/Net 2785766889: Saving server list to cache[0m
+[0m2022-07-28 18:09:37 V/Net 2785766889: Send: ConfigPushSvc.PushResp(ConfigPushSvc.PushResp)[0m
+[0m2022-07-28 18:09:37 V/Net 2785766889: Recv: ConfigPushSvc.PushReq[0m
+[0m2022-07-28 18:09:37 V/Net 2785766889: Saving bdh session to cache[0m
+[0m2022-07-28 18:09:37 V/Net 2785766889: Send: ConfigPushSvc.PushResp(ConfigPushSvc.PushResp)[0m
+[0m2022-07-28 18:09:37 V/Net 2785766889: Recv: ConfigPushSvc.PushReq[0m
+[0m2022-07-28 20:00:00 V/Net 2785766889: Send: MessageSvc.PbSendMsg(MessageSvc.PbSendMsg)[0m
+[0m2022-07-28 20:00:00 V/Net 2785766889: Recv: MessageSvc.PbSendMsg[0m
+[0m2022-07-28 20:00:01 V/Net 2785766889: Send: MessageSvc.PbSendMsg(MessageSvc.PbSendMsg)[0m
+[0m2022-07-28 20:00:02 V/Net 2785766889: Recv: MessageSvc.PbSendMsg[0m
+[0m2022-07-28 20:06:31 V/Net 2785766889: Send: MessageSvc.PbSendMsg(MessageSvc.PbSendMsg)[0m
+[0m2022-07-28 20:06:31 V/Net 2785766889: Recv: MessageSvc.PbSendMsg[0m
+[0m2022-07-28 21:00:49 V/Net 2785766889: Send: MessageSvc.PbSendMsg(MessageSvc.PbSendMsg)[0m
+[0m2022-07-28 21:00:49 V/Net 2785766889: Recv: MessageSvc.PbSendMsg[0m
+[0m2022-07-28 21:00:50 V/Net 2785766889: Send: MessageSvc.PbSendMsg(MessageSvc.PbSendMsg)[0m
+[0m2022-07-28 21:00:50 V/Net 2785766889: Recv: MessageSvc.PbSendMsg[0m
+[0m2022-07-28 21:00:52 V/Net 2785766889: Send: MessageSvc.PbSendMsg(MessageSvc.PbSendMsg)[0m
+[0m2022-07-28 21:00:52 V/Net 2785766889: Recv: MessageSvc.PbSendMsg[0m
+[0m2022-07-28 21:00:53 V/Net 2785766889: Send: MessageSvc.PbSendMsg(MessageSvc.PbSendMsg)[0m
+[0m2022-07-28 21:00:54 V/Net 2785766889: Recv: MessageSvc.PbSendMsg[0m
+[0m2022-07-28 21:00:55 V/Net 2785766889: Send: MessageSvc.PbSendMsg(MessageSvc.PbSendMsg)[0m
+[0m2022-07-28 21:00:55 V/Net 2785766889: Recv: MessageSvc.PbSendMsg[0m
+[0m2022-07-28 21:00:56 V/Net 2785766889: Send: MessageSvc.PbSendMsg(MessageSvc.PbSendMsg)[0m
+[0m2022-07-28 21:00:56 V/Net 2785766889: Recv: MessageSvc.PbSendMsg[0m
+[0m2022-07-28 21:09:11 V/Net 2785766889: Send: OidbSvc.0xed3(OidbSvc.0xed3)[0m
+[0m2022-07-28 21:09:11 V/Net 2785766889: Recv: OidbSvc.0xed3[0m
+[0m2022-07-28 21:09:11 V/Net 2785766889: Send: OidbSvc.0xed3(OidbSvc.0xed3)[0m
+[0m2022-07-28 21:09:12 V/Net 2785766889: Recv: OidbSvc.0xed3[0m
+[0m2022-07-28 21:09:12 V/Net 2785766889: Send: OidbSvc.0xed3(OidbSvc.0xed3)[0m
+[0m2022-07-28 21:09:12 V/Net 2785766889: Recv: OidbSvc.0xed3[0m
+[0m2022-07-28 21:09:12 V/Net 2785766889: Send: OidbSvc.0xed3(OidbSvc.0xed3)[0m
+[0m2022-07-28 21:09:13 V/Net 2785766889: Recv: OidbSvc.0xed3[0m
+[0m2022-07-28 21:09:13 V/Net 2785766889: Send: OidbSvc.0xed3(OidbSvc.0xed3)[0m
+[0m2022-07-28 21:09:13 V/Net 2785766889: Recv: OidbSvc.0xed3[0m
+[0m2022-07-28 21:09:13 V/Net 2785766889: Send: OidbSvc.0xed3(OidbSvc.0xed3)[0m
+[0m2022-07-28 21:09:13 V/Net 2785766889: Recv: OidbSvc.0xed3[0m
+[0m2022-07-28 21:09:13 V/Net 2785766889: Send: OidbSvc.0xed3(OidbSvc.0xed3)[0m
+[0m2022-07-28 21:09:14 V/Net 2785766889: Recv: OidbSvc.0xed3[0m
+[0m2022-07-28 21:09:14 V/Net 2785766889: Send: OidbSvc.0xed3(OidbSvc.0xed3)[0m
+[0m2022-07-28 21:09:14 V/Net 2785766889: Recv: OidbSvc.0xed3[0m
+[0m2022-07-28 21:09:14 V/Net 2785766889: Send: OidbSvc.0xed3(OidbSvc.0xed3)[0m
+[0m2022-07-28 21:09:15 V/Net 2785766889: Recv: OidbSvc.0xed3[0m
+[0m2022-07-28 21:09:15 V/Net 2785766889: Send: OidbSvc.0xed3(OidbSvc.0xed3)[0m
+[0m2022-07-28 21:09:15 V/Net 2785766889: Recv: OidbSvc.0xed3[0m
+[0m2022-07-28 21:09:15 V/Net 2785766889: Send: OidbSvc.0xed3(OidbSvc.0xed3)[0m
+[0m2022-07-28 21:09:15 V/Net 2785766889: Recv: OidbSvc.0xed3[0m
+[0m2022-07-28 21:09:15 V/Net 2785766889: Send: OidbSvc.0xed3(OidbSvc.0xed3)[0m
+[0m2022-07-28 21:09:16 V/Net 2785766889: Recv: OidbSvc.0xed3[0m
+[0m2022-07-28 21:09:16 V/Net 2785766889: Send: OidbSvc.0xed3(OidbSvc.0xed3)[0m
+[0m2022-07-28 21:09:16 V/Net 2785766889: Recv: OidbSvc.0xed3[0m
+[0m2022-07-28 21:09:16 V/Net 2785766889: Send: OidbSvc.0xed3(OidbSvc.0xed3)[0m
+[0m2022-07-28 21:09:17 V/Net 2785766889: Recv: OidbSvc.0xed3[0m
+[0m2022-07-28 21:09:17 V/Net 2785766889: Send: OidbSvc.0xed3(OidbSvc.0xed3)[0m
+[0m2022-07-28 21:09:17 V/Net 2785766889: Recv: OidbSvc.0xed3[0m
+[0m2022-07-28 21:09:18 V/Net 2785766889: Send: MessageSvc.PbSendMsg(MessageSvc.PbSendMsg)[0m
+[0m2022-07-28 21:09:19 V/Net 2785766889: Recv: MessageSvc.PbSendMsg[0m
+[0m2022-07-28 21:09:19 V/Net 2785766889: Send: ImgStore.GroupPicUp(ImgStore.GroupPicUp)[0m
+[0m2022-07-28 21:09:19 V/Net 2785766889: Recv: ImgStore.GroupPicUp[0m
+[0m2022-07-28 21:09:19 V/Net 2785766889: Send: MessageSvc.PbSendMsg(MessageSvc.PbSendMsg)[0m
+[0m2022-07-28 21:09:20 V/Net 2785766889: Recv: MessageSvc.PbSendMsg[0m
+[0m2022-07-28 21:10:47 V/Net 2785766889: Send: MessageSvc.PbSendMsg(MessageSvc.PbSendMsg)[0m
+[0m2022-07-28 21:10:47 V/Net 2785766889: Recv: MessageSvc.PbSendMsg[0m
+[0m2022-07-28 21:10:48 V/Net 2785766889: Send: ImgStore.GroupPicUp(ImgStore.GroupPicUp)[0m
+[0m2022-07-28 21:10:48 V/Net 2785766889: Recv: ImgStore.GroupPicUp[0m
+[0m2022-07-28 21:10:48 V/Net 2785766889: Send: MessageSvc.PbSendMsg(MessageSvc.PbSendMsg)[0m
+[0m2022-07-28 21:10:49 V/Net 2785766889: Recv: MessageSvc.PbSendMsg[0m
+[0m2022-07-28 21:10:57 V/Net 2785766889: Send: MessageSvc.PbSendMsg(MessageSvc.PbSendMsg)[0m
+[0m2022-07-28 21:10:58 V/Net 2785766889: Recv: MessageSvc.PbSendMsg[0m
+[0m2022-07-28 21:10:58 V/Net 2785766889: Send: ImgStore.GroupPicUp(ImgStore.GroupPicUp)[0m
+[0m2022-07-28 21:10:58 V/Net 2785766889: Recv: ImgStore.GroupPicUp[0m
+[0m2022-07-28 21:10:58 V/Net 2785766889: Send: MessageSvc.PbSendMsg(MessageSvc.PbSendMsg)[0m
+[0m2022-07-28 21:10:59 V/Net 2785766889: Recv: MessageSvc.PbSendMsg[0m
+[0m2022-07-28 21:11:41 V/Net 2785766889: Send: MessageSvc.PbSendMsg(MessageSvc.PbSendMsg)[0m
+[0m2022-07-28 21:11:41 V/Net 2785766889: Recv: MessageSvc.PbSendMsg[0m
+[0m2022-07-28 21:11:44 V/Net 2785766889: Send: ImgStore.GroupPicUp(ImgStore.GroupPicUp)[0m
+[0m2022-07-28 21:11:44 V/Net 2785766889: Recv: ImgStore.GroupPicUp[0m
+[0m2022-07-28 21:11:44 V/Net 2785766889: Send: MessageSvc.PbSendMsg(MessageSvc.PbSendMsg)[0m
+[0m2022-07-28 21:11:44 V/Net 2785766889: Recv: MessageSvc.PbSendMsg[0m
+[0m2022-07-28 21:11:59 V/Net 2785766889: Send: MessageSvc.PbSendMsg(MessageSvc.PbSendMsg)[0m
+[0m2022-07-28 21:11:59 V/Net 2785766889: Recv: MessageSvc.PbSendMsg[0m
+[0m2022-07-28 21:12:04 V/Net 2785766889: Send: MessageSvc.PbSendMsg(MessageSvc.PbSendMsg)[0m
+[0m2022-07-28 21:12:05 V/Net 2785766889: Recv: MessageSvc.PbSendMsg[0m
+[0m2022-07-28 21:12:18 V/Net 2785766889: Send: MessageSvc.PbSendMsg(MessageSvc.PbSendMsg)[0m
+[0m2022-07-28 21:12:18 V/Net 2785766889: Recv: MessageSvc.PbSendMsg[0m
+[0m2022-07-28 21:12:21 V/Net 2785766889: Send: MessageSvc.PbSendMsg(MessageSvc.PbSendMsg)[0m
+[0m2022-07-28 21:12:21 V/Net 2785766889: Recv: MessageSvc.PbSendMsg[0m
+[0m2022-07-28 21:12:24 V/Net 2785766889: Send: MessageSvc.PbSendMsg(MessageSvc.PbSendMsg)[0m
+[0m2022-07-28 21:12:25 V/Net 2785766889: Recv: MessageSvc.PbSendMsg[0m
+[0m2022-07-28 21:12:26 V/Net 2785766889: Send: MessageSvc.PbSendMsg(MessageSvc.PbSendMsg)[0m
+[0m2022-07-28 21:12:27 V/Net 2785766889: Recv: MessageSvc.PbSendMsg[0m
+[0m2022-07-28 21:12:27 V/Net 2785766889: Send: MessageSvc.PbSendMsg(MessageSvc.PbSendMsg)[0m
+[0m2022-07-28 21:12:28 V/Net 2785766889: Recv: MessageSvc.PbSendMsg[0m
+[0m2022-07-28 21:12:28 V/Net 2785766889: Send: MessageSvc.PbSendMsg(MessageSvc.PbSendMsg)[0m
+[0m2022-07-28 21:12:29 V/Net 2785766889: Recv: MessageSvc.PbSendMsg[0m
+[0m2022-07-28 21:12:29 V/Net 2785766889: Send: MessageSvc.PbSendMsg(MessageSvc.PbSendMsg)[0m
+[0m2022-07-28 21:12:30 V/Net 2785766889: Recv: MessageSvc.PbSendMsg[0m
+[0m2022-07-28 21:12:30 V/Net 2785766889: Send: MessageSvc.PbSendMsg(MessageSvc.PbSendMsg)[0m
+[0m2022-07-28 21:12:30 V/Net 2785766889: Send: MessageSvc.PbSendMsg(MessageSvc.PbSendMsg)[0m
+[0m2022-07-28 21:12:30 V/Net 2785766889: Recv: MessageSvc.PbSendMsg[0m
+[0m2022-07-28 21:12:30 V/Net 2785766889: Send: MessageSvc.PbSendMsg(MessageSvc.PbSendMsg)[0m
+[0m2022-07-28 21:12:30 V/Net 2785766889: Recv: MessageSvc.PbSendMsg[0m
+[0m2022-07-28 21:12:31 V/Net 2785766889: Recv: MessageSvc.PbSendMsg[0m
+[0m2022-07-28 21:12:32 V/Net 2785766889: Send: MessageSvc.PbSendMsg(MessageSvc.PbSendMsg)[0m
+[0m2022-07-28 21:12:32 V/Net 2785766889: Recv: MessageSvc.PbSendMsg[0m
+[0m2022-07-28 21:12:34 V/Net 2785766889: Send: MessageSvc.PbSendMsg(MessageSvc.PbSendMsg)[0m
+[0m2022-07-28 21:12:34 V/Net 2785766889: Recv: MessageSvc.PbSendMsg[0m
+[0m2022-07-28 21:12:35 V/Net 2785766889: Send: MessageSvc.PbSendMsg(MessageSvc.PbSendMsg)[0m
+[0m2022-07-28 21:12:35 V/Net 2785766889: Recv: MessageSvc.PbSendMsg[0m
+[0m2022-07-28 21:12:36 V/Net 2785766889: Send: MessageSvc.PbSendMsg(MessageSvc.PbSendMsg)[0m
+[0m2022-07-28 21:12:36 V/Net 2785766889: Recv: MessageSvc.PbSendMsg[0m
+[0m2022-07-28 21:12:55 V/Net 2785766889: Send: MessageSvc.PbSendMsg(MessageSvc.PbSendMsg)[0m
+[0m2022-07-28 21:12:55 V/Net 2785766889: Recv: MessageSvc.PbSendMsg[0m
+[0m2022-07-28 21:12:58 V/Net 2785766889: Send: MessageSvc.PbSendMsg(MessageSvc.PbSendMsg)[0m
+[0m2022-07-28 21:12:59 V/Net 2785766889: Recv: MessageSvc.PbSendMsg[0m
+[0m2022-07-28 21:13:11 V/Net 2785766889: Send: MessageSvc.PbSendMsg(MessageSvc.PbSendMsg)[0m
+[0m2022-07-28 21:13:12 V/Net 2785766889: Recv: MessageSvc.PbSendMsg[0m
+[0m2022-07-28 21:13:12 V/Net 2785766889: Send: MessageSvc.PbSendMsg(MessageSvc.PbSendMsg)[0m
+[0m2022-07-28 21:13:12 V/Net 2785766889: Recv: MessageSvc.PbSendMsg[0m
+[0m2022-07-28 21:13:17 V/Net 2785766889: Send: MessageSvc.PbSendMsg(MessageSvc.PbSendMsg)[0m
+[0m2022-07-28 21:13:17 V/Net 2785766889: Recv: MessageSvc.PbSendMsg[0m
+[0m2022-07-28 21:13:19 V/Net 2785766889: Send: ImgStore.GroupPicUp(ImgStore.GroupPicUp)[0m
+[0m2022-07-28 21:13:19 V/Net 2785766889: Recv: ImgStore.GroupPicUp[0m
+[0m2022-07-28 21:13:19 V/Net 2785766889: Send: MessageSvc.PbSendMsg(MessageSvc.PbSendMsg)[0m
+[0m2022-07-28 21:13:20 V/Net 2785766889: Recv: MessageSvc.PbSendMsg[0m
+[0m2022-07-28 21:29:41 V/Net 2785766889: Send: MessageSvc.PbSendMsg(MessageSvc.PbSendMsg)[0m
+[0m2022-07-28 21:29:41 V/Net 2785766889: Recv: MessageSvc.PbSendMsg[0m
+[0m2022-07-28 21:29:47 V/Net 2785766889: Send: MessageSvc.PbSendMsg(MessageSvc.PbSendMsg)[0m
+[0m2022-07-28 21:29:47 V/Net 2785766889: Recv: MessageSvc.PbSendMsg[0m
+[0m2022-07-28 21:29:48 V/Net 2785766889: Send: MessageSvc.PbSendMsg(MessageSvc.PbSendMsg)[0m
+[0m2022-07-28 21:29:49 V/Net 2785766889: Recv: MessageSvc.PbSendMsg[0m
+[0m2022-07-28 21:29:50 V/Net 2785766889: Send: MessageSvc.PbSendMsg(MessageSvc.PbSendMsg)[0m
+[0m2022-07-28 21:29:50 V/Net 2785766889: Recv: MessageSvc.PbSendMsg[0m
+[0m2022-07-28 21:29:51 V/Net 2785766889: Send: MessageSvc.PbSendMsg(MessageSvc.PbSendMsg)[0m
+[0m2022-07-28 21:29:51 V/Net 2785766889: Recv: MessageSvc.PbSendMsg[0m
+[0m2022-07-28 21:29:52 V/Net 2785766889: Send: MessageSvc.PbSendMsg(MessageSvc.PbSendMsg)[0m
+[0m2022-07-28 21:29:52 V/Net 2785766889: Recv: MessageSvc.PbSendMsg[0m
+[0m2022-07-28 21:29:53 V/Net 2785766889: Send: MessageSvc.PbSendMsg(MessageSvc.PbSendMsg)[0m
+[0m2022-07-28 21:29:53 V/Net 2785766889: Send: MessageSvc.PbSendMsg(MessageSvc.PbSendMsg)[0m
+[0m2022-07-28 21:29:53 V/Net 2785766889: Recv: MessageSvc.PbSendMsg[0m
+[0m2022-07-28 21:29:53 V/Net 2785766889: Recv: MessageSvc.PbSendMsg[0m
+[0m2022-07-28 21:29:54 V/Net 2785766889: Send: MessageSvc.PbSendMsg(MessageSvc.PbSendMsg)[0m
+[0m2022-07-28 21:29:54 V/Net 2785766889: Recv: MessageSvc.PbSendMsg[0m
+[0m2022-07-28 21:29:55 V/Net 2785766889: Send: MessageSvc.PbSendMsg(MessageSvc.PbSendMsg)[0m
+[0m2022-07-28 21:29:56 V/Net 2785766889: Recv: MessageSvc.PbSendMsg[0m
+[0m2022-07-28 21:29:56 V/Net 2785766889: Send: MessageSvc.PbSendMsg(MessageSvc.PbSendMsg)[0m
+[0m2022-07-28 21:29:56 V/Net 2785766889: Recv: MessageSvc.PbSendMsg[0m
+[0m2022-07-28 21:29:57 V/Net 2785766889: Send: MessageSvc.PbSendMsg(MessageSvc.PbSendMsg)[0m
+[0m2022-07-28 21:29:57 V/Net 2785766889: Send: MessageSvc.PbSendMsg(MessageSvc.PbSendMsg)[0m
+[0m2022-07-28 21:29:57 V/Net 2785766889: Recv: MessageSvc.PbSendMsg[0m
+[0m2022-07-28 21:29:58 V/Net 2785766889: Recv: MessageSvc.PbSendMsg[0m
+[0m2022-07-28 21:29:58 V/Net 2785766889: Send: MessageSvc.PbSendMsg(MessageSvc.PbSendMsg)[0m
+[0m2022-07-28 21:29:59 V/Net 2785766889: Recv: MessageSvc.PbSendMsg[0m
+[0m2022-07-28 21:30:01 V/Net 2785766889: Send: MessageSvc.PbSendMsg(MessageSvc.PbSendMsg)[0m
+[0m2022-07-28 21:30:01 V/Net 2785766889: Send: MessageSvc.PbSendMsg(MessageSvc.PbSendMsg)[0m
+[0m2022-07-28 21:30:01 V/Net 2785766889: Recv: MessageSvc.PbSendMsg[0m
+[0m2022-07-28 21:30:01 V/Net 2785766889: Recv: MessageSvc.PbSendMsg[0m
+[0m2022-07-28 21:30:02 V/Net 2785766889: Send: MessageSvc.PbSendMsg(MessageSvc.PbSendMsg)[0m
+[0m2022-07-28 21:30:02 V/Net 2785766889: Recv: MessageSvc.PbSendMsg[0m
+[0m2022-07-28 21:30:04 V/Net 2785766889: Send: MessageSvc.PbSendMsg(MessageSvc.PbSendMsg)[0m
+[0m2022-07-28 21:30:04 V/Net 2785766889: Recv: MessageSvc.PbSendMsg[0m
+[0m2022-07-28 21:30:05 V/Net 2785766889: Send: MessageSvc.PbSendMsg(MessageSvc.PbSendMsg)[0m
+[0m2022-07-28 21:30:05 V/Net 2785766889: Send: MessageSvc.PbSendMsg(MessageSvc.PbSendMsg)[0m
+[0m2022-07-28 21:30:05 V/Net 2785766889: Recv: MessageSvc.PbSendMsg[0m
+[0m2022-07-28 21:30:05 V/Net 2785766889: Recv: MessageSvc.PbSendMsg[0m
+[0m2022-07-28 21:30:06 V/Net 2785766889: Send: MessageSvc.PbSendMsg(MessageSvc.PbSendMsg)[0m
+[0m2022-07-28 21:30:06 V/Net 2785766889: Recv: MessageSvc.PbSendMsg[0m
+[0m2022-07-28 21:30:07 V/Net 2785766889: Send: MessageSvc.PbSendMsg(MessageSvc.PbSendMsg)[0m
+[0m2022-07-28 21:30:07 V/Net 2785766889: Recv: MessageSvc.PbSendMsg[0m
+[0m2022-07-28 21:30:07 V/Net 2785766889: Send: MessageSvc.PbSendMsg(MessageSvc.PbSendMsg)[0m
+[0m2022-07-28 21:30:08 V/Net 2785766889: Recv: MessageSvc.PbSendMsg[0m
+[0m2022-07-28 21:30:08 V/Net 2785766889: Send: MessageSvc.PbSendMsg(MessageSvc.PbSendMsg)[0m
+[0m2022-07-28 21:30:08 V/Net 2785766889: Recv: MessageSvc.PbSendMsg[0m
+[0m2022-07-28 21:30:09 V/Net 2785766889: Send: ImgStore.GroupPicUp(ImgStore.GroupPicUp)[0m
+[0m2022-07-28 21:30:10 V/Net 2785766889: Recv: ImgStore.GroupPicUp[0m
+[0m2022-07-28 21:30:10 V/Net 2785766889: Send: MessageSvc.PbSendMsg(MessageSvc.PbSendMsg)[0m
+[0m2022-07-28 21:30:10 V/Net 2785766889: Send: ImgStore.GroupPicUp(ImgStore.GroupPicUp)[0m
+[0m2022-07-28 21:30:10 V/Net 2785766889: Recv: ImgStore.GroupPicUp[0m
+[0m2022-07-28 21:30:10 V/Net 2785766889: Send: MessageSvc.PbSendMsg(MessageSvc.PbSendMsg)[0m
+[0m2022-07-28 21:30:10 V/Net 2785766889: Recv: MessageSvc.PbSendMsg[0m
+[0m2022-07-28 21:30:10 V/Net 2785766889: Send: MessageSvc.PbSendMsg(MessageSvc.PbSendMsg)[0m
+[0m2022-07-28 21:30:11 V/Net 2785766889: Recv: MessageSvc.PbSendMsg[0m
+[0m2022-07-28 21:30:11 V/Net 2785766889: Recv: MessageSvc.PbSendMsg[0m
+[0m2022-07-28 21:30:11 V/Net 2785766889: Send: ImgStore.GroupPicUp(ImgStore.GroupPicUp)[0m
+[0m2022-07-28 21:30:11 V/Net 2785766889: Recv: ImgStore.GroupPicUp[0m
+[0m2022-07-28 21:30:11 V/Net 2785766889: Send: MessageSvc.PbSendMsg(MessageSvc.PbSendMsg)[0m
+[0m2022-07-28 21:30:12 V/Net 2785766889: Recv: MessageSvc.PbSendMsg[0m
+[0m2022-07-28 21:31:09 V/Net 2785766889: Send: MessageSvc.PbSendMsg(MessageSvc.PbSendMsg)[0m
+[0m2022-07-28 21:31:10 V/Net 2785766889: Recv: MessageSvc.PbSendMsg[0m
+[0m2022-07-28 21:33:24 V/Net 2785766889: Send: MessageSvc.PbSendMsg(MessageSvc.PbSendMsg)[0m
+[0m2022-07-28 21:33:24 V/Net 2785766889: Recv: MessageSvc.PbSendMsg[0m
+[0m2022-07-28 21:33:59 V/Net 2785766889: Send: MessageSvc.PbSendMsg(MessageSvc.PbSendMsg)[0m
+[0m2022-07-28 21:33:59 V/Net 2785766889: Send: MessageSvc.PbSendMsg(MessageSvc.PbSendMsg)[0m
+[0m2022-07-28 21:33:59 V/Net 2785766889: Recv: MessageSvc.PbSendMsg[0m
+[0m2022-07-28 21:34:00 V/Net 2785766889: Recv: MessageSvc.PbSendMsg[0m
